@@ -1,0 +1,5 @@
+<map id="CPcdMib::remove_device_rows" name="CPcdMib::remove_device_rows">
+<area shape="rect" id="node2" href="$d2/db3/classCPcdMib.html#ae8f0cdc44938a820b42c4245c5fa4af3" title="Updates our map whenever CCdsHandler removes a device from its map. " alt="" coords="277,5,453,32"/>
+<area shape="rect" id="node4" href="$d2/db3/classCPcdMib.html#a90d185a7f72519adbdb6be3571c6ffcb" title="Updates our map whenever CCdsHandler updates the state data for a device in its map. " alt="" coords="281,56,449,83"/>
+<area shape="rect" id="node3" href="$d2/db3/classCPcdMib.html#a6ad2514517ca4811dc54f78604dc89f2" title="Constructor, given the CDS Handler. " alt="" coords="502,31,642,57"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CComtrade::GetConfigString" name="CComtrade::GetConfigString">
+<area shape="rect" id="node2" href="$dd/d91/classAnalogSignal.html#a945dde20967a54071a11d709ce053ee4" title="AnalogSignal::ToString" alt="" coords="266,5,433,32"/>
+<area shape="rect" id="node3" href="$d1/dda/classDigitalSignal.html#a7defa27824141bea0a96d02ab14c085e" title="DigitalSignal::ToString" alt="" coords="267,56,432,83"/>
+<area shape="rect" id="node4" href="$db/d91/classCDateTime.html#a8ea450d77152a2b704b9b898790728e2" title="CDateTime::ToUTCString" alt="" coords="259,107,440,133"/>
+</map>

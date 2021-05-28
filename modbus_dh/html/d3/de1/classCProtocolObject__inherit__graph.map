@@ -1,0 +1,24 @@
+<map id="CProtocolObject" name="CProtocolObject">
+<area shape="rect" id="node2" href="$d7/da7/classCClonableProtocolObject.html" title="Protocol object that&#39;s also clone()able. " alt="" coords="283,235,501,341"/>
+<area shape="rect" id="node6" href="$d3/d06/classCModbusFunction.html" title="Modbus function code. " alt="" coords="2402,235,2613,341"/>
+<area shape="rect" id="node21" href="$d2/dcc/classCModbusPdu.html" title="Modbus Protocol Data Unit. " alt="" coords="2638,176,2847,400"/>
+<area shape="rect" id="node22" href="$d8/d59/classCModbusSerialCrc.html" title="Modbus Serial CRC. " alt="" coords="2871,183,3045,393"/>
+<area shape="rect" id="node23" href="$da/d04/classCModbusTcpHeader.html" title="Modbus&#45;TCP header. " alt="" coords="3070,198,3308,378"/>
+<area shape="rect" id="node3" href="$d3/d97/classCModbusSerialAdu.html" title="Modbus Serial Application Data Unit. " alt="" coords="5,456,184,651"/>
+<area shape="rect" id="node4" href="$d4/d71/classCModbusTcpAdu.html" title="Modbus&#45;TCP Application Data Unit. " alt="" coords="208,463,371,643"/>
+<area shape="rect" id="node5" href="$da/dc2/classCModbusTcpSerialAdu.html" title="Modbus&#45;TCP Serial Application Data Unit. " alt="" coords="395,478,595,629"/>
+<area shape="rect" id="node7" href="$d3/db8/classCModbusReadDiagnosticsRequest.html" title="Implementation of Modbus &quot;diagnostics&quot; function code(s) " alt="" coords="619,485,896,621"/>
+<area shape="rect" id="node8" href="$d4/d7c/classCModbusReadDiagnosticsResponse.html" title="Implementation of Modbus &quot;diagnostics&quot; function code(response) This class handles the execution of Mo..." alt="" coords="921,471,1207,636"/>
+<area shape="rect" id="node9" href="$d3/de0/classCModbusReadDiscretesRequest.html" title="Implementation of Modbus &quot;read discretes&quot; function code(s) (request) This class handles the execution..." alt="" coords="1231,478,1493,629"/>
+<area shape="rect" id="node10" href="$dc/d3b/classCModbusReadDiscretesResponse.html" title="Implementation of Modbus &quot;read discretes&quot; function code(s) (response) This class handles the executio..." alt="" coords="1519,463,1791,643"/>
+<area shape="rect" id="node11" href="$d6/db6/classCModbusReadRegistersRequest.html" title="Implementation of Modbus &quot;read registers&quot; function code(s) " alt="" coords="1815,478,2076,629"/>
+<area shape="rect" id="node12" href="$d4/ddc/classCModbusReadRegistersResponse.html" title="Implementation of Modbus &quot;read registers&quot; function code(s) (response) This class handles the executio..." alt="" coords="2101,463,2371,643"/>
+<area shape="rect" id="node13" href="$d4/db6/classCModbusWriteMultipleCoilsRequest.html" title="Implementation of Modbus &quot;write multiple coils&quot; function code (request) This class handles the execut..." alt="" coords="2395,449,2620,658"/>
+<area shape="rect" id="node14" href="$d6/d2b/classCModbusWriteMultipleCoilsResponse.html" title="Implementation of Modbus &quot;write multiple coils&quot; function code(s) (response) This class handles the ex..." alt="" coords="2645,449,2869,658"/>
+<area shape="rect" id="node15" href="$d4/d2b/classCModbusWriteMultipleRegistersRequest.html" title="Implementation of Modbus &quot;write multiple registers&quot; function code (request) This class handles the ex..." alt="" coords="2895,449,3148,658"/>
+<area shape="rect" id="node16" href="$d6/d1a/classCModbusWriteMultipleRegistersResponse.html" title="Implementation of Modbus &quot;write multiple registers&quot; function code (response) This class handles the e..." alt="" coords="3172,449,3425,658"/>
+<area shape="rect" id="node17" href="$d8/dcd/classCModbusWriteSingleCoilRequest.html" title="Implementation of Modbus &quot;write single coil&quot; function code (request) This class handles the execution..." alt="" coords="3450,471,3717,636"/>
+<area shape="rect" id="node18" href="$de/d81/classCModbusWriteSingleCoilResponse.html" title="Implementation of Modbus &quot;write single coil&quot; function code(s) (response) This class handles the execu..." alt="" coords="3742,456,4020,651"/>
+<area shape="rect" id="node19" href="$dc/d88/classCModbusWriteSingleRegisterRequest.html" title="Implementation of Modbus &quot;write single register&quot; function code (request) This class handles the execu..." alt="" coords="4045,456,4280,651"/>
+<area shape="rect" id="node20" href="$d7/dd8/classCModbusWriteSingleRegisterResponse.html" title="Implementation of Modbus &quot;write single register&quot; function code(s) (response) This class handles the e..." alt="" coords="4304,449,4539,658"/>
+</map>

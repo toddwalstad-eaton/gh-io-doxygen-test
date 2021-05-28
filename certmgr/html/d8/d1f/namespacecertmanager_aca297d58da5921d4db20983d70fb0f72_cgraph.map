@@ -1,0 +1,4 @@
+<map id="certmanager::getCertDataString" name="certmanager::getCertDataString">
+<area shape="rect" id="node2" href="$d8/d1f/namespacecertmanager.html#a0f4db32e3ca8f439790f7a507de91016" title="This function writes input certificate&#39;s data into CCertificateData object. " alt="" coords="245,5,467,32"/>
+<area shape="rect" id="node3" href="$d0/d7f/classcertmgr_1_1CCertificateData.html#a5b8d2eb3c851c665bfc65932bc40172a" title="API to convert the class data to a std::string. " alt="" coords="251,56,461,83"/>
+</map>

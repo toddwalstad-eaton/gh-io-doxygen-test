@@ -1,0 +1,4 @@
+<map id="CBbbTricolorLED::get_LED_color" name="CBbbTricolorLED::get_LED_color">
+<area shape="rect" id="node2" href="$da/dad/classCBbbGpioCore.html#aa7f108f2bdead633515a27e0d469637b" title="Read the given GPIO input and return the result of active (high, 1) or inactive (low, 0) (Some implementations may take the opposite view, but for the BBB LED pins, high is active) " alt="" coords="222,5,402,32"/>
+<area shape="rect" id="node3" href="$d8/d4b/classCBbbTricolorLED.html#abbafd217a50f2181b6dc64856a8de660" title="Get the text for a color from the numeric value. " alt="" coords="211,56,413,83"/>
+</map>

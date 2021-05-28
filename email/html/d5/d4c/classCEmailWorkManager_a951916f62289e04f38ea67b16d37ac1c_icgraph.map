@@ -1,0 +1,8 @@
+<map id="CEmailWorkManager::add_work_item_recipients" name="CEmailWorkManager::add_work_item_recipients">
+<area shape="rect" id="node2" href="$d5/d4c/classCEmailWorkManager.html#ae5cbb09b10e584c973a49599391f3110" title="queue_pending_work_item " alt="" coords="248,38,445,79"/>
+<area shape="rect" id="node3" href="$d5/d4c/classCEmailWorkManager.html#a9bf377dc0bcc8e05a63cf9ff7b8f54d9" title="process_periodic_update " alt="" coords="514,5,697,46"/>
+<area shape="rect" id="node6" href="$d5/d4c/classCEmailWorkManager.html#a9ffd4b1b6afa5265d83c362588c65c68" title="generate_periodic_work_items " alt="" coords="494,70,717,111"/>
+<area shape="rect" id="node4" href="$d5/d4c/classCEmailWorkManager.html#a019b7141a10d5f7e12338aa1f228ba32" title="process_pending_queue " alt="" coords="765,5,944,46"/>
+<area shape="rect" id="node5" href="$d5/d4c/classCEmailWorkManager.html#ae378dceb208a7e70a56e2e527717bfa2" title="timeout " alt="" coords="992,5,1157,46"/>
+<area shape="rect" id="node7" href="$d5/d4c/classCEmailWorkManager.html#a8d8bd0873a1827d4d8f6f5cf94c32e69" title="Constructor. " alt="" coords="772,70,937,111"/>
+</map>

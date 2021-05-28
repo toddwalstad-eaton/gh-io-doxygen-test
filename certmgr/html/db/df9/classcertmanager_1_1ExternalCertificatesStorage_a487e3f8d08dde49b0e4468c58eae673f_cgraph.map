@@ -1,0 +1,11 @@
+<map id="certmanager::ExternalCertificatesStorage::revoke" name="certmanager::ExternalCertificatesStorage::revoke">
+<area shape="rect" id="node2" href="$d8/d66/classcertmanager_1_1ServiceConfiguration.html#aadbf77c40609266aadb61db41fa72aa4" title="Functions to get the service configuration parameters Service basic details. " alt="" coords="296,5,544,46"/>
+<area shape="rect" id="node3" href="$da/d5a/classcertmanager_1_1CertificateIdCnMap.html#a8bc82d077fbfb858b45ada67376bc1d0" title="Check if a CertificateId is on the map. " alt="" coords="323,70,517,111"/>
+<area shape="rect" id="node4" href="$db/df9/classcertmanager_1_1ExternalCertificatesStorage.html#ac6dd29f363b74b65a1c20426a67d9992" title="Remove all the certificate related files. " alt="" coords="299,135,541,177"/>
+<area shape="rect" id="node5" href="$d6/d04/classcertmanager_1_1Common.html#af7f030c6e3288e9752c1f4359c7c5768" title="This function helps to remove the given file. " alt="" coords="631,5,803,46"/>
+<area shape="rect" id="node7" href="$d2/dd7/classcertmanager_1_1ExternalCertificatesAccessor.html#ac3a468430d90f04d388f159fb12e37ff" title="certmanager::ExternalCertificates\lAccessor::certInfoPath" alt="" coords="597,70,838,111"/>
+<area shape="rect" id="node8" href="$d2/dd7/classcertmanager_1_1ExternalCertificatesAccessor.html#aed3ae5494b01323e26714b2e2a09de97" title="certmanager::ExternalCertificates\lAccessor::certDetailsPath" alt="" coords="597,135,838,177"/>
+<area shape="rect" id="node9" href="$d2/dd7/classcertmanager_1_1ExternalCertificatesAccessor.html#a8b22ccf6f7600c0a5f218ef1e8158efd" title="certmanager::ExternalCertificates\lAccessor::certOverwrittenDataPath" alt="" coords="593,201,842,242"/>
+<area shape="rect" id="node10" href="$d2/dd7/classcertmanager_1_1ExternalCertificatesAccessor.html#ac37d0aeba5fcc81a303d2688d426bb33" title="certmanager::ExternalCertificates\lAccessor::certPath" alt="" coords="597,266,838,307"/>
+<area shape="rect" id="node6" href="$dc/d10/classcertmanager_1_1Log.html#a56c9c1e70c82c11852e0c32d9967a5a1" title="Write a log inside syslog daemon if the syslog is open. " alt="" coords="891,12,1069,39"/>
+</map>

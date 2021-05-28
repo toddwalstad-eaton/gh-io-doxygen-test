@@ -1,0 +1,5 @@
+<map id="serializeDeviceJson" name="serializeDeviceJson">
+<area shape="rect" id="node2" href="$db/d38/iot__device_8h.html#acf57b71f1285d7bdda5e7ee7e106a5ba" title="checkSerializedBufferSize" alt="" coords="401,24,591,50"/>
+<area shape="rect" id="node3" href="$db/d38/iot__device_8h.html#a5173731f1b948708dbf37f99bee9bbea" title="addStringField" alt="" coords="439,86,553,113"/>
+<area shape="rect" id="node4" href="$db/d38/iot__device_8h.html#af1f05f9e48d52e80e018d0dff434a938" title="serializeDeviceJson" alt="" coords="203,49,352,76"/>
+</map>

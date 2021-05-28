@@ -1,0 +1,7 @@
+<map id="iot_sendCustomMessage" name="iot_sendCustomMessage">
+<area shape="rect" id="node2" href="$db/d38/iot__device_8h.html#a0403205a70b39d5e559730cc8c17ab86" title="Returns the IOT_DEVICE_CONNECTION associated with an IOT_DEVICE_HANDLE. " alt="" coords="297,5,413,32"/>
+<area shape="rect" id="node3" href="$db/d38/iot__device_8h.html#a5fdec127fb171c12b0dd032f12914fb0" title="Creates an IoT Hub message by allocating memory for it, and copying in the serialized message content..." alt="" coords="269,56,440,83"/>
+<area shape="rect" id="node5" href="$db/d38/iot__device_8h.html#a4e3bb0e04b311f73e2f39662a94263ea" title="Set Custom Iot Hub message properties from the given array of properties. " alt="" coords="247,107,462,133"/>
+<area shape="rect" id="node6" href="$db/d38/iot__device_8h.html#a22b51caecdf56b82c3674ece92a40e88" title="Callback routine to process confirmation (or failure) of an outbound message (sent Device&#45;to&#45;Cloud)..." alt="" coords="237,158,472,199"/>
+<area shape="rect" id="node4" href="$db/d38/iot__device_8h.html#a5e8629233d0adaa0b30c935558f9f46c" title="Deletes or marks unused an IoT Hub message, freeing any allocated resources. " alt="" coords="520,111,664,137"/>
+</map>

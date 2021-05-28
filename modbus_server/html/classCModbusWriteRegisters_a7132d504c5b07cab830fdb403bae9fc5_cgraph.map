@@ -1,0 +1,8 @@
+<map id="CModbusWriteRegisters::execute" name="CModbusWriteRegisters::execute">
+<area shape="rect" id="node2" href="$classCModbusProtocolHandler.html#af97c9cdd07ad1513be7d23f521708481" title="Send a Modbus exception response. " alt="" coords="453,12,664,39"/>
+<area shape="rect" id="node4" href="$classCModbusWriteRegisters.html#a5d3d97e8f41d58f18c1b71ba23c59b0a" title="Write translated values to the CDS. " alt="" coords="230,63,405,105"/>
+<area shape="rect" id="node3" href="$classCModbusProtocolHandler.html#afebe09737bd7484dd3ee5c906b536504" title="Send a Modbus response. " alt="" coords="713,5,898,46"/>
+<area shape="rect" id="node5" href="$classCModbusDeviceConfig.html#adc781cca6813f42780f9da604014627b" title="Get a register maplist for the requested address range. " alt="" coords="475,63,642,105"/>
+<area shape="rect" id="node6" href="$classCModbusFunctionHandler.html#a138d857da61f2fd19bcf7846878b9065" title="simple utility function to handle pushing set requests from the cds " alt="" coords="465,129,652,170"/>
+<area shape="rect" id="node7" href="$classCModbusProtocolHandler.html#aa1c96cb4737fe636467479a33d5d0087" title="Get a handle to the cds. " alt="" coords="713,129,898,170"/>
+</map>

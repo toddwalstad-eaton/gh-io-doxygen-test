@@ -1,0 +1,17 @@
+<map id="CModbusCommandBlock::handle_io_completion" name="CModbusCommandBlock::handle_io_completion">
+<area shape="rect" id="node2" href="$de/d8a/classCDataBlock.html#a2e5254ee57897aac08109674fc2545bf" title="Sets the time when this block was last updated. " alt="" coords="272,125,429,166"/>
+<area shape="rect" id="node9" href="$de/d8a/classCDataBlock.html#ac327400467ada667c641474f67931ac7" title="CDataBlock::dump_xformd\l_values" alt="" coords="252,310,449,351"/>
+<area shape="rect" id="node13" href="$de/d8a/classCDataBlock.html#a262e1a5e0177160bea9aec35d3899330" title="Getter for the block_name. " alt="" coords="512,376,725,403"/>
+<area shape="rect" id="node14" href="$d8/d81/structIDataBlockObserver.html#a1c9c4ac27a624e36f1695fd1d24f6b3a" title="Called from the Data Block to update the I/O state of the owning object (eg, CDevice) ..." alt="" coords="275,427,427,469"/>
+<area shape="rect" id="node15" href="$d8/d81/structIDataBlockObserver.html#abde8cc126bdb66e7e9e6679ce2759f34" title="Called from the Data Block to handle device specific errors. " alt="" coords="269,493,432,534"/>
+<area shape="rect" id="node16" href="$d8/d81/structIDataBlockObserver.html#aca045ab2f798d1a70b6b4b22e18f37c3" title="Called from the Command Block to handle its done state and manage any received data. " alt="" coords="237,558,464,599"/>
+<area shape="rect" id="node3" href="$dd/dc0/classCDataAccumulator.html#a6273365162af1fcbf5a621ef32e26ccf" title="Add a new sample to the accumulator. " alt="" coords="531,5,707,32"/>
+<area shape="rect" id="node4" href="$dd/dc0/classCDataAccumulator.html#a88e567e425e89c6eb4227418f023cf78" title="Get the most recent value. " alt="" coords="523,56,715,83"/>
+<area shape="rect" id="node5" href="$dd/dc0/classCDataAccumulator.html#a0caade1959a983dd7f313eef0e1e4dd1" title="Get the average value. " alt="" coords="524,107,713,133"/>
+<area shape="rect" id="node6" href="$dd/dc0/classCDataAccumulator.html#a97ebb17b28ea4f53886274df1d4f1707" title="Get the minimum value. " alt="" coords="530,157,707,184"/>
+<area shape="rect" id="node8" href="$dd/dc0/classCDataAccumulator.html#a2353e551b68673375ede6f09fa497663" title="Get the maximum value. " alt="" coords="528,208,709,235"/>
+<area shape="rect" id="node7" href="$dd/dc0/classCDataAccumulator.html#acecc4f48e9393dc07d4e0a8279b5365b" title="Get the sample count. " alt="" coords="774,183,962,209"/>
+<area shape="rect" id="node10" href="$d4/d3d/log_8hpp.html#abf2f61305d4094a3db0627f445825d5b" title="Test if the desired debug level should produce output for the selected debug subsystem. " alt="" coords="552,259,685,285"/>
+<area shape="rect" id="node11" href="$de/d8a/classCDataBlock.html#a9d344e785706a24ba44966c8dc693150" title="Get the parent Port and Device ID tag string (eg, &quot;(p2:d64)&quot; ) from the parent Device. " alt="" coords="545,310,693,351"/>
+<area shape="rect" id="node12" href="$d8/d81/structIDataBlockObserver.html#a8b093c3207499748d13d0e6c0b2dd341" title="Get the parent Port and Device ID tag string (eg, &quot;(p2:d64)&quot; ) for this Device. " alt="" coords="792,310,944,351"/>
+</map>

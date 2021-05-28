@@ -1,0 +1,11 @@
+<map id="CEmailWorkManager::CEmailWorkManager" name="CEmailWorkManager::CEmailWorkManager">
+<area shape="rect" id="node2" href="$d5/d4c/classCEmailWorkManager.html#a9ffd4b1b6afa5265d83c362588c65c68" title="generate_periodic_work_items " alt="" coords="219,70,442,111"/>
+<area shape="rect" id="node8" href="$d5/d4c/classCEmailWorkManager.html#ab1d6a7bbe86fa09439937f71a9e95ad6" title="init_processing_threads " alt="" coords="243,135,419,177"/>
+<area shape="rect" id="node9" href="$d5/d4c/classCEmailWorkManager.html#a13435b819863f3c82541e016fa378503" title="get_process_timer " alt="" coords="231,201,430,242"/>
+<area shape="rect" id="node10" href="$d5/d4c/classCEmailWorkManager.html#a72052fddbc8bd43897306cc6d9a49d97" title="reset_process_timer " alt="" coords="248,266,413,307"/>
+<area shape="rect" id="node3" href="$d5/d4c/classCEmailWorkManager.html#ae557ec07a72417ee77a417e86185cbc3" title="reset_periodic_recipients " alt="" coords="499,5,685,46"/>
+<area shape="rect" id="node4" href="$d5/d4c/classCEmailWorkManager.html#ae5cbb09b10e584c973a49599391f3110" title="queue_pending_work_item " alt="" coords="493,70,691,111"/>
+<area shape="rect" id="node7" href="$d5/d4c/classCEmailWorkManager.html#ae8601b547c4b3c8151aadc0d782512a5" title="purge_periodic_work_items " alt="" coords="491,135,693,177"/>
+<area shape="rect" id="node5" href="$d5/d4c/classCEmailWorkManager.html#a951916f62289e04f38ea67b16d37ac1c" title="add_work_item_recipients " alt="" coords="742,70,935,111"/>
+<area shape="rect" id="node6" href="$d5/d4c/classCEmailWorkManager.html#a26bfeb169803adb6e49c7de39f251965" title="add_work_item_alarm_recipients " alt="" coords="985,63,1151,119"/>
+</map>

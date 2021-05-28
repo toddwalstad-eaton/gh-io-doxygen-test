@@ -1,0 +1,7 @@
+<map id="Server Core" name="Server Core">
+<area shape="rect" id="node1" href="$d4/dd0/group__utilsExceptions.html" title="Exceptions" alt="" coords="375,157,468,184"/>
+<area shape="rect" id="node2" href="$d0/ddd/group__opcuaServer.html" title="OPC UA Server" alt="" coords="6,81,125,108"/>
+<area shape="rect" id="node5" href="$d8/d5a/group__opcuaServerCDS.html" title="This module contains implementation of CDS connection handler. " alt="" coords="369,5,473,32"/>
+<area shape="rect" id="node6" href="$d7/de0/group__opcuaServerMap.html" title="This module contains implementation of the mapping between CDS and OPC UA. " alt="" coords="383,56,460,83"/>
+<area shape="rect" id="node4" href="$de/d34/group__opcuaServerWrapper.html" title="This module contains implementation of the open62541 OPC UA C stack. " alt="" coords="363,107,479,133"/>
+</map>

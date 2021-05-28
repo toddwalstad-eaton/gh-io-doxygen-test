@@ -1,0 +1,5 @@
+<map id="CIotDeviceClient::is_now_connected" name="CIotDeviceClient::is_now_connected">
+<area shape="rect" id="node2" href="$dd/d68/classCIotDeviceClient.html#ab49100be4e2dc5ef53115fbdafb55f94" title="Determines the current connection status via the Eaton Device SDK. " alt="" coords="206,23,383,65"/>
+<area shape="rect" id="node3" href="$dd/d68/classCIotDeviceClient.html#ac088663bab4b0ddec2c4c60bbc605166" title="Attempt to open the Azure IoT Hub connection. " alt="" coords="433,5,623,32"/>
+<area shape="rect" id="node4" href="$dd/d68/classCIotDeviceClient.html#ac3e59938659409ee0adee10292047aca" title="Called by the core&#39;s update timer to manage next state / action. " alt="" coords="673,23,855,65"/>
+</map>

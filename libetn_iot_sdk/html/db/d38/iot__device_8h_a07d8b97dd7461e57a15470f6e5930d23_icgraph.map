@@ -1,0 +1,17 @@
+<map id="addIntNumericField" name="addIntNumericField">
+<area shape="rect" id="node2" href="$d1/dd4/iot__serialization_8c.html#a4173c00f1aac45bd903b4290d847e420" title="serializeDeviceRealtimeJson" alt="" coords="225,5,431,32"/>
+<area shape="rect" id="node10" href="$d1/dd4/iot__serialization_8c.html#a0488e971d6f1ee3c859f46a8194b8702" title="serializeChannelRealtimeJson" alt="" coords="221,56,435,83"/>
+<area shape="rect" id="node12" href="$d1/dd4/iot__serialization_8c.html#aebc0d73f1a54fffb19f041ef5a858266" title="serializeTransferImageJson" alt="" coords="536,107,733,133"/>
+<area shape="rect" id="node14" href="$d1/dd4/iot__serialization_8c.html#a938f2415df7c8ed31d35b4f9178bf692" title="serializeDeviceCommandResponse" alt="" coords="203,157,453,184"/>
+<area shape="rect" id="node3" href="$d1/dd4/iot__serialization_8c.html#a87a4f9d48debc02652afa3f51b4c7675" title="serializeDevicesRealtimeJson" alt="" coords="527,5,742,32"/>
+<area shape="rect" id="node4" href="$d1/dd4/iot__serialization_8c.html#a6f9d3843c2d1316092405fcc618e0bfe" title="serializeData" alt="" coords="834,56,942,83"/>
+<area shape="rect" id="node5" href="$d6/d10/iot__device__common_8c.html#a1a01656d15dc77a04e64c9c07c88d3a3" title="Creates an IoT Hub message, either by allocating memory for it (PX Red) or choosing the next availabl..." alt="" coords="1020,107,1140,133"/>
+<area shape="rect" id="node9" href="$d6/d10/iot__device__common_8c.html#ace928c8e194f6d0386a960a411c62b05" title="Test function to print the serialized Message buffer. " alt="" coords="1009,56,1151,83"/>
+<area shape="rect" id="node6" href="$d5/da4/group__message__handling__apis.html#ga3dfe3ae25533f7be0e6ccd18dbd2326a" title="Sends data to IoT Hub (i.e. " alt="" coords="1233,81,1311,108"/>
+<area shape="rect" id="node7" href="$d5/da4/group__message__handling__apis.html#gaf6c31012b13805b13765d8b4fe82f526" title="Sends a command to IoT Hub (i.e. " alt="" coords="1200,132,1344,159"/>
+<area shape="rect" id="node8" href="$d5/da4/group__message__handling__apis.html#gaa4f2b5d3bb5def4020d6b3e3f19003ec" title="Sends a device command status update to IoT Hub. " alt="" coords="1393,132,1637,159"/>
+<area shape="rect" id="node11" href="$d1/dd4/iot__serialization_8c.html#ac5b57ac3f1e6b80367180667dabb1454" title="serializeChannelRealtimesJson" alt="" coords="523,56,746,83"/>
+<area shape="rect" id="node13" href="$d1/dd4/iot__serialization_8c.html#a8f946e3afc48831f091af8259018320b" title="serializeCommand" alt="" coords="816,107,960,133"/>
+<area shape="rect" id="node15" href="$d6/d10/iot__device__common_8c.html#a731f145a725ced7338a094cdd34f8a65" title="Callback routine to process inbound (Azure Cloud&#45;to&#45;Device) device commands, internal to the SDK..." alt="" coords="502,157,767,184"/>
+<area shape="rect" id="node16" href="$d6/dce/group__connection__status__apis.html#ga46c73bec3f14cba2453d334b2dabf459" title="Opens a connection with IoT Hub. " alt="" coords="849,157,927,184"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="COpenAlarmsStore::AreThereAnyOpenAlarms" name="COpenAlarmsStore::AreThereAnyOpenAlarms">
+<area shape="rect" id="node2" href="$classCCommandGetActiveAlarmsIds.html#ac898383c03e28db73b30bc25d1386733" title="Execute the command in &#39;req&#39;, adding to oplist anything that isn&#39;t done in this function. " alt="" coords="267,5,493,46"/>
+<area shape="rect" id="node3" href="$classCCommandGetAlarms.html#a55c3fc3a749e5b289494488d6e38cfae" title="Execute the command in &#39;req&#39;, adding to oplist anything that isn&#39;t done in this function. " alt="" coords="293,70,467,111"/>
+</map>

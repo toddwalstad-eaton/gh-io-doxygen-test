@@ -1,0 +1,4 @@
+<map id="set_mac_port" name="set_mac_port">
+<area shape="rect" id="node2" href="$d6/ded/classCBacnetIpSettings.html#abfd0311546441a9a3eb4d25ec328d0c3" title="Initialize the data in this application by reading the OOB data. " alt="" coords="175,5,324,46"/>
+<area shape="rect" id="node3" href="$df/d4c/classCOOB__BACnetDevice.html#afd5b9956409eb4dc41e350314de7c9ac" title="Set the given port into the MAC. " alt="" coords="165,70,333,111"/>
+</map>

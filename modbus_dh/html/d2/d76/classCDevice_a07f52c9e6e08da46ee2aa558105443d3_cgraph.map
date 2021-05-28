@@ -1,0 +1,7 @@
+<map id="CDevice::initialize_command_params" name="CDevice::initialize_command_params">
+<area shape="rect" id="node2" href="$d6/d52/classCParsedDeviceEds.html#a4c194b758f93dd66c123eb9db4b3a694" title="Test for param that has no value. " alt="" coords="229,5,390,46"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#a00db0b9b8856f2c7bdec8317f0e901d2" title="Create a placeholder px::CValue given the type from the EDS. " alt="" coords="205,70,413,111"/>
+<area shape="rect" id="node4" href="$d8/dc8/classCIdAllocator.html#a0400d8deb5703217316fe605cd1a1657" title="Allocate a new internal unique ID. " alt="" coords="244,136,375,163"/>
+<area shape="rect" id="node5" href="$d2/d76/classCDevice.html#ab231a1465890affb24529dfe50f6a441" title="Get the parent Port and Device ID tag string (eg, &quot;(p2:d64)&quot; ) for this Device. " alt="" coords="217,187,401,213"/>
+<area shape="rect" id="node6" href="$d5/df0/structeds__parse__err.html#ae7895a7c942bf2450a2670c642407dca" title="Implement the virtual function to provide the error&#39;s text. " alt="" coords="233,237,386,264"/>
+</map>

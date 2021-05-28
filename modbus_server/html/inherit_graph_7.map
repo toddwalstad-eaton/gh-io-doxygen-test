@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$structcds__err.html" title="Thrown when an operation fails due a problem with cds communiation. " alt="" coords="180,5,249,32"/>
+<area shape="rect" id="node3" href="$structconn__err.html" title="Thrown when a connection fails. " alt="" coords="175,56,254,83"/>
+<area shape="rect" id="node4" href="$structCProfiler_1_1init__err.html" title="Exception: initialization error. " alt="" coords="149,107,280,133"/>
+<area shape="rect" id="node5" href="$structfcn__err.html" title="Thrown when a mapping fails. " alt="" coords="181,157,248,184"/>
+<area shape="rect" id="node6" href="$structmap__err.html" title="Thrown when a mapping fails. " alt="" coords="177,208,253,235"/>
+</map>

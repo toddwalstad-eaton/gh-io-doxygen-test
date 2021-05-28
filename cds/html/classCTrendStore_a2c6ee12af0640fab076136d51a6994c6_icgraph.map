@@ -1,0 +1,10 @@
+<map id="CTrendStore::get_stage_db_minutes_range" name="CTrendStore::get_stage_db_minutes_range">
+<area shape="rect" id="node2" href="$classCTrendStore.html#a85aecef759f13455e6ed202b75971eb1" title="Move trends from the stage dbs (whose index is smaller than the cutoff) to the bucket, then delete the moved stage dbs. " alt="" coords="237,5,425,46"/>
+<area shape="rect" id="node3" href="$classCTrendStore.html#a3e9f7f12e9675a8cfe5f53231b94d459" title="Move the obsolete trend stage DBs listed in _obsolete_move_indices to the bucket DB. " alt="" coords="227,70,435,111"/>
+<area shape="rect" id="node4" href="$classCTrendStore.html#a1ecb59e829d27ea473fd0e7088b687e3" title="Kick off the thread to do the above obsolete move, if needed. " alt="" coords="483,70,685,111"/>
+<area shape="rect" id="node5" href="$classCTrendStore.html#af183006bcd799d8d92565050a88b2840" title="Gets the stage db based on the stage index, create it if not existing. " alt="" coords="741,52,936,79"/>
+<area shape="rect" id="node9" href="$classCTrendStore.html#abc8c75eccfec80c4db86f8d5eb0f5a28" title="Initialize the object. " alt="" coords="734,103,943,129"/>
+<area shape="rect" id="node6" href="$classCTrendStore.html#ad1c7deb03bf9c342c8ca5e554f2f8cf2" title="Stores trends update from the accumulators to the stage db. " alt="" coords="1000,23,1141,49"/>
+<area shape="rect" id="node8" href="$classCTrendStore.html#a8a35bb8b7a967d2dc7664282ffa0f717" title="Create today&#39;s stage db if not existing, during the startup. " alt="" coords="993,74,1149,115"/>
+<area shape="rect" id="node7" href="$classCTrendStore.html#a7adaa6fa7bd22a8800383313c072dd89" title="Import from CSV. " alt="" coords="1198,23,1391,49"/>
+</map>

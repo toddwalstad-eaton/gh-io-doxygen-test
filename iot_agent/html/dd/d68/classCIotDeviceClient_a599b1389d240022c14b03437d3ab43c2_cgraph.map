@@ -1,0 +1,4 @@
+<map id="CIotDeviceClient::callback_update_device" name="CIotDeviceClient::callback_update_device">
+<area shape="rect" id="node2" href="$dd/d68/classCIotDeviceClient.html#ae1aa3bf442ed4c67007411ef0477c002" title="Checks if this device is of a supported type for IoT Agent Devices. " alt="" coords="253,5,433,46"/>
+<area shape="rect" id="node3" href="$dd/d68/classCIotDeviceClient.html#a8c0885ca901a8588ca31c0bd1809e3a6" title="Request a new client_state action. " alt="" coords="249,70,437,111"/>
+</map>

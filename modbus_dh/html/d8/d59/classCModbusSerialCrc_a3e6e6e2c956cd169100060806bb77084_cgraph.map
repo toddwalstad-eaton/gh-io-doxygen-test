@@ -1,0 +1,4 @@
+<map id="CModbusSerialCrc::verify" name="CModbusSerialCrc::verify">
+<area shape="rect" id="node2" href="$d8/d59/classCModbusSerialCrc.html#a83624e241d2fd5a28b4943ca4b79a963" title="Calculate a CRC for a Modbus serial message. " alt="" coords="241,5,447,32"/>
+<area shape="rect" id="node3" href="$d8/d59/classCModbusSerialCrc.html#a00f6cd1baa59aa23bf243c51b81b23ed" title="Function to compute a CRC value, one character at a time. " alt="" coords="496,5,701,32"/>
+</map>

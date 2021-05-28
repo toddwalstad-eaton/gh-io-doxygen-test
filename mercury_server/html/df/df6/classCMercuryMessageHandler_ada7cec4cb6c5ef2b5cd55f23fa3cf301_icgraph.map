@@ -1,0 +1,5 @@
+<map id="CMercuryMessageHandler::warn" name="CMercuryMessageHandler::warn">
+<area shape="rect" id="node2" href="$d1/d70/classCMercuryGetBlobListRequest.html#a601bcdc2a4ae3530ed3ee42bde7278ab" title="Handle a Mercury request (dispatch to the CDS) A pure virtual function, to be implemented in each mes..." alt="" coords="257,5,468,46"/>
+<area shape="rect" id="node3" href="$d2/d57/classCMercuryGetCommandsRequest.html#a83c3e2d35017c8022eeaaf29e280f060" title="Handle the response to a CDS request A pure virtual function, to be implemented in each message class..." alt="" coords="247,70,479,111"/>
+<area shape="rect" id="node4" href="$d1/ddf/classCMercuryGetTrendConfigurationsRequest.html#a3a0338229b56a9b73f02ed6b7686b9d6" title="Handle the response to a CDS request A pure virtual function, to be implemented in each message class..." alt="" coords="245,135,480,177"/>
+</map>

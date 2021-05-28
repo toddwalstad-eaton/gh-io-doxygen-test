@@ -1,0 +1,9 @@
+<map id="certmanager::ExternalCertificatesStorage" name="certmanager::ExternalCertificatesStorage">
+<area shape="rect" id="node2" href="$d8/d66/classcertmanager_1_1ServiceConfiguration.html" title="Class stores all parameters of a service configuration. " alt="" coords="663,681,911,949"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="291,171,425,248"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="1367,348,1453,425"/>
+<area shape="rect" id="node15" href="$d2/dd7/classcertmanager_1_1ExternalCertificatesAccessor.html" title="{certmanager::ExternalCertificates\lAccessor\n||+ ExternalCertificatesAccessor()\l+ ExternalCertificatesAccessor()\l+ certificateDirectoryPath()\l+ tmpDirectoryPath()\l+ cachedDirectoryPath()\l+ listPath()\l+ cnMapPath()\l+ certPath()\l+ certInfoPath()\l+ certDetailsPath()\l+ certOverwrittenDataPath()\l}" alt="" coords="1502,695,1743,934"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="1341,6,1480,98"/>
+<area shape="rect" id="node12" title="STL class. " alt="" coords="739,171,868,248"/>
+<area shape="rect" id="node13" href="$da/d5a/classcertmanager_1_1CertificateIdCnMap.html" title="{certmanager::Certificate\lIdCnMap\n||+ CertificateIdCnMap()\l+ CertificateIdCnMap()\l+ readFromFile()\l+ writeIntoFile()\l+ certificateIdExist()\l+ toCertificateIdList()\l}" alt="" coords="245,732,424,897"/>
+</map>

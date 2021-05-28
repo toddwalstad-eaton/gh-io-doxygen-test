@@ -1,0 +1,5 @@
+<map id="CConfigsubscriberCdsHandle::testIf" name="CConfigsubscriberCdsHandle::testIf">
+<area shape="rect" id="node2" href="$df/d7e/classCConfigsubscriberCdsHandle.html#a6bfaa2da85168068e389f1979ee7eb2d" title="Run the script asynchronously if its &quot;IF&quot; criteria are met. " alt="" coords="278,5,487,46"/>
+<area shape="rect" id="node4" href="$df/d7e/classCConfigsubscriberCdsHandle.html#a57c82eb7faad22c9a8fb41ec90ece9eb" title="Log the given message to the Audit log if its &quot;IF&quot; criteria are met. " alt="" coords="264,71,501,97"/>
+<area shape="rect" id="node3" href="$df/d7e/classCConfigsubscriberCdsHandle.html#a66c93dce11ddc18208c2f6f767245cd5" title="Custom cds response callback function. " alt="" coords="550,34,759,75"/>
+</map>

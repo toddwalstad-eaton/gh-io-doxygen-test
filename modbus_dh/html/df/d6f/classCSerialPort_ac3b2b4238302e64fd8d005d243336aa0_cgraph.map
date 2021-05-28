@@ -1,0 +1,10 @@
+<map id="CSerialPort::oob_access_ctrl_callback" name="CSerialPort::oob_access_ctrl_callback">
+<area shape="rect" id="node2" href="$d6/dd4/classCPort.html#a67fdf9324b9596b8c462cfa66159a7db" title="Getter for the name of this port. " alt="" coords="475,5,637,32"/>
+<area shape="rect" id="node3" href="$d6/dd4/classCPort.html#a9393ae09aee0b746368de983c8d1f4ae" title="Forms the correct OOB Tag for this Port&#39;s Access Control data. " alt="" coords="233,188,426,215"/>
+<area shape="rect" id="node4" href="$d6/dd4/classCPort.html#ab230774c3894ac6a2b385da578e21ce1" title="Getter for the Device ID of this Port. " alt="" coords="277,239,382,265"/>
+<area shape="rect" id="node5" href="$df/d6f/classCSerialPort.html#aa7045de27860c2aa29732ec36110aad3" title="Close the pass&#45;through socket port, if opened. " alt="" coords="255,57,404,98"/>
+<area shape="rect" id="node8" href="$df/d6f/classCSerialPort.html#adfc010e120c5857781be898d6d1b853e" title="Open the pass&#45;through socket port &amp; handling, if enabled. " alt="" coords="244,122,415,163"/>
+<area shape="rect" id="node6" href="$d4/d89/classCDeviceService.html#a9bf758b97e6ab58452201ed991e7b0ac" title="Set or clear the pass_through state flag for the specificed port device. " alt="" coords="480,57,632,98"/>
+<area shape="rect" id="node7" href="$dc/d4a/classCUtil.html#a3fc24ae5c12897079c425c8f4af5fcbf" title="CUtil::get_no_device\l_string" alt="" coords="478,122,634,163"/>
+<area shape="rect" id="node9" href="$df/d6f/classCSerialPort.html#a5444a7c4100f5512ac187bb0f75287e0" title="Provide access to the shared pointer for copying. " alt="" coords="485,188,627,215"/>
+</map>

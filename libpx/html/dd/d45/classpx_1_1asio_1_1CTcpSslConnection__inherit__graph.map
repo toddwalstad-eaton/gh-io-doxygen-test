@@ -1,0 +1,4 @@
+<map id="px::asio::CTcpSslConnection" name="px::asio::CTcpSslConnection">
+<area shape="rect" id="node2" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html" title="The abstract I/O &quot;Messenger&quot; class that will be implemented in the TCP and UDP connection classes..." alt="" coords="13,376,200,835"/>
+<area shape="rect" id="node3" href="$dd/d60/classpx_1_1asio_1_1CIoActor.html" title="The I/O &quot;Actor&quot; base class. " alt="" coords="30,147,183,327"/>
+</map>

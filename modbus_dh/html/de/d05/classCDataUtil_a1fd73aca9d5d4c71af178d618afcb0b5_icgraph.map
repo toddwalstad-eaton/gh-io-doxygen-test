@@ -1,0 +1,8 @@
+<map id="CDataUtil::is_low_endian" name="CDataUtil::is_low_endian">
+<area shape="rect" id="node2" href="$de/d05/classCDataUtil.html#a94297c78190b06ff93cb275f2d609bcd" title="CDataUtil::host_to\l_incom_word" alt="" coords="247,5,388,46"/>
+<area shape="rect" id="node3" href="$de/d05/classCDataUtil.html#a7d9f80597896acc1f7237b2749bd4efe" title="CDataUtil::incom_to\l_host_word" alt="" coords="241,70,394,111"/>
+<area shape="rect" id="node4" href="$d6/dc1/classCTranslator.html#acb742b71f4f2708b13d1ab84cf002aaf" title="CTranslator::Translate" alt="" coords="461,52,624,79"/>
+<area shape="rect" id="node7" href="$d6/dc1/classCTranslator.html#abec8d715d6c77829d7edf01267b0bccf" title="CTranslator::ProcessHeader" alt="" coords="443,103,643,129"/>
+<area shape="rect" id="node5" href="$d2/d7f/classCWaveformService.html#a8ae8f414abfdf80c7881deb744c42286" title="Produce final waveform file from .osw file. " alt="" coords="691,52,927,79"/>
+<area shape="rect" id="node6" href="$d2/d7f/classCWaveformService.html#a589fd992a4a00071b3846412b5a071f2" title="Store waveform and update housekeeping records. " alt="" coords="976,45,1163,86"/>
+</map>

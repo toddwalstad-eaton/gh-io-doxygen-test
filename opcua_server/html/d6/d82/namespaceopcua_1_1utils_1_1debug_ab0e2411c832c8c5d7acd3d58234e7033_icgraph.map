@@ -1,0 +1,8 @@
+<map id="opcua::utils::debug::ua_variant_to_string" name="opcua::utils::debug::ua_variant_to_string">
+<area shape="rect" id="node2" href="$d0/de1/classopcua_1_1server_1_1COpen62541Wrapper.html#afb9c159fd8d6a1c6c2fa2f7b52b44a91" title="Update OPC UA variable node value from CDS channel value. " alt="" coords="216,5,443,46"/>
+<area shape="rect" id="node3" href="$d1/dc8/namespaceopcua_1_1utils_1_1conv.html#afdd964b8ead397925e4c9bb453dd63f2" title="Convert OPC UA Scalar data type into CDS data type. " alt="" coords="261,70,397,111"/>
+<area shape="rect" id="node6" href="$da/dc0/test____opcua__utils_8cpp.html#adb81599dfe4a9aa5030385d1c28afe1a" title="BOOST_AUTO_TEST_SUITE_END" alt="" coords="675,132,906,159"/>
+<area shape="rect" id="node4" href="$d1/dc8/namespaceopcua_1_1utils_1_1conv.html#a1c10b87639c2e2f858d4f0e3ce4a7f75" title="Convert OPC UA value into CDS value. " alt="" coords="491,70,627,111"/>
+<area shape="rect" id="node5" href="$dc/dec/classopcua_1_1server_1_1COPCUaServer.html#ad1adaa3eddbc8a2c389195a2a79d5e86" title="OPC UA onWrite callback. " alt="" coords="683,14,898,55"/>
+<area shape="rect" id="node7" href="$da/dc0/test____opcua__utils_8cpp.html#a14e512273c7ee507ea1598803fe9a269" title="BOOST_AUTO_TEST_CASE" alt="" coords="695,80,886,107"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="CDeviceHandlerCore::config" name="CDeviceHandlerCore::config">
+<area shape="rect" id="node2" href="$dc/de3/classCDeviceHandlerCore.html#a9a448071f45c94498ef0aaf12ad7c28b" title="provides a unique app name based off a command prefix and appended port number. " alt="" coords="221,5,379,46"/>
+<area shape="rect" id="node3" href="$d2/d7f/classCWaveformService.html#a233e6c355c103f19ea72e416def690f8" title="Setter to configure the waveform export path. " alt="" coords="213,70,387,111"/>
+<area shape="rect" id="node4" href="$d2/d7f/classCWaveformService.html#ad014506631150056f5ff3165dff1cfe9" title="Setter to configure the path for the waveform state data. " alt="" coords="213,135,387,177"/>
+<area shape="rect" id="node6" href="$d2/d7f/classCWaveformService.html#a22d54cd96a743ba1a25a7f8350dcb62d" title="Setter to configure the waveform log file capacity. " alt="" coords="213,201,387,242"/>
+<area shape="rect" id="node7" href="$de/d8a/classCDataBlock.html#a36ea7d05341ecfc4ecd6ec8c02ef0d3e" title="Setter for _polling_algorithm. " alt="" coords="211,266,389,307"/>
+<area shape="rect" id="node8" href="$d8/dc8/classCIdAllocator.html#af5c83511968f7f494e8d5e411a33f76f" title="Initialize our transient ID area with the high value; subsequent calls to get() will decrement from h..." alt="" coords="235,332,365,359"/>
+<area shape="rect" id="node9" href="$dc/de3/classCDeviceHandlerCore.html#a9d793bdad4cbef0b046aa1e297b6327f" title="Fetch port configuration and create serial port object and its devices. " alt="" coords="221,434,379,475"/>
+<area shape="rect" id="node16" href="$dc/de3/classCDeviceHandlerCore.html#a654b27ee11387b0717381d61da0aa1cc" title="Fetch port configuration and create network port object and its devices. " alt="" coords="218,499,382,541"/>
+<area shape="rect" id="node15" href="$d5/df1/structgeneric__err.html#ae3bee2d13a4c011702e5a9ab4650bc95" title="Implement the virtual function to provide the error&#39;s text. " alt="" coords="450,383,585,409"/>
+<area shape="rect" id="node5" href="$d3/dd8/classCWaveformState.html#a6f114912f60efab4c7f93bfa5491f108" title="Change storage path. " alt="" coords="437,135,597,177"/>
+<area shape="rect" id="node10" href="$d4/d89/classCDeviceService.html#a1b69bbf799546fdf546d5f4abc7727ff" title="Member Functions. " alt="" coords="439,434,595,475"/>
+<area shape="rect" id="node14" href="$dc/de3/classCDeviceHandlerCore.html#aa6ef5fef76a7237c82c1b668afe03fc2" title="Configure the options for this process itself. " alt="" coords="439,499,596,541"/>
+<area shape="rect" id="node11" href="$dd/d97/classCOobService.html#ae2360b913b6057681fe9ffade5779245" title="Calculate given port&#39;s tag for querying its serial port settings out&#45;of&#45;band info. " alt="" coords="671,441,820,482"/>
+<area shape="rect" id="node12" href="$dd/d97/classCOobService.html#ab5a3e795bde668e11313709d8006c6f9" title="Member Functions. " alt="" coords="655,375,835,417"/>
+<area shape="rect" id="node13" href="$dc/d4a/classCUtil.html#ab23b89e75ee52ed0e45e7a188ce3386f" title="CUtil::get_formatted_name" alt="" coords="646,508,845,535"/>
+<area shape="rect" id="node17" href="$d4/d89/classCDeviceService.html#af99c19cc1643b0c6da156aa46f656c8a" title="Find a Network Port. " alt="" coords="439,565,595,606"/>
+<area shape="rect" id="node18" href="$dd/d97/classCOobService.html#a2e2adfddff7b666b6997f3e26e75095a" title="Calculate given port&#39;s tag for querying its network port settings out&#45;of&#45;band info. " alt="" coords="662,627,829,669"/>
+<area shape="rect" id="node19" href="$dd/d97/classCOobService.html#aee7550b9a4277607169cfcbd9a57d201" title="Find network port settings. " alt="" coords="647,562,844,603"/>
+</map>

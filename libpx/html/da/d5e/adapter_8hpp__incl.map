@@ -1,0 +1,30 @@
+<map id="adapter.hpp" name="adapter.hpp">
+<area shape="rect" id="node6" href="$dd/d3a/common_8hpp.html" title="px/common.hpp" alt="" coords="2838,411,2964,437"/>
+<area shape="rect" id="node7" href="$db/db3/id_8hpp.html" title="px/type/id.hpp" alt="" coords="933,253,1048,280"/>
+<area shape="rect" id="node11" href="$d2/dca/type_2value_8hpp.html" title="px/type/value.hpp" alt="" coords="771,253,909,280"/>
+<area shape="rect" id="node15" href="$d4/d76/type_2string_8hpp.html" title="px/type/string.hpp" alt="" coords="329,411,468,437"/>
+<area shape="rect" id="node20" href="$d1/d41/batch_8hpp.html" title="px/db/batch.hpp" alt="" coords="3477,163,3603,189"/>
+<area shape="rect" id="node24" href="$d0/da4/blob__holder_8hpp.html" title="px/db/blob_holder.hpp" alt="" coords="3149,253,3315,280"/>
+<area shape="rect" id="node27" href="$d5/d08/device_8hpp.html" title="px/data/device.hpp" alt="" coords="1848,80,1995,107"/>
+<area shape="rect" id="node22" href="$d9/dde/iterator_8hpp.html" title="iterator.hpp" alt="" coords="3593,253,3689,280"/>
+<area shape="rect" id="node40" href="$db/d20/channel_8hpp.html" title="px/data/channel.hpp" alt="" coords="2272,163,2427,189"/>
+<area shape="rect" id="node41" href="$d5/dad/alarm__update_8hpp.html" title="px/data/alarm_update.hpp" alt="" coords="1319,163,1512,189"/>
+<area shape="rect" id="node42" href="$da/d38/delete__alarms_8hpp.html" title="px/cds/delete_alarms.hpp" alt="" coords="1537,163,1727,189"/>
+<area shape="rect" id="node43" href="$d6/d4c/key__value__store_8hpp.html" title="px/db/key_value_store.hpp" alt="" coords="3679,163,3876,189"/>
+<area shape="rect" id="node45" href="$db/d4f/override__level_8hpp.html" title="px/enum/override_level.hpp" alt="" coords="3810,80,4013,107"/>
+<area shape="rect" id="node47" href="$db/dea/trend__trait_8hpp.html" title="px/data/trend_trait.hpp" alt="" coords="2272,253,2443,280"/>
+<area shape="rect" id="node48" href="$d5/da1/trend__stage__update_8hpp.html" title="px/data/trend_stage\l_update.hpp" alt="" coords="2787,155,2939,197"/>
+<area shape="rect" id="node49" href="$df/dbb/trend__bucket__update_8hpp.html" title="px/data/trend_bucket\l_update.hpp" alt="" coords="2501,155,2661,197"/>
+<area shape="rect" id="node50" href="$d7/d22/channel__trends_8hpp.html" title="px/data/channel_trends.hpp" alt="" coords="3115,163,3317,189"/>
+<area shape="rect" id="node14" href="$d1/db0/timestamp_8hpp.html" title="timestamp.hpp" alt="" coords="1129,336,1249,363"/>
+<area shape="rect" id="node17" href="$db/d73/invalid_8hpp.html" title="invalid.hpp" alt="" coords="801,336,895,363"/>
+<area shape="rect" id="node18" href="$d6/d12/datatype_8hpp.html" title="px/enum/datatype.hpp" alt="" coords="1326,336,1495,363"/>
+<area shape="rect" id="node19" href="$d6/d78/best__type_8hpp.html" title="value/best_type.hpp" alt="" coords="461,336,616,363"/>
+<area shape="rect" id="node31" href="$df/d2b/shared__string_8hpp.html" title="px/type/shared_string.hpp" alt="" coords="94,253,284,280"/>
+<area shape="rect" id="node32" href="$d8/d27/device__role_8hpp.html" title="px/enum/device_role.hpp" alt="" coords="2939,253,3125,280"/>
+<area shape="rect" id="node33" href="$d6/d86/bitset_8hpp.html" title="px/type/bitset.hpp" alt="" coords="1275,253,1415,280"/>
+<area shape="rect" id="node34" href="$de/dda/wall__time_8hpp.html" title="px/type/wall_time.hpp" alt="" coords="1854,253,2020,280"/>
+<area shape="rect" id="node35" href="$d8/dc4/realtime__state_8hpp.html" title="px/data/realtime_state.hpp" alt="" coords="1491,253,1689,280"/>
+<area shape="rect" id="node36" href="$d5/d62/device__flags_8hpp.html" title="px/data/device_flags.hpp" alt="" coords="1009,163,1193,189"/>
+<area shape="rect" id="node37" href="$d5/d91/device__command_8hpp.html" title="px/data/device_command.hpp" alt="" coords="767,163,985,189"/>
+</map>

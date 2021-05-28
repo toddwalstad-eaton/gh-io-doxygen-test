@@ -1,0 +1,23 @@
+<map id="CSerialConnection::write" name="CSerialConnection::write">
+<area shape="rect" id="node2" href="$d2/d37/classCIoMessenger.html#aa9a7d897f0c01957b1382c43c0590680" title="Callback function to handle a completed &quot;write&quot; operation (invoked by ASIO::async_write() )..." alt="" coords="203,257,368,298"/>
+<area shape="rect" id="node3" href="$d2/d37/classCIoMessenger.html#a971d6fb719670d24cefe5003005bd68a" title="Set comm timer to expire in &#39;msec&#39; milliseconds from now. " alt="" coords="639,5,793,46"/>
+<area shape="rect" id="node4" href="$d2/d37/classCIoMessenger.html#ab36a4e216bc7eef1d5d502de4e66c337" title="Initiate next step in message lifecycle. " alt="" coords="416,369,565,410"/>
+<area shape="rect" id="node5" href="$dc/ddf/classCIoMessage.html#a4e0b6d464d5ed655aa47f7e8ee45a507" title="Get current processing state of message. " alt="" coords="631,71,801,97"/>
+<area shape="rect" id="node6" href="$dc/ddf/classCIoMessage.html#a5c74dfe9081ae0b87c2188375bf48b61" title="Prepare message to kickoff sending and receiving. " alt="" coords="634,121,798,148"/>
+<area shape="rect" id="node7" href="$d2/d37/classCIoMessenger.html#a62bed2090ff5328c675819ba0f6363c0" title="Gets the ID from the Port Device associated with this Messenger. " alt="" coords="619,172,813,199"/>
+<area shape="rect" id="node8" href="$d2/d37/classCIoMessenger.html#a4039ffcadaf1f3ddec4cd4e27abcfaf3" title="Setup a monotonic asynchronous wait timer. " alt="" coords="1089,329,1306,356"/>
+<area shape="rect" id="node9" href="$dc/ddf/classCIoMessage.html#a7a52924c9eceecd4721ca5c5de124fae" title="Get interframe delay. " alt="" coords="613,274,819,315"/>
+<area shape="rect" id="node10" href="$d2/d37/classCIoMessenger.html#afd386d9e47947af9b049e0b8db6aa780" title="Callback function to handle a wait for interframe delay or its error return. " alt="" coords="626,339,806,381"/>
+<area shape="rect" id="node15" href="$d2/d37/classCIoMessenger.html#a42af21828a94e3c35e1b853afd345343" title="Flush input data from the messenger&#39;s input source. " alt="" coords="640,405,792,432"/>
+<area shape="rect" id="node16" href="$dc/ddf/classCIoMessage.html#aea3685c428ceb41f122e898c19cbbc1f" title="Notify message that receive flush has completed. " alt="" coords="627,457,805,498"/>
+<area shape="rect" id="node17" href="$dc/ddf/classCIoMessage.html#a3698a81da282fa083afd9697af53f5e5" title="Return timeout length (which may vary based on message state) " alt="" coords="623,523,809,549"/>
+<area shape="rect" id="node18" href="$dc/ddf/classCIoMessage.html#a37756356cb01654801e3cf31dc795647" title="Load provided external buffer with characters that should be sent out. " alt="" coords="634,574,798,615"/>
+<area shape="rect" id="node19" href="$d2/d37/classCIoMessenger.html#aa93bab6916ed13ed32ecd5eeef189116" title="Write data to the messenger&#39;s output channel. " alt="" coords="639,640,793,667"/>
+<area shape="rect" id="node20" href="$d2/d37/classCIoMessenger.html#a2943ac84e355db0bdfed40adedc91fee" title="Read more data from the messenger&#39;s input source. " alt="" coords="621,691,811,717"/>
+<area shape="rect" id="node21" href="$d2/d37/classCIoMessenger.html#afa7b3b72c1c9415bfd06446ac9124516" title="Execute the next message. " alt="" coords="623,741,809,768"/>
+<area shape="rect" id="node22" href="$d2/d37/classCIoMessenger.html#a01894a59c449f3d3b8fd3fcd11dfc84b" title="Cancel all outstanding asynchronous read or write operations associated with the port. " alt="" coords="635,792,797,819"/>
+<area shape="rect" id="node11" href="$d2/d37/classCIoMessenger.html#a026a7f7c1befcf4593cee29a45a5e7e3" title="Execute the next I/O operation. " alt="" coords="867,544,1040,571"/>
+<area shape="rect" id="node12" href="$d1/d16/classCPollClock.html#a3d533a4f18cfc5bf03d14ca7785f77e8" title="Stamp the current time into monotonic and real time fields to current time. " alt="" coords="1097,485,1297,512"/>
+<area shape="rect" id="node14" href="$d2/d37/classCIoMessenger.html#a1938e35e8d22e17fd52ea0a577c7d31b" title="Callback function to handle a wait timeout or its error return. " alt="" coords="1115,537,1280,578"/>
+<area shape="rect" id="node13" href="$d1/d16/classCPollClock.html#aa37e4d8171dbaf98c0256be47d9eb931" title="CPollClock::set_poll_time" alt="" coords="1355,485,1541,512"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CDevice::set_device_state" name="CDevice::set_device_state">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#a1af9d0f562d09e7758b96928ecc9da9c" title="Reset (invalidate) the last update time for all poll Blocks, Typically used when device is disabled..." alt="" coords="210,5,369,46"/>
+<area shape="rect" id="node3" href="$df/d75/classCDeviceEntityState.html#ae430b4b509cc9d764cc55b9ff39fa5da" title="CDeviceEntityState\l::update_entity_value" alt="" coords="208,70,371,111"/>
+<area shape="rect" id="node4" href="$df/d75/classCDeviceEntityState.html#ab81a87c7545d75db46d30edc773279b2" title="CDeviceEntityState\l::set_entity_value" alt="" coords="419,70,567,111"/>
+</map>

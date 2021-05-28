@@ -1,0 +1,4 @@
+<map id="CChannel::is_writable" name="CChannel::is_writable">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#a5c77a05332ba38c9e83c657e9fb450ce" title="Call this function to create and execute the named command for this Device. " alt="" coords="216,5,424,32"/>
+<area shape="rect" id="node3" href="$d7/d46/classCModbusDevice.html#a53f23722e476f1bd17a33a2ddcadf862" title="Call this function to create and execute the named command for this Device. " alt="" coords="472,23,659,65"/>
+</map>

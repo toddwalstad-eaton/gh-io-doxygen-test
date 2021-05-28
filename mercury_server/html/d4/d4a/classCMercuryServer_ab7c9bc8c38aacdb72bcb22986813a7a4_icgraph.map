@@ -1,0 +1,5 @@
+<map id="CMercuryServer::config_process" name="CMercuryServer::config_process">
+<area shape="rect" id="node2" href="$d4/d4a/classCMercuryServer.html#a707b9988f9eba5fb8762ff89419a8848" title="This function sets up the configuration for the main loop(). " alt="" coords="227,12,399,39"/>
+<area shape="rect" id="node3" href="$df/d0a/main_8cpp.html#a72dfe501a5b0c6d1753dc3bc888d33b9" title="&quot;Real&quot; main, used by the server code " alt="" coords="448,12,531,39"/>
+<area shape="rect" id="node4" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Program entry point. " alt="" coords="579,12,634,39"/>
+</map>

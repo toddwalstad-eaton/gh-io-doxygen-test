@@ -1,0 +1,4 @@
+<map id="CBacnetObject::get_supports_cov" name="CBacnetObject::get_supports_cov">
+<area shape="rect" id="node2" href="$da/d44/group__bac__obj__interface.html#gaf1eaed940e57e8d7645da89887f22a3a" title="Looks up the requested Object type to see if the COV functionality is supported for this type..." alt="" coords="200,5,413,32"/>
+<area shape="rect" id="node3" href="$db/d33/classCBacnetPointObject.html#ae338ef27810f9c9608a71643450c1993" title="Attempts to write a new value to one property for this object type of a given instance. " alt="" coords="219,57,394,98"/>
+</map>

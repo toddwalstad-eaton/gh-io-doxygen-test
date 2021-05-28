@@ -1,0 +1,5 @@
+<map id="certmanagerApi::CertmanagerService::addCertificateFile" name="certmanagerApi::CertmanagerService::addCertificateFile">
+<area shape="rect" id="node2" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#adaa69a6a117f7021ccf093a538d07548" title="Apply a certificate from PKI. " alt="" coords="272,5,517,46"/>
+<area shape="rect" id="node3" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a656b4ecd28b168ab21978e67951f8901" title="Add a certificate authority on the service if the CA is not present. " alt="" coords="285,70,504,111"/>
+<area shape="rect" id="node4" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a29419177d078e3a3a0bd5bf55c3e928e" title="Add a trusted client on the service if the Trusted Client is not present. " alt="" coords="285,135,504,177"/>
+</map>

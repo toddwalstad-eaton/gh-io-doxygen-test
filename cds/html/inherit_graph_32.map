@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classITask.html" title="ITask" alt="" coords="6,81,61,108"/>
+<area shape="rect" id="node2" href="$classCAlarmCleanupTask.html" title="CAlarmCleanupTask" alt="" coords="125,5,277,32"/>
+<area shape="rect" id="node3" href="$classCDeleteTrendsTask.html" title="CDeleteTrendsTask" alt="" coords="129,56,274,83"/>
+<area shape="rect" id="node4" href="$classCExportTrendTask.html" title="CExportTrendTask" alt="" coords="133,107,270,133"/>
+<area shape="rect" id="node5" href="$classTrendIntervalClosingTask.html" title="Task that manages the minute&#45;based closing of the trend interval for all channels of all devices..." alt="" coords="109,157,293,184"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="px::asio::CCdsDevice::is_valid_device" name="px::asio::CCdsDevice::is_valid_device">
+<area shape="rect" id="node2" href="$dd/d57/classpx_1_1CBitset.html#a990ea0e6f3eb03b789d1cd58c74b38f2" title="Get the value of a flag. " alt="" coords="237,5,360,32"/>
+<area shape="rect" id="node3" href="$d6/d5b/classpx_1_1CDevice.html#abfc55a39e8c96431ef6588a56869ea71" title="Return the device&#39;s state, the union of bits set by inherited_state and own_state. " alt="" coords="214,56,383,83"/>
+<area shape="rect" id="node5" href="$d6/d5b/classpx_1_1CDevice.html#ab836878b0d7f55ad3d16b937994f3df0" title="Getter for device ID. " alt="" coords="239,107,359,133"/>
+<area shape="rect" id="node4" href="$dd/d57/classpx_1_1CBitset.html#a8d97b50a255e17f20721d29a9d3d2d73" title="Set any flag that is set in the given &quot;mask&quot; Bitset. " alt="" coords="433,56,597,83"/>
+</map>

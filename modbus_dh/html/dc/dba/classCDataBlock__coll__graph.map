@@ -1,0 +1,9 @@
+<map id="CDataBlock" name="CDataBlock">
+<area shape="rect" id="node2" href="$de/db3/classCMessageHandler.html" title="Message Handler ABC. " alt="" coords="5,281,195,373"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="372,6,524,98"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="549,13,731,91"/>
+<area shape="rect" id="node8" href="$dd/dc0/classCDataAccumulator.html" title="A class used for accumulating data over an entire interval for a single parameter. " alt="" coords="730,207,909,446"/>
+<area shape="rect" id="node9" href="$d8/d81/structIDataBlockObserver.html" title="Data Block Observer Defines an interface for objects that can be notified on block completion (eg..." alt="" coords="935,193,1177,461"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="1226,13,1355,91"/>
+<area shape="rect" id="node13" title="STL class. " alt="" coords="1401,13,1559,91"/>
+</map>

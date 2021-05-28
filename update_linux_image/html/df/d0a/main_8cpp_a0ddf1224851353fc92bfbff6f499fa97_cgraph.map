@@ -1,0 +1,21 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$df/d0a/main_8cpp.html#a344d486e700dcf6a2021be7ccd6f118a" title="usage" alt="" coords="168,5,229,32"/>
+<area shape="rect" id="node3" href="$df/d0a/main_8cpp.html#ad8bf2ebe714bdb6a1e216ed7d9efa7a3" title="Initialize our logging / debug system. " alt="" coords="149,56,248,83"/>
+<area shape="rect" id="node4" href="$d6/d09/classLinuxImageVersionOob.html#a4ac9635a9c44aacec1cd4a1c0395f1d3" title="Utility function to determine the LinuxImage version from the device data. " alt="" coords="113,107,285,149"/>
+<area shape="rect" id="node5" href="$d9/d85/classCFwLnxUtil.html#ae2e10633047a7fc61c4428a32872552b" title="Get whether signatures are required. " alt="" coords="113,173,284,214"/>
+<area shape="rect" id="node6" href="$d9/d85/classCFwLnxUtil.html#a57cf3f18ce9d24ad66b5ced4ee8c1938" title="Retrieve the Linux image list file from the collection archive. " alt="" coords="113,238,284,279"/>
+<area shape="rect" id="node8" href="$d3/d88/classLinuxImageTypeHandler.html#a6014fe40eefc4fa219fdcee8259afacb" title="Method to do the preliminary validity checks and step count for this image type for the indicated dev..." alt="" coords="109,303,288,345"/>
+<area shape="rect" id="node12" href="$df/d99/classInstallFilesTypeHandler.html#ab8117c625ed179e393e2edf9d8224aaf" title="Method to do the preliminary validity checks and step count for this image type for the indicated dev..." alt="" coords="113,369,285,410"/>
+<area shape="rect" id="node13" href="$d3/d88/classLinuxImageTypeHandler.html#a27e9755beb08e1c8b47391724d0fdbba" title="Method to do the update steps for the given type_file_list for the indicated device (publisher)..." alt="" coords="109,434,288,475"/>
+<area shape="rect" id="node20" href="$df/d99/classInstallFilesTypeHandler.html#aba7cb45f928780a1b61c239490544d9c" title="Method to do the update steps for the given type_file_list for the indicated device (publisher)..." alt="" coords="113,499,285,541"/>
+<area shape="rect" id="node7" href="$d9/d85/classCFwLnxUtil.html#a616b2ab1aab6de6f4500acc371c85142" title="Build a LinuxImageList.txt file from the contents of the collection, assuming it&#39;s a Linux firmware u..." alt="" coords="351,194,537,235"/>
+<area shape="rect" id="node9" href="$d9/d85/classCFwLnxUtil.html#a71b6433c44cd8d70a901a62ba92cebf3" title="Compares product ID strings to see if update should proceed. " alt="" coords="336,260,552,287"/>
+<area shape="rect" id="node10" href="$d9/d85/classCFwLnxUtil.html#ae20d1e284947376143f33d7d8c4f6598" title="Compares product ID strings to see if update should proceed. " alt="" coords="346,311,542,337"/>
+<area shape="rect" id="node11" href="$d9/d85/classCFwLnxUtil.html#afcb4b75020ee1469da61420466ee1509" title="CFwLnxUtil::build_update" alt="" coords="351,361,537,388"/>
+<area shape="rect" id="node14" href="$d9/d85/classCFwLnxUtil.html#a1d069cc2bc751f1e22a35f52a19b27d2" title="Initializes &#39;_target_map&#39; variable based on the new partion value. " alt="" coords="359,413,529,454"/>
+<area shape="rect" id="node15" href="$d9/d85/classCFwLnxUtil.html#a06b8d89412b46020a10b39e356d6d9f4" title="Execute an update step. " alt="" coords="341,479,547,505"/>
+<area shape="rect" id="node19" href="$d9/d85/classCFwLnxUtil.html#a719d3c45f69360b38e8fe6ac99711e9d" title="Set the current flash partition (0 or 1) " alt="" coords="371,530,517,571"/>
+<area shape="rect" id="node16" href="$d9/d85/classCFwLnxUtil.html#a5777d1084db4286085b7c861de13b9dd" title="Given an image name and its checksum(s), flash it to a given &quot;target_file&quot;. " alt="" coords="618,413,766,454"/>
+<area shape="rect" id="node17" href="$d9/d85/classCFwLnxUtil.html#abe768013bf2337ca082d4ad96e5a2439" title="Turn IDENT LED on/off. " alt="" coords="602,479,782,505"/>
+<area shape="rect" id="node18" href="$d9/d85/classCFwLnxUtil.html#a74bc51e5608242482278cf2b3dc02dc1" title="Clears the &quot;EULA accepted&quot; OOB (Not much else we can do, since EULA text is in read&#45;only space) ..." alt="" coords="601,529,783,556"/>
+</map>

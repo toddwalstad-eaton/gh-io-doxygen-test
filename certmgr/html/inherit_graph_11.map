@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$db/df9/classcertmanager_1_1ExternalCertificatesStorage.html" title="Class representing a storage for external certificates. " alt="" coords="6,34,247,75"/>
+<area shape="rect" id="node2" href="$d5/d83/classcertmanager_1_1CertificateAuthority.html" title="Class representing the CA part of certificate managment daemon. " alt="" coords="319,5,499,46"/>
+<area shape="rect" id="node3" href="$d5/dd7/classcertmanager_1_1TrustedCertificate.html" title="Class representing the client part of certificate managment daemon. " alt="" coords="296,71,523,97"/>
+</map>

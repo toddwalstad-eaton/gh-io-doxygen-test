@@ -1,0 +1,12 @@
+<map id="px::asio::CUdpListener::read_more" name="px::asio::CUdpListener::read_more">
+<area shape="rect" id="node2" href="$d8/d6a/classpx_1_1asio_1_1CUdpListener.html#aaa18944c60ec9064acab1ea11fb20c36" title="Callback function for Boost.Asio upon accepting UDP data. " alt="" coords="221,103,389,145"/>
+<area shape="rect" id="node3" href="$d8/d6a/classpx_1_1asio_1_1CUdpListener.html#acbb8d1fa814003148fb9f32c1d720326" title="Read incoming UDP packet and receive header message indicating original destination address..." alt="" coords="439,5,607,46"/>
+<area shape="rect" id="node4" href="$d8/d6a/classpx_1_1asio_1_1CUdpListener.html#a1976d5cf7a32919a904016a479446f4e" title="Create or reset our listening socket, at _port. " alt="" coords="439,70,607,111"/>
+<area shape="rect" id="node6" href="$d8/d6a/classpx_1_1asio_1_1CUdpListener.html#acdbe106b18abc3543161f81f2834a35b" title="Determine if last packet was sent to us as a broadcast or multicast. " alt="" coords="439,135,607,177"/>
+<area shape="rect" id="node7" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html#ae588c38d3c50b994681ce46f162fbc0f" title="Callback function to handle incoming data. " alt="" coords="438,201,607,242"/>
+<area shape="rect" id="node5" href="$dd/d60/classpx_1_1asio_1_1CIoActor.html#aad90c314c7d733326fe1f0d88e0bede2" title="Get the I/O service associated with the owner of this actor. " alt="" coords="673,70,809,111"/>
+<area shape="rect" id="node8" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html#aa954e2eb03102f7e7e1753402ee1f410" title="Attempt to parse the currently&#45;read data in the buffer. " alt="" coords="657,201,826,242"/>
+<area shape="rect" id="node9" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html#afc4045882f60a7967a7bcaf0a3b4c192" title="px::asio::CIoTransactor\l::get_parse_success" alt="" coords="875,135,1045,177"/>
+<area shape="rect" id="node10" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html#a7aeb25f58867a36d15419d3753047e2f" title="Read more data from the messenger&#39;s input source. " alt="" coords="875,201,1045,242"/>
+<area shape="rect" id="node11" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html#a96e4af1d0ab45ad6ec41070064f75060" title="px::asio::CIoTransactor\l::set_parse_failed" alt="" coords="875,266,1045,307"/>
+</map>

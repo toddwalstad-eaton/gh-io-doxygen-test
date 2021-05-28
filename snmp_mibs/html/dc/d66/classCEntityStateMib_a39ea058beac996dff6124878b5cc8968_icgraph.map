@@ -1,0 +1,4 @@
+<map id="CEntityStateMib::device_alarm_state" name="CEntityStateMib::device_alarm_state">
+<area shape="rect" id="node2" href="$dc/d66/classCEntityStateMib.html#a2d4aef1b2c182e1fb57f8098f07d4503" title="Called by CDS handler whenever an alarm update happens in the system. " alt="" coords="232,5,387,46"/>
+<area shape="rect" id="node3" href="$dc/d66/classCEntityStateMib.html#ad23a98c7c74a5f3da241405e52534ead" title="Function to initialize and register the entityState MIB variables. " alt="" coords="435,5,589,46"/>
+</map>

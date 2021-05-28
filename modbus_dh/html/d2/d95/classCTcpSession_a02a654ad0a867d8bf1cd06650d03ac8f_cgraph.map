@@ -1,0 +1,4 @@
+<map id="CTcpSession::remove" name="CTcpSession::remove">
+<area shape="rect" id="node2" href="$d2/d95/classCTcpSession.html#a3302b325159703ac61162cef5365ebfc" title="This method closes both sockets. " alt="" coords="215,5,359,46"/>
+<area shape="rect" id="node3" href="$d3/db0/classCTcpProxy.html#a01c990517767fe47fb0c805ba78408d8" title="Close a single session and remove it from management. " alt="" coords="213,71,360,97"/>
+</map>

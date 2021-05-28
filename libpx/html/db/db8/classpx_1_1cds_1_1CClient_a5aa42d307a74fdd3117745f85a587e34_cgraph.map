@@ -1,0 +1,4 @@
+<map id="px::cds::CClient::disconnect" name="px::cds::CClient::disconnect">
+<area shape="rect" id="node2" href="$db/db8/classpx_1_1cds_1_1CClient.html#a04806b8577ecbb198bc2f7c8cf9939ff" title="Unregister a previously registered callback structure. " alt="" coords="256,5,453,46"/>
+<area shape="rect" id="node3" href="$db/db8/classpx_1_1cds_1_1CClient.html#a28b00111c32ca2391045e23966fb7210" title="Unregister the previously registered callback function for unsolicited messages from the CDS..." alt="" coords="256,70,453,111"/>
+</map>

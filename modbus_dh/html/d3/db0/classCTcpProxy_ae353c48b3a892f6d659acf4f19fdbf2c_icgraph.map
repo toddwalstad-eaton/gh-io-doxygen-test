@@ -1,0 +1,6 @@
+<map id="CTcpProxy::CTcpProxy" name="CTcpProxy::CTcpProxy">
+<area shape="rect" id="node2" href="$d3/db0/classCTcpProxy.html#a24d8c1a76f4c79cc465ff312c9c966c2" title="Factory function to create a new CTcpProxy server object. " alt="" coords="217,12,354,39"/>
+<area shape="rect" id="node3" href="$d6/d71/classCModbusTcpPort.html#a4a2359e0327ffb86a75fd89bf10ce980" title="Open the pass&#45;through socket port &amp; handling, if enabled. " alt="" coords="403,5,571,46"/>
+<area shape="rect" id="node4" href="$d6/d71/classCModbusTcpPort.html#a9dd6e9eb42463f8da3cc59fd250d9280" title="(Virtual) Factory method to create the port &quot;Connection&quot; Actor (eg, CSerialConnection). " alt="" coords="830,5,1007,46"/>
+<area shape="rect" id="node5" href="$d6/d71/classCModbusTcpPort.html#aee1a3c60912ba0cbd1778fd75ef98a59" title="The callback function that we provide to the CDS to handle updates to ServiceAccessCtrl oob data..." alt="" coords="619,34,781,75"/>
+</map>

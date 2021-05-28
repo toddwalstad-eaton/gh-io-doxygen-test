@@ -1,0 +1,4 @@
+<map id="CBacnetAnalogObject" name="CBacnetAnalogObject">
+<area shape="rect" id="node2" href="$db/d33/classCBacnetPointObject.html" title="Abstract Base Class for several BACnet &quot;Point&quot; measures: These types have many common properties that..." alt="" coords="5,365,237,795"/>
+<area shape="rect" id="node3" href="$dd/d0a/classCBacnetObject.html" title="Abstract Base Class for BACnet Objects. " alt="" coords="10,5,232,317"/>
+</map>

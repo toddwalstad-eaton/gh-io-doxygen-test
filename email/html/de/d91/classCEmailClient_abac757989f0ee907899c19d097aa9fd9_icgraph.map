@@ -1,0 +1,6 @@
+<map id="CEmailClient::send_test_email" name="CEmailClient::send_test_email">
+<area shape="rect" id="node2" href="$d3/d95/classCEmailServer.html#ad278fabab0fef49cbcd71a6469170b82" title="Invokes test method based on command line arguments. " alt="" coords="200,5,368,46"/>
+<area shape="rect" id="node3" href="$d3/d95/classCEmailServer.html#ad7f05d9102e6537940a221071d958caf" title="Execute the server core&#39;s main loop. " alt="" coords="416,12,587,39"/>
+<area shape="rect" id="node4" href="$df/d0a/main_8cpp.html#af5291a3e029627e530895b1c9f481dcf" title="&quot;Real&quot; main, used by the server code " alt="" coords="635,12,717,39"/>
+<area shape="rect" id="node5" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Program entry point. " alt="" coords="766,12,821,39"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="CModbusProtocolHandler::handle_request" name="CModbusProtocolHandler::handle_request">
+<area shape="rect" id="node2" href="$classCModbusReadDiscretes.html#af21cf01b2bbd0176325b9cd45a8f2226" title="Factory function. " alt="" coords="258,5,433,46"/>
+<area shape="rect" id="node4" href="$classCModbusReadRegisters.html#a49336e810ecf8a8de1c701698f0eb383" title="Factory function. " alt="" coords="259,70,432,111"/>
+<area shape="rect" id="node6" href="$classCModbusDeviceConfig.html#ac0670d5174148f7697ad630b0d40dbc8" title="Getter for ability to write setting. " alt="" coords="262,135,429,177"/>
+<area shape="rect" id="node7" href="$classCModbusWriteDiscretes.html#ae50e495014af182c49f3e399d10d25c6" title="Factory function. " alt="" coords="257,201,433,242"/>
+<area shape="rect" id="node9" href="$classCModbusWriteRegisters.html#aa95c19b4eb28a2c8bd1148de6abc90bb" title="Factory function. " alt="" coords="258,266,433,307"/>
+<area shape="rect" id="node11" href="$classCModbusProtocolHandler.html#af97c9cdd07ad1513be7d23f521708481" title="Send a Modbus exception response. " alt="" coords="240,332,451,359"/>
+<area shape="rect" id="node13" href="$classCModbusProtocolHandler.html#aa1c96cb4737fe636467479a33d5d0087" title="Get a handle to the cds. " alt="" coords="253,383,438,425"/>
+<area shape="rect" id="node3" href="$classCModbusReadDiscretes.html#a62a20bb3521b5a1c08cdb394eb9b58f5" title="Constructor. " alt="" coords="501,5,683,46"/>
+<area shape="rect" id="node5" href="$classCModbusReadRegisters.html#a37b1422b419abecc5759066939fa084c" title="Constructor. " alt="" coords="501,70,683,111"/>
+<area shape="rect" id="node8" href="$classCModbusWriteDiscretes.html#ac5ce470f60dc97501ce827dda5f13f86" title="Constructor. " alt="" coords="500,201,684,242"/>
+<area shape="rect" id="node10" href="$classCModbusWriteRegisters.html#ae3c82cbac9e3c54905c7f55b9ed53446" title="Constructor. " alt="" coords="501,266,683,307"/>
+<area shape="rect" id="node12" href="$classCModbusProtocolHandler.html#afebe09737bd7484dd3ee5c906b536504" title="Send a Modbus response. " alt="" coords="499,331,685,373"/>
+</map>

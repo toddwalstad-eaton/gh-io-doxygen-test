@@ -1,0 +1,6 @@
+<map id="CIotOobHandler::read_iot_device_settings_oob" name="CIotOobHandler::read_iot_device_settings_oob">
+<area shape="rect" id="node2" href="$d3/d1e/classCIotOobHandler.html#ad818cd7d9b65206793cd2f379e2775ae" title="Initialize by reading in the IotConfigSettings, ProxySettings, ImageUpdateApp, IotDeviceMapping, and IotDeviceSettings OOBs and doing some validation. " alt="" coords="240,5,429,32"/>
+<area shape="rect" id="node3" href="$d3/d1e/classCIotOobHandler.html#a67fca04e66ef65529273811cc851b94d" title="Write the _iot_settings_map out to the IotDeviceSettings OOB. " alt="" coords="241,57,428,98"/>
+<area shape="rect" id="node4" href="$d3/d1e/classCIotOobHandler.html#a138e4cc11380371b13767ea454644960" title="Add a per&#45;device IoT setting value to our internal map and optionally write out the map to the IotDev..." alt="" coords="481,23,639,65"/>
+<area shape="rect" id="node5" href="$d3/d1e/classCIotOobHandler.html#ac824857ae3e7827d2361cd8ee6834fad" title="Remove a per&#45;device IoT Setting, or the whole device&#39;s settings, and optionally write out the updated..." alt="" coords="477,89,643,130"/>
+</map>

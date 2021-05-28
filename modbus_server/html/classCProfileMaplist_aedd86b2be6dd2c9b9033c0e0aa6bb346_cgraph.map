@@ -1,0 +1,15 @@
+<map id="CProfileMaplist::profile_single_device" name="CProfileMaplist::profile_single_device">
+<area shape="rect" id="node2" href="$classCAddressRange.html#a0471a6c0b427abfa4bfabb1d569c1b40" title="Generate an address range containing all possible addresses. " alt="" coords="263,5,411,46"/>
+<area shape="rect" id="node4" href="$classCModbusDeviceConfig.html#a1b0c28a643768afcdae0b72c14eaf97e" title="Get a discrete maplist for the requested device index and address range. " alt="" coords="254,70,421,111"/>
+<area shape="rect" id="node5" href="$classCModbusDeviceConfig.html#acd41b0c8320802019d119893a30fc876" title="Get a register maplist for the requested device index and address range. " alt="" coords="254,135,421,177"/>
+<area shape="rect" id="node6" href="$classCModbusCdsHandle.html#a07c1b743de512abf3d0ac5abca2bc0d3" title="Retrieve list of supported commands for a particular device. " alt="" coords="248,201,427,242"/>
+<area shape="rect" id="node7" href="$classCProfileMaplist.html#a6b6c7e4e42017e3902222d60e55a5a53" title="Build a discrete profile entry for a channel. " alt="" coords="247,266,427,307"/>
+<area shape="rect" id="node9" href="$classCProfileMaplist.html#a0315bc1f3fa8a8be2b9427e68bb715e8" title="Build a discrete profile entry for a command. " alt="" coords="240,331,435,373"/>
+<area shape="rect" id="node10" href="$classCProfileMaplist.html#a29b204019227361d2425fb195e89d3bd" title="Build a register profile entry for a device property. " alt="" coords="221,462,453,503"/>
+<area shape="rect" id="node13" href="$classCProfileMaplist.html#a21a2c4cd183dce8f420af95231e434e6" title="Build a register profile entry for a channel. " alt="" coords="248,397,427,438"/>
+<area shape="rect" id="node14" href="$classCProfileMaplist.html#a7e9cf78a9ca480cdf88b1dda8b94f34c" title="Build a register profile entry for a command. " alt="" coords="241,527,433,569"/>
+<area shape="rect" id="node3" href="$classCAddressRange.html#a569f4ad69299b8db263dd57b070148bb" title="Constructor. " alt="" coords="504,12,739,39"/>
+<area shape="rect" id="node8" href="$classCProfileMaplist.html#a2b0173b6067baf158f3afeb4b524e5a0" title="build multistate channel mapping string (i.e., possible values) " alt="" coords="542,305,701,346"/>
+<area shape="rect" id="node11" href="$classCParamMapping.html#aedd6757697cd92d01252481e5d1e358c" title="Getter for alternate name. " alt="" coords="502,411,741,437"/>
+<area shape="rect" id="node12" href="$classCParamMapping.html#a029c513c5e1b50192b8184e7592fc039" title="Getter for path. " alt="" coords="539,469,703,496"/>
+</map>

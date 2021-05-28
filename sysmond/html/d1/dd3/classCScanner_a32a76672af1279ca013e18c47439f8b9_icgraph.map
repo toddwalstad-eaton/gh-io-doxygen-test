@@ -1,0 +1,4 @@
+<map id="CScanner::CheckOverlayFSIntegrity" name="CScanner::CheckOverlayFSIntegrity">
+<area shape="rect" id="node2" href="$d1/dd3/classCScanner.html#ad640f927d13b833e78a9ccf790f995c3" title="This is the task that does the filesystem integrity scanning. " alt="" coords="307,12,485,39"/>
+<area shape="rect" id="node3" href="$d1/dd3/classCScanner.html#af11c79ddd89753ed457cef4e6d38b177" title="Launches the thread that does the integrity scanner operations. " alt="" coords="533,5,725,46"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="mercury_mock_fixture" name="mercury_mock_fixture">
+<area shape="rect" id="node3" href="$d4/d59/classMockCdsHandler.html" title="Mock the Cds Handle interface. " alt="" coords="3243,723,3453,874"/>
+<area shape="rect" id="node14" href="$d9/dad/classMockMercuryProtocolHandler.html" title="{MockMercuryProtocolHandler\n||+ MockMercuryProtocolHandler()\l+ ~MockMercuryProtocolHandler()\l+ MockMercuryProtocolHandler()\l+ set_mock_transactor()\l+ get_cds_handle()\l+ MOCK_CONST_METHOD1()\l+ get_ptr()\l+ MOCK_METHOD0()\l+ MOCK_METHOD0()\l+ MOCK_METHOD0()\land 10 more...\l}" alt="" coords="2957,1060,3205,1284"/>
+<area shape="rect" id="node4" href="$db/d4f/classCMercuryCdsHandle.html" title="Mercury CDS Handler class. " alt="" coords="3652,413,3841,622"/>
+<area shape="rect" id="node5" href="$d2/dcb/classpx_1_1asio_1_1CCdsHandler.html" title="{px::asio::CCdsHandler\n||}" alt="" coords="3583,191,3748,268"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="2979,6,3131,98"/>
+<area shape="rect" id="node15" href="$d6/dee/classCMercuryProtocolHandler.html" title="Mercury Protocol Handler. " alt="" coords="2723,376,2945,659"/>
+<area shape="rect" id="node16" href="$d1/d20/classpx_1_1asio_1_1CProtocolHandler.html" title="{px::asio::CProtocolHandler\n||}" alt="" coords="2508,191,2703,268"/>
+<area shape="rect" id="node25" title="STL class. " alt="" coords="1528,13,1685,91"/>
+<area shape="rect" id="node27" title="STL class. " alt="" coords="1927,13,2109,91"/>
+<area shape="rect" id="node28" href="$dc/dfe/classMockCore.html" title="Mock the Mercury Server Core interface. " alt="" coords="2317,899,2475,1021"/>
+<area shape="rect" id="node29" href="$d4/d4a/classCMercuryServer.html" title="Server core class. " alt="" coords="886,420,1047,615"/>
+<area shape="rect" id="node30" href="$dc/d82/classpx_1_1asio_1_1CServerCore.html" title="{px::asio::CServerCore\n||}" alt="" coords="224,191,387,268"/>
+<area shape="rect" id="node38" href="$d9/d52/classMockIoManager.html" title="Mock the IO Manager interface. " alt="" coords="3457,1126,3617,1218"/>
+<area shape="rect" id="node39" href="$d6/d32/classpx_1_1asio_1_1CIoManager.html" title="{px::asio::CIoManager\n||}" alt="" coords="3478,760,3636,837"/>
+<area shape="rect" id="node40" href="$d1/d1e/classMockIoTransactor.html" title="Mock the IO Transactor interface. " alt="" coords="3653,1045,3824,1299"/>
+<area shape="rect" id="node41" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html" title="{px::asio::CIoTransactor\n||}" alt="" coords="3661,760,3829,837"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CDevice::get_bit_block_value" name="CDevice::get_bit_block_value">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#abac1fe55b006dfb7cf69e1b52cfa0f0e" title="Getter for one DataBlock, from its ID. " alt="" coords="224,5,395,32"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#a5e083835cb8c682687a4c693f76650ee" title="Tells us if this is a subdevice, and can return its instance number. " alt="" coords="225,56,393,83"/>
+</map>

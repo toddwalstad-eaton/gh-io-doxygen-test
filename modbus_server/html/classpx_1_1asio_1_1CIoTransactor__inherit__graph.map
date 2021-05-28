@@ -1,0 +1,4 @@
+<map id="CIoTransactor" name="CIoTransactor">
+<area shape="rect" id="node2" href="$classCMbSecConnection.html" title="SSL Connection class, which manages TCP transactions. " alt="" coords="5,131,189,384"/>
+<area shape="rect" id="node3" href="$classMockIoTransactor.html" title="Mock the IO Transactor interface. " alt="" coords="213,167,384,347"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="CWaveformState::delete_file" name="CWaveformState::delete_file">
+<area shape="rect" id="node2" href="$d3/dd8/classCWaveformState.html#abc5cbc85e4ddd94de1dfc6a8c7fbc2dc" title="CWaveformState::read_file" alt="" coords="262,111,458,137"/>
+<area shape="rect" id="node3" href="$d3/dd8/classCWaveformState.html#ad345f55a5c79c4201be2c9c64cab9856" title="Check if the waveform state file is OK. " alt="" coords="523,5,701,46"/>
+<area shape="rect" id="node5" href="$d3/dd8/classCWaveformState.html#a6c73dc584965a566498cf2b0c1002e7b" title="Read persistent waveform state information for device. " alt="" coords="527,70,697,111"/>
+<area shape="rect" id="node7" href="$d3/dd8/classCWaveformState.html#a336de2020a229ebd5c4b85fba93a928f" title="Persist waveform state information for device. " alt="" coords="525,135,699,177"/>
+<area shape="rect" id="node9" href="$d3/dd8/classCWaveformState.html#a1a3e35ae166a956de7425acf07b9f1c8" title="Remove device and its waveform state list and persist. " alt="" coords="507,201,717,242"/>
+<area shape="rect" id="node4" href="$d2/d7f/classCWaveformService.html#a6853a435b1d2b6ccaad47eef5f98f731" title="Check if the waveform state file is OK. " alt="" coords="765,5,957,46"/>
+<area shape="rect" id="node6" href="$d2/d7f/classCWaveformService.html#a26f89e18cd1ce57b90ccb1d98ae2358c" title="Fill supplied vector with DH&#39;s latest known position dependent list of ID&#39;s for waveforms on the devi..." alt="" coords="770,70,953,111"/>
+<area shape="rect" id="node8" href="$d2/d7f/classCWaveformService.html#acf4b95fb13085450463200511aec0615" title="For testing &#45; store provided waveform_state list. " alt="" coords="768,135,955,177"/>
+<area shape="rect" id="node10" href="$d2/d7f/classCWaveformService.html#a0283952de64f3d56009f8b3ab481c5a6" title="Completely remove all waveform info for device (including waveform state tracking) This method is for..." alt="" coords="766,201,957,242"/>
+<area shape="rect" id="node11" href="$df/d6f/classCSerialPort.html#a6cffd32e3a1abd7a80d83735e1b7a24c" title="Call this function to purge wvaeforms for a device (if suppported). " alt="" coords="1005,201,1144,242"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CPcdMeasuresTableEntry::validate_special_nodes" name="CPcdMeasuresTableEntry::validate_special_nodes">
+<area shape="rect" id="node2" href="$d9/d6e/classCPcdMeasuresTableEntry.html#a1680f8a53e8afec69d7941432afb88e7" title="Factory function which checks to see if we need to add a pcdMeasuresTable entry for the given Device..." alt="" coords="237,5,421,46"/>
+<area shape="rect" id="node3" href="$d2/db3/classCPcdMib.html#a14f6a8640ec4cec70c1cd77e0652757a" title="For each supported table, see if we need to add one or more entries based on the MCL Channels support..." alt="" coords="469,5,624,46"/>
+<area shape="rect" id="node4" href="$d2/db3/classCPcdMib.html#a90b1515042358f0d8b3d869f13be4746" title="Called by the CdsHandler ChannelSettings callback to allow MIB&#45;specific processing of the ChannelSett..." alt="" coords="672,5,867,46"/>
+<area shape="rect" id="node5" href="$d2/db3/classCPcdMib.html#a6ad2514517ca4811dc54f78604dc89f2" title="Constructor, given the CDS Handler. " alt="" coords="915,12,1055,39"/>
+</map>

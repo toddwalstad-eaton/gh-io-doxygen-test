@@ -1,0 +1,7 @@
+<map id="CDevice::reset_block_update_times" name="CDevice::reset_block_update_times">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#abbe464fb9902e815654ce1512d47cad6" title="Set the RealTime Device State flag. " alt="" coords="213,63,368,105"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#accb14c1121791e295ac675fc99b36807" title="Initialize the Data Blocks, Channels, and Internal Parameters for this Device. " alt="" coords="442,5,582,46"/>
+<area shape="rect" id="node4" href="$d2/d76/classCDevice.html#a2b6500949396a4d972e94118dd4687e7" title="Cleanup any remaining junk, once profiling is complete. " alt="" coords="417,71,607,97"/>
+<area shape="rect" id="node6" href="$d1/ddc/classCDeviceIoStats.html#adf7588c3a2aab8f60d61319fba39362b" title="Update the Device&#39;s I/O state based on I/O completion result. " alt="" coords="425,122,599,163"/>
+<area shape="rect" id="node5" href="$d2/d76/classCDevice.html#a00f0cf46dca1ac48b5f397b435ef867a" title="Called from the Data Block to handle its done state and manage received data. " alt="" coords="656,63,827,105"/>
+</map>

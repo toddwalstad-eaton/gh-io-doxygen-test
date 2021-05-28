@@ -1,0 +1,5 @@
+<map id="CIotOobHandler::set_oob_status" name="CIotOobHandler::set_oob_status">
+<area shape="rect" id="node2" href="$d3/d1e/classCIotOobHandler.html#a53f0103ee2c7a004965e7918c149c14e" title="Write out the status, error, and traffic information to the IotConnectionStatus OOB. " alt="" coords="209,5,375,46"/>
+<area shape="rect" id="node3" href="$d3/d1e/classCIotOobHandler.html#a36357391bdb6bd42a94e1dfa0ffaab33" title="Store the Connection String in the H_IotConnectionString OOB, and replace the string shown in the Iot..." alt="" coords="209,70,375,111"/>
+<area shape="rect" id="node4" href="$d3/d1e/classCIotOobHandler.html#a66db7e6e5a924d3fd8dd51462c204019" title="Convenience getter for the hostname for the IoT Hub. " alt="" coords="215,135,369,177"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CDevice::set_gateway_model" name="CDevice::set_gateway_model">
+<area shape="rect" id="node2" href="$dc/deb/classCModbusSerialDevice.html#a16701c58369fb9dcef8bb74759ffc9c5" title="Default constructor. " alt="" coords="221,5,392,46"/>
+<area shape="rect" id="node3" href="$dc/deb/classCModbusSerialDevice.html#a5ae66e1a852618c7f9c1d5ba0ba2beca" title="Create and initialize a subdevice, given its EDS and device description, and our shared settings as p..." alt="" coords="440,5,603,46"/>
+</map>

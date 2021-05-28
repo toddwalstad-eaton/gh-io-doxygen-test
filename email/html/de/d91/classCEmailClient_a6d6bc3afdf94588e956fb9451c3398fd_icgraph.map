@@ -1,0 +1,6 @@
+<map id="CEmailClient::send_email" name="CEmailClient::send_email">
+<area shape="rect" id="node2" href="$de/d80/classCEmailWorkProcessor.html#a4e44cb079fb9914f215d93776a0ab201" title="send_email " alt="" coords="201,5,365,46"/>
+<area shape="rect" id="node3" href="$de/d80/classCEmailWorkProcessor.html#ae906cf132d2ddbbb747dd3b17c414784" title="process_work_item " alt="" coords="414,5,578,46"/>
+<area shape="rect" id="node4" href="$de/d80/classCEmailWorkProcessor.html#a4e447ed720a0ab0043a4cfff8f920e89" title="execute " alt="" coords="627,5,791,46"/>
+<area shape="rect" id="node5" href="$de/d80/classCEmailWorkProcessor.html#ad516af41e5a780007a9f99252cfcff22" title="Constructor. " alt="" coords="841,5,1013,46"/>
+</map>

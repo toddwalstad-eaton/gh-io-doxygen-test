@@ -1,0 +1,15 @@
+<map id="CDataBlock::parent_dev_id_str" name="CDataBlock::parent_dev_id_str">
+<area shape="rect" id="node2" href="$de/d8a/classCDataBlock.html#ac0e1e83235e11c060a3388c8b108cb7b" title="Constructor which creates the Data Block from its EDS data, gives its buffer the right size..." alt="" coords="237,5,419,32"/>
+<area shape="rect" id="node3" href="$de/d8a/classCDataBlock.html#a5becbfbfec455a63ce1c35e4ab622be3" title="Re&#45;evaluate block priority, escalating it based on the configured priority of this Block and how much..." alt="" coords="251,56,405,83"/>
+<area shape="rect" id="node4" href="$de/d8a/classCDataBlock.html#a047cc8eb8ed94d043a04f1db9726e83d" title="CDataBlock::lookup\l_eqn_variables" alt="" coords="253,107,403,149"/>
+<area shape="rect" id="node5" href="$de/d8a/classCDataBlock.html#ac327400467ada667c641474f67931ac7" title="CDataBlock::dump_xformd\l_values" alt="" coords="229,173,427,214"/>
+<area shape="rect" id="node8" href="$d4/d7c/classCModbusReadDiagnosticsResponse.html#a0f4e753954448fc011c6e7e0b9a66b2c" title="Handle the reception of a request/response with this function code. " alt="" coords="203,238,453,279"/>
+<area shape="rect" id="node9" href="$dc/d3b/classCModbusReadDiscretesResponse.html#ab8670e08e99ff1310045a63c3d676c28" title="Handle the reception of a request/response with this function code. " alt="" coords="210,303,446,345"/>
+<area shape="rect" id="node10" href="$d4/ddc/classCModbusReadRegistersResponse.html#a8bd502859ab0882af83f6c786700dfe3" title="Handle the reception of a request/response with this function code. " alt="" coords="211,369,445,410"/>
+<area shape="rect" id="node11" href="$d6/d2b/classCModbusWriteMultipleCoilsResponse.html#a1f13b5931d72e40a03fc9606cf8671e3" title="Handle the reception of a request/response with this function code. " alt="" coords="229,434,427,475"/>
+<area shape="rect" id="node12" href="$d6/d1a/classCModbusWriteMultipleRegistersResponse.html#a7705a41a675193fcb16a382aa42c8468" title="Handle the reception of a request/response with this function code. " alt="" coords="215,499,441,541"/>
+<area shape="rect" id="node13" href="$de/d81/classCModbusWriteSingleCoilResponse.html#a8874e8e5a07f0dd45f7f39fed411bad3" title="Handle the reception of a request/response with this function code. " alt="" coords="207,565,449,606"/>
+<area shape="rect" id="node14" href="$d7/dd8/classCModbusWriteSingleRegisterResponse.html#a5f63e133b69399bba0b3fab3efebad3b" title="Handle the reception of a request/response with this function code. " alt="" coords="224,630,432,671"/>
+<area shape="rect" id="node6" href="$df/d62/classCModbusCommandBlock.html#a894f44268936cb36f5f1886493d1be54" title="Callback invoked when this DataBlock&#39;s messages have been completed. " alt="" coords="509,141,693,182"/>
+<area shape="rect" id="node7" href="$de/df8/classCModbusDataBlock.html#a6e4d8179495b23028debcc5725aa557a" title="Callback invoked when this DataBlock&#39;s messages have been completed. " alt="" coords="501,206,701,247"/>
+</map>

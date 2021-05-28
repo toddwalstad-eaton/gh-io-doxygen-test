@@ -1,0 +1,23 @@
+<map id="channel_settings.cpp" name="channel_settings.cpp">
+<area shape="rect" id="node4" href="$d4/d3d/log_8hpp.html" title="An internal libpx header that defines the syslogging functions. " alt="" coords="629,179,699,205"/>
+<area shape="rect" id="node7" href="$dd/d3a/common_8hpp.html" title="px/common.hpp" alt="" coords="1998,443,2124,469"/>
+<area shape="rect" id="node10" href="$d7/d1e/exception_8hpp.html" title="px/exception.hpp" alt="" coords="493,360,627,387"/>
+<area shape="rect" id="node15" href="$d4/d32/util_2util_8hpp.html" title="px/util/util.hpp" alt="" coords="1270,179,1385,205"/>
+<area shape="rect" id="node30" href="$dc/d3d/channel__settings_8hpp.html" title="px/data/channel_settings.hpp" alt="" coords="2393,88,2607,115"/>
+<area shape="rect" id="node46" href="$d6/dd1/proto__ops_8hpp.html" title="px/proto/ops/proto\l_ops.hpp" alt="" coords="3815,171,3956,213"/>
+<area shape="rect" id="node50" href="$d3/d06/string__util_8hpp.html" title="px/util/string_util.hpp" alt="" coords="3331,269,3491,296"/>
+<area shape="rect" id="node6" href="$d6/df8/lib__log_8hpp.html" title="px/util/lib_log.hpp" alt="" coords="595,269,733,296"/>
+<area shape="rect" id="node13" href="$d4/d76/type_2string_8hpp.html" title="type/string.hpp" alt="" coords="2799,443,2919,469"/>
+<area shape="rect" id="node19" href="$d5/da4/realtime__priority_8hpp.html" title="px/util/realtime_priority.hpp" alt="" coords="1960,360,2163,387"/>
+<area shape="rect" id="node21" href="$d6/d86/bitset_8hpp.html" title="px/type/bitset.hpp" alt="" coords="1462,269,1601,296"/>
+<area shape="rect" id="node28" href="$d6/d33/permission__enums_8hpp.html" title="px/enum/permission\l_enums.hpp" alt="" coords="3584,262,3739,303"/>
+<area shape="rect" id="node33" href="$df/d2b/shared__string_8hpp.html" title="px/type/shared_string.hpp" alt="" coords="2437,269,2627,296"/>
+<area shape="rect" id="node35" href="$d2/dca/type_2value_8hpp.html" title="px/type/value.hpp" alt="" coords="2996,269,3135,296"/>
+<area shape="rect" id="node40" href="$db/db3/id_8hpp.html" title="px/type/id.hpp" alt="" coords="3001,179,3116,205"/>
+<area shape="rect" id="node39" href="$d6/d12/datatype_8hpp.html" title="px/enum/datatype.hpp" alt="" coords="2525,360,2693,387"/>
+<area shape="rect" id="node42" href="$d9/d04/hash_8hpp.html" title="px/hash.hpp" alt="" coords="2220,179,2321,205"/>
+<area shape="rect" id="node43" href="$d8/df7/channel__flag_8hpp.html" title="channel_flag.hpp" alt="" coords="3222,179,3353,205"/>
+<area shape="rect" id="node44" href="$de/d21/multistate__map_8hpp.html" title="multistate_map.hpp" alt="" coords="2538,179,2691,205"/>
+<area shape="rect" id="node37" href="$d1/db0/timestamp_8hpp.html" title="timestamp.hpp" alt="" coords="3339,360,3460,387"/>
+<area shape="rect" id="node38" href="$db/d73/invalid_8hpp.html" title="invalid.hpp" alt="" coords="3169,360,3263,387"/>
+</map>

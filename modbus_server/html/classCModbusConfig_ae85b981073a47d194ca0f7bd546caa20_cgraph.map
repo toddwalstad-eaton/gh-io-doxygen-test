@@ -1,0 +1,18 @@
+<map id="CModbusConfig::handle_device_state_change" name="CModbusConfig::handle_device_state_change">
+<area shape="rect" id="node2" href="$classCModbusCdsHandle.html#a717d5de6eca53b75879167a227762740" title="ToDo: replace with CdsHandler&#39;s init_device_map() and more List the device or sub&#45;devices of the spec..." alt="" coords="491,5,669,46"/>
+<area shape="rect" id="node3" href="$classCModbusCdsHandle.html#a375e0e452ddc16077dda71c40fe506de" title="Utility function to check whether the device role is subdevice. " alt="" coords="232,318,403,359"/>
+<area shape="rect" id="node4" href="$classCModbusConfig.html#a0eed7f16755c2dc94c5c18aec4656708" title="Threadsafe method to add or remove a device from the _tcp_map. " alt="" coords="503,369,657,410"/>
+<area shape="rect" id="node6" href="$classCModbusConfig.html#a2a313685904bac00accb6666c46dc744" title="Helper function to add sub&#45;device IDs. " alt="" coords="240,383,395,425"/>
+<area shape="rect" id="node7" href="$classCModbusConfig.html#aa16969e3e77127fc62b14666798ba538" title="Help function to handle a new dynamic device &#45; create address mapping for it. " alt="" coords="230,201,405,242"/>
+<area shape="rect" id="node5" href="$classCModbusUtil.html#a810fa100a70e436cbe20cbdc3305933d" title="Delete the specified file. " alt="" coords="763,321,943,348"/>
+<area shape="rect" id="node8" href="$classCModbusUtil.html#a050b83c8a08e3d3b7e501a9d16ca3504" title="Generate dynamic PEDs file name based on Device ID and canonical name. " alt="" coords="482,70,678,111"/>
+<area shape="rect" id="node10" href="$classCModbusConfig.html#a1f48c6e00c2ca0c81d3a234d0059c12c" title="Dynamically create PEDs files for existing devices and save to the &quot;/tmp/peds&quot; directory. " alt="" coords="495,135,665,177"/>
+<area shape="rect" id="node15" href="$classCModbusConfig.html#a4bc8d3103b1e3823f21f5df61f81ff5b" title="Get a unique unit id for a new device. " alt="" coords="501,201,659,242"/>
+<area shape="rect" id="node16" href="$classCModbusCdsHandle.html#a3436a86ba0d8a2a028c5039bddce14e1" title="Utility function to set the UNITID_MAP/MODBUS_SERVER/&lt;id&gt; OOB object. " alt="" coords="475,267,685,293"/>
+<area shape="rect" id="node17" href="$classCModbusCdsHandle.html#ae6b1878d7d3a92d95ff66135a7766367" title="utility function to subscribe to a particular oob object. " alt="" coords="454,317,706,344"/>
+<area shape="rect" id="node9" href="$classCModbusUtil.html#a308d6e5bd7976a54536f6a19c56599ea" title="Replace any forbidden filename charaters in a string. " alt="" coords="755,70,952,111"/>
+<area shape="rect" id="node11" href="$classCModbusUtil.html#a0e88aa5cef4d314c3101bdb11e13a379" title="Check if a given file exists or not. " alt="" coords="768,135,939,177"/>
+<area shape="rect" id="node12" href="$classCEfficient.html#a385322b9f1c3ab2ac5b713b62970f393" title="Create PEDs file from device attributes, channels, and commands. " alt="" coords="779,201,927,242"/>
+<area shape="rect" id="node13" href="$classCModbusUtil.html#a6af1e1d43d44e906f140f6711ae5c582" title="Get register count for a data&#45;type. " alt="" coords="1001,167,1191,209"/>
+<area shape="rect" id="node14" href="$classCModbusCdsHandle.html#a07c1b743de512abf3d0ac5abca2bc0d3" title="Retrieve list of supported commands for a particular device. " alt="" coords="1007,233,1185,274"/>
+</map>

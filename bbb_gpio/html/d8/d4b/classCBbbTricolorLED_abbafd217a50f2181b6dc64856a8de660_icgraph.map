@@ -1,0 +1,6 @@
+<map id="CBbbTricolorLED::color_text" name="CBbbTricolorLED::color_text">
+<area shape="rect" id="node2" href="$d8/d4b/classCBbbTricolorLED.html#ac0bdc316c4e24018664a77f73e8cbca6" title="Read the I/O pins and establish the &quot;color&quot; the LED is set to. " alt="" coords="269,5,427,46"/>
+<area shape="rect" id="node4" href="$d8/d4b/classCBbbTricolorLED.html#ad0c06440b8a1fcf7d8d1139df9691ba6" title="The callback function invoked when this Channel&#39;s Value is written to. " alt="" coords="257,70,439,111"/>
+<area shape="rect" id="node3" href="$d8/d4b/classCBbbTricolorLED.html#a955e9eb59ca2d147f4c92a0ad82ff9c6" title="Initialize this channel in the CDS: create if not present, and read in its present value and set that..." alt="" coords="492,5,684,46"/>
+<area shape="rect" id="node5" href="$d8/d4b/classCBbbTricolorLED.html#a7d573f01132bc8acb5d9ce19f0d3afda" title="Subscribe to changes in this Channel&#39;s Values. " alt="" coords="489,70,687,111"/>
+</map>

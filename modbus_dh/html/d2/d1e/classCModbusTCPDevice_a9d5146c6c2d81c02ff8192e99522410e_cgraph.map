@@ -1,0 +1,7 @@
+<map id="CModbusTCPDevice::CModbusTCPDevice" name="CModbusTCPDevice::CModbusTCPDevice">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#a5e083835cb8c682687a4c693f76650ee" title="Tells us if this is a subdevice, and can return its instance number. " alt="" coords="280,5,448,32"/>
+<area shape="rect" id="node3" href="$dc/d20/classCTcpSocket.html#a74dc46078bc2067395365d30d5e45a41" title="Factory function to create a new CTcpSocket object. " alt="" coords="291,56,437,83"/>
+<area shape="rect" id="node4" href="$d2/d76/classCDevice.html#ab231a1465890affb24529dfe50f6a441" title="Get the parent Port and Device ID tag string (eg, &quot;(p2:d64)&quot; ) for this Device. " alt="" coords="272,107,456,133"/>
+<area shape="rect" id="node5" href="$d2/d76/classCDevice.html#ae8ee8335613d268b330e869d597f7440" title="Setter for the formatted address of this device. " alt="" coords="276,158,452,199"/>
+<area shape="rect" id="node6" href="$dc/d4a/classCUtil.html#aff025a27e9d1e7204e72c564e7a60adb" title="CUtil::get_formatted\l_address" alt="" coords="287,223,441,265"/>
+</map>

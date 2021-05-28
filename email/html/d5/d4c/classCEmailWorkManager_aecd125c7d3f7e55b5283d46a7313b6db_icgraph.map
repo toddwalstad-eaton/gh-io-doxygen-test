@@ -1,0 +1,7 @@
+<map id="CEmailWorkManager::alarm_history" name="CEmailWorkManager::alarm_history">
+<area shape="rect" id="node2" href="$d5/d4c/classCEmailWorkManager.html#a055d9a8e59bb0232d201de82890df47e" title="update_alarm_history " alt="" coords="225,5,391,46"/>
+<area shape="rect" id="node6" href="$d5/d4c/classCEmailWorkManager.html#ab4ac3e103f57650ff6edcff6adb3f409" title="update_channel_history " alt="" coords="219,70,397,111"/>
+<area shape="rect" id="node3" href="$d5/d4c/classCEmailWorkManager.html#a4f5b095533bbe855e56b8fba67333514" title="get_active_alarms_callback " alt="" coords="445,5,648,46"/>
+<area shape="rect" id="node4" href="$d5/d4c/classCEmailWorkManager.html#abd6c8822c511726cc4f77201588721c0" title="get_active_alarms " alt="" coords="696,5,861,46"/>
+<area shape="rect" id="node5" href="$d5/d4c/classCEmailWorkManager.html#a9cfe4e73121a484f16108e2e8dba8f9a" title="subscriptions_initialized " alt="" coords="909,5,1088,46"/>
+</map>

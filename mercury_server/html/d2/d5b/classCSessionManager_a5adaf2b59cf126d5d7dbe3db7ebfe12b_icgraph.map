@@ -1,0 +1,7 @@
+<map id="CSessionManager::set_led" name="CSessionManager::set_led">
+<area shape="rect" id="node2" href="$d2/d5b/classCSessionManager.html#aa35a67433f332a5e2f16d2c1593df4f6" title="Create a new session instance, and add it to our map of sessions. " alt="" coords="485,5,654,46"/>
+<area shape="rect" id="node3" href="$d2/d5b/classCSessionManager.html#a6f0a8af28193a32b292e100f3ade9c13" title="Close one session, indicated by a pointer to that session in our tracked set of connections. " alt="" coords="245,69,424,110"/>
+<area shape="rect" id="node6" href="$d2/d5b/classCSessionManager.html#a6d1c5d53f02762076671033c885b68f3" title="Close all sessions associated with the given protocol and remove them from the list of CDS authentica..." alt="" coords="245,134,424,175"/>
+<area shape="rect" id="node4" href="$d2/d5b/classCSessionManager.html#aadbedbf4badaeabd9328ad904a515acd" title="Remove (close) one session, indicated by its Session ID. " alt="" coords="472,70,667,111"/>
+<area shape="rect" id="node5" href="$d2/d5b/classCSessionManager.html#a995955457c3d8962c76043d931c349a3" title="Remove all subscriptions of the protocol handler associated to the session, and close the session..." alt="" coords="480,135,659,177"/>
+</map>

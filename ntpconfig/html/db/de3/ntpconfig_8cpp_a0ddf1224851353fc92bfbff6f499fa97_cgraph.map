@@ -1,0 +1,11 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d8/d50/ntpconfig_8hpp.html#a649125011244d15eafb073889ed65c33" title="getCmdOpts" alt="" coords="115,132,218,159"/>
+<area shape="rect" id="node9" href="$d8/d50/ntpconfig_8hpp.html#a6d795af54ffeebcbe2cc870de041b2d6" title="saveCmdOpts" alt="" coords="110,183,223,209"/>
+<area shape="rect" id="node3" href="$d5/d1e/options_8cpp.html#a4084584c9fe2c4f271542ef5820814e1" title="updateCDS" alt="" coords="291,81,386,108"/>
+<area shape="rect" id="node8" href="$d5/d1e/options_8cpp.html#a5232fd3b7cd57e6477fa7621e4b29f6d" title="findOpt" alt="" coords="304,132,373,159"/>
+<area shape="rect" id="node4" href="$d5/d1e/options_8cpp.html#acfd3c22daefddad2b2bd0f82792e25b0" title="cds_connect" alt="" coords="478,5,581,32"/>
+<area shape="rect" id="node5" href="$d5/d1e/options_8cpp.html#a379c8af68291596ba09dacd306bf8208" title="not_OOB_hostname" alt="" coords="454,56,605,83"/>
+<area shape="rect" id="node6" href="$d5/d1e/options_8cpp.html#aedb47cfaa6d435b1269e0b5eb9392ffd" title="set_ntp_status" alt="" coords="471,107,588,133"/>
+<area shape="rect" id="node7" href="$d5/d1e/options_8cpp.html#a8c8c03d6d6cdf3eaca99cb9fe4edb06c" title="set_clockstep" alt="" coords="474,157,585,184"/>
+<area shape="rect" id="node10" href="$d5/d1e/options_8cpp.html#adf7f130cb0e7c81571ac962c697041f5" title="removeFileString" alt="" coords="273,183,405,209"/>
+</map>

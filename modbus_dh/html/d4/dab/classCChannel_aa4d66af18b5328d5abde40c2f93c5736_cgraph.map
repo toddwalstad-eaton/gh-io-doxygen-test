@@ -1,0 +1,10 @@
+<map id="CChannel::update_param" name="CChannel::update_param">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#a486d83946508c37417397d98ea69df0c" title="Getter to lookup the Channel or Internal Parameter by its ID and return (a copy of) its Value..." alt="" coords="267,5,421,46"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#acace33b057a3e2de57af44f990eca5ef" title="Return current CValue given block ID and translator array index. " alt="" coords="271,135,417,177"/>
+<area shape="rect" id="node7" href="$d2/d76/classCDevice.html#ad900bffadb42c2749f127f3d0a806140" title="Return current CValue given block ID, translator array index, bit position, and count. " alt="" coords="259,70,429,111"/>
+<area shape="rect" id="node8" href="$d2/d76/classCDevice.html#a4370e9ca0a087ecd7e64d0ae7017edc6" title="Return EDS data type from given parameter name. " alt="" coords="241,211,447,237"/>
+<area shape="rect" id="node4" href="$d2/d76/classCDevice.html#abac1fe55b006dfb7cf69e1b52cfa0f0e" title="Getter for one DataBlock, from its ID. " alt="" coords="503,68,673,95"/>
+<area shape="rect" id="node5" href="$d2/d76/classCDevice.html#ab231a1465890affb24529dfe50f6a441" title="Get the parent Port and Device ID tag string (eg, &quot;(p2:d64)&quot; ) for this Device. " alt="" coords="496,169,680,196"/>
+<area shape="rect" id="node6" href="$d2/d76/classCDevice.html#a5e083835cb8c682687a4c693f76650ee" title="Tells us if this is a subdevice, and can return its instance number. " alt="" coords="504,119,672,145"/>
+<area shape="rect" id="node9" href="$d6/d52/classCParsedDeviceEds.html#a4c194b758f93dd66c123eb9db4b3a694" title="Test for param that has no value. " alt="" coords="507,221,669,262"/>
+</map>

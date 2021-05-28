@@ -1,0 +1,10 @@
+<map id="CDevice::get_block_value" name="CDevice::get_block_value">
+<area shape="rect" id="node2" href="$d4/dab/classCChannel.html#aa4d66af18b5328d5abde40c2f93c5736" title="Update this Channel or Parameter now from its equation or xBlock source data. " alt="" coords="200,5,387,32"/>
+<area shape="rect" id="node3" href="$d3/d17/classCEqValueHandler.html#ad7cdf3fd26f526aa7afa67b2dc75e681" title="Implementation of the getter for a variable in an equation. " alt="" coords="212,56,375,83"/>
+<area shape="rect" id="node4" href="$d9/d07/classCInternalParam.html#afc41455973db2d179ef19819c1f409ea" title="Update this Channel or Parameter now from its equation or xBlock source data. " alt="" coords="446,129,621,170"/>
+<area shape="rect" id="node5" href="$d8/d41/classCDeviceUtil.html#a520e89521c939d4a3623c1e8bb024ac6" title="CDeviceUtil::handle\l_special_param" alt="" coords="218,158,369,199"/>
+<area shape="rect" id="node6" href="$d8/d41/classCDeviceUtil.html#a4ecf267c17300053762923721842cca5" title="CDeviceUtil::check\l_channel_properties" alt="" coords="217,223,370,265"/>
+<area shape="rect" id="node7" href="$d2/d76/classCDevice.html#a9a264f06ca393141f27924219d678dea" title="Omnibus function that: a) Deletes any device CDS channels that are not in the _channel_list for this ..." alt="" coords="435,231,631,257"/>
+<area shape="rect" id="node8" href="$d2/d76/classCDevice.html#a2b6500949396a4d972e94118dd4687e7" title="Cleanup any remaining junk, once profiling is complete. " alt="" coords="681,231,871,257"/>
+<area shape="rect" id="node9" href="$d2/d76/classCDevice.html#a00f0cf46dca1ac48b5f397b435ef867a" title="Called from the Data Block to handle its done state and manage received data. " alt="" coords="920,223,1091,265"/>
+</map>

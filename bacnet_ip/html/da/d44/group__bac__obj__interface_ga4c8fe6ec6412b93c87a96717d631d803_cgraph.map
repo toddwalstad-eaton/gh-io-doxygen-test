@@ -1,0 +1,4 @@
+<map id="Device_Object_Instance_Number" name="Device_Object_Instance_Number">
+<area shape="rect" id="node2" href="$d3/d9d/group__bip__routing__interface.html#gaca13e00f88c28db7220d0b523397a87f" title="Get a pointer to the current Device object (look up from the current global setting for instance numb..." alt="" coords="253,5,400,46"/>
+<area shape="rect" id="node3" href="$dd/d0a/classCBacnetObject.html#adc2fd19e7650da6303eabae07cdfc7a4" title="Getter for this object&#39;s Object_Instance (the ID part of ObjectID). " alt="" coords="232,70,421,111"/>
+</map>

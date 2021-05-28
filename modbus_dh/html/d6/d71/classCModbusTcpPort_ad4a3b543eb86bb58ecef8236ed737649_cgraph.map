@@ -1,0 +1,10 @@
+<map id="CModbusTcpPort::device_remove_event" name="CModbusTcpPort::device_remove_event">
+<area shape="rect" id="node2" href="$d6/d71/classCModbusTcpPort.html#ae693807826228cedc39887a258851fc0" title="Setter for the port throttle time. " alt="" coords="233,5,389,46"/>
+<area shape="rect" id="node3" href="$d6/d71/classCModbusTcpPort.html#a2a8a69169689ff0318e13a999c24272a" title="Getter for the current Network Interface Passthrough OOB data. " alt="" coords="232,70,389,111"/>
+<area shape="rect" id="node4" href="$d0/d8a/classCTcpProxyList.html#a541c437d12b0f6255eba3ed99767a07f" title="Getter for the Modbus TCP network oob data. " alt="" coords="471,5,612,46"/>
+<area shape="rect" id="node7" href="$d0/d8a/classCTcpProxyList.html#a582f60079724cc995dcbd389ee463a37" title="Check and if required sync proxy device configuration In the rare case of a race condition between de..." alt="" coords="437,70,645,111"/>
+<area shape="rect" id="node8" href="$d0/d8a/classCTcpProxyList.html#a2f12b0168e5ef9fae480b47d8e009829" title="Setter for the Modbus TCP network oob data. " alt="" coords="471,135,611,177"/>
+<area shape="rect" id="node5" href="$d0/d8a/classCTcpProxyList.html#a31665f94105428f5f405a9719ecd7b7c" title="Getter for the Modbus TCP network pass&#45;through list. " alt="" coords="701,5,845,46"/>
+<area shape="rect" id="node6" href="$db/daf/classCModbusUtil.html#ae8a0fdaf34af28b14a703b29a2b0391b" title="Decode the IP address, port, and unit ID The passed in tcp_addr_t struct is filled in with IP address..." alt="" coords="694,70,853,111"/>
+<area shape="rect" id="node9" href="$d0/d8a/classCTcpProxyList.html#afc21597d5463201b459fb5374394e67b" title="Setter for the Modbus TCP network pass&#45;through list. " alt="" coords="701,135,845,177"/>
+</map>

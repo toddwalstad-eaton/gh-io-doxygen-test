@@ -1,0 +1,6 @@
+<map id="CScheduler::reset_timer" name="CScheduler::reset_timer">
+<area shape="rect" id="node2" href="$d3/dc1/classCScheduler.html#adb3ccee6555d827c9d1de83cafa66349" title="Callback for timer &#45; helps manage scheduled task execution. " alt="" coords="232,35,392,61"/>
+<area shape="rect" id="node3" href="$d9/d7d/classpx_1_1CWallTime.html#a4452bc7e8e4fbb8c976f5763269593e7" title="Factory function to create a new CWallTime instance set to &quot;now&quot;. " alt="" coords="445,5,595,32"/>
+<area shape="rect" id="node4" href="$d3/dc1/classCScheduler.html#a3576dea0c19a673d86e6bcc3c8b03738" title="Queue up task for asynchronous execution on one of the scheduler&#39;s worker threads. " alt="" coords="441,57,599,98"/>
+<area shape="rect" id="node5" href="$d3/dc1/classCScheduler.html#a6778cde13867cb727841163cab1f05a0" title="Function provided to boost asio post(), in order to execute task and clean up task list..." alt="" coords="648,57,803,98"/>
+</map>

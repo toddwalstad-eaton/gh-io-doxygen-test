@@ -1,0 +1,6 @@
+<map id="CDevice" name="CDevice">
+<area shape="rect" id="node4" href="$d7/d46/classCModbusDevice.html" title="This class implements a Device container for Modbus/RTU communicating devices. " alt="" coords="124,1169,367,1495"/>
+<area shape="rect" id="node2" href="$d8/d81/structIDataBlockObserver.html" title="Data Block Observer Defines an interface for objects that can be notified on block completion (eg..." alt="" coords="9,6,252,274"/>
+<area shape="rect" id="node5" href="$dc/deb/classCModbusSerialDevice.html" title="This class implements a Device container for Modbus/RTU communicating devices. " alt="" coords="5,1545,245,1813"/>
+<area shape="rect" id="node6" href="$d2/d1e/classCModbusTCPDevice.html" title="This class implements a Device container for Modbus/TCP communicating devices. " alt="" coords="270,1559,460,1798"/>
+</map>

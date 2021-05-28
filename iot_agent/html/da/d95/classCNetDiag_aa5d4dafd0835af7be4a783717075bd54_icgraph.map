@@ -1,0 +1,7 @@
+<map id="CNetDiag::try_tcp" name="CNetDiag::try_tcp">
+<area shape="rect" id="node2" href="$da/d95/classCNetDiag.html#a4563e04e6657c0202af3e57551cad688" title="Test proxy, and connecting to www.eaton.com/robots.txt via the proxy. " alt="" coords="193,5,354,32"/>
+<area shape="rect" id="node5" href="$da/d95/classCNetDiag.html#acf6a1f28821ef0e34cf1fe915a5d8be7" title="Test Internet connectivity (directly to www.eaton.com, ports 80 and 443). " alt="" coords="199,56,348,83"/>
+<area shape="rect" id="node6" href="$da/d95/classCNetDiag.html#aa2c7ba59accaf7315ed572d0b321065b" title="Test connectivity to the configured host endpoint. " alt="" coords="197,107,349,133"/>
+<area shape="rect" id="node3" href="$da/d95/classCNetDiag.html#a3e5a05033292d428ee7f99a80c5a48ca" title="Protected Member Functions Using Protected instead of Private to permit unit test access..." alt="" coords="403,49,551,90"/>
+<area shape="rect" id="node4" href="$d3/dbd/group__iot__threading.html#ga65f7c89848b60a66b4a52a9d941e2546" title="Launches the task that runs the net diagnostics tests. " alt="" coords="600,49,763,90"/>
+</map>

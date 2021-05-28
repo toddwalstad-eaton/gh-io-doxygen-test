@@ -1,0 +1,5 @@
+<map id="CEqValueHandler::set" name="CEqValueHandler::set">
+<area shape="rect" id="node2" href="$d3/d17/classCEqValueHandler.html#a0f48c7d8cb01bc8a0a1fec1bfa4b2ba0" title="QLF to find the named parameter in our map. " alt="" coords="216,5,387,46"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#ab1872d7ca33aa38e50ea84203bd06f28" title="Setter to lookup the Channel or Internal Parameter by its ID and set the new given Value..." alt="" coords="225,70,378,111"/>
+<area shape="rect" id="node4" href="$d2/d76/classCDevice.html#ab231a1465890affb24529dfe50f6a441" title="Get the parent Port and Device ID tag string (eg, &quot;(p2:d64)&quot; ) for this Device. " alt="" coords="435,77,619,104"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="px::asio::CTimedObject" name="px::asio::CTimedObject">
+<area shape="rect" id="node2" href="$d5/d33/classpx_1_1asio_1_1CIoMessage.html" title="I/O Message base class. " alt="" coords="5,131,163,517"/>
+<area shape="rect" id="node3" href="$d1/d36/classpx_1_1asio_1_1CMsecTimer.html" title="Generic application timer actor used to periodically call back to the application code (which has the..." alt="" coords="188,227,367,421"/>
+<area shape="rect" id="node4" href="$d8/d42/classpx_1_1asio_1_1CWatchdogTimer.html" title="Watchdog timer actor used to periodically ping the CDS. " alt="" coords="391,249,583,399"/>
+</map>

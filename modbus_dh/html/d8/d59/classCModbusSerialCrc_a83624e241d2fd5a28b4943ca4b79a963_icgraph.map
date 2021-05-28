@@ -1,0 +1,7 @@
+<map id="CModbusSerialCrc::calculate" name="CModbusSerialCrc::calculate">
+<area shape="rect" id="node2" href="$d3/d97/classCModbusSerialAdu.html#a906f4bd2051352ddef87986206bac18d" title="Try to parse the given buffer. " alt="" coords="512,8,699,34"/>
+<area shape="rect" id="node3" href="$d3/d97/classCModbusSerialAdu.html#a4624f07f9360c75fa0ed0e027e9b0ebb" title="Parse the received bytes when we don&#39;t know the expected size of the response. " alt="" coords="264,30,451,71"/>
+<area shape="rect" id="node4" href="$d8/d59/classCModbusSerialCrc.html#a3e6e6e2c956cd169100060806bb77084" title="Verify this object&#39;s CRC value. " alt="" coords="265,96,450,122"/>
+<area shape="rect" id="node5" href="$d8/d59/classCModbusSerialCrc.html#ae49475c84b801ecead651a9b4070d4a4" title="Update this object&#39;s CRC value. " alt="" coords="261,146,453,173"/>
+<area shape="rect" id="node6" href="$d3/d97/classCModbusSerialAdu.html#a37e40d3bf508e50cc5240868342946b5" title="Serialize this protocol object into an output buffer. " alt="" coords="502,146,709,173"/>
+</map>

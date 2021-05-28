@@ -1,0 +1,12 @@
+<map id="px::cds::CGetSingleChannel" name="px::cds::CGetSingleChannel">
+<area shape="rect" id="node2" href="$d0/df1/classpx_1_1CChannel.html" title="Channel as referred to by the CDS. " alt="" coords="688,1027,808,1251"/>
+<area shape="rect" id="node3" href="$d9/d7d/classpx_1_1CWallTime.html" title="Wall&#45;clock time. " alt="" coords="103,688,220,941"/>
+<area shape="rect" id="node4" href="$d6/d4e/classpx_1_1CTimestamp.html" title="Wrapper around a &quot;timespec&quot; structure that provides additional useful functionality. " alt="" coords="5,318,224,615"/>
+<area shape="rect" id="node5" href="$da/d9d/classtimespec.html" title="{timespec\n||}" alt="" coords="119,155,201,232"/>
+<area shape="rect" id="node7" href="$db/dd9/classpx_1_1CValue.html" title="Variadic value. " alt="" coords="1050,695,1232,934"/>
+<area shape="rect" id="node10" href="$dd/d57/classpx_1_1CBitset.html" title="{px::CBitset\&lt; px::realtime\l_state \&gt;\n||+ CBitset()\l+ get()\l+ set()\l+ reset()\l+ mask_set()\l+ mask_clear()\l+ mask()\l+ empty()\l+ operator==()\l+ operator!=()\land 11 more...\l+ size()\l+ nbytes()\l}" alt="" coords="460,681,647,949"/>
+<area shape="rect" id="node15" href="$dd/d57/classpx_1_1CBitset.html" title="Stores a bit&#45;field of flags defined by an enumerated type. " alt="" coords="1209,340,1340,593"/>
+<area shape="rect" id="node21" href="$dd/d57/classpx_1_1CBitset.html" title="{px::CBitset\&lt; realtime\l_state \&gt;\n||+ CBitset()\l+ get()\l+ set()\l+ reset()\l+ mask_set()\l+ mask_clear()\l+ mask()\l+ empty()\l+ operator==()\l+ operator!=()\land 11 more...\l+ size()\l+ nbytes()\l}" alt="" coords="1261,681,1424,949"/>
+<area shape="rect" id="node14" title="STL class. " alt="" coords="1025,5,1148,83"/>
+<area shape="rect" id="node19" title="STL class. " alt="" coords="249,428,431,505"/>
+</map>

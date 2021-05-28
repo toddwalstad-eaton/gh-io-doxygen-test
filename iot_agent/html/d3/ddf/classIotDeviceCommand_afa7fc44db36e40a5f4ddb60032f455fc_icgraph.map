@@ -1,0 +1,4 @@
+<map id="IotDeviceCommand::get_cmd_params" name="IotDeviceCommand::get_cmd_params">
+<area shape="rect" id="node2" href="$d2/d55/classCIotDataDevice.html#acccc33e01c0f9d96183e9f7bc9c54e6f" title="Handle a C2D Device Command for the GetChannelValues method. " alt="" coords="235,5,466,46"/>
+<area shape="rect" id="node3" href="$d2/d55/classCIotDataDevice.html#ac03a035f18b36de2b3ccb0571ea73bb5" title="Handle a C2D Device Command for the SetChannelValues method. " alt="" coords="236,70,465,111"/>
+</map>

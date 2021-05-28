@@ -1,0 +1,15 @@
+<map id="opcua::server::COPCUaServer::create_map" name="opcua::server::COPCUaServer::create_map">
+<area shape="rect" id="node2" href="$d6/d82/namespaceopcua_1_1utils_1_1debug.html#a90e3350f7fa03064b760572ce715c503" title="Convert CDS Device into string, formated to fit into tree print format. " alt="" coords="288,5,467,46"/>
+<area shape="rect" id="node4" href="$dc/dec/classopcua_1_1server_1_1COPCUaServer.html#a92157786c7fcd77c1395400700c8169d" title="Create new OPC UA object node from CDS device. " alt="" coords="270,70,485,111"/>
+<area shape="rect" id="node5" href="$dc/dec/classopcua_1_1server_1_1COPCUaServer.html#a2f4afe003ac488ba3bb834be50fd0856" title="Update the CDS&#45;OPC UA map. " alt="" coords="270,135,485,177"/>
+<area shape="rect" id="node6" href="$dc/dec/classopcua_1_1server_1_1COPCUaServer.html#a7d254a4f0326eca566b22bbb5459714c" title="Create new OPC UA Variable node from CDS channel. " alt="" coords="270,267,485,309"/>
+<area shape="rect" id="node13" href="$d6/d82/namespaceopcua_1_1utils_1_1debug.html#a39852ab77ad4ee491b94019da92a896c" title="Convert CDS Channel into string, formated to fit into tree print format. " alt="" coords="284,201,471,242"/>
+<area shape="rect" id="node3" href="$d6/d82/namespaceopcua_1_1utils_1_1debug.html#a30e16b80b036d2678dea21ffdcede8ed" title="Create indent string for Device tree print. " alt="" coords="551,67,708,109"/>
+<area shape="rect" id="node7" href="$d1/dc8/namespaceopcua_1_1utils_1_1conv.html#a3aef0263f42a96bb5e55c016eef85c14" title="Convert CDS value data type to OPC UA value data type. " alt="" coords="534,271,725,313"/>
+<area shape="rect" id="node8" href="$d6/d82/namespaceopcua_1_1utils_1_1debug.html#a37fa3deafc2d64d72ea74a10c5e4fef0" title="Convert UA Node Id into C++ string. " alt="" coords="774,271,919,313"/>
+<area shape="rect" id="node9" href="$d6/d82/namespaceopcua_1_1utils_1_1debug.html#a45947abfce3ebaccb18fd6ed4325c57d" title="Convert UA 32bit UInt into C++ string. " alt="" coords="969,183,1127,225"/>
+<area shape="rect" id="node10" href="$d6/d82/namespaceopcua_1_1utils_1_1debug.html#a3a4902bfb2de53188ba133212588b397" title="Convert UA String into C++ string. " alt="" coords="1176,309,1331,350"/>
+<area shape="rect" id="node11" href="$d6/d82/namespaceopcua_1_1utils_1_1debug.html#a41626791ae48055c6efb627e668f38eb" title="Convert UA GUID into C++ string. " alt="" coords="975,301,1121,342"/>
+<area shape="rect" id="node12" href="$d6/d82/namespaceopcua_1_1utils_1_1debug.html#a39a6de0cfc1686662e0a4bf73248871b" title="Convert UA ByteString into C++ string. " alt="" coords="975,367,1121,423"/>
+<area shape="rect" id="node14" href="$d6/d82/namespaceopcua_1_1utils_1_1debug.html#a83b66f5071021d3a0d11c392a4f2aa46" title="Convert realtime channel state into string. " alt="" coords="554,191,705,247"/>
+</map>

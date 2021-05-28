@@ -1,0 +1,7 @@
+<map id="CWaveformService::is_space_available" name="CWaveformService::is_space_available">
+<area shape="rect" id="node2" href="$d2/d7f/classCWaveformService.html#a589fd992a4a00071b3846412b5a071f2" title="Store waveform and update housekeeping records. " alt="" coords="979,26,1165,67"/>
+<area shape="rect" id="node3" href="$d2/d7f/classCWaveformService.html#aff166c1d4e8b11663f6af90b2aff29cc" title="Store waveform catalog info in CDS Oob Fields: optional string file = 1; // (required) The Waveform f..." alt="" coords="463,26,641,67"/>
+<area shape="rect" id="node4" href="$d2/d7f/classCWaveformService.html#aa2fb7902a9f291eb22030cf3a772931d" title="CWaveformService::check\l_content" alt="" coords="219,87,411,129"/>
+<area shape="rect" id="node5" href="$d2/d7f/classCWaveformService.html#ab9c750b22c7d8ec4177e95a2088ff43c" title="CWaveformService::write\l_comtrade_waveform" alt="" coords="459,91,645,133"/>
+<area shape="rect" id="node6" href="$d2/d7f/classCWaveformService.html#a8ae8f414abfdf80c7881deb744c42286" title="Produce final waveform file from .osw file. " alt="" coords="694,91,930,117"/>
+</map>

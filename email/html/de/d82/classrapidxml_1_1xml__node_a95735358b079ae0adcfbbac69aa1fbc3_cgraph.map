@@ -1,0 +1,6 @@
+<map id="rapidxml::xml_node::remove_all_nodes" name="rapidxml::xml_node::remove_all_nodes">
+<area shape="rect" id="node2" href="$de/d82/classrapidxml_1_1xml__node.html#a2dedeb4e04bb35e06a9a7bddf6ba652d" title="Gets first child node, optionally matching node name. " alt="" coords="205,38,357,79"/>
+<area shape="rect" id="node3" href="$d4/d48/classrapidxml_1_1xml__base.html#a9a09739310469995db078ebd0da3ed45" title="Gets name of the node. " alt="" coords="406,5,557,46"/>
+<area shape="rect" id="node5" href="$d4/d48/classrapidxml_1_1xml__base.html#a7e7f98b3d01e1eab8dc1ca69aad9af84" title="Gets size of node name, not including terminator character. " alt="" coords="406,70,557,111"/>
+<area shape="rect" id="node4" href="$d4/d48/classrapidxml_1_1xml__base.html#ad96ff6b1e41dab3ff60b9bc4df769a75" title="rapidxml::xml_base\l::nullstr" alt="" coords="606,5,757,46"/>
+</map>

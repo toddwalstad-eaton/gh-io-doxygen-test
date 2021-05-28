@@ -1,0 +1,7 @@
+<map id="CWaveformService::write_comtrade_waveform" name="CWaveformService::write_comtrade_waveform">
+<area shape="rect" id="node2" href="$d2/d7f/classCWaveformService.html#a4cc49878097f12ca13259f22409a773b" title="Generate unique&#45;ish filename for loose COMTRADE .hdr file The same base filename with a different ext..." alt="" coords="255,5,435,46"/>
+<area shape="rect" id="node3" href="$d2/d7f/classCWaveformService.html#aa2fb7902a9f291eb22030cf3a772931d" title="CWaveformService::check\l_content" alt="" coords="249,70,441,111"/>
+<area shape="rect" id="node5" href="$d2/d7f/classCWaveformService.html#a307b7a8067d7f796c8f7ebf3861f48e2" title="CWaveformService::write\l_loose_comtrade_files" alt="" coords="252,135,439,177"/>
+<area shape="rect" id="node6" href="$d2/d7f/classCWaveformService.html#a6cb778cbce1b3eab63d9c6b8252cad18" title="CWaveformService::package\l_comtrade_files" alt="" coords="241,201,450,242"/>
+<area shape="rect" id="node4" href="$d2/d7f/classCWaveformService.html#ad5101080533597baf28f47c15caefd38" title="Check if storage space is available in a particular location. " alt="" coords="499,70,664,111"/>
+</map>

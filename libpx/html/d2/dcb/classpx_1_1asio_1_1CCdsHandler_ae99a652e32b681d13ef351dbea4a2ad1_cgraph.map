@@ -1,0 +1,14 @@
+<map id="px::asio::CCdsHandler::~CCdsHandler" name="px::asio::CCdsHandler::~CCdsHandler">
+<area shape="rect" id="node2" href="$d2/dcb/classpx_1_1asio_1_1CCdsHandler.html#a0c2473fb91cf4b2786888535da71e51b" title="Undo the features that we enabled to populate the device map: unsubscribe callbacks, clear the map. " alt="" coords="219,118,389,159"/>
+<area shape="rect" id="node8" href="$db/db8/classpx_1_1cds_1_1CClient.html#a5aa42d307a74fdd3117745f85a587e34" title="Disconnect from the CDS. " alt="" coords="875,209,1077,236"/>
+<area shape="rect" id="node3" href="$db/db8/classpx_1_1cds_1_1CClient.html#ad3a241ca4570471536d3436ee23b3d65" title="Static Factory function: constructs if necessary, returns existing instance of CClient otherwise..." alt="" coords="663,41,815,68"/>
+<area shape="rect" id="node4" href="$db/db8/classpx_1_1cds_1_1CClient.html#a28b00111c32ca2391045e23966fb7210" title="Unregister the previously registered callback function for unsolicited messages from the CDS..." alt="" coords="1127,187,1324,229"/>
+<area shape="rect" id="node5" href="$db/db8/classpx_1_1cds_1_1CClient.html#a04806b8577ecbb198bc2f7c8cf9939ff" title="Unregister a previously registered callback structure. " alt="" coords="1127,253,1324,294"/>
+<area shape="rect" id="node6" href="$d2/dcb/classpx_1_1asio_1_1CCdsHandler.html#af206864b870bb26b37f9fc6cd563a88e" title="Submit a request for CDS processing fire and forget style. " alt="" coords="437,93,603,134"/>
+<area shape="rect" id="node7" href="$db/db8/classpx_1_1cds_1_1CClient.html#a907410082d34b93630b2f0b0abe44186" title="Submit a request for CDS processing. " alt="" coords="651,100,827,127"/>
+<area shape="rect" id="node9" href="$d5/dd5/namespacepx_1_1cds.html#a49c47a7060e04ef5eaccdab3e441f264" title="px::cds::req_pack" alt="" coords="909,100,1043,127"/>
+<area shape="rect" id="node13" href="$d1/d2c/structpx_1_1generic__err.html#ab55d991a1469e98c5d79a27d1b93b4d6" title="px::generic_err::what" alt="" coords="897,49,1055,76"/>
+<area shape="rect" id="node10" href="$d5/dd5/namespacepx_1_1cds.html#ade09d8ce5c3cbc71080e4c9658c71848" title="Given a CRequestResponse pointer, return the type enumeration value. " alt="" coords="1149,122,1302,163"/>
+<area shape="rect" id="node11" href="$de/dcb/namespacepx.html#a7996667dd567e40923855ae03e3ab8ba" title="Polymorphic casting: this utilizes dynamic_cast&lt;&gt; for non&#45;release builds, thus ensuring that the cast..." alt="" coords="1171,5,1279,32"/>
+<area shape="rect" id="node12" href="$d1/d21/classpx_1_1serialize_1_1CByteCounter.html#aedb482ba261e695b9e707c53586de650" title="Get the number of bytes which have been accumulated. " alt="" coords="1126,57,1325,98"/>
+</map>

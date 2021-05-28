@@ -1,0 +1,32 @@
+<map id="set_device_command_result.hpp" name="set_device_command_result.hpp">
+<area shape="rect" id="node3" href="$dd/d3a/common_8hpp.html" title="px/common.hpp" alt="" coords="2997,608,3123,635"/>
+<area shape="rect" id="node4" href="$de/d7c/request__response_8hpp.html" title="px/cds/request_response.hpp" alt="" coords="1769,360,1980,387"/>
+<area shape="rect" id="node10" href="$db/d20/channel_8hpp.html" title="px/data/channel.hpp" alt="" coords="3036,96,3191,123"/>
+<area shape="rect" id="node24" href="$db/db3/id_8hpp.html" title="px/type/id.hpp" alt="" coords="692,360,807,387"/>
+<area shape="rect" id="node6" href="$d4/d76/type_2string_8hpp.html" title="px/type/string.hpp" alt="" coords="1770,608,1909,635"/>
+<area shape="rect" id="node45" href="$d5/d91/device__command_8hpp.html" title="px/data/device_command.hpp" alt="" coords="788,179,1007,205"/>
+<area shape="rect" id="node8" href="$d8/da6/mono__time_8hpp.html" title="px/type/mono_time.hpp" alt="" coords="1878,451,2055,477"/>
+<area shape="rect" id="node9" href="$d1/db0/timestamp_8hpp.html" title="timestamp.hpp" alt="" coords="2385,533,2505,560"/>
+<area shape="rect" id="node14" href="$dc/d3d/channel__settings_8hpp.html" title="px/data/channel_settings.hpp" alt="" coords="2265,269,2479,296"/>
+<area shape="rect" id="node34" href="$d8/dc4/realtime__state_8hpp.html" title="px/data/realtime_state.hpp" alt="" coords="1770,179,1968,205"/>
+<area shape="rect" id="node17" href="$d2/dca/type_2value_8hpp.html" title="px/type/value.hpp" alt="" coords="2347,451,2485,477"/>
+<area shape="rect" id="node35" href="$de/dda/wall__time_8hpp.html" title="px/type/wall_time.hpp" alt="" coords="3129,451,3295,477"/>
+<area shape="rect" id="node37" href="$dc/d45/alarm__trigger_8hpp.html" title="px/data/alarm_trigger.hpp" alt="" coords="2679,360,2869,387"/>
+<area shape="rect" id="node40" href="$d4/d05/trend__accumulator_8hpp.html" title="px/data/trend_accumulator.hpp" alt="" coords="3428,179,3652,205"/>
+<area shape="rect" id="node16" href="$df/d2b/shared__string_8hpp.html" title="px/type/shared_string.hpp" alt="" coords="2131,451,2321,477"/>
+<area shape="rect" id="node21" href="$d6/d12/datatype_8hpp.html" title="px/enum/datatype.hpp" alt="" coords="2853,533,3021,560"/>
+<area shape="rect" id="node26" href="$d6/d86/bitset_8hpp.html" title="px/type/bitset.hpp" alt="" coords="1611,451,1751,477"/>
+<area shape="rect" id="node31" href="$d9/d04/hash_8hpp.html" title="px/hash.hpp" alt="" coords="2004,360,2105,387"/>
+<area shape="rect" id="node32" href="$d8/df7/channel__flag_8hpp.html" title="channel_flag.hpp" alt="" coords="1065,451,1196,477"/>
+<area shape="rect" id="node33" href="$de/d21/multistate__map_8hpp.html" title="multistate_map.hpp" alt="" coords="2130,360,2283,387"/>
+<area shape="rect" id="node20" href="$db/d73/invalid_8hpp.html" title="invalid.hpp" alt="" coords="2530,533,2624,560"/>
+<area shape="rect" id="node22" href="$d6/d78/best__type_8hpp.html" title="value/best_type.hpp" alt="" coords="1336,533,1491,560"/>
+<area shape="rect" id="node30" href="$d7/d1e/exception_8hpp.html" title="px/exception.hpp" alt="" coords="1617,533,1751,560"/>
+<area shape="rect" id="node38" href="$d2/df5/alarm__trigger__type_8hpp.html" title="px/enum/alarm_trigger\l_type.hpp" alt="" coords="2560,443,2731,485"/>
+<area shape="rect" id="node42" href="$d5/da1/trend__stage__update_8hpp.html" title="px/data/trend_stage\l_update.hpp" alt="" coords="3351,353,3503,394"/>
+<area shape="rect" id="node43" href="$df/df5/value__accumulator_8hpp.html" title="px/data/value_accumulator.hpp" alt="" coords="3276,269,3503,296"/>
+<area shape="rect" id="node46" href="$d9/de6/parameter__info_8hpp.html" title="px/data/parameter_info.hpp" alt="" coords="1472,269,1675,296"/>
+<area shape="rect" id="node48" href="$d7/d63/device__command__status__enums_8hpp.html" title="px/enum/device_command\l_status_enums.hpp" alt="" coords="5,262,203,303"/>
+<area shape="rect" id="node49" href="$d4/dc3/device__command__substatus__enums_8hpp.html" title="px/enum/device_command\l_substatus_enums.hpp" alt="" coords="381,262,579,303"/>
+<area shape="rect" id="node50" href="$d6/d33/permission__enums_8hpp.html" title="px/enum/permission\l_enums.hpp" alt="" coords="604,262,759,303"/>
+</map>

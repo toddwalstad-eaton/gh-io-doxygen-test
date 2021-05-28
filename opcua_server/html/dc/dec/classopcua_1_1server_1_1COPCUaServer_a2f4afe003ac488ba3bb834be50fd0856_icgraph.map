@@ -1,0 +1,5 @@
+<map id="opcua::server::COPCUaServer::update_mapping" name="opcua::server::COPCUaServer::update_mapping">
+<area shape="rect" id="node2" href="$dc/dec/classopcua_1_1server_1_1COPCUaServer.html#a981ff5731dd750bbbdac9be229e78fbf" title="Map the CDS device tree to OPC UA node structure. " alt="" coords="270,5,485,46"/>
+<area shape="rect" id="node3" href="$df/d0a/main_8cpp.html#a72dfe501a5b0c6d1753dc3bc888d33b9" title="Server code body function. " alt="" coords="533,12,616,39"/>
+<area shape="rect" id="node4" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Program entry point. " alt="" coords="665,12,719,39"/>
+</map>

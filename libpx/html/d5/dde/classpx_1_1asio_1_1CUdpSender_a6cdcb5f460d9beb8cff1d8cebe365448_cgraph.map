@@ -1,0 +1,8 @@
+<map id="px::asio::CUdpSender::create" name="px::asio::CUdpSender::create">
+<area shape="rect" id="node2" href="$d5/dde/classpx_1_1asio_1_1CUdpSender.html#afafd21f404e9a84bd7fb5a4fed53cdc9" title="Constructor. " alt="" coords="217,70,378,111"/>
+<area shape="rect" id="node3" href="$d1/d20/classpx_1_1asio_1_1CProtocolHandler.html#a5be0ff44a7c9794ee1c7717b93f8626a" title="Getter for the string to identify the protocol for session tracking and debugging purposes..." alt="" coords="427,5,621,46"/>
+<area shape="rect" id="node4" href="$d5/dde/classpx_1_1asio_1_1CUdpSender.html#a168c2a94ca97185f1aec04e4fe83535a" title="Create or reset our sending socket, at _port. " alt="" coords="443,70,605,111"/>
+<area shape="rect" id="node6" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html#adc4afd0ca46c1111d323d16b094d3b37" title="Kick&#45;start the messenger by waiting for incoming data. " alt="" coords="439,135,609,177"/>
+<area shape="rect" id="node5" href="$dd/d60/classpx_1_1asio_1_1CIoActor.html#aad90c314c7d733326fe1f0d88e0bede2" title="Get the I/O service associated with the owner of this actor. " alt="" coords="687,70,823,111"/>
+<area shape="rect" id="node7" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html#a7aeb25f58867a36d15419d3753047e2f" title="Read more data from the messenger&#39;s input source. " alt="" coords="670,135,839,177"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="opcua::server::COPCUaServer::stop" name="opcua::server::COPCUaServer::stop">
+<area shape="rect" id="node2" href="$df/d0a/main_8cpp.html#a08068bc4e4e54ac750b524f2019910f7" title="POSIX signal handler. " alt="" coords="269,12,376,39"/>
+<area shape="rect" id="node3" href="$df/d0a/main_8cpp.html#a8a98485430586dbfd0ac7b261808396a" title="Register handler to POSIX signals for applicatino termination. " alt="" coords="425,12,559,39"/>
+<area shape="rect" id="node4" href="$df/d0a/main_8cpp.html#a72dfe501a5b0c6d1753dc3bc888d33b9" title="Server code body function. " alt="" coords="608,12,691,39"/>
+<area shape="rect" id="node5" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Program entry point. " alt="" coords="739,12,794,39"/>
+</map>

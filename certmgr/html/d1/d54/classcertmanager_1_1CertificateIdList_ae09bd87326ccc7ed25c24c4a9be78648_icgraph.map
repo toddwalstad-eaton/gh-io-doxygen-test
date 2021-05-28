@@ -1,0 +1,10 @@
+<map id="certmanager::CertificateIdList::readFromFile" name="certmanager::CertificateIdList::readFromFile">
+<area shape="rect" id="node2" href="$d1/d54/classcertmanager_1_1CertificateIdList.html#ab06249ad210a61ab2dc1d095a6f5fa22" title="Constructor for CertificateIdList from a file. " alt="" coords="254,5,434,46"/>
+<area shape="rect" id="node3" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a8cf28fb16294b9fe30e624cc3fd97d02" title="Get a list of all certificate ids in the path provided. " alt="" coords="235,70,453,111"/>
+<area shape="rect" id="node4" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a7c9986fb8b0731535be8b7edff629a6f" title="Get the list certificate authorities of the service. " alt="" coords="501,37,720,78"/>
+<area shape="rect" id="node7" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#aade587a1a00371c4e6e5d2691bc33721" title="Get the list trusted client of the service. " alt="" coords="501,102,720,143"/>
+<area shape="rect" id="node5" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#aed4b94c1e4591f02606ac738122d44c4" title="Return the if of certificate authorities if exist. " alt="" coords="771,37,989,78"/>
+<area shape="rect" id="node6" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#ad8f97923f6a0c2fa9f2a50e46b5aa994" title="Return the if of certificate authorities if exist. " alt="" coords="1040,37,1259,78"/>
+<area shape="rect" id="node8" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#ab0b57165990d1f9c341726384ecfda44" title="Return the if of trusted client if exist. " alt="" coords="768,102,992,143"/>
+<area shape="rect" id="node9" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#ae1407dda0949a69b9357b1ceb522caeb" title="Return the if of trusted client if exist. " alt="" coords="1040,102,1259,143"/>
+</map>

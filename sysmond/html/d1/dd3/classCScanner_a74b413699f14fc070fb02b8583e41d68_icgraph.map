@@ -1,0 +1,6 @@
+<map id="CScanner::log_failure" name="CScanner::log_failure">
+<area shape="rect" id="node2" href="$d1/dd3/classCScanner.html#a07b3a48836363848043cd26d3916431c" title="Load the data we need to preserve from startup, such as squashfs backing file and public keys..." alt="" coords="270,5,410,32"/>
+<area shape="rect" id="node3" href="$d1/dd3/classCScanner.html#ad640f927d13b833e78a9ccf790f995c3" title="This is the task that does the filesystem integrity scanning. " alt="" coords="515,81,693,108"/>
+<area shape="rect" id="node5" href="$d1/dd3/classCScanner.html#a32a76672af1279ca013e18c47439f8b9" title="This function checks for all overlay file systems for any executable file modifications/addition/dele..." alt="" coords="214,107,466,133"/>
+<area shape="rect" id="node4" href="$d1/dd3/classCScanner.html#af11c79ddd89753ed457cef4e6d38b177" title="Launches the thread that does the integrity scanner operations. " alt="" coords="741,74,933,115"/>
+</map>

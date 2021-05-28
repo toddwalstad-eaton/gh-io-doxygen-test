@@ -1,0 +1,7 @@
+<map id="CEmailWorkManager::extract_data_attachment_channel_information" name="CEmailWorkManager::extract_data_attachment_channel_information">
+<area shape="rect" id="node2" href="$d5/d4c/classCEmailWorkManager.html#aadbde6c62baf9405d1059214398cdc3b" title="populate_data_attachment_fields " alt="" coords="240,31,437,87"/>
+<area shape="rect" id="node3" href="$d5/d4c/classCEmailWorkManager.html#af65f1e4eddc5594708be69c84d37f503" title="process_alarm_update " alt="" coords="493,5,662,46"/>
+<area shape="rect" id="node6" href="$d5/d4c/classCEmailWorkManager.html#a9bf377dc0bcc8e05a63cf9ff7b8f54d9" title="process_periodic_update " alt="" coords="486,70,669,111"/>
+<area shape="rect" id="node4" href="$d5/d4c/classCEmailWorkManager.html#a019b7141a10d5f7e12338aa1f228ba32" title="process_pending_queue " alt="" coords="717,38,896,79"/>
+<area shape="rect" id="node5" href="$d5/d4c/classCEmailWorkManager.html#ae378dceb208a7e70a56e2e527717bfa2" title="timeout " alt="" coords="944,38,1109,79"/>
+</map>

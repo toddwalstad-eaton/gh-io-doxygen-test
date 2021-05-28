@@ -1,0 +1,6 @@
+<map id="CBacnetStructuredViewObject::calculate_object_id" name="CBacnetStructuredViewObject::calculate_object_id">
+<area shape="rect" id="node2" href="$d9/dd7/classCBacnetDeviceObject.html#a21101cc2c2c13faf230d26efbea566e1" title="Given the subdevice data, calculate the BACnet Object&#45;ID we will always have for its associated Struc..." alt="" coords="272,35,435,91"/>
+<area shape="rect" id="node3" href="$d9/dd7/classCBacnetDeviceObject.html#aaa514ceb954d5ca0ff4035179963d7da" title="Add a Structured View object for a subdevice to our map, after calculating its Object ID..." alt="" coords="483,5,648,46"/>
+<area shape="rect" id="node5" href="$d9/dd7/classCBacnetDeviceObject.html#a9150b11788a8f9fa3e668729d23dfd52" title="Initializes the BACnet objects under this device that are based on the Channels of this subdevice..." alt="" coords="484,71,647,127"/>
+<area shape="rect" id="node4" href="$d9/dd7/classCBacnetDeviceObject.html#a9f4c319887e49fdce2ec916b4e3832b4" title="Process the set of subdevices and create a Structured View object for any that are true subdevices..." alt="" coords="697,5,863,46"/>
+</map>

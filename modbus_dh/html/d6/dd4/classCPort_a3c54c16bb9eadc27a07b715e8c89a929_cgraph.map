@@ -1,0 +1,6 @@
+<map id="CPort::reset_stats" name="CPort::reset_stats">
+<area shape="rect" id="node2" href="$dc/d4a/classCUtil.html#a3fc24ae5c12897079c425c8f4af5fcbf" title="CUtil::get_no_device\l_string" alt="" coords="193,5,349,46"/>
+<area shape="rect" id="node3" href="$d6/dd4/classCPort.html#a4558355c64c9956638ae556aef91732e" title="Log port and device statistics. " alt="" coords="209,71,333,97"/>
+<area shape="rect" id="node4" href="$d0/d7e/classCWriteStats.html#a1de9bf70855258fe2625c145ed6ae233" title="CWriteStats::write\l_io_stats_file" alt="" coords="429,34,568,75"/>
+<area shape="rect" id="node5" href="$d6/dd4/classCPort.html#a61ce1938bab023e7a4cdd00163af86d8" title="Getter for the display name of this port. " alt="" coords="397,100,600,127"/>
+</map>

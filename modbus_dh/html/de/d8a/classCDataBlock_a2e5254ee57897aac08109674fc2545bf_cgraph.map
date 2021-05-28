@@ -1,0 +1,8 @@
+<map id="CDataBlock::set_last_update_time" name="CDataBlock::set_last_update_time">
+<area shape="rect" id="node2" href="$dd/dc0/classCDataAccumulator.html#a6273365162af1fcbf5a621ef32e26ccf" title="Add a new sample to the accumulator. " alt="" coords="219,5,395,32"/>
+<area shape="rect" id="node3" href="$dd/dc0/classCDataAccumulator.html#a88e567e425e89c6eb4227418f023cf78" title="Get the most recent value. " alt="" coords="211,56,403,83"/>
+<area shape="rect" id="node4" href="$dd/dc0/classCDataAccumulator.html#a0caade1959a983dd7f313eef0e1e4dd1" title="Get the average value. " alt="" coords="212,107,401,133"/>
+<area shape="rect" id="node5" href="$dd/dc0/classCDataAccumulator.html#a97ebb17b28ea4f53886274df1d4f1707" title="Get the minimum value. " alt="" coords="218,157,395,184"/>
+<area shape="rect" id="node7" href="$dd/dc0/classCDataAccumulator.html#a2353e551b68673375ede6f09fa497663" title="Get the maximum value. " alt="" coords="216,208,397,235"/>
+<area shape="rect" id="node6" href="$dd/dc0/classCDataAccumulator.html#acecc4f48e9393dc07d4e0a8279b5365b" title="Get the sample count. " alt="" coords="451,183,639,209"/>
+</map>

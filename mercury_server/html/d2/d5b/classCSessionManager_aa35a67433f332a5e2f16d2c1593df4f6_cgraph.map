@@ -1,0 +1,5 @@
+<map id="CSessionManager::add_session" name="CSessionManager::add_session">
+<area shape="rect" id="node2" href="$d2/d5b/classCSessionManager.html#a6f0a8af28193a32b292e100f3ade9c13" title="Close one session, indicated by a pointer to that session in our tracked set of connections. " alt="" coords="224,5,403,46"/>
+<area shape="rect" id="node3" href="$d2/d5b/classCSessionManager.html#a5adaf2b59cf126d5d7dbe3db7ebfe12b" title="Static function to turn On / Off the &quot;Web&quot; LED light. " alt="" coords="451,41,643,68"/>
+<area shape="rect" id="node4" href="$d2/d5b/classCSessionManager.html#affe649ab32639284418919fab2404ca3" title="Determine if the given file exists. " alt="" coords="691,41,875,68"/>
+</map>

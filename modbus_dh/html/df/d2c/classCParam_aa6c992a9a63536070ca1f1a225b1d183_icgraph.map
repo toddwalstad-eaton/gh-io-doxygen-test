@@ -1,0 +1,11 @@
+<map id="CParam::is_simple_xblock" name="CParam::is_simple_xblock">
+<area shape="rect" id="node2" href="$df/d2c/classCParam.html#a70eedd125648b936b6036167ffad5fd9" title="Initialize the equation or direct xBlock transform for this parameter. " alt="" coords="245,103,381,145"/>
+<area shape="rect" id="node3" href="$d4/dab/classCChannel.html#a11e5afc5fa8cb59a139eafdc942299c9" title="Initialize this Channel, and its ChannelSettings, from its EDS information. " alt="" coords="449,5,597,46"/>
+<area shape="rect" id="node4" href="$d4/dab/classCChannel.html#a3149c9e47836222d82b3f3d4675922c0" title="RE&#45;Initialize this Channel, which is already in the CDS, from its EDS information. " alt="" coords="442,70,603,111"/>
+<area shape="rect" id="node9" href="$d9/d07/classCInternalParam.html#a41e8042ceef897236fbf50833c959cb9" title="Initialize this Internal Parameter from its EDS information. " alt="" coords="429,135,616,177"/>
+<area shape="rect" id="node10" href="$d1/ddc/classCCommand.html#a9768dea651078e9b57dd78ffe6083e16" title="Initialize this Command Parameter from its EDS information. " alt="" coords="441,201,604,242"/>
+<area shape="rect" id="node5" href="$d2/d76/classCDevice.html#a62fdb6fcd48d2afe1fa8f77acfb5028f" title="Initialize single channel from eds entry. " alt="" coords="665,70,805,111"/>
+<area shape="rect" id="node6" href="$d2/d76/classCDevice.html#a86e0d795f0cc71ab61e023d4213c36ab" title="Create and initialize the Channels called for by the EDS. " alt="" coords="854,70,994,111"/>
+<area shape="rect" id="node7" href="$d2/d76/classCDevice.html#a1d5a52000fc574354fb3548eb4dcae96" title="Call this function to initialize the Channels and Internal Parameters for this Device. " alt="" coords="1043,70,1183,111"/>
+<area shape="rect" id="node8" href="$d2/d76/classCDevice.html#accb14c1121791e295ac675fc99b36807" title="Initialize the Data Blocks, Channels, and Internal Parameters for this Device. " alt="" coords="1233,70,1373,111"/>
+</map>

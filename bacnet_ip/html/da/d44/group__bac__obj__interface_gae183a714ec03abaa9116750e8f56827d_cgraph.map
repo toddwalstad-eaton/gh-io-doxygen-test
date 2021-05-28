@@ -1,0 +1,4 @@
+<map id="Device_Reinitialize" name="Device_Reinitialize">
+<area shape="rect" id="node2" href="$d3/d9d/group__bip__routing__interface.html#gaca13e00f88c28db7220d0b523397a87f" title="Get a pointer to the current Device object (look up from the current global setting for instance numb..." alt="" coords="212,5,359,46"/>
+<area shape="rect" id="node3" href="$d9/dd7/classCBacnetDeviceObject.html#a552031d4d4660602144d651039812bbd" title="Commands a device reinitialization, to a given state. " alt="" coords="200,70,371,111"/>
+</map>

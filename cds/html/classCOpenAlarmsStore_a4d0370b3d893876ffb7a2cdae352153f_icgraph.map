@@ -1,0 +1,8 @@
+<map id="COpenAlarmsStore::RemoveAlarmInfo" name="COpenAlarmsStore::RemoveAlarmInfo">
+<area shape="rect" id="node2" href="$classCOpenAlarmsStore.html#ad408a00cb50dcf0bf700bb3cd3fe816e" title="Look at the provided alarm update. " alt="" coords="261,45,464,86"/>
+<area shape="rect" id="node6" href="$classCOpenAlarmsStore.html#a54997d45a1dc05572cddf6718d4ef39a" title="Delete information about the given channel, because that channel has been deleted. " alt="" coords="261,110,464,151"/>
+<area shape="rect" id="node3" href="$classCOpAlarmUpdate.html#acddce68f889bcc546b8d6c819f0c2137" title="Execution method. " alt="" coords="512,5,707,32"/>
+<area shape="rect" id="node4" href="$classCOpenAlarmsStore.html#a80be2009bb7ddfb0ddb3cd7d2c6ffae4" title="Initialize before using. " alt="" coords="522,56,697,83"/>
+<area shape="rect" id="node5" href="$classCDataStore.html#af96b836a3d210927a3aed067f4f29d42" title="Load data from our persistent databases. " alt="" coords="755,56,887,83"/>
+<area shape="rect" id="node7" href="$classCOpDeleteChannels.html#af68dac20c4c8399639354ade504375d2" title="Execution method. " alt="" coords="529,110,689,151"/>
+</map>

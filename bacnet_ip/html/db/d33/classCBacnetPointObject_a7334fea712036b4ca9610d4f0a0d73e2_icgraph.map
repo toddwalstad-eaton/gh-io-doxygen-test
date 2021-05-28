@@ -1,0 +1,7 @@
+<map id="CBacnetPointObject::create" name="CBacnetPointObject::create">
+<area shape="rect" id="node2" href="$d9/dd7/classCBacnetDeviceObject.html#abae26582cb5f3243fc3e235d705a005e" title="Initializes the default device objects (from a built&#45;in list) and then the device&#39;s objects which can..." alt="" coords="233,5,396,61"/>
+<area shape="rect" id="node3" href="$d9/dd7/classCBacnetDeviceObject.html#a7691efd8fb57632aa068f7d9f3580163" title="Initializes the BACnet objects under this device that are based on the Channels, given the set of Cha..." alt="" coords="233,85,396,141"/>
+<area shape="rect" id="node4" href="$db/d33/classCBacnetPointObject.html#a4a498e0314bccda2f4a8adf01f193e12" title="Static factory function to create a Point Object instance from its Channel Settings information..." alt="" coords="239,166,390,207"/>
+<area shape="rect" id="node5" href="$d3/d11/classCBacnetStructuredViewObject.html#ad758a0a0aa3cc4449c439eda12b98c35" title="Initializes or updates the subdevice objects which can be created from the channel data..." alt="" coords="206,232,423,288"/>
+<area shape="rect" id="node6" href="$d9/dd7/classCBacnetDeviceObject.html#a9150b11788a8f9fa3e668729d23dfd52" title="Initializes the BACnet objects under this device that are based on the Channels of this subdevice..." alt="" coords="472,232,635,288"/>
+</map>

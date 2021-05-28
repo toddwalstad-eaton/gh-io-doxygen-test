@@ -1,0 +1,4 @@
+<map id="CBbbGpioCore::get_gpio" name="CBbbGpioCore::get_gpio">
+<area shape="rect" id="node2" href="$d8/d4b/classCBbbTricolorLED.html#ac0bdc316c4e24018664a77f73e8cbca6" title="Read the I/O pins and establish the &quot;color&quot; the LED is set to. " alt="" coords="235,5,392,46"/>
+<area shape="rect" id="node3" href="$d8/d4b/classCBbbTricolorLED.html#a955e9eb59ca2d147f4c92a0ad82ff9c6" title="Initialize this channel in the CDS: create if not present, and read in its present value and set that..." alt="" coords="440,5,632,46"/>
+</map>

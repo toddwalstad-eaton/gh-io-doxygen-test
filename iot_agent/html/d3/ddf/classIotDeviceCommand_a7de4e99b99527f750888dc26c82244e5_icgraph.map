@@ -1,0 +1,7 @@
+<map id="IotDeviceCommand::get_cmd_params_str" name="IotDeviceCommand::get_cmd_params_str">
+<area shape="rect" id="node2" href="$d3/ddf/classIotDeviceCommand.html#a988b62c05b69189815f1d27689b6103b" title="Callback function to receive Cloud&#45;to&#45;Device device commands. " alt="" coords="1006,25,1231,66"/>
+<area shape="rect" id="node3" href="$d3/ddf/classIotDeviceCommand.html#a4d05f8f3df173bca5a15caf43979a192" title="Method to handle the FirmwareUpdate request for the indicated Device. " alt="" coords="504,25,707,66"/>
+<area shape="rect" id="node4" href="$d3/ddf/classIotDeviceCommand.html#a99e493bf3aea14075c8c7493259d62fd" title="Complete the current Firmware Update process, logging a message, and resetting all of the parameters..." alt="" coords="235,83,455,125"/>
+<area shape="rect" id="node5" href="$d3/ddf/classIotDeviceCommand.html#a7eb717298bf9f0b44341d020da79a795" title="Handles one chunk of the ImageTransfer command. " alt="" coords="755,83,957,125"/>
+<area shape="rect" id="node6" href="$d3/ddf/classIotDeviceCommand.html#a6486755693075d05279e4acd9132378a" title="Handler for changes in the ImageUpdate/xxxx OOB for an active FirmwareUpdate process. " alt="" coords="504,142,707,183"/>
+</map>

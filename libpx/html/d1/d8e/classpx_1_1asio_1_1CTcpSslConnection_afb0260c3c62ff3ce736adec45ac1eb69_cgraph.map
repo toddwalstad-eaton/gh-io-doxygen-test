@@ -1,0 +1,6 @@
+<map id="px::asio::CTcpSslConnection::handle_handshake" name="px::asio::CTcpSslConnection::handle_handshake">
+<area shape="rect" id="node2" href="$d1/d8e/classpx_1_1asio_1_1CTcpSslConnection.html#a8e817b8aefd0ba35e230514676887126" title="Inherited from CIoTransactor when the socket connection is gone, the remote_endpoint may throw an exc..." alt="" coords="256,5,459,46"/>
+<area shape="rect" id="node4" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html#adc4afd0ca46c1111d323d16b094d3b37" title="Kick&#45;start the messenger by waiting for incoming data. " alt="" coords="273,70,442,111"/>
+<area shape="rect" id="node3" href="$d1/d8e/classpx_1_1asio_1_1CTcpSslConnection.html#a234625b3836b8db4ce85ef99560c7626" title="simple getter to access who the source of this connection is. " alt="" coords="507,5,709,46"/>
+<area shape="rect" id="node5" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html#a7aeb25f58867a36d15419d3753047e2f" title="Read more data from the messenger&#39;s input source. " alt="" coords="523,70,693,111"/>
+</map>

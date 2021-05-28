@@ -1,0 +1,12 @@
+<map id="px::cds::CClient::submit_wait" name="px::cds::CClient::submit_wait">
+<area shape="rect" id="node2" href="$db/db8/classpx_1_1cds_1_1CClient.html#a63512b3fd6a96fb8adf392c2242d9f54" title="Register a callback function to receive (and dequeue) responses. " alt="" coords="264,119,445,161"/>
+<area shape="rect" id="node3" href="$db/db8/classpx_1_1cds_1_1CClient.html#a907410082d34b93630b2f0b0abe44186" title="Submit a request for CDS processing. " alt="" coords="267,185,443,212"/>
+<area shape="rect" id="node5" href="$db/db8/classpx_1_1cds_1_1CClient.html#a04806b8577ecbb198bc2f7c8cf9939ff" title="Unregister a previously registered callback structure. " alt="" coords="745,262,943,303"/>
+<area shape="rect" id="node11" href="$d1/d2c/structpx_1_1generic__err.html#ab55d991a1469e98c5d79a27d1b93b4d6" title="px::generic_err::what" alt="" coords="515,236,674,263"/>
+<area shape="rect" id="node4" href="$db/db8/classpx_1_1cds_1_1CClient.html#a5aa42d307a74fdd3117745f85a587e34" title="Disconnect from the CDS. " alt="" coords="494,185,695,212"/>
+<area shape="rect" id="node7" href="$d5/dd5/namespacepx_1_1cds.html#a49c47a7060e04ef5eaccdab3e441f264" title="px::cds::req_pack" alt="" coords="527,113,662,140"/>
+<area shape="rect" id="node6" href="$db/db8/classpx_1_1cds_1_1CClient.html#a28b00111c32ca2391045e23966fb7210" title="Unregister the previously registered callback function for unsolicited messages from the CDS..." alt="" coords="745,187,943,229"/>
+<area shape="rect" id="node8" href="$d5/dd5/namespacepx_1_1cds.html#ade09d8ce5c3cbc71080e4c9658c71848" title="Given a CRequestResponse pointer, return the type enumeration value. " alt="" coords="767,122,921,163"/>
+<area shape="rect" id="node9" href="$de/dcb/namespacepx.html#a7996667dd567e40923855ae03e3ab8ba" title="Polymorphic casting: this utilizes dynamic_cast&lt;&gt; for non&#45;release builds, thus ensuring that the cast..." alt="" coords="790,5,898,32"/>
+<area shape="rect" id="node10" href="$d1/d21/classpx_1_1serialize_1_1CByteCounter.html#aedb482ba261e695b9e707c53586de650" title="Get the number of bytes which have been accumulated. " alt="" coords="745,57,943,98"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="&apos;C&apos; functions to interface to the BACnet library, bacnet&#45;stack." name="&apos;C&apos; functions to interface to the BACnet library, bacnet&#45;stack.">
+<area shape="rect" id="node1" href="$d3/d9d/group__bip__routing__interface.html" title="The handlers in the BAC&#45;stack code (eg, h_iam.c) fortunately make all their object references through..." alt="" coords="243,245,434,301"/>
+<area shape="rect" id="node2" href="$d7/d94/group__bip__interface.html" title="and BVLC (BACnet Virtual Link Control) services. " alt="" coords="238,165,439,221"/>
+<area shape="rect" id="node3" href="$d0/dea/group__bip__settings__interface.html" title="The getters and setters from bip.c are recreated here. " alt="" coords="243,85,434,141"/>
+<area shape="rect" id="node5" href="$da/d44/group__bac__obj__interface.html" title="This defines the prototypes for &quot;C&quot; access from the bacnet&#45;stack code. " alt="" coords="255,5,422,61"/>
+</map>

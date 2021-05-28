@@ -1,0 +1,9 @@
+<map id="IotDeviceCommand::handle_image_transfer" name="IotDeviceCommand::handle_image_transfer">
+<area shape="rect" id="node2" href="$d3/ddf/classIotDeviceCommand.html#ae8c7cfeb3d43a8e68265da1193fb1e45" title="Gets the current command&#39;s UUID text. " alt="" coords="787,131,967,172"/>
+<area shape="rect" id="node3" href="$d3/ddf/classIotDeviceCommand.html#ad82a3fb33c2c66dde4230ee9b5ec4c1e" title="Set the message in commandResponse after checking the memory allocated. " alt="" coords="271,36,449,77"/>
+<area shape="rect" id="node4" href="$d3/ddf/classIotDeviceCommand.html#a17504c7be84eca59d324ee1d615e33fb" title="Utility function to unpack the command params and put them into our _cmd_params map. " alt="" coords="257,101,463,143"/>
+<area shape="rect" id="node5" href="$d3/ddf/classIotDeviceCommand.html#a99e493bf3aea14075c8c7493259d62fd" title="Complete the current Firmware Update process, logging a message, and resetting all of the parameters..." alt="" coords="513,196,733,237"/>
+<area shape="rect" id="node8" href="$d3/ddf/classIotDeviceCommand.html#a6486755693075d05279e4acd9132378a" title="Handler for changes in the ImageUpdate/xxxx OOB for an active FirmwareUpdate process. " alt="" coords="259,167,461,208"/>
+<area shape="rect" id="node6" href="$d3/ddf/classIotDeviceCommand.html#a7de4e99b99527f750888dc26c82244e5" title="Getter function to get the named parameter from the current _cmd_params or else (use_retained = true)..." alt="" coords="787,196,967,237"/>
+<area shape="rect" id="node7" href="$d3/ddf/classIotDeviceCommand.html#a2f0585078794cd2bb731b59c4f9db28c" title="Called when we have completed the command (unrecoverable failure or all devices done) to clear all of..." alt="" coords="782,261,973,303"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CIotDeviceClient::log_results" name="CIotDeviceClient::log_results">
+<area shape="rect" id="node2" href="$dd/d68/classCIotDeviceClient.html#a88f14cdca116cb11cdb757027f16edfd" title="Build the DEVICE_TREE structure and publish it to the IoT Hub. " alt="" coords="260,5,431,46"/>
+<area shape="rect" id="node4" href="$dd/d68/classCIotDeviceClient.html#a64879bbe10f07d18703bc7348bab4e7d" title="Build the IOT_DATA_CHANNEL_REALTIMES_ITEM messages for all devices, using all available channel real&#45;..." alt="" coords="249,70,441,111"/>
+<area shape="rect" id="node5" href="$dd/d68/classCIotDeviceClient.html#abb176b2927c901efa0a2ea9fb170019c" title="Build the IOT_DATA_TREND_ITEM messages for all devices, sending just the &quot;actual&quot; values of the lates..." alt="" coords="214,135,477,177"/>
+<area shape="rect" id="node3" href="$dd/d68/classCIotDeviceClient.html#ac3e59938659409ee0adee10292047aca" title="Called by the core&#39;s update timer to manage next state / action. " alt="" coords="526,70,709,111"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="certmgr/certmanagd/inc/ExternalCertificatesStorage.hpp" name="certmgr/certmanagd/inc/ExternalCertificatesStorage.hpp">
+<area shape="rect" id="node2" href="$df/d43/CertificateAuthority_8hpp.html" title="CA representation for certificate managment daemon. " alt="" coords="93,97,296,138"/>
+<area shape="rect" id="node7" href="$da/d48/TrustedCertificate_8hpp.html" title="CA representation for certificate managment daemon. " alt="" coords="321,97,511,138"/>
+<area shape="rect" id="node9" href="$de/d4d/ExternalCertificateStorage_8cpp.html" title="certmgr/certmanagd\l/src/ExternalCertificateStorage.cpp" alt="" coords="535,97,781,138"/>
+<area shape="rect" id="node3" href="$d8/d3a/Service_8hpp.html" title="Representation of a service for certificate managment. " alt="" coords="231,187,385,229"/>
+<area shape="rect" id="node6" href="$d8/d1d/CertificateAuthority_8cpp.html" title="certmgr/certmanagd\l/src/CertificateAuthority.cpp" alt="" coords="5,187,205,229"/>
+<area shape="rect" id="node4" href="$d3/d3b/certmanagd_8cpp.html" title="certmgr/certmanagd\l/src/certmanagd.cpp" alt="" coords="141,278,296,319"/>
+<area shape="rect" id="node5" href="$d2/dc4/Service_8cpp.html" title="certmgr/certmanagd\l/src/Service.cpp" alt="" coords="320,278,475,319"/>
+<area shape="rect" id="node8" href="$d2/d1a/TrustedCertificate_8cpp.html" title="certmgr/certmanagd\l/src/TrustedCertificate.cpp" alt="" coords="410,187,600,229"/>
+</map>

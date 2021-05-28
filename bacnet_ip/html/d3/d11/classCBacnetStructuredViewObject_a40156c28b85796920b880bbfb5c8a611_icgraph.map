@@ -1,0 +1,4 @@
+<map id="CBacnetStructuredViewObject::update_struct_view" name="CBacnetStructuredViewObject::update_struct_view">
+<area shape="rect" id="node2" href="$d9/dd7/classCBacnetDeviceObject.html#aaa514ceb954d5ca0ff4035179963d7da" title="Add a Structured View object for a subdevice to our map, after calculating its Object ID..." alt="" coords="272,5,437,46"/>
+<area shape="rect" id="node3" href="$d9/dd7/classCBacnetDeviceObject.html#a9f4c319887e49fdce2ec916b4e3832b4" title="Process the set of subdevices and create a Structured View object for any that are true subdevices..." alt="" coords="486,5,653,46"/>
+</map>

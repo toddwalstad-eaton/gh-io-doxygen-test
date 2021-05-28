@@ -1,0 +1,10 @@
+<map id="initDaemon" name="initDaemon">
+<area shape="rect" id="node2" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#a5827ff5ab373d1d1aef5c8b4d9c90400" title="This function returns the Daemon User name for certmanagd service. " alt="" coords="153,5,407,46"/>
+<area shape="rect" id="node4" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#af90e6581db76c4482d83271a94fff8cd" title="This returns the PID file path for certmanagd daemon. " alt="" coords="153,70,407,111"/>
+<area shape="rect" id="node5" href="$d6/d04/classcertmanager_1_1Common.html#af7f030c6e3288e9752c1f4359c7c5768" title="This function helps to remove the given file. " alt="" coords="194,135,366,177"/>
+<area shape="rect" id="node7" href="$dc/dba/classcertmanager_1_1Tools.html#ae4b47cba1b1801d87c2f7b7abe5fd9a7" title="This function will change the user name for a path. " alt="" coords="207,201,353,242"/>
+<area shape="rect" id="node8" href="$dc/dba/classcertmanager_1_1Tools.html#aa546e71ec3d8444a15e301a5782aba30" title="This function changes the group for the path given. " alt="" coords="207,266,353,307"/>
+<area shape="rect" id="node6" href="$dc/d10/classcertmanager_1_1Log.html#a56c9c1e70c82c11852e0c32d9967a5a1" title="Write a log inside syslog daemon if the syslog is open. " alt="" coords="495,237,673,264"/>
+<area shape="rect" id="node9" href="$dc/dba/classcertmanager_1_1Tools.html#ae36204fbfd10b62e715e59b5a7a8eb91" title="This function will returns the group list which the request user is a member. " alt="" coords="207,383,353,425"/>
+<area shape="rect" id="node3" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#af0d6b3282ce91cff4d7d5844e1e077ee" title="This is the API to get the singleton object of the class. " alt="" coords="457,38,711,79"/>
+</map>

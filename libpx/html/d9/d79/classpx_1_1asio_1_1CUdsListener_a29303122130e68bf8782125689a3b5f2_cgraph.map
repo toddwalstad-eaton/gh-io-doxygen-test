@@ -1,0 +1,7 @@
+<map id="px::asio::CUdsListener::handle_accept" name="px::asio::CUdsListener::handle_accept">
+<area shape="rect" id="node2" href="$d9/d79/classpx_1_1asio_1_1CUdsListener.html#a4334848b36999a7b23b3b95e09d21258" title="Asynchronously accept a new connection. " alt="" coords="234,5,401,46"/>
+<area shape="rect" id="node6" href="$d6/d32/classpx_1_1asio_1_1CIoManager.html#a46653fc723a57edb4ab58cd80f5d6ee8" title="Add an I/O actor to be tracked and managed. " alt="" coords="222,71,413,97"/>
+<area shape="rect" id="node3" href="$df/db1/classpx_1_1asio_1_1CUdsConnection.html#a9e9bf951a28b17405229429f70d31835" title="Factory function to create a new CUdsConnection object. " alt="" coords="462,5,650,46"/>
+<area shape="rect" id="node4" href="$df/db1/classpx_1_1asio_1_1CUdsConnection.html#aa223e22a3bcee761a7c9e74f3b0048c5" title="Constructor. " alt="" coords="699,5,887,46"/>
+<area shape="rect" id="node5" href="$dd/d60/classpx_1_1asio_1_1CIoActor.html#aad90c314c7d733326fe1f0d88e0bede2" title="Get the I/O service associated with the owner of this actor. " alt="" coords="936,5,1072,46"/>
+</map>

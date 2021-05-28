@@ -1,0 +1,14 @@
+<map id="CDevice::add_device_commands" name="CDevice::add_device_commands">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#ab231a1465890affb24529dfe50f6a441" title="Get the parent Port and Device ID tag string (eg, &quot;(p2:d64)&quot; ) for this Device. " alt="" coords="219,5,403,32"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#a6d11490791db78b5203472c94493a1f8" title="Builds and saves the metadata for cWriteSingleChannel in this device&#39;s command list, if it has writable channels. " alt="" coords="218,57,403,98"/>
+<area shape="rect" id="node6" href="$d2/d76/classCDevice.html#add6fb92a336684e60c1fd98a7887a8d7" title="Add any additional commands required for waveform handling. " alt="" coords="220,122,401,163"/>
+<area shape="rect" id="node7" href="$d6/d0f/classCCommandService.html#a015b6db70d7057fddf20b119a5402391" title="Member Functions. " alt="" coords="213,187,408,229"/>
+<area shape="rect" id="node8" href="$d2/d76/classCDevice.html#a4d96653aa893e3644d7338a0f0c226f8" title="Adds the waveform alarm channel. " alt="" coords="220,253,401,294"/>
+<area shape="rect" id="node13" href="$d2/d76/classCDevice.html#ac1a46c54704c845a0c069a7097c57e11" title="Getter to lookup a Channel by its canonical name and get its instance. " alt="" coords="217,319,404,345"/>
+<area shape="rect" id="node4" href="$d4/dab/classCChannel.html#a8ff69ef5bbaf01d78772840b6e659c8c" title="Getter for the canonical channel name. " alt="" coords="456,39,683,65"/>
+<area shape="rect" id="node5" href="$d8/dc8/classCIdAllocator.html#a0400d8deb5703217316fe605cd1a1657" title="Allocate a new internal unique ID. " alt="" coords="504,89,635,116"/>
+<area shape="rect" id="node9" href="$df/d2c/classCParam.html#a80ed5610f4c057d10ee83a6348182576" title="Getter for this parameter&#39;s ID. " alt="" coords="523,201,615,228"/>
+<area shape="rect" id="node10" href="$d6/d13/classCChannelService.html#abd581f8e38a64ed7aa4ed1cd4b889163" title="Member Functions. " alt="" coords="479,253,660,294"/>
+<area shape="rect" id="node12" href="$d5/df0/structeds__parse__err.html#ae7895a7c942bf2450a2670c642407dca" title="Implement the virtual function to provide the error&#39;s text. " alt="" coords="493,319,646,345"/>
+<area shape="rect" id="node11" href="$d6/d13/classCChannelService.html#a2f6053f45b832c36a0e29815e19e670b" title="Merge Channel Settings Set any blank channel settings to those provided by defaults. " alt="" coords="731,253,914,294"/>
+</map>

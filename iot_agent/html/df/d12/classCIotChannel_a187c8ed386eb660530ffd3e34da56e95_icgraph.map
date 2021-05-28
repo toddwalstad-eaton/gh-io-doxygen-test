@@ -1,0 +1,5 @@
+<map id="CIotChannel::initialize" name="CIotChannel::initialize">
+<area shape="rect" id="node2" href="$d2/d55/classCIotDataDevice.html#a9e6f1be05ffef0d9f9928525a315eea4" title="Initialize all channels found in the IoT Device Profile. " alt="" coords="219,5,407,46"/>
+<area shape="rect" id="node3" href="$d2/d55/classCIotDataDevice.html#ab7254340ba87ad8c89d34a0e9e545df8" title="Update _iot_device_struct and _iot_device_realtime_state_struct with latest device settings data..." alt="" coords="457,5,634,46"/>
+<area shape="rect" id="node4" href="$d2/d55/classCIotDataDevice.html#a1f8f38e6ec3feabee713bbf89ff563ec" title="The initialization routine, which checks for data validity as it initializes the fields for IOT_DATA_..." alt="" coords="683,5,837,46"/>
+</map>

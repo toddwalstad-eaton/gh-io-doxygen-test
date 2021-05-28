@@ -1,0 +1,5 @@
+<map id="CMbTcpSettings::CMbTcpSettings" name="CMbTcpSettings::CMbTcpSettings">
+<area shape="rect" id="node2" href="$classCModbusCdsHandle.html#a0aa37a197aa0b4dbedabcef420783cba" title="Get list of valid port IDs. " alt="" coords="290,5,470,46"/>
+<area shape="rect" id="node3" href="$classCModbusCdsHandle.html#a717d5de6eca53b75879167a227762740" title="ToDo: replace with CdsHandler&#39;s init_device_map() and more List the device or sub&#45;devices of the spec..." alt="" coords="291,70,469,111"/>
+<area shape="rect" id="node4" href="$classCModbusTcpUnitSettings.html#a977d5f3075c4aaca28e43f08f0b27d0e" title="Determine whether this class was initialized without errors. " alt="" coords="289,135,471,177"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CDataAccumulator::actual" name="CDataAccumulator::actual">
+<area shape="rect" id="node2" href="$de/d8a/classCDataBlock.html#a2e5254ee57897aac08109674fc2545bf" title="Sets the time when this block was last updated. " alt="" coords="245,38,403,79"/>
+<area shape="rect" id="node3" href="$df/d62/classCModbusCommandBlock.html#a894f44268936cb36f5f1886493d1be54" title="Callback invoked when this DataBlock&#39;s messages have been completed. " alt="" coords="459,5,643,46"/>
+<area shape="rect" id="node4" href="$de/df8/classCModbusDataBlock.html#a6e4d8179495b23028debcc5725aa557a" title="Callback invoked when this DataBlock&#39;s messages have been completed. " alt="" coords="451,70,651,111"/>
+</map>

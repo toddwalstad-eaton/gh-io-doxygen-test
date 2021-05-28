@@ -1,0 +1,4 @@
+<map id="CIoMessenger::handle_write" name="CIoMessenger::handle_write">
+<area shape="rect" id="node2" href="$d5/daf/classCSerialConnection.html#a8156126048d7ca669c3b10fa1c86d617" title="Write data to the serial output channel. " alt="" coords="225,5,375,46"/>
+<area shape="rect" id="node3" href="$d6/d76/classCTcpMessenger.html#a936d49dde6b492a826c173e5229fe46d" title="Write data to the network output channel. " alt="" coords="219,71,381,97"/>
+</map>

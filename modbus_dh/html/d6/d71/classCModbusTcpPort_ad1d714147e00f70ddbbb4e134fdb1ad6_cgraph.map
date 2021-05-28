@@ -1,0 +1,5 @@
+<map id="CModbusTcpPort::device_settings_callback" name="CModbusTcpPort::device_settings_callback">
+<area shape="rect" id="node2" href="$dc/d4a/classCUtil.html#ab23b89e75ee52ed0e45e7a188ce3386f" title="CUtil::get_formatted_name" alt="" coords="233,5,431,32"/>
+<area shape="rect" id="node3" href="$db/daf/classCModbusUtil.html#ae8a0fdaf34af28b14a703b29a2b0391b" title="Decode the IP address, port, and unit ID The passed in tcp_addr_t struct is filled in with IP address..." alt="" coords="253,57,411,98"/>
+<area shape="rect" id="node4" href="$d6/d71/classCModbusTcpPort.html#aedcf5df64379c69648efb2de339eeee4" title="Find and remove the Device entry with the given id from our map. " alt="" coords="239,122,425,163"/>
+</map>

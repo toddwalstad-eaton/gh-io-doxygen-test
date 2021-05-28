@@ -1,0 +1,6 @@
+<map id="CRegisterMapping" name="CRegisterMapping">
+<area shape="rect" id="node2" href="$classCFloatMapping.html" title="A floating&#45;point mapping between a CDS parameter and one or more Modbus registers. " alt="" coords="5,285,160,421"/>
+<area shape="rect" id="node3" href="$classCIntMapping.html" title="An integral mapping between a CDS parameter and one or more Modbus registers. " alt="" coords="184,278,339,429"/>
+<area shape="rect" id="node4" href="$classCStringMapping.html" title="A string mapping between a CDS parameter and one or more Modbus registers. " alt="" coords="363,285,523,421"/>
+<area shape="rect" id="node5" href="$classCTimeMapping.html" title="An integral mapping between a CDS parameter and one or more Modbus registers. " alt="" coords="547,278,701,429"/>
+</map>

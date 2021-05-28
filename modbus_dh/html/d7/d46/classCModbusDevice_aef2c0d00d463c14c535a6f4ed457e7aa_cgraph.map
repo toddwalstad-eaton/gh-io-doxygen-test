@@ -1,0 +1,6 @@
+<map id="CModbusDevice::handle_device_error" name="CModbusDevice::handle_device_error">
+<area shape="rect" id="node2" href="$dc/d4a/classCUtil.html#afdffbca731e234e54193c7aba4fbe341" title="CUtil::get_err_text" alt="" coords="253,5,395,32"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#acebd0bd12d6b03380287f103c7a91017" title="Remove unsupported blocks and related channels (in memory). " alt="" coords="233,57,415,98"/>
+<area shape="rect" id="node5" href="$d7/d46/classCModbusDevice.html#a929bd84a6be4ca6fa3567f1c97cdc3ed" title="Perform protocol specific handling of a Comm Loss event. " alt="" coords="235,122,413,163"/>
+<area shape="rect" id="node4" href="$d2/d76/classCDevice.html#ab231a1465890affb24529dfe50f6a441" title="Get the parent Port and Device ID tag string (eg, &quot;(p2:d64)&quot; ) for this Device. " alt="" coords="464,64,648,91"/>
+</map>

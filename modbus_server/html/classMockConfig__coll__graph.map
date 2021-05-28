@@ -1,0 +1,12 @@
+<map id="MockConfig" name="MockConfig">
+<area shape="rect" id="node2" href="$classCModbusConfig.html" title="Modbus server configuration. " alt="" coords="1299,987,1505,1445"/>
+<area shape="rect" id="node3" href="$structCEDSList_1_1eds__list__s.html" title="{CEDSList::eds_list_s\n||}" alt="" coords="291,705,443,783"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="485,147,637,239"/>
+<area shape="rect" id="node15" href="$classCModbusCdsHandle.html" title="Modbus CDS Handler class. " alt="" coords="979,625,1165,863"/>
+<area shape="rect" id="node16" href="$classpx_1_1asio_1_1CCdsHandler.html" title="{px::asio::CCdsHandler\n||}" alt="" coords="851,361,1016,439"/>
+<area shape="rect" id="node20" title="STL class. " alt="" coords="1134,155,1316,232"/>
+<area shape="rect" id="node21" href="$classCModbusServer.html" title="Server core class. " alt="" coords="1810,317,1968,483"/>
+<area shape="rect" id="node22" href="$classpx_1_1asio_1_1CServerCore.html" title="{px::asio::CServerCore\n||}" alt="" coords="1341,155,1504,232"/>
+<area shape="rect" id="node27" title="STL class. " alt="" coords="2313,5,2471,83"/>
+<area shape="rect" id="node31" title="STL class. " alt="" coords="1993,361,2103,439"/>
+</map>

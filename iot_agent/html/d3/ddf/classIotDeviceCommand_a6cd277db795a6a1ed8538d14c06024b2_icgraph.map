@@ -1,0 +1,4 @@
+<map id="IotDeviceCommand::handle_get_set_field" name="IotDeviceCommand::handle_get_set_field">
+<area shape="rect" id="node2" href="$d3/ddf/classIotDeviceCommand.html#a1915d760f715dfa12412dc266ac8849c" title="Handle a C2D built in Device Command for the executing commands supported by products. " alt="" coords="256,5,459,46"/>
+<area shape="rect" id="node3" href="$d3/ddf/classIotDeviceCommand.html#a988b62c05b69189815f1d27689b6103b" title="Callback function to receive Cloud&#45;to&#45;Device device commands. " alt="" coords="507,5,733,46"/>
+</map>

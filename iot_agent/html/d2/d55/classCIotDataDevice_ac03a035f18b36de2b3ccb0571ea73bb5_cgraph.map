@@ -1,0 +1,7 @@
+<map id="CIotDataDevice::handle_set_channel_values_command" name="CIotDataDevice::handle_set_channel_values_command">
+<area shape="rect" id="node2" href="$d3/ddf/classIotDeviceCommand.html#ad82a3fb33c2c66dde4230ee9b5ec4c1e" title="Set the message in commandResponse after checking the memory allocated. " alt="" coords="297,5,476,46"/>
+<area shape="rect" id="node3" href="$d3/ddf/classIotDeviceCommand.html#a17504c7be84eca59d324ee1d615e33fb" title="Utility function to unpack the command params and put them into our _cmd_params map. " alt="" coords="283,70,490,111"/>
+<area shape="rect" id="node4" href="$d3/ddf/classIotDeviceCommand.html#afa7fc44db36e40a5f4ddb60032f455fc" title="Getter for convenience in unit testing; gets the params map. " alt="" coords="297,135,477,177"/>
+<area shape="rect" id="node5" href="$d2/d55/classCIotDataDevice.html#addf3504c6127282e79b642fcac66a84b" title="Look for a Channel in this Device with the given MCL tag and return its information. " alt="" coords="299,201,475,242"/>
+<area shape="rect" id="node6" href="$d2/d55/classCIotDataDevice.html#af7cfd4c670b728dd930e931499a18555" title="If we were given SetChannelValues() for any of our special, internal&#45;use&#45;only &quot;channels&quot;, then handle that in this function, given the iTags and new Values to set them to. " alt="" coords="311,266,463,307"/>
+</map>

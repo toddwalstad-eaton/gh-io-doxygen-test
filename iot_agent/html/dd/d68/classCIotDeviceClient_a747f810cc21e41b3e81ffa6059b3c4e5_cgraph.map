@@ -1,0 +1,4 @@
+<map id="CIotDeviceClient::build_tree_structure" name="CIotDeviceClient::build_tree_structure">
+<area shape="rect" id="node2" href="$dd/d68/classCIotDeviceClient.html#ace40ba7e12cab369c87e1d01bfc24b48" title="Add a child device (and its subdevices) to the parent device&#39;s DeviceTree structure, whether or not the indicated device is &quot;valid&quot;. " alt="" coords="224,5,387,61"/>
+<area shape="rect" id="node3" href="$dd/d68/classCIotDeviceClient.html#a47b6924adc4e4c501854573b5bdfda1b" title="Lookup a Device instance in our map of devices, using its CDS Device ID. " alt="" coords="435,13,618,54"/>
+</map>

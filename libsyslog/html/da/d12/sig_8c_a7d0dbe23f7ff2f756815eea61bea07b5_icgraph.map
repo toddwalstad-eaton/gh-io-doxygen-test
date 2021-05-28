@@ -1,0 +1,6 @@
+<map id="dump_procfile" name="dump_procfile">
+<area shape="rect" id="node2" href="$da/d12/sig_8c.html#a1c785d367124dad293d751e79bc2a6e2" title="Dump a stack trace (to stderr &amp; syslog) &amp; abort the process. " alt="" coords="168,31,253,57"/>
+<area shape="rect" id="node3" href="$da/d12/sig_8c.html#a11ff251e505cbdd01a6e6e8f1fc416f5" title="sig_handler" alt="" coords="305,5,402,32"/>
+<area shape="rect" id="node5" href="$db/db9/syslog_8cpp.html#a3267d6c363671e5516d3436c20205afd" title="__assert_fail() is overridden when you link with libsyslog. " alt="" coords="301,56,405,83"/>
+<area shape="rect" id="node4" href="$da/d12/sig_8c.html#a813a1f315d3f3190e339e02574418059" title="Register standard signal handlers. " alt="" coords="453,5,619,32"/>
+</map>

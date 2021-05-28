@@ -1,0 +1,5 @@
+<map id="CPort::device_remove_event" name="CPort::device_remove_event">
+<area shape="rect" id="node2" href="$d6/dd4/classCPort.html#aa6efe62a7c073bbce59befae5f825620" title="Scan through our _devices map for devices that need to be deleted. " alt="" coords="219,5,386,46"/>
+<area shape="rect" id="node3" href="$d6/dd4/classCPort.html#a50fd5bbaac80c831b77653f5370c18ef" title="Get the next transaction series (ie, requests) to be executed for this port. " alt="" coords="686,5,853,46"/>
+<area shape="rect" id="node4" href="$d6/dd4/classCPort.html#ad4921533430dd215d911c91db090de08" title="Poll the devices and get the highest priority transaction series from one. " alt="" coords="435,34,637,75"/>
+</map>

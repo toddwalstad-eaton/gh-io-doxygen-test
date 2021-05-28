@@ -1,0 +1,4 @@
+<map id="px::cds::CImportTrend" name="px::cds::CImportTrend">
+<area shape="rect" id="node2" href="$dc/dab/classpx_1_1cds_1_1CImportFile.html" title="Defines the base class to import a file (such as trends, updates, etc) to the CDS. " alt="" coords="39,353,189,503"/>
+<area shape="rect" id="node3" href="$d3/dbb/classpx_1_1cds_1_1CRequestResponse.html" title="All CDS interprocess messages are subclasses of this. " alt="" coords="5,6,224,303"/>
+</map>

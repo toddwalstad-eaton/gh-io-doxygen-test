@@ -1,0 +1,8 @@
+<map id="toolkit::ValueToExtType" name="toolkit::ValueToExtType">
+<area shape="rect" id="node2" href="$dd/dc9/namespacetoolkit.html#a7b25eff5b6f822f3197513b51f55aecc" title="toolkit::bits_from\l_float" alt="" coords="233,5,367,46"/>
+<area shape="rect" id="node3" href="$dd/dc9/namespacetoolkit.html#a01f3daf5a58e89966be39df6577cf049" title="toolkit::bigendian\l_float_from_bits" alt="" coords="232,70,368,111"/>
+<area shape="rect" id="node4" href="$dd/dc9/namespacetoolkit.html#a1164194f49b77ae7c3b47573f6de2c4a" title="toolkit::littleendian\l_float_from_bits" alt="" coords="227,135,373,177"/>
+<area shape="rect" id="node5" href="$dd/dc9/namespacetoolkit.html#a84173e415fab36f8ccfe73da005efe44" title="toolkit::bits_from\l_double" alt="" coords="233,201,367,242"/>
+<area shape="rect" id="node6" href="$dd/dc9/namespacetoolkit.html#af96a2bd9445c8731bc1079b9fa69c680" title="toolkit::littleendian\l_double_from_bits" alt="" coords="227,266,373,307"/>
+<area shape="rect" id="node7" href="$dd/dc9/namespacetoolkit.html#a0776d48ac6df404e12991eaa07478883" title="toolkit::bigendian\l_double_from_bits" alt="" coords="229,331,371,373"/>
+</map>

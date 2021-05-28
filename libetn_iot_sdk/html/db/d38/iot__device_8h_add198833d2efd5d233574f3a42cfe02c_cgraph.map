@@ -1,0 +1,5 @@
+<map id="initializeConnection" name="initializeConnection">
+<area shape="rect" id="node2" href="$db/d38/iot__device_8h.html#ab33099524cf9db03e05a9607e905bbf5" title="Allocates and initializes the members of the IoT Hub connection structure, given its options and defa..." alt="" coords="247,5,401,32"/>
+<area shape="rect" id="node3" href="$db/d38/iot__device_8h.html#a763e5d88e5f0c481d435c28923a0ac15" title="Callback routine to process connection status changes. " alt="" coords="206,56,442,83"/>
+<area shape="rect" id="node4" href="$db/d38/iot__device_8h.html#a85410bdb4640c21c4d16fea9293095af" title="Thread to process connection status changes. " alt="" coords="491,56,727,83"/>
+</map>

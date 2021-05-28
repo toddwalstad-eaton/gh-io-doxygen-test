@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$dc/ddf/classCIoMessage.html" title="I/O Message base class. " alt="" coords="6,31,106,57"/>
+<area shape="rect" id="node2" href="$da/d56/classCProtocolMessage.html" title="Base class for a non&#45;cloned (singleton) protocol&#45;based IO message. " alt="" coords="155,5,296,32"/>
+<area shape="rect" id="node4" href="$da/d20/classCSimpleMessage.html" title="Simple Message class. " alt="" coords="159,56,292,83"/>
+<area shape="rect" id="node3" href="$d2/df4/classCModbusProtocolMessage.html" title="Modbus Protocol Message class (for raw pass&#45;through message). " alt="" coords="345,5,535,32"/>
+<area shape="rect" id="node5" href="$d3/d91/classCModbusMessage.html" title="Simple Modbus Message class (for Data Block polling) " alt="" coords="371,56,509,83"/>
+</map>

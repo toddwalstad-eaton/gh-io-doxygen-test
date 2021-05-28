@@ -1,0 +1,9 @@
+<map id="certmgr/certmanagd/src/CnfFileConfiguration.cpp" name="certmgr/certmanagd/src/CnfFileConfiguration.cpp">
+<area shape="rect" id="node2" href="$d9/d64/CnfFileConfiguration_8hpp.html" title="Representation of the cnf file configuration for a service for certificate managment. " alt="" coords="444,104,625,131"/>
+<area shape="rect" id="node14" href="$d5/dd6/CertmanagerDaemonException_8hpp.html" title="Exceptions for daemon. " alt="" coords="1027,104,1281,131"/>
+<area shape="rect" id="node18" href="$df/d1b/Tools_8hpp.html" title="tools for certificate managment " alt="" coords="1053,187,1136,213"/>
+<area shape="rect" id="node16" href="$d0/d82/Log_8hpp.html" title="function to log the activity inside using syslog with the facility code daemon " alt="" coords="919,187,992,213"/>
+<area shape="rect" id="node4" href="$d1/dab/certificate_8hpp.html" title="certificate.hpp" alt="" coords="223,261,337,288"/>
+<area shape="rect" id="node15" href="$de/d52/ReturnCode_8hpp.html" title="Code for the API, certcmd and Daemon. " alt="" coords="1480,187,1605,213"/>
+<area shape="rect" id="node10" href="$da/d0a/CnfConfiguration_8hpp.html" title="Representation of the conf configuration for a service for certificate managment. ..." alt="" coords="455,187,613,213"/>
+</map>

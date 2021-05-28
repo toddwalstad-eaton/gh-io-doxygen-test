@@ -1,0 +1,8 @@
+<map id="CDevice::update_subdevice_list" name="CDevice::update_subdevice_list">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#ab231a1465890affb24529dfe50f6a441" title="Get the parent Port and Device ID tag string (eg, &quot;(p2:d64)&quot; ) for this Device. " alt="" coords="547,12,731,39"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#a816517176cc49e1f2867d9faf07ef863" title="Get a shared pointer to a parsed sub&#45;device EDS. " alt="" coords="283,33,491,60"/>
+<area shape="rect" id="node4" href="$d2/d76/classCDevice.html#a87e6fc9677ae9e8acd7fd39c2d6f2b66" title="Create and initialize one of our subdevices, given its EDS and device description, and our shared settings as parent as well. " alt="" coords="539,147,738,173"/>
+<area shape="rect" id="node5" href="$d2/d76/classCDevice.html#aadf71cf602bdc357c2a5eb5252428249" title="Create and add the subdevice instances to the CDS under this parent device. " alt="" coords="309,85,465,126"/>
+<area shape="rect" id="node7" href="$d2/d76/classCDevice.html#ae3ff87e9bab03f6cde7a2cca5ad21c21" title="Free parsed subdevice EDS memory. " alt="" coords="295,202,478,243"/>
+<area shape="rect" id="node6" href="$d2/d76/classCDevice.html#a6344b484b5fe2916bcd18df712b923d1" title="Getter for device ID. " alt="" coords="591,92,687,119"/>
+</map>

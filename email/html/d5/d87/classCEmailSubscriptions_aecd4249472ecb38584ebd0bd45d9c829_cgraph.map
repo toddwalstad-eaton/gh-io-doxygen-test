@@ -1,0 +1,11 @@
+<map id="CEmailSubscriptions::CEmailSubscriptions" name="CEmailSubscriptions::CEmailSubscriptions">
+<area shape="rect" id="node2" href="$d5/d87/classCEmailSubscriptions.html#a0ccd1cefbbf785a96e30b09e5e05d5db" title="request_subscriber_id " alt="" coords="217,93,389,134"/>
+<area shape="rect" id="node3" href="$d5/d87/classCEmailSubscriptions.html#af7e155b6b80411804925d610a56ebdc7" title="request_subscriber_id_callback " alt="" coords="437,85,592,141"/>
+<area shape="rect" id="node4" href="$d5/d87/classCEmailSubscriptions.html#abd807db81421f8c426e9b8c06b843c5e" title="add_oob_subscription " alt="" coords="659,5,829,61"/>
+<area shape="rect" id="node6" href="$d5/d87/classCEmailSubscriptions.html#a379d1501b06bfa47be8a163efe21b17e" title="add_alarm_subscription " alt="" coords="651,85,837,141"/>
+<area shape="rect" id="node8" href="$d5/d87/classCEmailSubscriptions.html#ad0de44b511e7e160de39eb5bc087c913" title="add_signature_subscription " alt="" coords="640,165,848,221"/>
+<area shape="rect" id="node5" href="$d5/d87/classCEmailSubscriptions.html#a3cae83c7ac8c47428255a0f46fe3ceb4" title="add_oob_subscription_request_callback " alt="" coords="897,13,1098,54"/>
+<area shape="rect" id="node7" href="$d5/d87/classCEmailSubscriptions.html#acb4ed390469530794804b41f67950601" title="alarm_subscription_callback " alt="" coords="920,85,1075,141"/>
+<area shape="rect" id="node9" href="$d5/d87/classCEmailSubscriptions.html#a102b7e04bc896b58a9048b8504500a5d" title="signature_subscription_callback " alt="" coords="909,165,1086,221"/>
+<area shape="rect" id="node10" href="$d5/d87/classCEmailSubscriptions.html#af5bb8dfad53e0418dca23ad58211f927" title="unsubscription_callback " alt="" coords="1147,173,1333,214"/>
+</map>

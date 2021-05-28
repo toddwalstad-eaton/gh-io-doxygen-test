@@ -1,0 +1,5 @@
+<map id="CPwrMeterRtMeasuresTableEntry::validate_special_nodes" name="CPwrMeterRtMeasuresTableEntry::validate_special_nodes">
+<area shape="rect" id="node2" href="$da/d2e/classCPwrMeterRtMeasuresTableEntry.html#ad7f8955308a22b3b151905b1e7716abf" title="Factory function which checks to see if we need to add a table entry for the given Device..." alt="" coords="269,5,483,46"/>
+<area shape="rect" id="node3" href="$d8/dc7/classCPwrMeterMib.html#af1218933883291721114e7e2530655d2" title="See if this CDS device needs rows/columns added to one of our tables. " alt="" coords="531,5,693,46"/>
+<area shape="rect" id="node4" href="$d8/dc7/classCPwrMeterMib.html#a77da4f0d974d3e7ff9a7475fde7a73ee" title="Callback: A device has had channels added or removed, or some of its channels had their properties ch..." alt="" coords="742,5,917,46"/>
+</map>

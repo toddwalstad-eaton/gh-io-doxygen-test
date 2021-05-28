@@ -1,0 +1,6 @@
+<map id="CWaveformState::set_storage_path" name="CWaveformState::set_storage_path">
+<area shape="rect" id="node2" href="$d2/d7f/classCWaveformService.html#ad014506631150056f5ff3165dff1cfe9" title="Setter to configure the path for the waveform state data. " alt="" coords="234,5,409,46"/>
+<area shape="rect" id="node5" href="$d3/dd8/classCWaveformState.html#a678968ee53a1fa8ad6185de6f5f77d18" title="CWaveformState::CWaveform\lState" alt="" coords="213,70,429,111"/>
+<area shape="rect" id="node3" href="$dc/de3/classCDeviceHandlerCore.html#a2f61bd2758f039bdf6fd36db67a0f7dd" title="This function sets up the configuration for the main loop(). " alt="" coords="477,5,635,46"/>
+<area shape="rect" id="node4" href="$d0/da8/group__DH__Startup.html#ga0ddf1224851353fc92bfbff6f499fa97" title="The program entry point, main(). " alt="" coords="683,12,738,39"/>
+</map>

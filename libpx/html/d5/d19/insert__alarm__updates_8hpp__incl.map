@@ -1,0 +1,22 @@
+<map id="insert_alarm_updates.hpp" name="insert_alarm_updates.hpp">
+<area shape="rect" id="node3" href="$dd/d3a/common_8hpp.html" title="px/common.hpp" alt="" coords="1620,419,1746,445"/>
+<area shape="rect" id="node4" href="$de/d7c/request__response_8hpp.html" title="px/cds/request_response.hpp" alt="" coords="2717,155,2927,181"/>
+<area shape="rect" id="node14" href="$d5/dad/alarm__update_8hpp.html" title="px/data/alarm_update.hpp" alt="" coords="2145,80,2338,107"/>
+<area shape="rect" id="node43" href="$dd/d59/cast_8hpp.html" title="px/cast.hpp" alt="" coords="2812,80,2909,107"/>
+<area shape="rect" id="node6" href="$d4/d76/type_2string_8hpp.html" title="px/type/string.hpp" alt="" coords="2881,419,3021,445"/>
+<area shape="rect" id="node8" href="$d8/da6/mono__time_8hpp.html" title="px/type/mono_time.hpp" alt="" coords="2725,237,2902,264"/>
+<area shape="rect" id="node9" href="$d1/db0/timestamp_8hpp.html" title="timestamp.hpp" alt="" coords="2609,328,2730,355"/>
+<area shape="rect" id="node16" href="$db/db3/id_8hpp.html" title="px/type/id.hpp" alt="" coords="2755,328,2870,355"/>
+<area shape="rect" id="node19" href="$d2/dca/type_2value_8hpp.html" title="px/type/value.hpp" alt="" coords="2138,237,2277,264"/>
+<area shape="rect" id="node26" href="$de/dda/wall__time_8hpp.html" title="px/type/wall_time.hpp" alt="" coords="2373,237,2539,264"/>
+<area shape="rect" id="node28" href="$dc/d45/alarm__trigger_8hpp.html" title="px/data/alarm_trigger.hpp" alt="" coords="1959,155,2149,181"/>
+<area shape="rect" id="node32" href="$d6/d86/bitset_8hpp.html" title="px/type/bitset.hpp" alt="" coords="981,237,1121,264"/>
+<area shape="rect" id="node42" href="$d8/dc4/realtime__state_8hpp.html" title="px/data/realtime_state.hpp" alt="" coords="1633,155,1831,181"/>
+<area shape="rect" id="node22" href="$db/d73/invalid_8hpp.html" title="invalid.hpp" alt="" coords="2439,328,2533,355"/>
+<area shape="rect" id="node23" href="$d6/d12/datatype_8hpp.html" title="px/enum/datatype.hpp" alt="" coords="1772,328,1941,355"/>
+<area shape="rect" id="node25" href="$d6/d78/best__type_8hpp.html" title="value/best_type.hpp" alt="" coords="2017,328,2171,355"/>
+<area shape="rect" id="node24" href="$d7/dc1/datatype__enums_8hpp.html" title="datatype_enums.hpp" alt="" coords="1780,419,1938,445"/>
+<area shape="rect" id="node29" href="$d2/df5/alarm__trigger__type_8hpp.html" title="px/enum/alarm_trigger\l_type.hpp" alt="" coords="1337,230,1507,271"/>
+<area shape="rect" id="node31" href="$d5/de2/alarm__trigger__type__enums_8hpp.html" title="alarm_trigger_type\l_enums.hpp" alt="" coords="1410,411,1557,453"/>
+<area shape="rect" id="node35" href="$d7/d1e/exception_8hpp.html" title="px/exception.hpp" alt="" coords="60,328,194,355"/>
+</map>

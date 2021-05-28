@@ -1,0 +1,7 @@
+<map id="CChannel::copy_overrides" name="CChannel::copy_overrides">
+<area shape="rect" id="node2" href="$d4/dab/classCChannel.html#a11e5afc5fa8cb59a139eafdc942299c9" title="Initialize this Channel, and its ChannelSettings, from its EDS information. " alt="" coords="246,5,394,46"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#a62fdb6fcd48d2afe1fa8f77acfb5028f" title="Initialize single channel from eds entry. " alt="" coords="250,70,390,111"/>
+<area shape="rect" id="node4" href="$d2/d76/classCDevice.html#a86e0d795f0cc71ab61e023d4213c36ab" title="Create and initialize the Channels called for by the EDS. " alt="" coords="443,70,583,111"/>
+<area shape="rect" id="node5" href="$d2/d76/classCDevice.html#a1d5a52000fc574354fb3548eb4dcae96" title="Call this function to initialize the Channels and Internal Parameters for this Device. " alt="" coords="633,70,773,111"/>
+<area shape="rect" id="node6" href="$d2/d76/classCDevice.html#accb14c1121791e295ac675fc99b36807" title="Initialize the Data Blocks, Channels, and Internal Parameters for this Device. " alt="" coords="822,70,962,111"/>
+</map>

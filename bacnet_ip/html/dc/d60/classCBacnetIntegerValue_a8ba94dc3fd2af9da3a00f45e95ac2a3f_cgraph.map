@@ -1,0 +1,4 @@
+<map id="CBacnetIntegerValue::get_present_value" name="CBacnetIntegerValue::get_present_value">
+<area shape="rect" id="node2" href="$dd/d0a/classCBacnetObject.html#a90c79d373f043745e1fde133b7b7b01f" title="Getter for this object&#39;s Object_Type (the type part of ObjectID). " alt="" coords="213,5,440,32"/>
+<area shape="rect" id="node3" href="$dd/d0a/classCBacnetObject.html#ac4efbcf5ec4f86c0d5db53b35659cabc" title="Do the application encoding of a property&#39;s value, based on its BACNET_APPLICATION_TAG type..." alt="" coords="240,57,413,98"/>
+</map>

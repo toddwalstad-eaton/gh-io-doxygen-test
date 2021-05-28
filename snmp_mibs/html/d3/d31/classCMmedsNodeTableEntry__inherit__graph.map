@@ -1,0 +1,12 @@
+<map id="CMmedsNodeTableEntry" name="CMmedsNodeTableEntry">
+<area shape="rect" id="node2" href="$d8/de6/classCPcdDigitalInputsTableEntry.html" title="Container for data for one row of the pcdDigitalInputsTable, providing a single digital input informa..." alt="" coords="5,322,245,502"/>
+<area shape="rect" id="node3" href="$dd/d63/classCPcdDigitalOutputsTableEntry.html" title="Container for data for one row of the pcdDigitalOutputsTable, providing a single digital output infor..." alt="" coords="270,300,511,524"/>
+<area shape="rect" id="node4" href="$d9/d6e/classCPcdMeasuresTableEntry.html" title="Container for data for one row of the pcdMeasuresTable, providing the available measures (column) inf..." alt="" coords="535,337,755,487"/>
+<area shape="rect" id="node5" href="$d5/d80/classCPcdPhaseMeasuresTableEntry.html" title="Container for data for one row of the pcdPhaseMeasuresTable, providing the available measures (column..." alt="" coords="780,351,1039,473"/>
+<area shape="rect" id="node6" href="$d7/d06/classCPcdSensorTableEntry.html" title="Container for data for one row of the pcdSensorTable, providing one &quot;sensor&quot; data point as described ..." alt="" coords="1063,329,1265,495"/>
+<area shape="rect" id="node7" href="$de/d43/classCPwrMeterDemandMeasuresTableEntry.html" title="Container for data for one row of the pwrMeterDemandMeasuresTable, providing the available measures (..." alt="" coords="1289,300,1548,524"/>
+<area shape="rect" id="node8" href="$d9/dff/classCPwrMeterEnergyMeasuresTableEntry.html" title="Container for data for one row of the pwrMeterEnergyMeasuresTable, providing the available measures (..." alt="" coords="1572,300,1820,524"/>
+<area shape="rect" id="node9" href="$d4/d53/classCPwrMeterMinAvgMaxTableEntry.html" title="Container for data for one row of the pwrMeterMinAvgMaxTable, providing the available measures (colum..." alt="" coords="1844,300,2103,524"/>
+<area shape="rect" id="node10" href="$da/d2e/classCPwrMeterRtMeasuresTableEntry.html" title="Container for data for one row of the pwrMeterRtMeasuresTable, providing the available measures (colu..." alt="" coords="2127,293,2355,531"/>
+<area shape="rect" id="node11" href="$da/dce/classCPwrMeterRtPhaseMeasuresTableEntry.html" title="Container for data for one row of the pwrMeterRtPhaseMeasuresTable, providing the available measures ..." alt="" coords="2379,278,2612,546"/>
+</map>

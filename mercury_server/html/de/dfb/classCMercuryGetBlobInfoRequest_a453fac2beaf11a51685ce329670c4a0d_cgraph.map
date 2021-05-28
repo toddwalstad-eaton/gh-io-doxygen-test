@@ -1,0 +1,9 @@
+<map id="CMercuryGetBlobInfoRequest::execute" name="CMercuryGetBlobInfoRequest::execute">
+<area shape="rect" id="node2" href="$df/df6/classCMercuryMessageHandler.html#a17ed689c3244cf11e17c39827a61c70a" title="Post an error response, with the optional error message. " alt="" coords="529,5,746,32"/>
+<area shape="rect" id="node3" href="$de/dfb/classCMercuryGetBlobInfoRequest.html#a92c0c57ae2a133949d8ace472da754d3" title="Retrieve blob info and fill it into response (parameter). " alt="" coords="267,57,479,98"/>
+<area shape="rect" id="node8" href="$df/df6/classCMercuryMessageHandler.html#ab1d4986083e1271b288e3da19be56359" title="interface to respond to interested parties " alt="" coords="278,122,469,163"/>
+<area shape="rect" id="node4" href="$db/d16/classCMercuryUtil.html#a76d065c1f37ff1e9b75b8dd75a288b97" title="Authorize read access to a resource. " alt="" coords="548,57,727,98"/>
+<area shape="rect" id="node5" href="$dc/df2/mercury__util_8cpp.html#a6a0380bd3f34c61b640f0e73216259a2" title="is_valid_path" alt="" coords="1006,64,1114,91"/>
+<area shape="rect" id="node6" href="$db/d16/classCMercuryUtil.html#ac6ded0d3a1ddbf49fa22eb64e55d2872" title="Given a virtual URI and its base folder configuration information, restate it as a (potential) real f..." alt="" coords="798,57,954,98"/>
+<area shape="rect" id="node7" href="$dc/df2/mercury__util_8cpp.html#a39adda5682039c3a35cc4bdfce20da8f" title="normalize_and_check" alt="" coords="795,123,957,149"/>
+</map>

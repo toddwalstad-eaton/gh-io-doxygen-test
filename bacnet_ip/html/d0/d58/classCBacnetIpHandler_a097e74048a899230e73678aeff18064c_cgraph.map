@@ -1,0 +1,11 @@
+<map id="CBacnetIpHandler::parse" name="CBacnetIpHandler::parse">
+<area shape="rect" id="node2" href="$d0/d58/classCBacnetIpHandler.html#ac25e8ea63490cc6cafdfc99113c6df90" title="Note any BVLC_RESULT code, or NAK the BVLL message in the unsupported cases. " alt="" coords="238,70,413,111"/>
+<area shape="rect" id="node7" href="$d7/d94/group__bip__interface.html#ga51d8943ac2b970c0e048a4023869f643" title="Returns the current BVLL Function Code we are processing. " alt="" coords="914,251,1089,277"/>
+<area shape="rect" id="node9" href="$d0/dea/group__bip__settings__interface.html#ga36ee8e5dd743fa31ec652ac4aee2b060" title="Get the BACnet/IP address. " alt="" coords="272,187,379,213"/>
+<area shape="rect" id="node10" href="$d0/dea/group__bip__settings__interface.html#gae801592c0f10b8570f86532bc830c723" title="Get the BACnet IPv4 UDP port number. " alt="" coords="274,237,377,264"/>
+<area shape="rect" id="node4" href="$dc/d96/bacnet__ip__handler_8cpp.html#a41bdbc3b2c98dbf2bd146f714031b5d8" title="bactext_bvlc_function" alt="" coords="467,136,632,163"/>
+<area shape="rect" id="node3" href="$d0/d58/classCBacnetIpHandler.html#a13f111a1541709fc81e3715b2a3f5182" title="Call this to reset our UDP Listener to go back to listening, because no actual response needs to be s..." alt="" coords="462,5,637,46"/>
+<area shape="rect" id="node5" href="$d0/d58/classCBacnetIpHandler.html#a2b838b79d6d3eab2ab332e7e91cee129" title="Utility function to just encode and send a BVLC result code. " alt="" coords="462,70,637,111"/>
+<area shape="rect" id="node6" href="$d0/d58/classCBacnetIpHandler.html#a656388fdc68188b1e657f10877a10f9e" title="Send a buffer as a unicast BACnet/IP packet to the given destination address. " alt="" coords="685,109,864,150"/>
+<area shape="rect" id="node8" href="$d0/d58/classCBacnetIpHandler.html#a88d9352fc35880e6f0f22eac0c64c3be" title="Send a buffer as a unicast BACnet/IP packet specifically to the given destination address..." alt="" coords="912,109,1091,150"/>
+</map>

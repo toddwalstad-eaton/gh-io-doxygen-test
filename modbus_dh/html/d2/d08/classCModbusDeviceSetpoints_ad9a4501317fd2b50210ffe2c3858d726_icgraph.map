@@ -1,0 +1,6 @@
+<map id="CModbusDeviceSetpoints::is_setpoints_command" name="CModbusDeviceSetpoints::is_setpoints_command">
+<area shape="rect" id="node2" href="$d2/d08/classCModbusDeviceSetpoints.html#aec2e68b62898917fcc71d41f2f5ef4ed" title="Execute the setpoints command. " alt="" coords="240,5,461,46"/>
+<area shape="rect" id="node4" href="$d2/d08/classCModbusDeviceSetpoints.html#a4ebc156f522787ae8f04a8d15f4cf0ac" title="Handle the setpoints command completion. " alt="" coords="244,71,457,127"/>
+<area shape="rect" id="node3" href="$d7/d46/classCModbusDevice.html#a53f23722e476f1bd17a33a2ddcadf862" title="Call this function to create and execute the named command for this Device. " alt="" coords="509,5,696,46"/>
+<area shape="rect" id="node5" href="$d7/d46/classCModbusDevice.html#aa257c186cc0c6d1acee490152630ce92" title="See device.hpp. " alt="" coords="513,78,692,119"/>
+</map>

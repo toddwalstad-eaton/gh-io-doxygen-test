@@ -1,0 +1,15 @@
+<map id="rapidxml::xml_node::first_attribute" name="rapidxml::xml_node::first_attribute">
+<area shape="rect" id="node2" href="$d1/d46/classrapidxml_1_1memory__pool.html#a0a10679fc17597d339a0dc107f8a94ac" title="Clones an xml_node and its hierarchy of child nodes and attributes. " alt="" coords="205,5,384,46"/>
+<area shape="rect" id="node3" href="$de/d82/classrapidxml_1_1xml__node.html#a8b62ee76489faf8e2d1210869d547684" title="Prepends a new attribute to the node. " alt="" coords="219,70,371,111"/>
+<area shape="rect" id="node5" href="$de/d82/classrapidxml_1_1xml__node.html#a33ce3386f8c42dd4db658b75cbb6e6c4" title="Appends a new attribute to the node. " alt="" coords="219,135,371,177"/>
+<area shape="rect" id="node7" href="$de/d82/classrapidxml_1_1xml__node.html#aa95192d2a165cca16c551ed2a2a06aec" title="Removes first attribute of the node. " alt="" coords="207,201,382,242"/>
+<area shape="rect" id="node9" href="$de/d82/classrapidxml_1_1xml__node.html#a1781a2cbedc9a51d609ad5b528125635" title="Removes last attribute of the node. " alt="" coords="207,266,382,307"/>
+<area shape="rect" id="node8" href="$de/d82/classrapidxml_1_1xml__node.html#a6f97b1b4f46a94a4587915df3c0c6b57" title="Removes specified attribute from node. " alt="" coords="449,266,601,307"/>
+<area shape="rect" id="node10" href="$de/d82/classrapidxml_1_1xml__node.html#aa8d5d9484aa1eb5ff1841a073c84c1aa" title="Removes all attributes of node. " alt="" coords="208,383,381,425"/>
+<area shape="rect" id="node4" href="$de/d82/classrapidxml_1_1xml__node.html#a9fe659cdf4a5b3bbf5e8ffc98db5a84f" title="Inserts a new attribute at specified place inside the node. " alt="" coords="449,70,601,111"/>
+<area shape="rect" id="node6" href="$db/d68/classrapidxml_1_1xml__document.html#ac0b3cd07b3d5cbaa83762a196c681519" title="rapidxml::xml_document\l::parse_node_attributes" alt="" coords="433,135,618,177"/>
+<area shape="rect" id="node11" href="$db/d68/classrapidxml_1_1xml__document.html#ac6e73ff9ac323bf5a370c38feb03a6b1" title="Parses zero&#45;terminated XML string according to given flags. " alt="" coords="433,357,618,398"/>
+<area shape="rect" id="node14" href="$db/d68/classrapidxml_1_1xml__document.html#a826929ff54242532198701f19ff5f83f" title="Clears the document by deleting all nodes and clearing the memory pool. " alt="" coords="433,422,618,463"/>
+<area shape="rect" id="node12" href="$d3/dcd/classCEmailConfig.html#a49a6b71afe651d9e140d946aa794ee68" title="parse " alt="" coords="667,364,821,391"/>
+<area shape="rect" id="node13" href="$d3/dcd/classCEmailConfig.html#a78afc4cc3c3bda6f427f4ded377954ef" title="Constructor. " alt="" coords="870,364,1074,391"/>
+</map>

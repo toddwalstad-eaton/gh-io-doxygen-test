@@ -1,0 +1,10 @@
+<map id="certmanager::Server::removeCertificate" name="certmanager::Server::removeCertificate">
+<area shape="rect" id="node2" href="$d6/d04/classcertmanager_1_1Common.html#af7f030c6e3288e9752c1f4359c7c5768" title="This function helps to remove the given file. " alt="" coords="247,5,419,46"/>
+<area shape="rect" id="node4" href="$dc/d2a/classcertmanager_1_1InternalCertificatesAccessor.html#ac4e236a74549f01ee5066e23fc54d844" title="certmanager::InternalCertificates\lAccessor::certPath" alt="" coords="215,70,452,111"/>
+<area shape="rect" id="node5" href="$dc/d2a/classcertmanager_1_1InternalCertificatesAccessor.html#abf4b26498d652a1d0a8788dce4149b98" title="certmanager::InternalCertificates\lAccessor::certKeyPath" alt="" coords="215,135,452,177"/>
+<area shape="rect" id="node6" href="$dc/d2a/classcertmanager_1_1InternalCertificatesAccessor.html#ad6d0673d6c223a68a2d8730c1f8fc560" title="certmanager::InternalCertificates\lAccessor::certInfoPath" alt="" coords="215,201,452,242"/>
+<area shape="rect" id="node7" href="$dc/d2a/classcertmanager_1_1InternalCertificatesAccessor.html#a9f5f23be0efce9ec168503f7e9998e53" title="certmanager::InternalCertificates\lAccessor::certNetworkPath" alt="" coords="215,266,452,307"/>
+<area shape="rect" id="node8" href="$dc/d2a/classcertmanager_1_1InternalCertificatesAccessor.html#ae4de15416cbf38e9a03cf6425cb02c1d" title="certmanager::InternalCertificates\lAccessor::certDetailsPath" alt="" coords="215,331,452,373"/>
+<area shape="rect" id="node9" href="$dc/d2a/classcertmanager_1_1InternalCertificatesAccessor.html#adfd7b9c3562e0ee57b9ce0c8070b835a" title="certmanager::InternalCertificates\lAccessor::certOverwrittenDataPath" alt="" coords="209,397,458,438"/>
+<area shape="rect" id="node3" href="$dc/d10/classcertmanager_1_1Log.html#a56c9c1e70c82c11852e0c32d9967a5a1" title="Write a log inside syslog daemon if the syslog is open. " alt="" coords="507,12,685,39"/>
+</map>

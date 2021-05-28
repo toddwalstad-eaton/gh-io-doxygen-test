@@ -1,0 +1,5 @@
+<map id="CModbusSerialDevice" name="CModbusSerialDevice">
+<area shape="rect" id="node2" href="$d7/d46/classCModbusDevice.html" title="This class implements a Device container for Modbus/RTU communicating devices. " alt="" coords="120,1169,363,1495"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html" title="Abstract &quot;Device&quot; class. " alt="" coords="140,323,343,1119"/>
+<area shape="rect" id="node4" href="$d8/d81/structIDataBlockObserver.html" title="Data Block Observer Defines an interface for objects that can be notified on block completion (eg..." alt="" coords="5,6,248,274"/>
+</map>

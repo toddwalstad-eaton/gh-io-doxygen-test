@@ -1,0 +1,7 @@
+<map id="Exceptions" name="Exceptions">
+<area shape="rect" id="node1" href="$db/d88/group__opcuaUtils.html" title="General pourpose utilities for open62541, CDS and debugging. " alt="" coords="6,81,79,108"/>
+<area shape="rect" id="node5" href="$d8/d5a/group__opcuaServerCDS.html" title="This module contains implementation of CDS connection handler. " alt="" coords="319,5,423,32"/>
+<area shape="rect" id="node6" href="$d7/de0/group__opcuaServerMap.html" title="This module contains implementation of the mapping between CDS and OPC UA. " alt="" coords="332,56,409,83"/>
+<area shape="rect" id="node3" href="$db/d43/group__opcuaServerCore.html" title="This module contains the PX&#45;Red Server core implementation. " alt="" coords="321,107,420,133"/>
+<area shape="rect" id="node4" href="$de/d34/group__opcuaServerWrapper.html" title="This module contains implementation of the open62541 OPC UA C stack. " alt="" coords="313,157,429,184"/>
+</map>

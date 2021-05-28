@@ -1,0 +1,7 @@
+<map id="certmanager::ExternalCertificatesStorage::writeDetails" name="certmanager::ExternalCertificatesStorage::writeDetails">
+<area shape="rect" id="node2" href="$d2/dd7/classcertmanager_1_1ExternalCertificatesAccessor.html#aed3ae5494b01323e26714b2e2a09de97" title="certmanager::ExternalCertificates\lAccessor::certDetailsPath" alt="" coords="299,5,541,46"/>
+<area shape="rect" id="node3" href="$d8/d66/classcertmanager_1_1ServiceConfiguration.html#aadbf77c40609266aadb61db41fa72aa4" title="Functions to get the service configuration parameters Service basic details. " alt="" coords="296,70,544,111"/>
+<area shape="rect" id="node4" href="$dc/dba/classcertmanager_1_1Tools.html#a8f72c06492cb0a437b0f834da63dff91" title="The function helps to change directory or file mode. " alt="" coords="347,135,493,177"/>
+<area shape="rect" id="node5" href="$dc/dba/classcertmanager_1_1Tools.html#aa546e71ec3d8444a15e301a5782aba30" title="This function changes the group for the path given. " alt="" coords="347,201,493,242"/>
+<area shape="rect" id="node6" href="$d8/d66/classcertmanager_1_1ServiceConfiguration.html#adf0f52b324065e06ada93ac907c90dc6" title="certmanager::ServiceConfiguration\l::getManagmentGroup" alt="" coords="296,266,544,307"/>
+</map>

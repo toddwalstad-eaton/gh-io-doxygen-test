@@ -1,0 +1,5 @@
+<map id="CHandleApiIds::make_msg_handler" name="CHandleApiIds::make_msg_handler">
+<area shape="rect" id="node2" href="$d6/dee/classCMercuryProtocolHandler.html#a2d2d489c918fc8db2c725ef81de4fe0b" title="Handle a Mercury request. " alt="" coords="216,38,403,79"/>
+<area shape="rect" id="node3" href="$db/dd8/classCTcpProtocolHandler.html#a5df1e58dd987e13789e138e4c2f65172" title="Execute the parsed request. " alt="" coords="451,5,607,46"/>
+<area shape="rect" id="node4" href="$d7/d46/classCWsProtocolHandler.html#a8ba2f45385c311d209cb8925f4f56486" title="Process a parsed message. " alt="" coords="452,70,607,111"/>
+</map>

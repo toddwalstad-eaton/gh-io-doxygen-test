@@ -1,0 +1,4 @@
+<map id="extractIntegerWords" name="extractIntegerWords">
+<area shape="rect" id="node2" href="$d7/d5a/classCNetworkUtils.html#a5746696d0b551cec77e00d57c57aded3" title="This function extracts the MAC address bytes from the received &#39;mac_text&#39; buffer (xx:xx:xx:xx:xx:xx) ..." alt="" coords="209,5,370,46"/>
+<area shape="rect" id="node3" href="$d7/d5a/classCNetworkUtils.html#af3f70c186f721066f584e5089f890f0f" title="This function extracts the IPV4 address bytes from the received &#39;ipv4_text&#39; buffer (xx..." alt="" coords="209,70,370,111"/>
+</map>

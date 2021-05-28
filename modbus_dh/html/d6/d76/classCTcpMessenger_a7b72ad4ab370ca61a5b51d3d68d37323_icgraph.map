@@ -1,0 +1,4 @@
+<map id="CTcpMessenger::CTcpMessenger" name="CTcpMessenger::CTcpMessenger">
+<area shape="rect" id="node2" href="$d6/d76/classCTcpMessenger.html#a80e10b6867639ca2da92f92ddda5ea50" title="Factory function. " alt="" coords="285,12,456,39"/>
+<area shape="rect" id="node3" href="$d6/d71/classCModbusTcpPort.html#a9dd6e9eb42463f8da3cc59fd250d9280" title="(Virtual) Factory method to create the port &quot;Connection&quot; Actor (eg, CSerialConnection). " alt="" coords="505,5,682,46"/>
+</map>

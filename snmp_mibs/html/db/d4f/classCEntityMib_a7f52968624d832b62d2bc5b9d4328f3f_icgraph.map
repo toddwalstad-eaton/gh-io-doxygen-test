@@ -1,0 +1,5 @@
+<map id="CEntityMib::update_entLastChangeTime" name="CEntityMib::update_entLastChangeTime">
+<area shape="rect" id="node2" href="$db/d4f/classCEntityMib.html#aa0eb1548ef98fb3d49446780cae6eda1" title="Application callback for whenever CCdsHandler adds a device to its map. " alt="" coords="214,5,389,46"/>
+<area shape="rect" id="node3" href="$db/d4f/classCEntityMib.html#a9411a2a12d76218baf3cc10f46377062" title="Application callback for whenever CCdsHandler updates a device in its map, for changes in device_sett..." alt="" coords="229,70,374,111"/>
+<area shape="rect" id="node4" href="$db/d4f/classCEntityMib.html#a642f76e10fcc044bca8771c75c6bc2fa" title="Application callback for whenever CCdsHandler removes a device from its map. " alt="" coords="231,135,372,177"/>
+</map>

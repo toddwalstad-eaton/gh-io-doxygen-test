@@ -1,0 +1,17 @@
+<map id="CEmailWorkManager::process_alarm_update" name="CEmailWorkManager::process_alarm_update">
+<area shape="rect" id="node2" href="$d5/d4c/classCEmailWorkManager.html#aadbde6c62baf9405d1059214398cdc3b" title="populate_data_attachment_fields " alt="" coords="241,184,439,240"/>
+<area shape="rect" id="node10" href="$d5/d4c/classCEmailWorkManager.html#a33c12ac66096924ec32150b612dc9eb7" title="is_alarm_work_item_ready " alt="" coords="241,302,439,343"/>
+<area shape="rect" id="node16" href="$d5/d4c/classCEmailWorkManager.html#aecef3573f5795be9531895655daf420d" title="push_work_item_for_processing " alt="" coords="225,367,455,409"/>
+<area shape="rect" id="node3" href="$d5/d4c/classCEmailWorkManager.html#aaa48dc5eb79e53fa3a7d36f879746174" title="extract_data_attachment_information " alt="" coords="513,143,700,199"/>
+<area shape="rect" id="node4" href="$d1/daa/classCEmailChannel.html#a5b221ba16cae28eba1957c4eba86d18a" title="CEmailChannel::id" alt="" coords="792,5,933,32"/>
+<area shape="rect" id="node5" href="$d1/daa/classCEmailChannel.html#a79f89246bdd7246eb138d7e59315135f" title="CEmailChannel::name" alt="" coords="779,56,946,83"/>
+<area shape="rect" id="node6" href="$d1/daa/classCEmailChannel.html#ae280ce0120448e294e00e7708ba728b7" title="CEmailChannel::value" alt="" coords="780,107,945,133"/>
+<area shape="rect" id="node7" href="$d1/daa/classCEmailChannel.html#a5123506d46a25a50e093ec5295afed11" title="CEmailChannel::units" alt="" coords="782,157,943,184"/>
+<area shape="rect" id="node8" href="$d5/d4c/classCEmailWorkManager.html#af566d7cc7df6063ce435b34365e2598c" title="extract_data_attachment_information " alt="" coords="769,208,956,264"/>
+<area shape="rect" id="node9" href="$d1/daa/classCEmailChannel.html#a4e0216f19dd48137273104b41bc4cbbe" title="CEmailChannel::parent" alt="" coords="777,288,948,315"/>
+<area shape="rect" id="node11" href="$d5/d4c/classCEmailWorkManager.html#a6e611583cac9566eb14e078837f212d7" title="extract_alarm_information " alt="" coords="509,270,705,311"/>
+<area shape="rect" id="node12" href="$d5/d4c/classCEmailWorkManager.html#a131a990568828f8dc6d48b6f06907e01" title="get_device_details_callback " alt="" coords="504,335,709,377"/>
+<area shape="rect" id="node14" href="$d5/d4c/classCEmailWorkManager.html#adb86595a03a46564d0613ebbfa9b9034" title="get_channel_details_callback " alt="" coords="524,401,689,457"/>
+<area shape="rect" id="node13" href="$d5/d4c/classCEmailWorkManager.html#a33bd449a31b436ce2d69eeb48a5f1b2a" title="extract_device_information " alt="" coords="762,339,963,381"/>
+<area shape="rect" id="node15" href="$d5/d4c/classCEmailWorkManager.html#af9924498cf0bd3de569fb8019ead1fb0" title="extract_channel_information " alt="" coords="758,409,967,450"/>
+</map>

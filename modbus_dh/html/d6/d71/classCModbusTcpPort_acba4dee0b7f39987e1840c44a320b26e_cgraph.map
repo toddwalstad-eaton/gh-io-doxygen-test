@@ -1,0 +1,43 @@
+<map id="CModbusTcpPort::change_signature_callback" name="CModbusTcpPort::change_signature_callback">
+<area shape="rect" id="node2" href="$d6/dd4/classCPort.html#a67fdf9324b9596b8c462cfa66159a7db" title="Getter for the name of this port. " alt="" coords="1673,353,1836,380"/>
+<area shape="rect" id="node3" href="$d6/d71/classCModbusTcpPort.html#aa35c08909bd920fba1a6e7bbd25dfd6f" title="Scan the list of Devices for this Port or submaster and add any not already mapped, and remove any that have gone missing. " alt="" coords="237,346,419,387"/>
+<area shape="rect" id="node37" href="$d6/d71/classCModbusTcpPort.html#a2a8a69169689ff0318e13a999c24272a" title="Getter for the current Network Interface Passthrough OOB data. " alt="" coords="935,903,1092,945"/>
+<area shape="rect" id="node4" href="$d4/d89/classCDeviceService.html#a1bb597b7b339b88ed5b2c63ff62d16db" title="Find the child Devices for the given Port or parent device. " alt="" coords="703,211,859,253"/>
+<area shape="rect" id="node5" href="$d6/d71/classCModbusTcpPort.html#aec9a93dd9e03b13568b0ccd916a7a7ea" title="Provide access to the shared pointer for copying. " alt="" coords="694,328,869,355"/>
+<area shape="rect" id="node6" href="$d6/d71/classCModbusTcpPort.html#a299d259e4f18a242389a1fb9987454ea" title="Determines if we can still add a new device to this port. " alt="" coords="922,262,1105,303"/>
+<area shape="rect" id="node7" href="$dc/d4a/classCUtil.html#aff025a27e9d1e7204e72c564e7a60adb" title="CUtil::get_formatted\l_address" alt="" coords="479,779,633,821"/>
+<area shape="rect" id="node8" href="$d6/d71/classCModbusTcpPort.html#a41f705acf8753de292935ae3030a388b" title="Create and add a (protocol&#45;specific, DH&#45;classed) Device container to our list, along with its EDS inf..." alt="" coords="467,463,645,505"/>
+<area shape="rect" id="node33" href="$d6/d71/classCModbusTcpPort.html#ae693807826228cedc39887a258851fc0" title="Setter for the port throttle time. " alt="" coords="478,845,634,886"/>
+<area shape="rect" id="node34" href="$d5/df1/structgeneric__err.html#ae3bee2d13a4c011702e5a9ab4650bc95" title="Implement the virtual function to provide the error&#39;s text. " alt="" coords="489,43,623,69"/>
+<area shape="rect" id="node35" href="$d4/d89/classCDeviceService.html#a2ee1a710f718c9a2aed2b35f82f788f5" title="Find the Device map for the given Port or parent device. " alt="" coords="478,262,634,303"/>
+<area shape="rect" id="node22" href="$d6/dd4/classCPort.html#ab230774c3894ac6a2b385da578e21ce1" title="Getter for the Device ID of this Port. " alt="" coords="1702,736,1807,763"/>
+<area shape="rect" id="node18" href="$d6/d71/classCModbusTcpPort.html#aedcf5df64379c69648efb2de339eeee4" title="Find and remove the Device entry with the given id from our map. " alt="" coords="1420,670,1607,711"/>
+<area shape="rect" id="node36" href="$dd/d97/classCOobService.html#ac17180df34aa12fb645a3d0d0ae62a53" title="Setter for the checksum in the eds oob settings. " alt="" coords="475,94,637,135"/>
+<area shape="rect" id="node9" href="$d6/d71/classCModbusTcpPort.html#a31bf41071f924d98b066a9e95750e7b6" title="Getter for the maximum allowed devices on this serial port. " alt="" coords="927,611,1100,653"/>
+<area shape="rect" id="node10" href="$db/daf/classCModbusUtil.html#ae8a0fdaf34af28b14a703b29a2b0391b" title="Decode the IP address, port, and unit ID The passed in tcp_addr_t struct is filled in with IP address..." alt="" coords="1434,813,1593,854"/>
+<area shape="rect" id="node11" href="$db/daf/classCModbusUtil.html#ab70e5afd58d230097aa7888857760859" title="Check if the IP address is in range of the current subnet address and mask values. " alt="" coords="710,379,853,421"/>
+<area shape="rect" id="node13" href="$dc/d4a/classCUtil.html#a3fc24ae5c12897079c425c8f4af5fcbf" title="CUtil::get_no_device\l_string" alt="" coords="1911,418,2067,459"/>
+<area shape="rect" id="node14" href="$d6/d71/classCModbusTcpPort.html#a9e5c352cd4bad66a553cbcb897193b62" title="Add a Device&#45;Handler class Device container to our map of devices. " alt="" coords="701,547,861,589"/>
+<area shape="rect" id="node12" href="$dd/dcc/modbus__util_8cpp.html#a27ba4ed6af53162b985da5e4a1ad8b4c" title="ip_to_uint" alt="" coords="970,211,1057,237"/>
+<area shape="rect" id="node15" href="$d6/d71/classCModbusTcpPort.html#a7e1a5031343f7cefdb051d61739c40c3" title="Subscribe to Device Settings change events for the specified Device ID. " alt="" coords="918,546,1109,587"/>
+<area shape="rect" id="node19" href="$d6/d71/classCModbusTcpPort.html#aede51fb4bf0d997593b81ad16129aacb" title="Subscribe to CDS Device Command events for the specified Device ID. " alt="" coords="918,481,1109,522"/>
+<area shape="rect" id="node16" href="$d6/d71/classCModbusTcpPort.html#ad1d714147e00f70ddbbb4e134fdb1ad6" title="The callback function that we provide to the CDS to handle Device Settings change events..." alt="" coords="1172,611,1351,653"/>
+<area shape="rect" id="node17" href="$dc/d4a/classCUtil.html#ab23b89e75ee52ed0e45e7a188ce3386f" title="CUtil::get_formatted_name" alt="" coords="1414,619,1613,645"/>
+<area shape="rect" id="node20" href="$d6/d71/classCModbusTcpPort.html#ac7c56c43910aacf8ace8654d46ca7a13" title="The callback function that we provide to the CDS to handle Device Command events. ..." alt="" coords="1172,502,1351,543"/>
+<area shape="rect" id="node21" href="$d6/dd4/classCPort.html#ae2be0084b3f78d396e993655e8f669db" title="CPort::device_command\l_handler" alt="" coords="1423,523,1603,565"/>
+<area shape="rect" id="node23" href="$d6/dd4/classCPort.html#a3c54c16bb9eadc27a07b715e8c89a929" title="Reset statistics counters for all devices. " alt="" coords="1686,531,1823,557"/>
+<area shape="rect" id="node27" href="$d6/dd4/classCPort.html#aab0a068ac09cc3087a267740514457b8" title="Log device block statistics. " alt="" coords="1671,589,1838,616"/>
+<area shape="rect" id="node30" href="$d6/d0f/classCCommandService.html#a2e938d3596268b4feceaa79e8ce15847" title="Send a command result to a device in the CDS Note: This overload performs a full CDS update of all CD..." alt="" coords="1662,670,1847,711"/>
+<area shape="rect" id="node24" href="$d6/dd4/classCPort.html#a4558355c64c9956638ae556aef91732e" title="Log port and device statistics. " alt="" coords="1927,484,2051,511"/>
+<area shape="rect" id="node25" href="$d0/d7e/classCWriteStats.html#a1de9bf70855258fe2625c145ed6ae233" title="CWriteStats::write\l_io_stats_file" alt="" coords="2163,469,2301,510"/>
+<area shape="rect" id="node26" href="$d6/dd4/classCPort.html#a61ce1938bab023e7a4cdd00163af86d8" title="Getter for the display name of this port. " alt="" coords="2131,535,2333,561"/>
+<area shape="rect" id="node28" href="$d0/d7e/classCWriteStats.html#a051a7cdb7d9745def35e332af89b55a5" title="CWriteStats::write\l_block_stats_file" alt="" coords="1920,586,2059,627"/>
+<area shape="rect" id="node29" href="$d6/dd4/classCPort.html#a8cdefbfb53043bb0fa85a13ff608c2c7" title="Getter for the port speed (baud rate if serial port). " alt="" coords="1907,652,2072,679"/>
+<area shape="rect" id="node31" href="$dd/de8/command__service_8cpp.html#a5b005098f808914039f86f83f9d6f680" title="get_command_status" alt="" coords="1908,753,2071,780"/>
+<area shape="rect" id="node32" href="$dd/de8/command__service_8cpp.html#a36ade948c171481c38bad3ff3f7556dc" title="get_command_substatus" alt="" coords="1897,703,2082,729"/>
+<area shape="rect" id="node38" href="$d0/d8a/classCTcpProxyList.html#a541c437d12b0f6255eba3ed99767a07f" title="Getter for the Modbus TCP network oob data. " alt="" coords="1191,903,1332,945"/>
+<area shape="rect" id="node40" href="$d0/d8a/classCTcpProxyList.html#a582f60079724cc995dcbd389ee463a37" title="Check and if required sync proxy device configuration In the rare case of a race condition between de..." alt="" coords="1157,838,1365,879"/>
+<area shape="rect" id="node41" href="$d0/d8a/classCTcpProxyList.html#a2f12b0168e5ef9fae480b47d8e009829" title="Setter for the Modbus TCP network oob data. " alt="" coords="1191,969,1331,1010"/>
+<area shape="rect" id="node39" href="$d0/d8a/classCTcpProxyList.html#a31665f94105428f5f405a9719ecd7b7c" title="Getter for the Modbus TCP network pass&#45;through list. " alt="" coords="1441,903,1585,945"/>
+<area shape="rect" id="node42" href="$d0/d8a/classCTcpProxyList.html#afc21597d5463201b459fb5374394e67b" title="Setter for the Modbus TCP network pass&#45;through list. " alt="" coords="1441,969,1585,1010"/>
+</map>

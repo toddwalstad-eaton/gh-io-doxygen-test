@@ -1,0 +1,14 @@
+<map id="px::asio::CIoMessenger" name="px::asio::CIoMessenger">
+<area shape="rect" id="node2" href="$dd/d60/classpx_1_1asio_1_1CIoActor.html" title="The I/O &quot;Actor&quot; base class. " alt="" coords="3342,1798,3494,1978"/>
+<area shape="rect" id="node4" href="$d6/d32/classpx_1_1asio_1_1CIoManager.html" title="The main I/O manager to host the Power Xpert Toolkit&#39;s ASIO framework. " alt="" coords="614,1494,812,1733"/>
+<area shape="rect" id="node5" href="$d2/dcb/classpx_1_1asio_1_1CCdsHandler.html" title="ABC for CDS Handler, provides a common synchronous/asynchronous interface to the CDS API..." alt="" coords="2330,1059,2544,1429"/>
+<area shape="rect" id="node6" href="$d2/df5/classpx_1_1asio_1_1CCdsSyncIO.html" title="Provides a set of common CDS utility functions. " alt="" coords="1002,671,1194,910"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="3055,405,3189,483"/>
+<area shape="rect" id="node14" href="$dd/d57/classpx_1_1CBitset.html" title="{px::CBitset\&lt; px::permissions \&gt;\n||+ CBitset()\l+ get()\l+ set()\l+ reset()\l+ mask_set()\l+ mask_clear()\l+ mask()\l+ empty()\l+ operator==()\l+ operator!=()\land 11 more...\l+ size()\l+ nbytes()\l}" alt="" coords="3392,664,3618,917"/>
+<area shape="rect" id="node19" href="$dd/d57/classpx_1_1CBitset.html" title="Stores a bit&#45;field of flags defined by an enumerated type. " alt="" coords="3558,317,3689,571"/>
+<area shape="rect" id="node17" title="STL class. " alt="" coords="3408,5,3530,83"/>
+<area shape="rect" id="node27" title="STL class. " alt="" coords="4206,405,4334,483"/>
+<area shape="rect" id="node35" title="STL class. " alt="" coords="176,752,333,829"/>
+<area shape="rect" id="node36" href="$dc/d82/classpx_1_1asio_1_1CServerCore.html" title="Server core class. " alt="" coords="364,1176,526,1312"/>
+<area shape="rect" id="node39" title="STL class. " alt="" coords="690,752,872,829"/>
+</map>

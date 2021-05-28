@@ -1,0 +1,4 @@
+<map id="CDevice::synchronize_CDS" name="CDevice::synchronize_CDS">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#a2b6500949396a4d972e94118dd4687e7" title="Cleanup any remaining junk, once profiling is complete. " alt="" coords="251,12,442,39"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#a00f0cf46dca1ac48b5f397b435ef867a" title="Called from the Data Block to handle its done state and manage received data. " alt="" coords="491,5,661,46"/>
+</map>

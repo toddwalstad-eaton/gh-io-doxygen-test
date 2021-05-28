@@ -1,0 +1,17 @@
+<map id="px::db::MigrateIDDB" name="px::db::MigrateIDDB">
+<area shape="rect" id="node2" href="$dd/d42/namespacepx_1_1db.html#a721672afeb1ee18749143e1c1443f62a" title="Get/set schema version for a database. " alt="" coords="206,275,399,301"/>
+<area shape="rect" id="node3" href="$d3/dc9/classpx_1_1db_1_1CBlobHolder.html#a083dd8b7393e2473999db53d87c8cb6e" title="Append data to the blob. " alt="" coords="703,289,854,330"/>
+<area shape="rect" id="node4" href="$dd/d42/namespacepx_1_1db.html#acf853b7ce97adf0d46f786119548dc14" title="px::db::buf_to_u32be" alt="" coords="465,56,623,83"/>
+<area shape="rect" id="node5" href="$db/d6e/classpx_1_1db_1_1CKeyValueStore.html#a925ab8f28998f4779270d15caa9a0b9a" title="Get an iterator into the database. " alt="" coords="457,107,631,149"/>
+<area shape="rect" id="node6" href="$d9/ddb/classpx_1_1db_1_1CIterator.html#a1ed7d8479482c9a813182167b5f5670b" title="Get pointer to key value for the current iterator position. " alt="" coords="477,173,611,214"/>
+<area shape="rect" id="node7" href="$d9/ddb/classpx_1_1db_1_1CIterator.html#a876a0a69bc43a66be463bdd35d1df3fe" title="Get length of key value for the current iterator position. " alt="" coords="477,238,611,279"/>
+<area shape="rect" id="node8" href="$d9/ddb/classpx_1_1db_1_1CIterator.html#a7f699fe8e81ed5de7f275f4ec8a47c6e" title="Find the first entry &gt;= the given key in the table/database. " alt="" coords="461,5,627,32"/>
+<area shape="rect" id="node10" href="$dd/d42/namespacepx_1_1db.html#aba58c266158ad63cf3a6669098ec05ee" title="px::db::SetSchemaVersion" alt="" coords="449,355,639,381"/>
+<area shape="rect" id="node14" href="$d9/ddb/classpx_1_1db_1_1CIterator.html#a345f2f820dc5c7d529b4e1da1021090d" title="Is the iterator valid? " alt="" coords="477,406,611,447"/>
+<area shape="rect" id="node15" href="$d9/ddb/classpx_1_1db_1_1CIterator.html#a2de322e636199a970a91da1d30354bce" title="Get pointer to value value for the current iterator position. " alt="" coords="477,471,611,513"/>
+<area shape="rect" id="node16" href="$d9/ddb/classpx_1_1db_1_1CIterator.html#adcedcd7a91186b6a68fbdf5eec94a2f7" title="Get length of value value for the current iterator position. " alt="" coords="477,537,611,578"/>
+<area shape="rect" id="node9" href="$d3/dc9/classpx_1_1db_1_1CBlobHolder.html#a317052482c1e83504ebabba6e03f86c2" title="Get a LevelDB slice referring to this blob. " alt="" coords="689,5,869,32"/>
+<area shape="rect" id="node11" href="$dc/d98/classpx_1_1db_1_1CBatch.html#a240b1211fde470356f1d8e029004d4ec" title="Add an entry (key/value row) to the database. " alt="" coords="705,472,853,499"/>
+<area shape="rect" id="node12" href="$dd/d42/namespacepx_1_1db.html#aae7d454e296e7215f76964c7a9229217" title="Convert 32&#45;bit unsigned integer to 4 bytes big&#45;endian. " alt="" coords="699,355,858,381"/>
+<area shape="rect" id="node13" href="$db/d6e/classpx_1_1db_1_1CKeyValueStore.html#a5c32e184d847c23204af9388122e1218" title="Write a batch of updates to the database. " alt="" coords="692,406,865,447"/>
+</map>

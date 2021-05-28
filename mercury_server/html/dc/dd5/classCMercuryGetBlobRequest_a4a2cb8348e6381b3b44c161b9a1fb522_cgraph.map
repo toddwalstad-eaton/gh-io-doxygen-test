@@ -1,0 +1,7 @@
+<map id="CMercuryGetBlobRequest::retrieve_blob" name="CMercuryGetBlobRequest::retrieve_blob">
+<area shape="rect" id="node2" href="$db/d16/classCMercuryUtil.html#a76d065c1f37ff1e9b75b8dd75a288b97" title="Authorize read access to a resource. " alt="" coords="260,24,439,65"/>
+<area shape="rect" id="node6" href="$df/df6/classCMercuryMessageHandler.html#a17ed689c3244cf11e17c39827a61c70a" title="Post an error response, with the optional error message. " alt="" coords="241,90,458,117"/>
+<area shape="rect" id="node3" href="$dc/df2/mercury__util_8cpp.html#a6a0380bd3f34c61b640f0e73216259a2" title="is_valid_path" alt="" coords="718,31,826,58"/>
+<area shape="rect" id="node4" href="$db/d16/classCMercuryUtil.html#ac6ded0d3a1ddbf49fa22eb64e55d2872" title="Given a virtual URI and its base folder configuration information, restate it as a (potential) real f..." alt="" coords="510,24,666,65"/>
+<area shape="rect" id="node5" href="$dc/df2/mercury__util_8cpp.html#a39adda5682039c3a35cc4bdfce20da8f" title="normalize_and_check" alt="" coords="507,90,669,117"/>
+</map>

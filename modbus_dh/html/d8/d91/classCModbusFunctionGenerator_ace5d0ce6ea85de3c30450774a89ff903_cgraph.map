@@ -1,0 +1,6 @@
+<map id="CModbusFunctionGenerator::read" name="CModbusFunctionGenerator::read">
+<area shape="rect" id="node2" href="$df/d21/classCModbusAddressRange.html#acb71993f7bfb6cc4e1e5a5d1943dedad" title="Getter for _start member. " alt="" coords="273,5,447,46"/>
+<area shape="rect" id="node3" href="$df/d21/classCModbusAddressRange.html#a5612e3ce06f4d96a48bcb1d814e9040c" title="Get the size of this range. " alt="" coords="273,70,447,111"/>
+<area shape="rect" id="node5" href="$df/d21/classCModbusAddressRange.html#a8c0f0915ce342b4d66cb4b19de3116e9" title="Getter for _modbus_sub_func_code. " alt="" coords="253,135,467,177"/>
+<area shape="rect" id="node4" href="$df/d21/classCModbusAddressRange.html#a0584719118ca127a8d335397c7f94882" title="Validates this Modbus message data per Modbus Application Protocol Specification V1.1b. " alt="" coords="515,70,690,111"/>
+</map>

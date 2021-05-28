@@ -1,0 +1,12 @@
+<map id="CIotDeviceClient::initialize" name="CIotDeviceClient::initialize">
+<area shape="rect" id="node2" href="$dd/d68/classCIotDeviceClient.html#a1d5caa93bbe9bf8ae396796fd5b29cdc" title="Callback invoked by CdsHandler when a Device is added (or discovered). " alt="" coords="249,5,442,46"/>
+<area shape="rect" id="node6" href="$dd/d68/classCIotDeviceClient.html#a599b1389d240022c14b03437d3ab43c2" title="Callback invoked by CdsHandler when an existing Device is updated. " alt="" coords="249,201,442,242"/>
+<area shape="rect" id="node8" href="$dd/d68/classCIotDeviceClient.html#a8e205d4c1ccf4497b49a527f84635f8f" title="Callback invoked by CdsHandler when a Device is about to be removed from our map. ..." alt="" coords="249,266,442,307"/>
+<area shape="rect" id="node10" href="$dd/d68/classCIotDeviceClient.html#aa90dd3f0c575294f26cd3f23ed304337" title="Callback invoked by CdsHandler when a Device state is updated. " alt="" coords="249,70,442,111"/>
+<area shape="rect" id="node11" href="$dd/d68/classCIotDeviceClient.html#a8a9607414b185ad47c87d7b17e1667e0" title="Application callback invoked by CdsHandler when it gets the ChannelSettings for a device..." alt="" coords="249,135,442,177"/>
+<area shape="rect" id="node3" href="$dd/d68/classCIotDeviceClient.html#ae1aa3bf442ed4c67007411ef0477c002" title="Checks if this device is of a supported type for IoT Agent Devices. " alt="" coords="495,135,675,177"/>
+<area shape="rect" id="node4" href="$d2/d55/classCIotDataDevice.html#a9babe8eda9b75a18957c3cb9bf0dbd95" title="Factory function to create a new CIotDataDevice instance and return it in a shared_ptr. " alt="" coords="499,70,672,111"/>
+<area shape="rect" id="node5" href="$d2/d55/classCIotDataDevice.html#a8f4c590cbda3c9182d18fe5fa59b77b7" title="Constructor for an IoT Device instance (though not assigned to a specific device yet). " alt="" coords="728,70,917,111"/>
+<area shape="rect" id="node7" href="$dd/d68/classCIotDeviceClient.html#a8c0885ca901a8588ca31c0bd1809e3a6" title="Request a new client_state action. " alt="" coords="491,201,679,242"/>
+<area shape="rect" id="node9" href="$dd/d68/classCIotDeviceClient.html#a47b6924adc4e4c501854573b5bdfda1b" title="Lookup a Device instance in our map of devices, using its CDS Device ID. " alt="" coords="494,266,677,307"/>
+</map>

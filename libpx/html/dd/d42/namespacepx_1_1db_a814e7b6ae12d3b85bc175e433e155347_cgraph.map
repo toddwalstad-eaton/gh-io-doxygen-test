@@ -1,0 +1,5 @@
+<map id="px::db::NoteAlarmsToDelete" name="px::db::NoteAlarmsToDelete">
+<area shape="rect" id="node2" href="$d3/dc9/classpx_1_1db_1_1CBlobHolder.html#a996915979b66811a0c3311cb61997306" title="Get a pointer to the data in this blob for write. " alt="" coords="270,5,421,46"/>
+<area shape="rect" id="node3" href="$d3/dc9/classpx_1_1db_1_1CBlobHolder.html#aa379d49e427c655520eb8d33053c09e2" title="Clear/reset the blob&#39;s current value. " alt="" coords="270,70,421,111"/>
+<area shape="rect" id="node4" href="$db/d6e/classpx_1_1db_1_1CKeyValueStore.html#a5c32e184d847c23204af9388122e1218" title="Write a batch of updates to the database. " alt="" coords="259,135,432,177"/>
+</map>

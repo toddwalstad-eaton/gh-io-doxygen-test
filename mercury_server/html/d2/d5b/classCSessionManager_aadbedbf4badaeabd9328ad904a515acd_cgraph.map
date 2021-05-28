@@ -1,0 +1,6 @@
+<map id="CSessionManager::remove_session" name="CSessionManager::remove_session">
+<area shape="rect" id="node2" href="$d2/d5b/classCSessionManager.html#a4119b773691274220f57365182fba4c9" title="See if we have a session as identified by its Session ID string, and return a pointer to the session ..." alt="" coords="248,5,437,46"/>
+<area shape="rect" id="node3" href="$d2/d5b/classCSessionManager.html#a6f0a8af28193a32b292e100f3ade9c13" title="Close one session, indicated by a pointer to that session in our tracked set of connections. " alt="" coords="253,70,432,111"/>
+<area shape="rect" id="node4" href="$d2/d5b/classCSessionManager.html#a5adaf2b59cf126d5d7dbe3db7ebfe12b" title="Static function to turn On / Off the &quot;Web&quot; LED light. " alt="" coords="485,77,677,104"/>
+<area shape="rect" id="node5" href="$d2/d5b/classCSessionManager.html#affe649ab32639284418919fab2404ca3" title="Determine if the given file exists. " alt="" coords="725,77,909,104"/>
+</map>

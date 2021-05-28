@@ -1,0 +1,4 @@
+<map id="CBlobFolderConfig::add_folder_path" name="CBlobFolderConfig::add_folder_path">
+<area shape="rect" id="node2" href="$d2/d13/classCBlobFolderConfig.html#a7430af9faa6a81071db18b86ff0d8e66" title="Initialization function that will create the base folder if it does not exist. " alt="" coords="203,5,352,46"/>
+<area shape="rect" id="node3" href="$d1/deb/classCBlobFileAccess.html#af6e0ab15e525bb43922cc943b70216e4" title="Initialization routine; reads in and processes the configuration file, storing the results in our map..." alt="" coords="401,12,557,39"/>
+</map>

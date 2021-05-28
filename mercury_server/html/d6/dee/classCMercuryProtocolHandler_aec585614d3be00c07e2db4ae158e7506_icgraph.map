@@ -1,0 +1,8 @@
+<map id="CMercuryProtocolHandler::err" name="CMercuryProtocolHandler::err">
+<area shape="rect" id="node2" href="$d6/dee/classCMercuryProtocolHandler.html#a8323c8380d627e3cf4aa37b03f4bb6de" title="Parse a Mercury request. " alt="" coords="267,70,453,111"/>
+<area shape="rect" id="node5" href="$d6/dee/classCMercuryProtocolHandler.html#a2d2d489c918fc8db2c725ef81de4fe0b" title="Handle a Mercury request. " alt="" coords="267,135,453,177"/>
+<area shape="rect" id="node3" href="$db/dd8/classCTcpProtocolHandler.html#aecde16d7599c58ff0cae112c32ca8876" title="CTcpProtocolHandler\l::parse" alt="" coords="502,5,658,46"/>
+<area shape="rect" id="node4" href="$d7/d46/classCWsProtocolHandler.html#a35c205d69762001b460bd7ff9ba316b8" title="Parse the most&#45;recently&#45;received message. " alt="" coords="503,70,657,111"/>
+<area shape="rect" id="node6" href="$db/dd8/classCTcpProtocolHandler.html#a5df1e58dd987e13789e138e4c2f65172" title="Execute the parsed request. " alt="" coords="502,135,658,177"/>
+<area shape="rect" id="node7" href="$d7/d46/classCWsProtocolHandler.html#a8ba2f45385c311d209cb8925f4f56486" title="Process a parsed message. " alt="" coords="503,201,657,242"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CPedsMapping::map" name="CPedsMapping::map">
+<area shape="rect" id="node2" href="$classCPedsMapping.html#a5d40ef3ef36f38908a3af2f59f1c0e9a" title="TODO: Parse the given EDS entry Parse the given EDS entry as a discrete mapping, and add it to the in..." alt="" coords="208,5,416,46"/>
+<area shape="rect" id="node4" href="$classCPedsMapping.html#a6ebfe5673fb18422084d252f3d6aa4f1" title="TODO: Parse the given EDS entry. " alt="" coords="209,70,415,111"/>
+<area shape="rect" id="node3" href="$classCPedsMapping.html#aa1808e7f46fe5288635f511c57c34acf" title="Get an address&#45;range object that&#39;s suitable for an EDS mapping. " alt="" coords="464,45,653,72"/>
+</map>

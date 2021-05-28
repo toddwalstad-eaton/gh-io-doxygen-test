@@ -1,0 +1,4 @@
+<map id="CIotDeviceClient::check_connection_status" name="CIotDeviceClient::check_connection_status">
+<area shape="rect" id="node2" href="$dd/d68/classCIotDeviceClient.html#ac088663bab4b0ddec2c4c60bbc605166" title="Attempt to open the Azure IoT Hub connection. " alt="" coords="233,5,423,32"/>
+<area shape="rect" id="node3" href="$dd/d68/classCIotDeviceClient.html#ac3e59938659409ee0adee10292047aca" title="Called by the core&#39;s update timer to manage next state / action. " alt="" coords="473,23,655,65"/>
+</map>

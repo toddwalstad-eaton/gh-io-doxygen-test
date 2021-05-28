@@ -1,0 +1,10 @@
+<map id="certmanager::ExternalCertificatesAccessor::certDetailsPath" name="certmanager::ExternalCertificatesAccessor::certDetailsPath">
+<area shape="rect" id="node2" href="$db/df9/classcertmanager_1_1ExternalCertificatesStorage.html#ac6dd29f363b74b65a1c20426a67d9992" title="Remove all the certificate related files. " alt="" coords="297,38,538,79"/>
+<area shape="rect" id="node7" href="$db/df9/classcertmanager_1_1ExternalCertificatesStorage.html#a58dd33c99f2d383866fcaf8792f78061" title="Create the certificate details file. " alt="" coords="297,103,538,145"/>
+<area shape="rect" id="node9" href="$d5/d89/main__test_8cpp.html#aa1142b591322885ef01eac4c3529c890" title="BOOST_AUTO_TEST_CASE" alt="" coords="322,169,513,196"/>
+<area shape="rect" id="node3" href="$db/df9/classcertmanager_1_1ExternalCertificatesStorage.html#a62fc36883d6a5dcd7523cf33d23b9c2d" title="Create the directories for certificates and set permissions and modes. " alt="" coords="587,70,829,111"/>
+<area shape="rect" id="node5" href="$db/df9/classcertmanager_1_1ExternalCertificatesStorage.html#a487e3f8d08dde49b0e4468c58eae673f" title="Function to revoke the given single certificate id. " alt="" coords="587,5,829,46"/>
+<area shape="rect" id="node4" href="$db/df9/classcertmanager_1_1ExternalCertificatesStorage.html#afc58c8e4d158ac166c45ed13fd160f4a" title="certmanager::ExternalCertificates\lStorage::ExternalCertificatesStorage" alt="" coords="877,70,1136,111"/>
+<area shape="rect" id="node6" href="$db/df9/classcertmanager_1_1ExternalCertificatesStorage.html#a63ce1a04cc2546ac30620e5121dbd5d9" title="Function to revoke the given multiple certificate ids. " alt="" coords="886,5,1127,46"/>
+<area shape="rect" id="node8" href="$db/df9/classcertmanager_1_1ExternalCertificatesStorage.html#a44f9f704a67000dbb16683af4bc81adf" title="Function to add the external certificate to system. " alt="" coords="587,135,829,177"/>
+</map>

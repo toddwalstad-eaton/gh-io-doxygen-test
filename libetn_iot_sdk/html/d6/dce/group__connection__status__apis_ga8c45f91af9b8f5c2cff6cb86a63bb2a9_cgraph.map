@@ -1,0 +1,4 @@
+<map id="iot_close" name="iot_close">
+<area shape="rect" id="node2" href="$db/d38/iot__device_8h.html#a0403205a70b39d5e559730cc8c17ab86" title="Returns the IOT_DEVICE_CONNECTION associated with an IOT_DEVICE_HANDLE. " alt="" coords="143,5,259,32"/>
+<area shape="rect" id="node3" href="$db/d38/iot__device_8h.html#a8f963b47df1b2d323210e7630734edc1" title="deleteConnection" alt="" coords="133,56,269,83"/>
+</map>

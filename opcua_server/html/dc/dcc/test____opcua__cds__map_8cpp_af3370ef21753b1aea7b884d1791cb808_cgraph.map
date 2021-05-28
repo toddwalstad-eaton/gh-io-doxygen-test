@@ -1,0 +1,10 @@
+<map id="BOOST_AUTO_TEST_CASE" name="BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$dc/dcc/test____opcua__cds__map_8cpp.html#a9924f71474314958f486201995eda336" title="BOOST_TEST_MESSAGE" alt="" coords="271,5,446,32"/>
+<area shape="rect" id="node3" href="$dc/dcc/test____opcua__cds__map_8cpp.html#a48964b023484f42149d32d4e2b927e2b" title="BOOST_CHECK_NO_THROW" alt="" coords="257,56,460,83"/>
+<area shape="rect" id="node4" href="$de/df6/classopcua_1_1server_1_1COPCUaCDSMap.html#a807c4b5283ea43b37abbedc550a92803" title="Convert the map to string. " alt="" coords="245,107,472,149"/>
+<area shape="rect" id="node5" href="$d6/d82/namespaceopcua_1_1utils_1_1debug.html#a37fa3deafc2d64d72ea74a10c5e4fef0" title="Convert UA Node Id into C++ string. " alt="" coords="521,107,666,149"/>
+<area shape="rect" id="node6" href="$d6/d82/namespaceopcua_1_1utils_1_1debug.html#a45947abfce3ebaccb18fd6ed4325c57d" title="Convert UA 32bit UInt into C++ string. " alt="" coords="715,19,874,61"/>
+<area shape="rect" id="node7" href="$d6/d82/namespaceopcua_1_1utils_1_1debug.html#a3a4902bfb2de53188ba133212588b397" title="Convert UA String into C++ string. " alt="" coords="923,145,1077,186"/>
+<area shape="rect" id="node8" href="$d6/d82/namespaceopcua_1_1utils_1_1debug.html#a41626791ae48055c6efb627e668f38eb" title="Convert UA GUID into C++ string. " alt="" coords="722,137,867,178"/>
+<area shape="rect" id="node9" href="$d6/d82/namespaceopcua_1_1utils_1_1debug.html#a39a6de0cfc1686662e0a4bf73248871b" title="Convert UA ByteString into C++ string. " alt="" coords="721,203,868,259"/>
+</map>

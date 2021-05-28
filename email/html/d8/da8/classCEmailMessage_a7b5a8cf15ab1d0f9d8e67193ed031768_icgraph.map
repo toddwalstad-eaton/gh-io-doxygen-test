@@ -1,0 +1,14 @@
+<map id="CEmailMessage::build_message_subject" name="CEmailMessage::build_message_subject">
+<area shape="rect" id="node2" href="$de/d91/classCEmailClient.html#a4d00c57f6edf210b71489466cd656df6" title="build_message " alt="" coords="219,70,365,111"/>
+<area shape="rect" id="node3" href="$de/d91/classCEmailClient.html#adbec79aed6eac14beffa74df0f40f4d0" title="test_smtp_connection " alt="" coords="417,5,557,46"/>
+<area shape="rect" id="node8" href="$de/d91/classCEmailClient.html#abac757989f0ee907899c19d097aa9fd9" title="send&#45;test_email " alt="" coords="414,70,559,111"/>
+<area shape="rect" id="node9" href="$de/d91/classCEmailClient.html#a6d6bc3afdf94588e956fb9451c3398fd" title="send_email " alt="" coords="414,135,559,177"/>
+<area shape="rect" id="node4" href="$d3/d95/classCEmailServer.html#ad278fabab0fef49cbcd71a6469170b82" title="Invokes test method based on command line arguments. " alt="" coords="608,38,776,79"/>
+<area shape="rect" id="node5" href="$d3/d95/classCEmailServer.html#ad7f05d9102e6537940a221071d958caf" title="Execute the server core&#39;s main loop. " alt="" coords="824,45,995,72"/>
+<area shape="rect" id="node6" href="$df/d0a/main_8cpp.html#af5291a3e029627e530895b1c9f481dcf" title="&quot;Real&quot; main, used by the server code " alt="" coords="1084,45,1167,72"/>
+<area shape="rect" id="node7" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Program entry point. " alt="" coords="1315,45,1370,72"/>
+<area shape="rect" id="node10" href="$de/d80/classCEmailWorkProcessor.html#a4e44cb079fb9914f215d93776a0ab201" title="send_email " alt="" coords="610,135,774,177"/>
+<area shape="rect" id="node11" href="$de/d80/classCEmailWorkProcessor.html#ae906cf132d2ddbbb747dd3b17c414784" title="process_work_item " alt="" coords="827,135,991,177"/>
+<area shape="rect" id="node12" href="$de/d80/classCEmailWorkProcessor.html#a4e447ed720a0ab0043a4cfff8f920e89" title="execute " alt="" coords="1043,135,1207,177"/>
+<area shape="rect" id="node13" href="$de/d80/classCEmailWorkProcessor.html#ad516af41e5a780007a9f99252cfcff22" title="Constructor. " alt="" coords="1257,135,1429,177"/>
+</map>

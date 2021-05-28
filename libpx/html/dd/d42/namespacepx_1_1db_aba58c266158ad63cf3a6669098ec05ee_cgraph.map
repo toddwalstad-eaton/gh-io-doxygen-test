@@ -1,0 +1,6 @@
+<map id="px::db::SetSchemaVersion" name="px::db::SetSchemaVersion">
+<area shape="rect" id="node2" href="$dc/d98/classpx_1_1db_1_1CBatch.html#a240b1211fde470356f1d8e029004d4ec" title="Add an entry (key/value row) to the database. " alt="" coords="258,5,406,32"/>
+<area shape="rect" id="node3" href="$d3/dc9/classpx_1_1db_1_1CBlobHolder.html#a083dd8b7393e2473999db53d87c8cb6e" title="Append data to the blob. " alt="" coords="257,57,407,98"/>
+<area shape="rect" id="node4" href="$dd/d42/namespacepx_1_1db.html#aae7d454e296e7215f76964c7a9229217" title="Convert 32&#45;bit unsigned integer to 4 bytes big&#45;endian. " alt="" coords="253,123,411,149"/>
+<area shape="rect" id="node5" href="$db/d6e/classpx_1_1db_1_1CKeyValueStore.html#a5c32e184d847c23204af9388122e1218" title="Write a batch of updates to the database. " alt="" coords="245,174,419,215"/>
+</map>

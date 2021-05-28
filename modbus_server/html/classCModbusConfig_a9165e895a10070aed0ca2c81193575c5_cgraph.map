@@ -1,0 +1,5 @@
+<map id="CModbusConfig::update_dynamic_oob_map_list" name="CModbusConfig::update_dynamic_oob_map_list">
+<area shape="rect" id="node2" href="$classCModbusTcpUnitSettings.html#ab0f681341450751f8fb3594e118621d4" title="get the currently configured PEDS file " alt="" coords="246,5,429,46"/>
+<area shape="rect" id="node3" href="$classCModbusTcpUnitSettings.html#ab9a43eb513e7eac31743471d4834a5d4" title="get the subdevice PEDS file (if available) " alt="" coords="246,70,429,111"/>
+<area shape="rect" id="node4" href="$classCModbusCdsHandle.html#a3436a86ba0d8a2a028c5039bddce14e1" title="Utility function to set the UNITID_MAP/MODBUS_SERVER/&lt;id&gt; OOB object. " alt="" coords="232,136,443,163"/>
+</map>

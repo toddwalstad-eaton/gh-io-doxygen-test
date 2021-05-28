@@ -1,0 +1,32 @@
+<map id="cds_types.hpp" name="cds_types.hpp">
+<area shape="rect" id="node3" href="$db/dfb/get__field__value_8hpp.html" title="px/cds/get_field_value.hpp" alt="" coords="833,163,1028,189"/>
+<area shape="rect" id="node32" href="$d7/d7b/set__field__value_8hpp.html" title="px/cds/set_field_value.hpp" alt="" coords="765,80,960,107"/>
+<area shape="rect" id="node33" href="$d0/d3f/execute__device__command_8hpp.html" title="px/cds/execute_device\l_command.hpp" alt="" coords="2127,155,2297,197"/>
+<area shape="rect" id="node50" href="$d2/dd7/get__device__command__result_8hpp.html" title="px/cds/get_device_command\l_result.hpp" alt="" coords="2341,155,2552,197"/>
+<area shape="rect" id="node5" href="$dd/d3a/common_8hpp.html" title="px/common.hpp" alt="" coords="1315,592,1441,619"/>
+<area shape="rect" id="node6" href="$de/d7c/request__response_8hpp.html" title="px/cds/request_response.hpp" alt="" coords="2560,328,2771,355"/>
+<area shape="rect" id="node14" href="$d1/d5f/set__oob__data_8hpp.html" title="px/cds/set_oob_data.hpp" alt="" coords="773,245,955,272"/>
+<area shape="rect" id="node22" href="$d2/dca/type_2value_8hpp.html" title="px/type/value.hpp" alt="" coords="2559,419,2697,445"/>
+<area shape="rect" id="node29" href="$db/db3/id_8hpp.html" title="px/type/id.hpp" alt="" coords="2015,419,2129,445"/>
+<area shape="rect" id="node8" href="$d4/d76/type_2string_8hpp.html" title="px/type/string.hpp" alt="" coords="3031,592,3171,619"/>
+<area shape="rect" id="node10" href="$d8/da6/mono__time_8hpp.html" title="px/type/mono_time.hpp" alt="" coords="2357,419,2533,445"/>
+<area shape="rect" id="node11" href="$d1/db0/timestamp_8hpp.html" title="timestamp.hpp" alt="" coords="2147,509,2268,536"/>
+<area shape="rect" id="node16" href="$d8/d90/protobuf_8hpp.html" title="px/serialization/type\l/protobuf.hpp" alt="" coords="512,411,667,453"/>
+<area shape="rect" id="node19" href="$dd/d59/cast_8hpp.html" title="px/cast.hpp" alt="" coords="814,328,911,355"/>
+<area shape="rect" id="node18" href="$de/d7d/serialization_2type_2common_8hpp.html" title="common.hpp" alt="" coords="560,509,667,536"/>
+<area shape="rect" id="node25" href="$db/d73/invalid_8hpp.html" title="invalid.hpp" alt="" coords="2683,509,2777,536"/>
+<area shape="rect" id="node26" href="$d6/d12/datatype_8hpp.html" title="px/enum/datatype.hpp" alt="" coords="1507,509,1676,536"/>
+<area shape="rect" id="node27" href="$d6/d78/best__type_8hpp.html" title="value/best_type.hpp" alt="" coords="2293,509,2448,536"/>
+<area shape="rect" id="node34" href="$db/d20/channel_8hpp.html" title="px/data/channel.hpp" alt="" coords="2097,245,2252,272"/>
+<area shape="rect" id="node44" href="$d5/d91/device__command_8hpp.html" title="px/data/device_command.hpp" alt="" coords="3027,245,3245,272"/>
+<area shape="rect" id="node36" href="$dc/d3d/channel__settings_8hpp.html" title="px/data/channel_settings.hpp" alt="" coords="1488,328,1701,355"/>
+<area shape="rect" id="node38" href="$d8/dc4/realtime__state_8hpp.html" title="px/data/realtime_state.hpp" alt="" coords="3491,328,3689,355"/>
+<area shape="rect" id="node39" href="$de/dda/wall__time_8hpp.html" title="px/type/wall_time.hpp" alt="" coords="1657,419,1823,445"/>
+<area shape="rect" id="node41" href="$dc/d45/alarm__trigger_8hpp.html" title="px/data/alarm_trigger.hpp" alt="" coords="3174,328,3364,355"/>
+<area shape="rect" id="node42" href="$d4/d05/trend__accumulator_8hpp.html" title="px/data/trend_accumulator.hpp" alt="" coords="1240,328,1464,355"/>
+<area shape="rect" id="node37" href="$d6/d86/bitset_8hpp.html" title="px/type/bitset.hpp" alt="" coords="1241,419,1380,445"/>
+<area shape="rect" id="node45" href="$d9/de6/parameter__info_8hpp.html" title="px/data/parameter_info.hpp" alt="" coords="2896,328,3099,355"/>
+<area shape="rect" id="node47" href="$d7/d63/device__command__status__enums_8hpp.html" title="px/enum/device_command\l_status_enums.hpp" alt="" coords="4046,502,4244,543"/>
+<area shape="rect" id="node48" href="$d4/dc3/device__command__substatus__enums_8hpp.html" title="px/enum/device_command\l_substatus_enums.hpp" alt="" coords="3643,411,3841,453"/>
+<area shape="rect" id="node49" href="$d6/d33/permission__enums_8hpp.html" title="px/enum/permission\l_enums.hpp" alt="" coords="3816,321,3971,362"/>
+</map>

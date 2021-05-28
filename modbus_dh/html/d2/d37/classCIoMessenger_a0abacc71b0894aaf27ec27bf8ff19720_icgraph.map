@@ -1,0 +1,4 @@
+<map id="CIoMessenger::handle_read" name="CIoMessenger::handle_read">
+<area shape="rect" id="node2" href="$d5/daf/classCSerialConnection.html#ac4fa6e5723a3675d78b044372c753690" title="Read more data from the serial input channel. " alt="" coords="281,5,431,46"/>
+<area shape="rect" id="node3" href="$d6/d76/classCTcpMessenger.html#a409d72c824fb0c24235aadca1cbf40af" title="Read more data from the network input channel. " alt="" coords="256,71,456,97"/>
+</map>

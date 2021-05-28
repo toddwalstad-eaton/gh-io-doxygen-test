@@ -1,0 +1,25 @@
+<map id="CEmailMessage::add_file_attachment" name="CEmailMessage::add_file_attachment">
+<area shape="rect" id="node2" href="$d8/da8/classCEmailMessage.html#a84ff9eff882f8a27abf92b09111ceac2" title="parse_command_line_attachment " alt="" coords="435,45,650,87"/>
+<area shape="rect" id="node17" href="$d8/da8/classCEmailMessage.html#a657b4a24e4337ec67052e8631fec8809" title="add_trend_attachment " alt="" coords="220,41,377,83"/>
+<area shape="rect" id="node19" href="$d8/da8/classCEmailMessage.html#ac10661ba03b4183af972cdaa90a110e5" title="add_user_attachment " alt="" coords="220,107,377,148"/>
+<area shape="rect" id="node20" href="$d8/da8/classCEmailMessage.html#a7baed571c05c5028f81ad0b7bdb3a8f5" title="add_device_attachment " alt="" coords="220,172,377,213"/>
+<area shape="rect" id="node21" href="$d8/da8/classCEmailMessage.html#ac1ad94d6aa90d2669d3389137567ba2a" title="add_config_attachment " alt="" coords="220,237,377,279"/>
+<area shape="rect" id="node22" href="$d8/da8/classCEmailMessage.html#a00e6988ea7d6bda9bd38121a035afa6d" title="add_session_attachment " alt="" coords="219,303,379,344"/>
+<area shape="rect" id="node23" href="$d8/da8/classCEmailMessage.html#a97d7af9ac5426043d95b49c03a317178" title="add_command_attachment " alt="" coords="211,368,387,409"/>
+<area shape="rect" id="node24" href="$d8/da8/classCEmailMessage.html#a521f646c4bf443289d5e4d1f92e7a04b" title="add_update_attachment " alt="" coords="220,433,377,475"/>
+<area shape="rect" id="node3" href="$d8/da8/classCEmailMessage.html#ae56d4a4cf2cf589d9f18193f43e1c508" title="add_attachments " alt="" coords="699,125,856,167"/>
+<area shape="rect" id="node4" href="$d8/da8/classCEmailMessage.html#aa22942f407cff503dfac2897520d7a98" title="build_message_body " alt="" coords="904,125,1069,167"/>
+<area shape="rect" id="node5" href="$de/d91/classCEmailClient.html#a4d00c57f6edf210b71489466cd656df6" title="build_message " alt="" coords="1117,125,1264,167"/>
+<area shape="rect" id="node6" href="$de/d91/classCEmailClient.html#adbec79aed6eac14beffa74df0f40f4d0" title="test_smtp_connection " alt="" coords="1315,60,1455,101"/>
+<area shape="rect" id="node11" href="$de/d91/classCEmailClient.html#abac757989f0ee907899c19d097aa9fd9" title="send&#45;test_email " alt="" coords="1313,125,1458,167"/>
+<area shape="rect" id="node12" href="$de/d91/classCEmailClient.html#a6d6bc3afdf94588e956fb9451c3398fd" title="send_email " alt="" coords="1313,191,1458,232"/>
+<area shape="rect" id="node7" href="$d3/d95/classCEmailServer.html#ad278fabab0fef49cbcd71a6469170b82" title="Invokes test method based on command line arguments. " alt="" coords="1507,93,1675,135"/>
+<area shape="rect" id="node8" href="$d3/d95/classCEmailServer.html#ad7f05d9102e6537940a221071d958caf" title="Execute the server core&#39;s main loop. " alt="" coords="1723,101,1893,127"/>
+<area shape="rect" id="node9" href="$df/d0a/main_8cpp.html#af5291a3e029627e530895b1c9f481dcf" title="&quot;Real&quot; main, used by the server code " alt="" coords="1983,101,2065,127"/>
+<area shape="rect" id="node10" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Program entry point. " alt="" coords="2214,101,2269,127"/>
+<area shape="rect" id="node13" href="$de/d80/classCEmailWorkProcessor.html#a4e44cb079fb9914f215d93776a0ab201" title="send_email " alt="" coords="1509,191,1673,232"/>
+<area shape="rect" id="node14" href="$de/d80/classCEmailWorkProcessor.html#ae906cf132d2ddbbb747dd3b17c414784" title="process_work_item " alt="" coords="1726,191,1890,232"/>
+<area shape="rect" id="node15" href="$de/d80/classCEmailWorkProcessor.html#a4e447ed720a0ab0043a4cfff8f920e89" title="execute " alt="" coords="1942,191,2106,232"/>
+<area shape="rect" id="node16" href="$de/d80/classCEmailWorkProcessor.html#ad516af41e5a780007a9f99252cfcff22" title="Constructor. " alt="" coords="2155,191,2327,232"/>
+<area shape="rect" id="node18" href="$d8/da8/classCEmailMessage.html#aa6ce06f1e6b47307a0034ab5acf52f78" title="add_internal_attachments " alt="" coords="459,205,627,247"/>
+</map>

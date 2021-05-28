@@ -1,0 +1,10 @@
+<map id="CScheduler::CScheduler" name="CScheduler::CScheduler">
+<area shape="rect" id="node2" href="$d3/dc1/classCScheduler.html#a6247b3e8922bbe118fce4f55ae6de31b" title="Starts the worker threads that executes tasks. " alt="" coords="229,56,363,83"/>
+<area shape="rect" id="node3" href="$d3/dc1/classCScheduler.html#a6144f88c0f19cadabcc9edfb8d88bd71" title="Initialize logger and hand thread over to io_service.run() " alt="" coords="411,5,594,32"/>
+<area shape="rect" id="node5" href="$d9/d7d/classpx_1_1CWallTime.html#a4452bc7e8e4fbb8c976f5763269593e7" title="Factory function to create a new CWallTime instance set to &quot;now&quot;. " alt="" coords="895,56,1046,83"/>
+<area shape="rect" id="node6" href="$d3/dc1/classCScheduler.html#aca7480d88d0580ed29adbcf7ea5514cd" title="CScheduler::reset_timer" alt="" coords="413,107,592,133"/>
+<area shape="rect" id="node4" href="$d5/dc3/classpx_1_1CUtil.html#adf7cffe1ca62e79d6af4386052e20c42" title="Set a thread&#39;s name, visible in &quot;ps&quot;. " alt="" coords="643,5,842,32"/>
+<area shape="rect" id="node7" href="$d3/dc1/classCScheduler.html#adb3ccee6555d827c9d1de83cafa66349" title="Callback for timer &#45; helps manage scheduled task execution. " alt="" coords="663,107,823,133"/>
+<area shape="rect" id="node8" href="$d3/dc1/classCScheduler.html#a3576dea0c19a673d86e6bcc3c8b03738" title="Queue up task for asynchronous execution on one of the scheduler&#39;s worker threads. " alt="" coords="891,107,1050,149"/>
+<area shape="rect" id="node9" href="$d3/dc1/classCScheduler.html#a6778cde13867cb727841163cab1f05a0" title="Function provided to boost asio post(), in order to execute task and clean up task list..." alt="" coords="1099,107,1253,149"/>
+</map>

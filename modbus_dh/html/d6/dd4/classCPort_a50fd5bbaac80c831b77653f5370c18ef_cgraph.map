@@ -1,0 +1,15 @@
+<map id="CPort::get_transaction_series" name="CPort::get_transaction_series">
+<area shape="rect" id="node2" href="$d6/dd4/classCPort.html#a67fdf9324b9596b8c462cfa66159a7db" title="Getter for the name of this port. " alt="" coords="241,5,404,32"/>
+<area shape="rect" id="node3" href="$d6/dd4/classCPort.html#a9f8f3252db32bd5281dfd0bdd3aaf646" title="Determines if Modbus pass through is enabled for this port. " alt="" coords="243,57,402,98"/>
+<area shape="rect" id="node4" href="$d6/dd4/classCPort.html#a89066b2d9bd43d493846cbf66da33de2" title="Check for and get the next pass&#45;through transaction series, if one exists. " alt="" coords="233,122,413,163"/>
+<area shape="rect" id="node6" href="$d6/dd4/classCPort.html#aa6efe62a7c073bbce59befae5f825620" title="Scan through our _devices map for devices that need to be deleted. " alt="" coords="487,179,654,221"/>
+<area shape="rect" id="node10" href="$d6/dd4/classCPort.html#ad4921533430dd215d911c91db090de08" title="Poll the devices and get the highest priority transaction series from one. " alt="" coords="221,241,424,282"/>
+<area shape="rect" id="node11" href="$d6/dd4/classCPort.html#a4558355c64c9956638ae556aef91732e" title="Log port and device statistics. " alt="" coords="509,311,633,337"/>
+<area shape="rect" id="node5" href="$d6/dd4/classCPort.html#ab230774c3894ac6a2b385da578e21ce1" title="Getter for the Device ID of this Port. " alt="" coords="518,128,623,155"/>
+<area shape="rect" id="node7" href="$d6/dd4/classCPort.html#afcf177164b03560a1da104b2e5ec5908" title="Tell port to refresh it&#39;s devices to pick up additions and deletions. " alt="" coords="735,136,903,163"/>
+<area shape="rect" id="node8" href="$d6/dd4/classCPort.html#a7cccf680d86c94e9abbb59985321524f" title="Call this function to purge wvaeforms for a device (if suppported). " alt="" coords="727,187,910,213"/>
+<area shape="rect" id="node9" href="$d6/dd4/classCPort.html#a2f51da36a5d39b82202435219c188614" title="Handler for device removal events. " alt="" coords="736,238,901,279"/>
+<area shape="rect" id="node14" href="$d1/d16/classCPollClock.html#a7145d5de5e686cf72cdaf170e49c1221" title="Get current value of monotonic poll clock. " alt="" coords="473,245,669,286"/>
+<area shape="rect" id="node12" href="$d0/d7e/classCWriteStats.html#a1de9bf70855258fe2625c145ed6ae233" title="CWriteStats::write\l_io_stats_file" alt="" coords="749,303,888,345"/>
+<area shape="rect" id="node13" href="$d6/dd4/classCPort.html#a61ce1938bab023e7a4cdd00163af86d8" title="Getter for the display name of this port. " alt="" coords="717,369,920,396"/>
+</map>

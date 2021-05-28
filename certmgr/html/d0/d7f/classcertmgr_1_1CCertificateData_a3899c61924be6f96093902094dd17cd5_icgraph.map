@@ -1,0 +1,5 @@
+<map id="certmgr::CCertificateData::from" name="certmgr::CCertificateData::from">
+<area shape="rect" id="node2" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a4bee4dc2d9812d2c43d9f14d92fd26f1" title="Get Client certificate info in the form of CCertificateData object. " alt="" coords="243,5,479,46"/>
+<area shape="rect" id="node3" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a6187f2fd4dc7369bc862304b8d055b2a" title="Get CA certificate info in the form of CCertificateData object. " alt="" coords="252,70,471,111"/>
+<area shape="rect" id="node4" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a9f6dfe7a5d2236587008276573ccc176" title="Get server certificate info in the form of CCertificateData object. " alt="" coords="252,135,471,177"/>
+</map>

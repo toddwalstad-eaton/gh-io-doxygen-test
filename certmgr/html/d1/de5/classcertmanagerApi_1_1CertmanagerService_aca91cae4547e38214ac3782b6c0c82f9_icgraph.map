@@ -1,0 +1,5 @@
+<map id="certmanagerApi::CertmanagerService::getCertificateDetails" name="certmanagerApi::CertmanagerService::getCertificateDetails">
+<area shape="rect" id="node2" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a174100f90873099b091496be4714d09e" title="Return details information about server certificate. " alt="" coords="273,5,527,46"/>
+<area shape="rect" id="node3" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#af82a286907bed3cc75b3bba3bf92de3f" title="Get certificate authorities details from one certificate authority. " alt="" coords="291,70,509,111"/>
+<area shape="rect" id="node4" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a17409502f8f2bdd83d3e380b794f1a3c" title="Get trusted client details from one trusted client. " alt="" coords="285,135,515,177"/>
+</map>

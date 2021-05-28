@@ -1,0 +1,9 @@
+<map id="serializeDevicesRealtimeJson" name="serializeDevicesRealtimeJson">
+<area shape="rect" id="node2" href="$db/d38/iot__device_8h.html#a783d5ab7847e154c74374bcc19dc6710" title="allocateSerializedBuffer" alt="" coords="285,56,462,83"/>
+<area shape="rect" id="node3" href="$db/d38/iot__device_8h.html#a4173c00f1aac45bd903b4290d847e420" title="serializeDeviceRealtimeJson" alt="" coords="270,107,477,133"/>
+<area shape="rect" id="node4" href="$db/d38/iot__device_8h.html#acf57b71f1285d7bdda5e7ee7e106a5ba" title="checkSerializedBufferSize" alt="" coords="526,5,717,32"/>
+<area shape="rect" id="node5" href="$db/d38/iot__device_8h.html#a5173731f1b948708dbf37f99bee9bbea" title="addStringField" alt="" coords="564,56,679,83"/>
+<area shape="rect" id="node6" href="$db/d38/iot__device_8h.html#adba3c4a4960f88b22eac95f7c05f54ad" title="addLongNumericField" alt="" coords="540,107,703,133"/>
+<area shape="rect" id="node7" href="$db/d38/iot__device_8h.html#a07d8b97dd7461e57a15470f6e5930d23" title="addIntNumericField" alt="" coords="547,157,695,184"/>
+<area shape="rect" id="node8" href="$db/d38/iot__device_8h.html#a6fa06f2810d77a2b8b277338ffda053c" title="addBooleanField" alt="" coords="557,208,686,235"/>
+</map>

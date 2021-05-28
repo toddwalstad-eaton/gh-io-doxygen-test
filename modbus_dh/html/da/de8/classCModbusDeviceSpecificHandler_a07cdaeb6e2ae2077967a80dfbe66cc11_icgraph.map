@@ -1,0 +1,4 @@
+<map id="CModbusDeviceSpecificHandler::process_multipart_command" name="CModbusDeviceSpecificHandler::process_multipart_command">
+<area shape="rect" id="node2" href="$da/de8/classCModbusDeviceSpecificHandler.html#ab90cec302f55d73f0b7c41953651ee21" title="Called from an Modbus serial device to handle Modbus device specific multipart command completions..." alt="" coords="280,5,507,61"/>
+<area shape="rect" id="node3" href="$da/de8/classCModbusDeviceSpecificHandler.html#a3a84cf16c8b23dd199b3d7e1a82164eb" title="Called from an Modbus serial device to handle Modbus device specific command completions (e..." alt="" coords="555,13,781,54"/>
+</map>

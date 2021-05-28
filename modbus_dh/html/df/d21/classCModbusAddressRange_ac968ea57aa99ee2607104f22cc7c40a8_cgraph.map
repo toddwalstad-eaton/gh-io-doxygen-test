@@ -1,0 +1,4 @@
+<map id="CModbusAddressRange::get_quantity" name="CModbusAddressRange::get_quantity">
+<area shape="rect" id="node2" href="$df/d21/classCModbusAddressRange.html#a5612e3ce06f4d96a48bcb1d814e9040c" title="Get the size of this range. " alt="" coords="230,5,405,46"/>
+<area shape="rect" id="node3" href="$df/d21/classCModbusAddressRange.html#a0584719118ca127a8d335397c7f94882" title="Validates this Modbus message data per Modbus Application Protocol Specification V1.1b. " alt="" coords="454,5,629,46"/>
+</map>

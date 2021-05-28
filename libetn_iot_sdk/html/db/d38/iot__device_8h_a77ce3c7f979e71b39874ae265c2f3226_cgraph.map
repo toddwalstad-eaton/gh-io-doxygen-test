@@ -1,0 +1,7 @@
+<map id="serializeAlarmJson" name="serializeAlarmJson">
+<area shape="rect" id="node2" href="$db/d38/iot__device_8h.html#a5173731f1b948708dbf37f99bee9bbea" title="addStringField" alt="" coords="233,5,348,32"/>
+<area shape="rect" id="node3" href="$db/d38/iot__device_8h.html#a5fd36a937796d85e5ef49258ae05e3ed" title="addULongNumericField" alt="" coords="205,56,377,83"/>
+<area shape="rect" id="node4" href="$db/d38/iot__device_8h.html#a6fa06f2810d77a2b8b277338ffda053c" title="addBooleanField" alt="" coords="226,107,355,133"/>
+<area shape="rect" id="node5" href="$db/d38/iot__device_8h.html#a8b660424d1cb9d1b48480d71120738c5" title="addUIntNumericField" alt="" coords="211,157,370,184"/>
+<area shape="rect" id="node6" href="$db/d38/iot__device_8h.html#a9a9866958c2d6dd26e080a357a049c28" title="addOpenBraceStringField" alt="" coords="198,208,383,235"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CThreadBaseQueue" name="CThreadBaseQueue">
+<area shape="rect" id="node2" href="$classCThreadCommandQueue.html" title="This class collects a prioritized list of pending operations to be performed by the worker thread..." alt="" coords="5,80,189,107"/>
+<area shape="rect" id="node3" href="$classCThreadResponseQueue.html" title="This class collects a prioritized list of pending operations to be performed by the worker thread..." alt="" coords="214,80,393,107"/>
+</map>

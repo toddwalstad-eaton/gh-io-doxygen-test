@@ -1,0 +1,5 @@
+<map id="CDeviceSpecificHandler::halt_waveform_command" name="CDeviceSpecificHandler::halt_waveform_command">
+<area shape="rect" id="node2" href="$da/de8/classCModbusDeviceSpecificHandler.html#af9f0a812c5b9c28096f1e77b9122ee34" title="Called from an Modbus serial device to handle Modbus device specific waveform command completions..." alt="" coords="253,5,480,61"/>
+<area shape="rect" id="node4" href="$da/de8/classCModbusDeviceSpecificHandler.html#a1af90f38bd8b06abd49a0a5b01025e74" title="Called from the device to request acquisition of Modbus device waveforms. " alt="" coords="253,86,480,127"/>
+<area shape="rect" id="node3" href="$da/de8/classCModbusDeviceSpecificHandler.html#a3a84cf16c8b23dd199b3d7e1a82164eb" title="Called from an Modbus serial device to handle Modbus device specific command completions (e..." alt="" coords="528,13,755,54"/>
+</map>

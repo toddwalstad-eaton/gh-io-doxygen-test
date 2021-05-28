@@ -1,0 +1,4 @@
+<map id="CModbusConfig::handle_removed_device" name="CModbusConfig::handle_removed_device">
+<area shape="rect" id="node2" href="$classCModbusConfig.html#a0eed7f16755c2dc94c5c18aec4656708" title="Threadsafe method to add or remove a device from the _tcp_map. " alt="" coords="229,5,384,46"/>
+<area shape="rect" id="node3" href="$classCModbusUtil.html#a810fa100a70e436cbe20cbdc3305933d" title="Delete the specified file. " alt="" coords="433,12,613,39"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CModbusReadDiagnosticsResponse::handle" name="CModbusReadDiagnosticsResponse::handle">
+<area shape="rect" id="node2" href="$d6/d62/classCDataBlockWriter.html#a3171f499741ded7564ac1405009de13e" title="Used to get a non&#45;const reference to a block&#39;s data. " alt="" coords="305,5,479,32"/>
+<area shape="rect" id="node3" href="$de/d8a/classCDataBlock.html#a9d344e785706a24ba44966c8dc693150" title="Get the parent Port and Device ID tag string (eg, &quot;(p2:d64)&quot; ) from the parent Device. " alt="" coords="318,57,466,98"/>
+<area shape="rect" id="node4" href="$d8/d81/structIDataBlockObserver.html#a8b093c3207499748d13d0e6c0b2dd341" title="Get the parent Port and Device ID tag string (eg, &quot;(p2:d64)&quot; ) for this Device. " alt="" coords="528,57,680,98"/>
+</map>

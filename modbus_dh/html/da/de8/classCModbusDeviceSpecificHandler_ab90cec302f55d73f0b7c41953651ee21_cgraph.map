@@ -1,0 +1,9 @@
+<map id="CModbusDeviceSpecificHandler::handle_multipart_command_completion" name="CModbusDeviceSpecificHandler::handle_multipart_command_completion">
+<area shape="rect" id="node2" href="$da/de8/classCModbusDeviceSpecificHandler.html#a07cdaeb6e2ae2077967a80dfbe66cc11" title="Called to process the Modbus device multipart transaction data buffers. " alt="" coords="280,5,507,46"/>
+<area shape="rect" id="node3" href="$d5/df1/structgeneric__err.html#ae3bee2d13a4c011702e5a9ab4650bc95" title="Implement the virtual function to provide the error&#39;s text. " alt="" coords="326,71,461,97"/>
+<area shape="rect" id="node4" href="$d4/d8d/classCDeviceSpecificHandler.html#aaa96013c9f61b4d3e95bc24fca327c78" title="Called update the CDS on the current status of the command (i.e. " alt="" coords="305,122,482,163"/>
+<area shape="rect" id="node5" href="$dc/d4a/classCUtil.html#afdffbca731e234e54193c7aba4fbe341" title="CUtil::get_err_text" alt="" coords="577,100,719,127"/>
+<area shape="rect" id="node6" href="$d6/d0f/classCCommandService.html#a2e938d3596268b4feceaa79e8ce15847" title="Send a command result to a device in the CDS Note: This overload performs a full CDS update of all CD..." alt="" coords="555,151,741,193"/>
+<area shape="rect" id="node7" href="$dd/de8/command__service_8cpp.html#a5b005098f808914039f86f83f9d6f680" title="get_command_status" alt="" coords="801,133,964,160"/>
+<area shape="rect" id="node8" href="$dd/de8/command__service_8cpp.html#a36ade948c171481c38bad3ff3f7556dc" title="get_command_substatus" alt="" coords="790,184,975,211"/>
+</map>

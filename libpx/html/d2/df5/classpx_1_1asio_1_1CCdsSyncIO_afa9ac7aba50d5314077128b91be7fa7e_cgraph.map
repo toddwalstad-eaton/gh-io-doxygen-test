@@ -1,0 +1,20 @@
+<map id="px::asio::CCdsSyncIO::set_device_communicating" name="px::asio::CCdsSyncIO::set_device_communicating">
+<area shape="rect" id="node2" href="$d6/d5b/classpx_1_1CDevice.html#abfc55a39e8c96431ef6588a56869ea71" title="Return the device&#39;s state, the union of bits set by inherited_state and own_state. " alt="" coords="281,5,450,32"/>
+<area shape="rect" id="node4" href="$d6/d5b/classpx_1_1CDevice.html#ab836878b0d7f55ad3d16b937994f3df0" title="Getter for device ID. " alt="" coords="305,56,425,83"/>
+<area shape="rect" id="node5" href="$dd/d57/classpx_1_1CBitset.html#ad0dc233a4abd8d91c033f2582b193768" title="Set the value of a flag. " alt="" coords="539,111,661,137"/>
+<area shape="rect" id="node6" href="$d2/df5/classpx_1_1asio_1_1CCdsSyncIO.html#a29d0493c4249135dba398c841a74a82c" title="Utility function to set the communicating state of a device. " alt="" coords="261,158,469,199"/>
+<area shape="rect" id="node19" href="$d6/d5b/classpx_1_1CDevice.html#a806bd549a06559074ccae14be9afd925" title="Set the device&#39;s own_state. " alt="" coords="281,224,449,251"/>
+<area shape="rect" id="node3" href="$dd/d57/classpx_1_1CBitset.html#a8d97b50a255e17f20721d29a9d3d2d73" title="Set any flag that is set in the given &quot;mask&quot; Bitset. " alt="" coords="518,5,682,32"/>
+<area shape="rect" id="node7" href="$dd/d57/classpx_1_1CBitset.html#af10bc1fcbc0d917ed7d3531c81f16621" title="Zero out all flags. " alt="" coords="533,164,667,191"/>
+<area shape="rect" id="node8" href="$d2/df5/classpx_1_1asio_1_1CCdsSyncIO.html#a72afbdb38c9d17a0e9a98ebc4c846ffe" title="State Related Member Functions. " alt="" coords="521,215,679,257"/>
+<area shape="rect" id="node9" href="$db/db8/classpx_1_1cds_1_1CClient.html#ad3a241ca4570471536d3436ee23b3d65" title="Static Factory function: constructs if necessary, returns existing instance of CClient otherwise..." alt="" coords="743,197,895,224"/>
+<area shape="rect" id="node10" href="$db/db8/classpx_1_1cds_1_1CClient.html#a907410082d34b93630b2f0b0abe44186" title="Submit a request for CDS processing. " alt="" coords="731,248,907,275"/>
+<area shape="rect" id="node11" href="$db/db8/classpx_1_1cds_1_1CClient.html#a5aa42d307a74fdd3117745f85a587e34" title="Disconnect from the CDS. " alt="" coords="955,153,1157,180"/>
+<area shape="rect" id="node14" href="$d5/dd5/namespacepx_1_1cds.html#a49c47a7060e04ef5eaccdab3e441f264" title="px::cds::req_pack" alt="" coords="989,248,1123,275"/>
+<area shape="rect" id="node18" href="$d1/d2c/structpx_1_1generic__err.html#ab55d991a1469e98c5d79a27d1b93b4d6" title="px::generic_err::what" alt="" coords="977,299,1135,325"/>
+<area shape="rect" id="node12" href="$db/db8/classpx_1_1cds_1_1CClient.html#a04806b8577ecbb198bc2f7c8cf9939ff" title="Unregister a previously registered callback structure. " alt="" coords="1207,81,1404,122"/>
+<area shape="rect" id="node13" href="$db/db8/classpx_1_1cds_1_1CClient.html#a28b00111c32ca2391045e23966fb7210" title="Unregister the previously registered callback function for unsolicited messages from the CDS..." alt="" coords="1207,146,1404,187"/>
+<area shape="rect" id="node15" href="$d5/dd5/namespacepx_1_1cds.html#ade09d8ce5c3cbc71080e4c9658c71848" title="Given a CRequestResponse pointer, return the type enumeration value. " alt="" coords="1229,211,1382,253"/>
+<area shape="rect" id="node16" href="$de/dcb/namespacepx.html#a7996667dd567e40923855ae03e3ab8ba" title="Polymorphic casting: this utilizes dynamic_cast&lt;&gt; for non&#45;release builds, thus ensuring that the cast..." alt="" coords="1251,277,1359,304"/>
+<area shape="rect" id="node17" href="$d1/d21/classpx_1_1serialize_1_1CByteCounter.html#aedb482ba261e695b9e707c53586de650" title="Get the number of bytes which have been accumulated. " alt="" coords="1206,329,1405,370"/>
+</map>

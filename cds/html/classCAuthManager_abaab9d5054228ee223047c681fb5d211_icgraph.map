@@ -1,0 +1,9 @@
+<map id="CAuthManager::bcrypt_hash" name="CAuthManager::bcrypt_hash">
+<area shape="rect" id="node2" href="$classCAuthManager.html#a85b5870678ebb08c84dcf9a1d3cbb6aa" title="Checks if the given string password matches given hash password. " alt="" coords="259,5,445,46"/>
+<area shape="rect" id="node8" href="$classCAuthManager.html#a211476e4d4d3093f0330f8c0d34c373e" title="Migrates an htdigest password to bcrypt for UL security requirements. " alt="" coords="264,70,440,111"/>
+<area shape="rect" id="node5" href="$classCAuthManager.html#ad0acbd206b9b1a3dc330070ba39bd31b" title="Set a user&#39;s plain&#45;text password. " alt="" coords="1000,75,1237,101"/>
+<area shape="rect" id="node3" href="$classCAuthManager.html#ae22812def60fa13bea7e10043180d06b" title="Looks for the given password in the password history of the user. " alt="" coords="520,5,669,46"/>
+<area shape="rect" id="node6" href="$classCAuthManager.html#ad2f9a31177a8eb0154ec2c998c0e4944" title="Check a user&#39;s plain text password. " alt="" coords="493,70,696,111"/>
+<area shape="rect" id="node4" href="$classCAuthManager.html#a51e0a14d469929e487393244ccd81f46" title="Checks for password policy fulfillment. " alt="" coords="755,5,941,46"/>
+<area shape="rect" id="node7" href="$classCAuthManager.html#a402fd33cfc7bc2ae62474c95b079fbf9" title="Authenticate a user, given plain&#45;text password. " alt="" coords="744,70,952,111"/>
+</map>

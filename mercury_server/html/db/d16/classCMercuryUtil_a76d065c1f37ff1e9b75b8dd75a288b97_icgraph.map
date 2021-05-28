@@ -1,0 +1,9 @@
+<map id="CMercuryUtil::normalize_authorize_uri_read" name="CMercuryUtil::normalize_authorize_uri_read">
+<area shape="rect" id="node2" href="$de/dfb/classCMercuryGetBlobInfoRequest.html#a92c0c57ae2a133949d8ace472da754d3" title="Retrieve blob info and fill it into response (parameter). " alt="" coords="233,5,445,46"/>
+<area shape="rect" id="node4" href="$d1/d70/classCMercuryGetBlobListRequest.html#aa592e7a668d304a3b5b6d0e8699811ca" title="Retrieve blob list for the given virtual URI (folder path) and fill it into response. " alt="" coords="233,70,444,111"/>
+<area shape="rect" id="node6" href="$dc/dd5/classCMercuryGetBlobRequest.html#a4a2cb8348e6381b3b44c161b9a1fb522" title="Retrieve blob and fill it into response (parameter). " alt="" coords="245,135,432,177"/>
+<area shape="rect" id="node8" href="$df/d2d/util_8cpp.html#ad9f08084368b0dd8dfce8695ad2e68ea" title="Test normalize_authorize_uri_read() method. " alt="" coords="243,201,434,228"/>
+<area shape="rect" id="node3" href="$de/dfb/classCMercuryGetBlobInfoRequest.html#a453fac2beaf11a51685ce329670c4a0d" title="Handle a Mercury request (dispatch to the CDS) A pure virtual function, to be implemented in each mes..." alt="" coords="494,5,706,46"/>
+<area shape="rect" id="node5" href="$d1/d70/classCMercuryGetBlobListRequest.html#a601bcdc2a4ae3530ed3ee42bde7278ab" title="Handle a Mercury request (dispatch to the CDS) A pure virtual function, to be implemented in each mes..." alt="" coords="495,70,705,111"/>
+<area shape="rect" id="node7" href="$dc/dd5/classCMercuryGetBlobRequest.html#ae83ac68542d3eece2625ad9a1fbd5837" title="Handle a Mercury request (dispatch to the CDS) A pure virtual function, to be implemented in each mes..." alt="" coords="507,135,693,177"/>
+</map>

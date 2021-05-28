@@ -1,0 +1,4 @@
+<map id="CTcpProxy::close" name="CTcpProxy::close">
+<area shape="rect" id="node2" href="$d3/db0/classCTcpProxy.html#ad431a8ab2e97173a3927fb8ddc6d8354" title="Utility function to close the local socket, and trap any exceptions. " alt="" coords="185,5,353,46"/>
+<area shape="rect" id="node3" href="$d3/db0/classCTcpProxy.html#a6974c94508aa3dd4ac08024d233ecf3c" title="Remove all sessions. " alt="" coords="185,70,354,111"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="serializeTransferImageJson" name="serializeTransferImageJson">
+<area shape="rect" id="node2" href="$d1/dd4/iot__serialization_8c.html#a8f946e3afc48831f091af8259018320b" title="serializeCommand" alt="" coords="251,31,395,57"/>
+<area shape="rect" id="node3" href="$d6/d10/iot__device__common_8c.html#a1a01656d15dc77a04e64c9c07c88d3a3" title="Creates an IoT Hub message, either by allocating memory for it (PX Red) or choosing the next availabl..." alt="" coords="443,31,563,57"/>
+<area shape="rect" id="node4" href="$d5/da4/group__message__handling__apis.html#ga3dfe3ae25533f7be0e6ccd18dbd2326a" title="Sends data to IoT Hub (i.e. " alt="" coords="644,5,721,32"/>
+<area shape="rect" id="node5" href="$d5/da4/group__message__handling__apis.html#gaf6c31012b13805b13765d8b4fe82f526" title="Sends a command to IoT Hub (i.e. " alt="" coords="611,56,755,83"/>
+<area shape="rect" id="node6" href="$d5/da4/group__message__handling__apis.html#gaa4f2b5d3bb5def4020d6b3e3f19003ec" title="Sends a device command status update to IoT Hub. " alt="" coords="803,56,1047,83"/>
+</map>

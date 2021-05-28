@@ -1,0 +1,8 @@
+<map id="CDataBlockTranslator::translate" name="CDataBlockTranslator::translate">
+<area shape="rect" id="node2" href="$dd/dc9/namespacetoolkit.html#accc5fc1fd772f54eea360d9827972987" title="Conversion functions between px::CValue and external (e.g. " alt="" coords="221,56,424,83"/>
+<area shape="rect" id="node7" href="$dd/dc9/namespacetoolkit.html#a49336608374860159c9ac2c2d36b7664" title="Convert external data type enum to its corresponding string. " alt="" coords="217,107,429,133"/>
+<area shape="rect" id="node3" href="$dd/dc9/namespacetoolkit.html#a31903467dde5cc0bd074c675a7978b3e" title="Convert into existing px::CValue using its existing datatype. " alt="" coords="477,56,651,83"/>
+<area shape="rect" id="node4" href="$dd/dc9/namespacetoolkit.html#a5209d56d57f1468826b81741efc1b525" title="Return the size of an External Data Type. " alt="" coords="718,5,866,32"/>
+<area shape="rect" id="node5" href="$dd/dc9/namespacetoolkit.html#aa5d8ccc56a73cb3cbf1fccabcf63e0b8" title="toolkit::float_from_bits" alt="" coords="707,56,877,83"/>
+<area shape="rect" id="node6" href="$dd/dc9/namespacetoolkit.html#a98f419b827ee64e13faa881b0040368e" title="toolkit::double_from_bits" alt="" coords="699,107,885,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CModbusTcpPort::device_states_callback" name="CModbusTcpPort::device_states_callback">
+<area shape="rect" id="node2" href="$d6/dd4/classCPort.html#a8674cc3f22aaf9b7578c8f582d8bbe97" title="CPort::device_states\l_handler" alt="" coords="233,5,388,46"/>
+<area shape="rect" id="node4" href="$d6/d71/classCModbusTcpPort.html#ae693807826228cedc39887a258851fc0" title="Setter for the port throttle time. " alt="" coords="233,70,389,111"/>
+<area shape="rect" id="node3" href="$d6/dd4/classCPort.html#a67fdf9324b9596b8c462cfa66159a7db" title="Getter for the name of this port. " alt="" coords="437,12,600,39"/>
+</map>

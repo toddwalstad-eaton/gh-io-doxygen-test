@@ -1,0 +1,9 @@
+<map id="px::db::AddDeviceToBatch" name="px::db::AddDeviceToBatch">
+<area shape="rect" id="node2" href="$dc/d98/classpx_1_1db_1_1CBatch.html#a240b1211fde470356f1d8e029004d4ec" title="Add an entry (key/value row) to the database. " alt="" coords="253,5,401,32"/>
+<area shape="rect" id="node3" href="$d6/d5b/classpx_1_1CDevice.html#a04de4b78f3899cfbd18686e8f4e87e9d" title="px::CDevice::get_own\l_state" alt="" coords="245,57,408,98"/>
+<area shape="rect" id="node4" href="$d6/d5b/classpx_1_1CDevice.html#ab836878b0d7f55ad3d16b937994f3df0" title="Getter for device ID. " alt="" coords="267,123,387,149"/>
+<area shape="rect" id="node5" href="$d6/d5b/classpx_1_1CDevice.html#a3fe65f60bec8278eeaf05b6d5daea3b2" title="Initialize a protobuf Device object from this Device. " alt="" coords="266,173,387,200"/>
+<area shape="rect" id="node6" href="$dd/d57/classpx_1_1CBitset.html#a08db492abafd7512bfb4fe26bc459356" title="Initialize a protobuf message object from this bitset. " alt="" coords="269,224,384,251"/>
+<area shape="rect" id="node7" href="$d6/d4e/classpx_1_1CTimestamp.html#a53e085363ec11eef704d9a99f1d82c69" title="Initialize a protobuf Timestamp object from this value. " alt="" coords="251,275,402,301"/>
+<area shape="rect" id="node8" href="$dd/d42/namespacepx_1_1db.html#afc70b7f9d0faa92257df2f1e52f4346d" title="Convert 64&#45;bit unsigned integer to 8 bytes big&#45;endian. " alt="" coords="247,325,406,352"/>
+</map>

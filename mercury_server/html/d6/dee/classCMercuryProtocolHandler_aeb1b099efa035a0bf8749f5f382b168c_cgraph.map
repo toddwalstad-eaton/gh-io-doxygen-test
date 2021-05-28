@@ -1,0 +1,4 @@
+<map id="CMercuryProtocolHandler::fill_out_role" name="CMercuryProtocolHandler::fill_out_role">
+<area shape="rect" id="node2" href="$df/df1/classCHandleApiIds.html#a6e1e3a33a956d7faf3f2024c6b8207b7" title="Lookups which APIs are allowed for the given Permissions. " alt="" coords="241,5,421,46"/>
+<area shape="rect" id="node3" href="$df/df1/classCHandleApiIds.html#aab39d6c7b421b503be86a459c59fc1a6" title="Checks if the given API is permitted (possibly) for the given Permissions. " alt="" coords="469,5,632,46"/>
+</map>

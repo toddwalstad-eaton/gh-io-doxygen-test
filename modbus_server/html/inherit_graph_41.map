@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCRegisterMapping.html" title="A mapping between CDS data and one or more Modbus registers. " alt="" coords="5,81,144,108"/>
+<area shape="rect" id="node2" href="$classCFloatMapping.html" title="A floating&#45;point mapping between a CDS parameter and one or more Modbus registers. " alt="" coords="195,5,314,32"/>
+<area shape="rect" id="node3" href="$classCIntMapping.html" title="An integral mapping between a CDS parameter and one or more Modbus registers. " alt="" coords="203,56,306,83"/>
+<area shape="rect" id="node4" href="$classCStringMapping.html" title="A string mapping between a CDS parameter and one or more Modbus registers. " alt="" coords="193,107,317,133"/>
+<area shape="rect" id="node5" href="$classCTimeMapping.html" title="An integral mapping between a CDS parameter and one or more Modbus registers. " alt="" coords="195,157,314,184"/>
+</map>

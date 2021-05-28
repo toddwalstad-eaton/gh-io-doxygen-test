@@ -1,0 +1,6 @@
+<map id="CPcdMeasuresTableEntry::check_add_table_entry" name="CPcdMeasuresTableEntry::check_add_table_entry">
+<area shape="rect" id="node2" href="$d1/d9d/classCMmedsNode.html#a0f597769aed3c7be068ce2607eabc127" title="Static function to lookup the given table (by its name) in the MIB Mapping EDS data, and also return its base OID. " alt="" coords="282,5,446,46"/>
+<area shape="rect" id="node3" href="$d9/d6e/classCPcdMeasuresTableEntry.html#afad4461ff903895c6f65d70f30e6622a" title="Table&#45;specific function to validate a &quot;special&quot; node, when this is its Translation Type..." alt="" coords="272,70,456,111"/>
+<area shape="rect" id="node4" href="$d1/d9d/classCMmedsNode.html#ab99081aedd8e94c4adc38b15d35f092f" title="Factory function to create a CMmedsNode given the Device and MIB Mapping EDS data for one MIB scalar ..." alt="" coords="238,136,490,163"/>
+<area shape="rect" id="node5" href="$d1/d9d/classCMmedsNode.html#ac5fb8573182826ea684201f46f4347c7" title="Simple Constructor for a (potential) node. " alt="" coords="539,136,749,163"/>
+</map>

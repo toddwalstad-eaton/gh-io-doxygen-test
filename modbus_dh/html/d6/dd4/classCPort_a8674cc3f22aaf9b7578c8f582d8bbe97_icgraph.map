@@ -1,0 +1,6 @@
+<map id="CPort::device_states_handler" name="CPort::device_states_handler">
+<area shape="rect" id="node2" href="$d6/d71/classCModbusTcpPort.html#a8a9529c133d43dec4ef6a317d92250d4" title="The callback function that we provide to the CDS to handle Device State change events. " alt="" coords="208,5,387,46"/>
+<area shape="rect" id="node4" href="$df/d6f/classCSerialPort.html#af146fece98428ae76bf92240789f421a" title="The callback function that we provide to the CDS to handle Device State change events. " alt="" coords="225,70,370,111"/>
+<area shape="rect" id="node3" href="$d6/d71/classCModbusTcpPort.html#a9dd6e9eb42463f8da3cc59fd250d9280" title="(Virtual) Factory method to create the port &quot;Connection&quot; Actor (eg, CSerialConnection). " alt="" coords="435,5,613,46"/>
+<area shape="rect" id="node5" href="$df/d6f/classCSerialPort.html#a801fb24a18b6d99785d4b3edbecb04e9" title="(Virtual) Factory method to create the port &quot;Connection&quot; Actor (eg, CSerialConnection). " alt="" coords="453,70,595,111"/>
+</map>

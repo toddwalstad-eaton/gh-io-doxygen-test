@@ -1,0 +1,4 @@
+<map id="CIotDataDevice::lookup_channel_by_mcl_tag" name="CIotDataDevice::lookup_channel_by_mcl_tag">
+<area shape="rect" id="node2" href="$d2/d55/classCIotDataDevice.html#acccc33e01c0f9d96183e9f7bc9c54e6f" title="Handle a C2D Device Command for the GetChannelValues method. " alt="" coords="230,5,461,46"/>
+<area shape="rect" id="node3" href="$d2/d55/classCIotDataDevice.html#ac03a035f18b36de2b3ccb0571ea73bb5" title="Handle a C2D Device Command for the SetChannelValues method. " alt="" coords="231,70,460,111"/>
+</map>

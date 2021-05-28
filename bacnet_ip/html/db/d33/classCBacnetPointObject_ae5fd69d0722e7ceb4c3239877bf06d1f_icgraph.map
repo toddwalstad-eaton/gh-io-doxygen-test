@@ -1,0 +1,4 @@
+<map id="CBacnetPointObject::check_point_out_of_service" name="CBacnetPointObject::check_point_out_of_service">
+<area shape="rect" id="node2" href="$db/d33/classCBacnetPointObject.html#a156c857d5c63731f29ff39598fa7ebb6" title="Reads one property for this object type of a given instance. " alt="" coords="211,5,384,46"/>
+<area shape="rect" id="node3" href="$db/d33/classCBacnetPointObject.html#ab50ed93c31c6d3759774aa360a5ffc6f" title="Get the present value for a COV notification for this object, and fill out the two entries in the giv..." alt="" coords="215,70,379,111"/>
+</map>

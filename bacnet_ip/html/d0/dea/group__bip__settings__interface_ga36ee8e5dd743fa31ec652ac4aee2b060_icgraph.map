@@ -1,0 +1,4 @@
+<map id="bip_get_addr" name="bip_get_addr">
+<area shape="rect" id="node2" href="$d6/ded/classCBacnetIpSettings.html#abfd0311546441a9a3eb4d25ec328d0c3" title="Initialize the data in this application by reading the OOB data. " alt="" coords="177,5,327,46"/>
+<area shape="rect" id="node3" href="$d0/d58/classCBacnetIpHandler.html#a097e74048a899230e73678aeff18064c" title="Try to parse the buffer, when the CIoTransactor calls us. " alt="" coords="161,71,343,97"/>
+</map>

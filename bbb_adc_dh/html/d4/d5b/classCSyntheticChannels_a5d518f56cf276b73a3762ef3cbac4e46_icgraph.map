@@ -1,0 +1,4 @@
+<map id="CSyntheticChannels::subscribe_data_validation" name="CSyntheticChannels::subscribe_data_validation">
+<area shape="rect" id="node2" href="$d4/d5b/classCSyntheticChannels.html#adcf8a8d8793d1789bc335fbfbf75b03f" title="Initialize the channels by setting them into the CDS (if they don&#39;t already exist) or reading out the..." alt="" coords="253,5,405,46"/>
+<area shape="rect" id="node3" href="$d5/d01/classCBbbAdcDhCore.html#a4033ba59c52adc587271a10885f4a5e2" title="Do any setup necessary before the main loop is started. " alt="" coords="454,12,629,39"/>
+</map>

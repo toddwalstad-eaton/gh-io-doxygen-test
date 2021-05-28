@@ -1,0 +1,4 @@
+<map id="certmanagerApi::CertmanagerService::sendNotification" name="certmanagerApi::CertmanagerService::sendNotification">
+<area shape="rect" id="node2" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a9535a183c3a518aa059708410500c81c" title="Notify the daemon that network changed. " alt="" coords="272,5,491,46"/>
+<area shape="rect" id="node3" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a113e9f9fad6317519829c297c4a0d92b" title="Notify the daemon that time changed. " alt="" coords="272,70,491,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CSerialPort::subcribe_device_settings" name="CSerialPort::subcribe_device_settings">
+<area shape="rect" id="node2" href="$df/d6f/classCSerialPort.html#a9e675b15ee18bd6d70ea31affea28a6f" title="The callback function that we provide to the CDS to handle Device Settings change events..." alt="" coords="211,27,357,69"/>
+<area shape="rect" id="node3" href="$dc/d4a/classCUtil.html#ab23b89e75ee52ed0e45e7a188ce3386f" title="CUtil::get_formatted_name" alt="" coords="406,5,605,32"/>
+<area shape="rect" id="node4" href="$df/d6f/classCSerialPort.html#a4adcb6cbd82ff72ca175b56f247d74d0" title="Find and remove the Device entry with the given id from our map. " alt="" coords="429,57,581,98"/>
+</map>

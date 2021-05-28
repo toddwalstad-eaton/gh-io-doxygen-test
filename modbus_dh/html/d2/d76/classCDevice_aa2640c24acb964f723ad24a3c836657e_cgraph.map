@@ -1,0 +1,5 @@
+<map id="CDevice::update_polling_state" name="CDevice::update_polling_state">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#a7514e7a9eaa24ca472ec968a87ea2465" title="Test a RealTime Device State flag and return the result. " alt="" coords="235,5,394,46"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#a184036fc7dad41da587f9fd8790a2699" title="CDevice::unprofiled\l_blocks_remain" alt="" coords="240,70,389,111"/>
+<area shape="rect" id="node4" href="$d2/d76/classCDevice.html#abac1fe55b006dfb7cf69e1b52cfa0f0e" title="Getter for one DataBlock, from its ID. " alt="" coords="443,77,613,104"/>
+</map>

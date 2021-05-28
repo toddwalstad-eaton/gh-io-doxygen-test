@@ -1,0 +1,5 @@
+<map id="CIotDeviceClient::sdk_to_protobuf_err_code" name="CIotDeviceClient::sdk_to_protobuf_err_code">
+<area shape="rect" id="node2" href="$dd/d68/classCIotDeviceClient.html#ac088663bab4b0ddec2c4c60bbc605166" title="Attempt to open the Azure IoT Hub connection. " alt="" coords="449,5,639,32"/>
+<area shape="rect" id="node4" href="$dd/d68/classCIotDeviceClient.html#ab49100be4e2dc5ef53115fbdafb55f94" title="Determines the current connection status via the Eaton Device SDK. " alt="" coords="222,49,399,90"/>
+<area shape="rect" id="node3" href="$dd/d68/classCIotDeviceClient.html#ac3e59938659409ee0adee10292047aca" title="Called by the core&#39;s update timer to manage next state / action. " alt="" coords="689,23,871,65"/>
+</map>

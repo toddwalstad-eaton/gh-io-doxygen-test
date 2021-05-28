@@ -1,0 +1,6 @@
+<map id="certmanager::ExternalCertificatesStorage::removeCertificateFiles" name="certmanager::ExternalCertificatesStorage::removeCertificateFiles">
+<area shape="rect" id="node2" href="$db/df9/classcertmanager_1_1ExternalCertificatesStorage.html#a62fc36883d6a5dcd7523cf33d23b9c2d" title="Create the directories for certificates and set permissions and modes. " alt="" coords="297,5,538,46"/>
+<area shape="rect" id="node4" href="$db/df9/classcertmanager_1_1ExternalCertificatesStorage.html#a487e3f8d08dde49b0e4468c58eae673f" title="Function to revoke the given single certificate id. " alt="" coords="297,70,538,111"/>
+<area shape="rect" id="node3" href="$db/df9/classcertmanager_1_1ExternalCertificatesStorage.html#afc58c8e4d158ac166c45ed13fd160f4a" title="certmanager::ExternalCertificates\lStorage::ExternalCertificatesStorage" alt="" coords="587,5,845,46"/>
+<area shape="rect" id="node5" href="$db/df9/classcertmanager_1_1ExternalCertificatesStorage.html#a63ce1a04cc2546ac30620e5121dbd5d9" title="Function to revoke the given multiple certificate ids. " alt="" coords="595,70,837,111"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CMbSecListener::ssl_accept" name="CMbSecListener::ssl_accept">
+<area shape="rect" id="node2" href="$classCMbSecConnection.html#a1f74dd2e399269622429a48d7456a7b1" title="Factory function to create a new CMbSecConnection object. " alt="" coords="205,5,400,32"/>
+<area shape="rect" id="node3" href="$classCMbSecListener.html#a38291bd8c7fc107caef3a69a8b73f8ca" title="Callback function for Boost.Asio upon accepting a new ssl connection. " alt="" coords="214,57,391,98"/>
+</map>

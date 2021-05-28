@@ -1,0 +1,6 @@
+<map id="CProtocolHandler" name="CProtocolHandler">
+<area shape="rect" id="node2" href="$d6/dee/classCMercuryProtocolHandler.html" title="Mercury Protocol Handler. " alt="" coords="206,131,428,560"/>
+<area shape="rect" id="node3" href="$db/dd8/classCTcpProtocolHandler.html" title="TCP Protocol Handler implements a protocol handler for TCP communication. " alt="" coords="5,616,197,840"/>
+<area shape="rect" id="node4" href="$d7/d46/classCWsProtocolHandler.html" title="CMercuryProtocolHandler subclass for websocket server. " alt="" coords="222,631,412,825"/>
+<area shape="rect" id="node5" href="$d9/dad/classMockMercuryProtocolHandler.html" title="{MockMercuryProtocolHandler\n|+ _mcds\l+ _mph_ptr\l|+ MockMercuryProtocolHandler()\l+ ~MockMercuryProtocolHandler()\l+ MockMercuryProtocolHandler()\l+ set_mock_transactor()\l+ get_cds_handle()\l+ MOCK_CONST_METHOD1()\l+ get_ptr()\l+ MOCK_METHOD0()\l+ MOCK_METHOD0()\l+ MOCK_METHOD0()\land 10 more...\l}" alt="" coords="437,609,685,847"/>
+</map>

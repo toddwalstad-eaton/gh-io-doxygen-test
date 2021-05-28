@@ -1,0 +1,9 @@
+<map id="CMercuryProtocolHandler::get_cds_handle" name="CMercuryProtocolHandler::get_cds_handle">
+<area shape="rect" id="node2" href="$d6/dee/classCMercuryProtocolHandler.html#af22def049de0abd4b0ee74d4446c06e6" title="Clean up all subscriptions, prepare for user logout, initiated from CDS, or from end users..." alt="" coords="240,5,427,46"/>
+<area shape="rect" id="node6" href="$d6/dee/classCMercuryProtocolHandler.html#a2d2d489c918fc8db2c725ef81de4fe0b" title="Handle a Mercury request. " alt="" coords="240,70,427,111"/>
+<area shape="rect" id="node3" href="$d6/dee/classCMercuryProtocolHandler.html#a9d098d4dfc32011b0d1b6363ed22165e" title="inharited from CProtocolHandler. " alt="" coords="475,5,661,46"/>
+<area shape="rect" id="node4" href="$db/dd8/classCTcpProtocolHandler.html#a40e77aab51a34219d6d7cd90c28203d8" title="inharited from CProtocolHandler. " alt="" coords="710,5,866,46"/>
+<area shape="rect" id="node5" href="$db/dd8/classCTcpProtocolHandler.html#aaa880972e795ea74b858be4ea2d2ea3f" title="Destructor. " alt="" coords="915,5,1090,46"/>
+<area shape="rect" id="node7" href="$db/dd8/classCTcpProtocolHandler.html#a5df1e58dd987e13789e138e4c2f65172" title="Execute the parsed request. " alt="" coords="490,70,646,111"/>
+<area shape="rect" id="node8" href="$d7/d46/classCWsProtocolHandler.html#a8ba2f45385c311d209cb8925f4f56486" title="Process a parsed message. " alt="" coords="491,135,645,177"/>
+</map>

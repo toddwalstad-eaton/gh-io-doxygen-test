@@ -1,0 +1,4 @@
+<map id="IDataBlockObserver::handle_device_error" name="IDataBlockObserver::handle_device_error">
+<area shape="rect" id="node2" href="$df/d62/classCModbusCommandBlock.html#a894f44268936cb36f5f1886493d1be54" title="Callback invoked when this DataBlock&#39;s messages have been completed. " alt="" coords="224,5,408,46"/>
+<area shape="rect" id="node3" href="$de/df8/classCModbusDataBlock.html#a6e4d8179495b23028debcc5725aa557a" title="Callback invoked when this DataBlock&#39;s messages have been completed. " alt="" coords="216,70,416,111"/>
+</map>

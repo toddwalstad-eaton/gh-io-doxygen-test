@@ -1,0 +1,4 @@
+<map id="CModbusTcpPort::update_disabled_state" name="CModbusTcpPort::update_disabled_state">
+<area shape="rect" id="node2" href="$d4/d89/classCDeviceService.html#a0189deb12876fe3ac5262ae573f5e873" title="Set or clear the is_disabled state flag for the addressed Device (or Port). " alt="" coords="235,5,387,46"/>
+<area shape="rect" id="node3" href="$d6/dd4/classCPort.html#ab230774c3894ac6a2b385da578e21ce1" title="Getter for the Device ID of this Port. " alt="" coords="258,71,363,97"/>
+</map>

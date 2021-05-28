@@ -1,0 +1,5 @@
+<map id="CSessionManager::create" name="CSessionManager::create">
+<area shape="rect" id="node2" href="$d4/d4a/classCMercuryServer.html#ae7be7e35958e9e89ee36b52f6451d956" title="Execute the server core&#39;s main loop. " alt="" coords="241,5,426,32"/>
+<area shape="rect" id="node3" href="$df/d0a/main_8cpp.html#a72dfe501a5b0c6d1753dc3bc888d33b9" title="&quot;Real&quot; main, used by the server code " alt="" coords="475,5,557,32"/>
+<area shape="rect" id="node4" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Program entry point. " alt="" coords="606,5,661,32"/>
+</map>

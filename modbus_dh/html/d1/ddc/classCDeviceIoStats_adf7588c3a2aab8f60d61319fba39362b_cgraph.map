@@ -1,0 +1,18 @@
+<map id="CDeviceIoStats::update_io_state" name="CDeviceIoStats::update_io_state">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#ab231a1465890affb24529dfe50f6a441" title="Get the parent Port and Device ID tag string (eg, &quot;(p2:d64)&quot; ) for this Device. " alt="" coords="515,5,699,32"/>
+<area shape="rect" id="node3" href="$d9/d7f/classCIoStatCounters.html#ac0a1f74e14477fc87275e82a1ecafef6" title="Resets the counters in this class. " alt="" coords="255,267,423,309"/>
+<area shape="rect" id="node4" href="$d2/d76/classCDevice.html#a0057f31cbcd44999aa2ce06fc308016f" title="Getter for the display name of this device. " alt="" coords="496,173,717,200"/>
+<area shape="rect" id="node5" href="$d2/d76/classCDevice.html#a0e5b0994e943728e63a41cbd76fc2933" title="Getter for the formatted address of this device. " alt="" coords="518,225,695,266"/>
+<area shape="rect" id="node6" href="$dc/d4a/classCUtil.html#afdffbca731e234e54193c7aba4fbe341" title="CUtil::get_err_text" alt="" coords="536,56,677,83"/>
+<area shape="rect" id="node7" href="$d2/d76/classCDevice.html#a831682b3ace0e93b17bda12d2830575a" title="Set the delay that this device should observe before polling resumes. " alt="" coords="240,333,437,360"/>
+<area shape="rect" id="node9" href="$d6/dd4/classCPort.html#a70006c9e1916715c7f81cfd40a1ffe06" title="Getter method for the penalty time delay for non&#45;communicating devices on this port. " alt="" coords="249,384,428,411"/>
+<area shape="rect" id="node10" href="$d1/ddc/classCDeviceIoStats.html#a73565c0dac393674c9f03deb4e83ac9b" title="Method to process unrecoverable Modbus Exception Codes. " alt="" coords="230,115,447,141"/>
+<area shape="rect" id="node12" href="$d2/d76/classCDevice.html#aa037a91b3dcd542e6f8801ac721b5e09" title="Gets the shared pointer to our CDS / libpx device description. " alt="" coords="249,435,428,461"/>
+<area shape="rect" id="node13" href="$d4/d89/classCDeviceService.html#afd31c85f32b1729dc4345f06c9a2a241" title="Set or clear the not_communicating state flag for the addressed Device (or Port). ..." alt="" coords="241,486,436,527"/>
+<area shape="rect" id="node14" href="$d2/d76/classCDevice.html#abbe464fb9902e815654ce1512d47cad6" title="Set the RealTime Device State flag. " alt="" coords="261,551,416,593"/>
+<area shape="rect" id="node8" href="$d2/d76/classCDevice.html#a7514e7a9eaa24ca472ec968a87ea2465" title="Test a RealTime Device State flag and return the result. " alt="" coords="527,326,686,367"/>
+<area shape="rect" id="node11" href="$d1/ddc/classCDeviceIoStats.html#a08eb0cdadd31d9b34f55b020f7be6b34" title="Getter for the maximum number of consecutive errors based on: " alt="" coords="531,107,682,149"/>
+<area shape="rect" id="node15" href="$d2/d76/classCDevice.html#a1af9d0f562d09e7758b96928ecc9da9c" title="Reset (invalidate) the last update time for all poll Blocks, Typically used when device is disabled..." alt="" coords="527,518,686,559"/>
+<area shape="rect" id="node16" href="$df/d75/classCDeviceEntityState.html#ae430b4b509cc9d764cc55b9ff39fa5da" title="CDeviceEntityState\l::update_entity_value" alt="" coords="525,583,688,625"/>
+<area shape="rect" id="node17" href="$df/d75/classCDeviceEntityState.html#ab81a87c7545d75db46d30edc773279b2" title="CDeviceEntityState\l::set_entity_value" alt="" coords="766,583,914,625"/>
+</map>

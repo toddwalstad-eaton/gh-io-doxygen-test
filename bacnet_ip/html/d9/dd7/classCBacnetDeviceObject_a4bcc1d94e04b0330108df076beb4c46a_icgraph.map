@@ -1,0 +1,4 @@
+<map id="CBacnetDeviceObject::id" name="CBacnetDeviceObject::id">
+<area shape="rect" id="node2" href="$d9/dd7/classCBacnetDeviceObject.html#abae26582cb5f3243fc3e235d705a005e" title="Initializes the default device objects (from a built&#45;in list) and then the device&#39;s objects which can..." alt="" coords="237,5,400,61"/>
+<area shape="rect" id="node3" href="$db/d33/classCBacnetPointObject.html#a4a498e0314bccda2f4a8adf01f193e12" title="Static factory function to create a Point Object instance from its Channel Settings information..." alt="" coords="243,86,394,127"/>
+</map>

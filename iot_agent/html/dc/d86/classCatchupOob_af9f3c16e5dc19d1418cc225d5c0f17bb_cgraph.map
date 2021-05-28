@@ -1,0 +1,4 @@
+<map id="CatchupOob::get_next_trend_catchup_interval" name="CatchupOob::get_next_trend_catchup_interval">
+<area shape="rect" id="node2" href="$dc/d86/classCatchupOob.html#a1dd29293c6aa01be82a29fde252d5571" title="Look through the trend_catchup_spans, and see if any entries are older than the allowed catchup inter..." alt="" coords="232,5,405,46"/>
+<area shape="rect" id="node3" href="$dc/d86/classCatchupOob.html#a98a574a839c020b9d5d42b952156baaa" title="Write the catchup data out to the IotCatchup OOB. " alt="" coords="454,12,685,39"/>
+</map>

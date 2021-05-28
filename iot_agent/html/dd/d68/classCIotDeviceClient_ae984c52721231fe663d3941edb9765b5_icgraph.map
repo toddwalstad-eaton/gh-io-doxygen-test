@@ -1,0 +1,6 @@
+<map id="CIotDeviceClient::initialize_iot_data_struct" name="CIotDeviceClient::initialize_iot_data_struct">
+<area shape="rect" id="node2" href="$dd/d68/classCIotDeviceClient.html#abcefb86bc559d989da0b410ef74f61d0" title="Build the IOT_DATA_DEVICES_REALTIME_ITEM message (device states) for just the Publisher device..." alt="" coords="287,5,473,46"/>
+<area shape="rect" id="node4" href="$dd/d68/classCIotDeviceClient.html#a64879bbe10f07d18703bc7348bab4e7d" title="Build the IOT_DATA_CHANNEL_REALTIMES_ITEM messages for all devices, using all available channel real&#45;..." alt="" coords="284,70,476,111"/>
+<area shape="rect" id="node5" href="$dd/d68/classCIotDeviceClient.html#abb176b2927c901efa0a2ea9fb170019c" title="Build the IOT_DATA_TREND_ITEM messages for all devices, sending just the &quot;actual&quot; values of the lates..." alt="" coords="249,135,511,177"/>
+<area shape="rect" id="node3" href="$dd/d68/classCIotDeviceClient.html#ac3e59938659409ee0adee10292047aca" title="Called by the core&#39;s update timer to manage next state / action. " alt="" coords="561,70,743,111"/>
+</map>

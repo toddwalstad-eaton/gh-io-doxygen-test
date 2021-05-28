@@ -1,0 +1,6 @@
+<map id="MonitoredChannel::update_channel_value" name="MonitoredChannel::update_channel_value">
+<area shape="rect" id="node2" href="$dd/d37/classMonitoredChannel.html#a7e8995ccbd4205ddae868bb9cde8ae1c" title="Initialize this channel from OOB data. " alt="" coords="249,5,453,46"/>
+<area shape="rect" id="node4" href="$dd/d37/classMonitoredChannel.html#acc9b688c80be0c18e681e85b124f9b27" title="The specific function for updating a channel based on OOB data. " alt="" coords="254,70,447,111"/>
+<area shape="rect" id="node3" href="$dd/d37/classMonitoredChannel.html#a8645d80bb25b48028270cd1b7e07bb8e" title="Given the channel name and its monitoring parameters, translate these into monitoring directions..." alt="" coords="502,12,706,39"/>
+<area shape="rect" id="node5" href="$dd/d37/classMonitoredChannel.html#af3efac5aeb4d0d5a00adcd22c2249092" title="The function which is called periodically to update the channels which we are monitoring for..." alt="" coords="507,70,701,111"/>
+</map>

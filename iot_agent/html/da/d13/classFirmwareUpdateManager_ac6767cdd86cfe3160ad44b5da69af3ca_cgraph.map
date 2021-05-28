@@ -1,0 +1,6 @@
+<map id="FirmwareUpdateManager::handle_update_state" name="FirmwareUpdateManager::handle_update_state">
+<area shape="rect" id="node2" href="$da/d13/classFirmwareUpdateManager.html#ab1ea344478f388e60d097b112087364f" title="Function to handle calling our image update app to execute a command line that will be constructed fr..." alt="" coords="241,5,426,46"/>
+<area shape="rect" id="node3" href="$da/d13/classFirmwareUpdateManager.html#ac65ca579bba272730a195bf4f497963f" title="Function to read one line of input from the shell that is executing (as for Firmware Update)..." alt="" coords="475,93,661,134"/>
+<area shape="rect" id="node4" href="$da/d13/classFirmwareUpdateManager.html#af1aee9249f2cdb2fdfc910a68c7b45fb" title="Function to close out a Firmware Update shell session and clean up. " alt="" coords="241,122,426,163"/>
+<area shape="rect" id="node5" href="$da/d13/classFirmwareUpdateManager.html#acc4cf49fc53b53cbd5be76c3b1dc5d0b" title="Add the given device ID to the request_image_version_list, if it is not already present in this queue..." alt="" coords="241,188,426,244"/>
+</map>

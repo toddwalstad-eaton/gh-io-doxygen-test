@@ -1,0 +1,5 @@
+<map id="sig_handler" name="sig_handler">
+<area shape="rect" id="node2" href="$d2/da7/pcd__syslog_8h.html#a1c785d367124dad293d751e79bc2a6e2" title="Dump a stack trace (to stderr &amp; syslog) &amp; abort the process. " alt="" coords="152,31,237,57"/>
+<area shape="rect" id="node3" href="$da/d12/sig_8c.html#af0031e07e856ee188809c09d8db1b608" title="__cxa_demangle" alt="" coords="285,5,416,32"/>
+<area shape="rect" id="node4" href="$da/d12/sig_8c.html#a7d0dbe23f7ff2f756815eea61bea07b5" title="dump_procfile" alt="" coords="293,56,408,83"/>
+</map>

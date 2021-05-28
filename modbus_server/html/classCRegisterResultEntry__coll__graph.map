@@ -1,0 +1,8 @@
+<map id="CRegisterResultEntry" name="CRegisterResultEntry">
+<area shape="rect" id="node2" href="$classCParamRegisterMapping.html" title="A mapping between a CDS parameter and one or more Modbus registers. " alt="" coords="253,736,469,872"/>
+<area shape="rect" id="node3" href="$classCParamMapping.html" title="A mapping between a CDS parameter and Modbus data. " alt="" coords="119,477,284,672"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="277,307,363,384"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="251,6,389,98"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="397,307,555,384"/>
+<area shape="rect" id="node13" href="$classCAddressRange.html" title="A range of Modbus register / discrete addresses. " alt="" coords="592,743,741,865"/>
+</map>

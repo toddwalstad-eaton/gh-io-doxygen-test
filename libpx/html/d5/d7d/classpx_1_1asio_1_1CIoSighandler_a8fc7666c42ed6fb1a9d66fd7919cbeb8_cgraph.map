@@ -1,0 +1,6 @@
+<map id="px::asio::CIoSighandler::CIoSighandler" name="px::asio::CIoSighandler::CIoSighandler">
+<area shape="rect" id="node2" href="$d5/d7d/classpx_1_1asio_1_1CIoSighandler.html#a342acfca85c1ad209a8a4a35ff676d4c" title="Wait (asynchronously) for a new incoming signal. " alt="" coords="224,38,395,79"/>
+<area shape="rect" id="node3" href="$d5/d7d/classpx_1_1asio_1_1CIoSighandler.html#a7c0464c2ac8ac2b5647f46b3427c85d6" title="Handle the arrival of a signal for which we&#39;re registered. " alt="" coords="443,38,613,79"/>
+<area shape="rect" id="node4" href="$d6/d32/classpx_1_1asio_1_1CIoManager.html#af6248554b03928d3ed5cf423d301a2cc" title="Determine whether this manager has received quit signal. " alt="" coords="662,5,845,46"/>
+<area shape="rect" id="node5" href="$d6/d32/classpx_1_1asio_1_1CIoManager.html#a06400d88143d9a82cdf0705939e603fc" title="Close all actors and exit the main loop. " alt="" coords="674,70,833,111"/>
+</map>

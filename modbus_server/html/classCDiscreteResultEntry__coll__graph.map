@@ -1,0 +1,7 @@
+<map id="CDiscreteResultEntry" name="CDiscreteResultEntry">
+<area shape="rect" id="node2" href="$classCParamDiscreteMapping.html" title="A mapping between a CDS parameter and a Modbus discrete/coil. " alt="" coords="51,723,268,845"/>
+<area shape="rect" id="node3" href="$classCParamMapping.html" title="A mapping between a CDS parameter and Modbus data. " alt="" coords="77,477,243,672"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="277,307,363,384"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="251,6,389,98"/>
+<area shape="rect" id="node11" href="$classCAddressRange.html" title="A range of Modbus register / discrete addresses. " alt="" coords="391,723,540,845"/>
+</map>

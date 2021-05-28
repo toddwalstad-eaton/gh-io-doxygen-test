@@ -1,0 +1,5 @@
+<map id="CPtpdConfig::remove_space_at_begin" name="CPtpdConfig::remove_space_at_begin">
+<area shape="rect" id="node2" href="$d4/d70/classCPtpdConfig.html#a7e3766725f237b2220a3d9e37ece894c" title="Get key and value pair from line. " alt="" coords="221,5,382,46"/>
+<area shape="rect" id="node4" href="$d4/d70/classCPtpdConfig.html#a191a98fe4bec1756aa669805edfd01f5" title="Remove space from begin ans start of line. " alt="" coords="214,71,389,97"/>
+<area shape="rect" id="node3" href="$d4/d70/classCPtpdConfig.html#ab18fc5851e5bf695e5b765b0c6e474d0" title="Update config parameter in PTP config file with its latest updated value from PtpConfig OOB..." alt="" coords="437,34,592,75"/>
+</map>

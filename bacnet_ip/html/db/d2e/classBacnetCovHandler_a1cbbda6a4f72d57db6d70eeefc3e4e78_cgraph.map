@@ -1,0 +1,4 @@
+<map id="BacnetCovHandler::update_active_subscription" name="BacnetCovHandler::update_active_subscription">
+<area shape="rect" id="node2" href="$dd/d0a/classCBacnetObject.html#a82b1378d437074a5d0d4634911bd7ee7" title="A getter for the CDS ID of this object (eg, Channel or Device ID). " alt="" coords="295,5,441,46"/>
+<area shape="rect" id="node3" href="$dd/d0a/classCBacnetObject.html#a10c6a7ab5827a1de1ea3b1d97513a4f3" title="Getter for this object&#39;s Object_Name. " alt="" coords="251,71,485,97"/>
+</map>

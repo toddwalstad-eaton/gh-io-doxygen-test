@@ -1,0 +1,4 @@
+<map id="CIotAgentCore::execute" name="CIotAgentCore::execute">
+<area shape="rect" id="node2" href="$db/d77/classCIotAgentCore.html#afaba13eb7ddad9cc70fed077ca1c3dc7" title="Getter for shared_ptr to &quot;this&quot;. " alt="" coords="241,5,404,32"/>
+<area shape="rect" id="node3" href="$db/d77/classCIotAgentCore.html#ac442c2bf5353b4bacb916907277ff9d5" title="Gracefully shut down the main loop, if we ever exit the main() loop. " alt="" coords="229,56,416,83"/>
+</map>

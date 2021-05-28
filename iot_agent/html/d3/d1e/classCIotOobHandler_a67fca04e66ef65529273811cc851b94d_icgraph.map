@@ -1,0 +1,4 @@
+<map id="CIotOobHandler::update_iot_device_settings_oob" name="CIotOobHandler::update_iot_device_settings_oob">
+<area shape="rect" id="node2" href="$d3/d1e/classCIotOobHandler.html#a138e4cc11380371b13767ea454644960" title="Add a per&#45;device IoT setting value to our internal map and optionally write out the map to the IotDev..." alt="" coords="244,5,401,46"/>
+<area shape="rect" id="node3" href="$d3/d1e/classCIotOobHandler.html#ac824857ae3e7827d2361cd8ee6834fad" title="Remove a per&#45;device IoT Setting, or the whole device&#39;s settings, and optionally write out the updated..." alt="" coords="240,70,405,111"/>
+</map>

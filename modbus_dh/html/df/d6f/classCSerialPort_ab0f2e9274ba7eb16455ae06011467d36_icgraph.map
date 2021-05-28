@@ -1,0 +1,6 @@
+<map id="CSerialPort::update_device_map" name="CSerialPort::update_device_map">
+<area shape="rect" id="node2" href="$df/d6f/classCSerialPort.html#ab1ee4bdac0dc016bf4da24822f61c30e" title="Initialize this port&#39;s devices and their configuration, and add these to the port&#39;s device list..." alt="" coords="201,5,359,46"/>
+<area shape="rect" id="node3" href="$df/d6f/classCSerialPort.html#a55da93d83143f4fceee8005d7ee40408" title="The callback function that we provide to the CDS to handle updates to change_signature events..." alt="" coords="205,70,355,111"/>
+<area shape="rect" id="node5" href="$df/d6f/classCSerialPort.html#ab023ec8bb7d84c48b1505814074ec6af" title="Tell port to refresh it&#39;s devices to pick up additions and deletions. " alt="" coords="206,135,354,177"/>
+<area shape="rect" id="node4" href="$df/d6f/classCSerialPort.html#a801fb24a18b6d99785d4b3edbecb04e9" title="(Virtual) Factory method to create the port &quot;Connection&quot; Actor (eg, CSerialConnection). " alt="" coords="409,70,551,111"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="CIotDeviceClient::is_now_connected" name="CIotDeviceClient::is_now_connected">
+<area shape="rect" id="node2" href="$d4/dd8/classBlobUploadManager.html#aa7e833a162791d802ca935108e8b6df9" title="Initialize the blob upload manager with the catchup of pending blob uploads if any due to interruptio..." alt="" coords="229,12,411,39"/>
+<area shape="rect" id="node4" href="$db/db5/classTrendManager.html#a16082f6956668d1489a9e128a2807079" title="Check our set of sent trend msgs to see if any remain unacknowledged. " alt="" coords="205,63,435,105"/>
+<area shape="rect" id="node5" href="$db/db5/classTrendManager.html#a86298c2045b5cab49f9c32845d839f55" title="Getter for the awaiting_ack_timestamp, so we can see what the timestamp of the pending result is..." alt="" coords="217,129,423,170"/>
+<area shape="rect" id="node6" href="$db/db5/classTrendManager.html#a53ff5abcfdc0cb4e1c9937c347eb11ff" title="Getter for the catchup_thread_is_launched flag. " alt="" coords="225,194,415,235"/>
+<area shape="rect" id="node7" href="$d3/dbd/group__iot__threading.html#ga8f28359ff760cfd4baa8edfa4e8c31d9" title="Launches the thread that does the trend catchup operations. " alt="" coords="238,259,402,301"/>
+<area shape="rect" id="node3" href="$d4/dd8/classBlobUploadManager.html#a2fb71393c8eb30b47686d3666ff89548" title="Carry out the catchup for blob uploads Go through the OOBs present on the device for blob uploads and..." alt="" coords="506,5,667,46"/>
+<area shape="rect" id="node8" href="$db/db5/classTrendManager.html#a736299ff7bcdcd1d6f4baa36610c0c27" title="This is the task that does the trend catchup. " alt="" coords="483,267,690,293"/>
+<area shape="rect" id="node9" href="$db/db5/classTrendManager.html#a74f9c2322b80a2bc6906b94c1a580b29" title="Build the IOT_DATA_TREND_ITEM messages for all devices, using the latest, or requested time..." alt="" coords="739,259,909,301"/>
+</map>

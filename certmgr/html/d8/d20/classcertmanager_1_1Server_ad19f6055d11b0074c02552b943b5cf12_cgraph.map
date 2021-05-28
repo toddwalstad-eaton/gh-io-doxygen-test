@@ -1,0 +1,7 @@
+<map id="certmanager::Server::removeCsr" name="certmanager::Server::removeCsr">
+<area shape="rect" id="node2" href="$d6/d04/classcertmanager_1_1Common.html#af7f030c6e3288e9752c1f4359c7c5768" title="This function helps to remove the given file. " alt="" coords="241,5,413,46"/>
+<area shape="rect" id="node4" href="$dc/d2a/classcertmanager_1_1InternalCertificatesAccessor.html#a825e44c7cfb0477f36fd660883b7ba80" title="certmanager::InternalCertificates\lAccessor::csrPath" alt="" coords="208,70,445,111"/>
+<area shape="rect" id="node5" href="$dc/d2a/classcertmanager_1_1InternalCertificatesAccessor.html#ab4b995f2028258f683f84a9af8a44bf6" title="certmanager::InternalCertificates\lAccessor::csrNetworkPath" alt="" coords="208,135,445,177"/>
+<area shape="rect" id="node6" href="$dc/d2a/classcertmanager_1_1InternalCertificatesAccessor.html#a5eb0a76358d32ead9a3ee9f54310a541" title="certmanager::InternalCertificates\lAccessor::csrKeyPath" alt="" coords="208,201,445,242"/>
+<area shape="rect" id="node3" href="$dc/d10/classcertmanager_1_1Log.html#a56c9c1e70c82c11852e0c32d9967a5a1" title="Write a log inside syslog daemon if the syslog is open. " alt="" coords="494,12,671,39"/>
+</map>

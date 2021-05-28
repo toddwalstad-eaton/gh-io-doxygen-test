@@ -1,0 +1,6 @@
+<map id="CBacnetDeviceObject::initialize_device_objects" name="CBacnetDeviceObject::initialize_device_objects">
+<area shape="rect" id="node2" href="$d9/dd7/classCBacnetDeviceObject.html#a0ea664a66e6493855c6a090c50c11815" title="Implementation of the Virtual function to lookup a field of this px::CDevice by name. " alt="" coords="217,5,431,46"/>
+<area shape="rect" id="node3" href="$db/d33/classCBacnetPointObject.html#a7334fea712036b4ca9610d4f0a0d73e2" title="Static factory function to create a Point Object instance (not from Channel Settings). " alt="" coords="249,70,399,111"/>
+<area shape="rect" id="node4" href="$d9/dd7/classCBacnetDeviceObject.html#ad1f1c7bc9ada00a9ec4fb2fc492ae627" title="CBacnetDeviceObject\l::get_present_value_type" alt="" coords="231,135,417,177"/>
+<area shape="rect" id="node5" href="$d9/dd7/classCBacnetDeviceObject.html#a4bcc1d94e04b0330108df076beb4c46a" title="Gets this Device&#39;s CDS ID. " alt="" coords="233,201,415,228"/>
+</map>

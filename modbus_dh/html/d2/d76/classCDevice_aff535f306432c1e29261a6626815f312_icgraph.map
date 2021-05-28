@@ -1,0 +1,5 @@
+<map id="CDevice::inc_subdevice_update_count" name="CDevice::inc_subdevice_update_count">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#a7a9d9f480e1d7c0ec102459c14a8076d" title="Use the subdevices parameters in the parsed device EDS, setup the subdevices for this device..." alt="" coords="235,5,375,46"/>
+<area shape="rect" id="node3" href="$d8/d41/classCDeviceUtil.html#a520e89521c939d4a3623c1e8bb024ac6" title="CDeviceUtil::handle\l_special_param" alt="" coords="230,70,381,111"/>
+<area shape="rect" id="node4" href="$d9/d07/classCInternalParam.html#afc41455973db2d179ef19819c1f409ea" title="Update this Channel or Parameter now from its equation or xBlock source data. " alt="" coords="430,70,605,111"/>
+</map>

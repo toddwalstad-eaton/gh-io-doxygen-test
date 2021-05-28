@@ -1,0 +1,4 @@
+<map id="CSessionManager::lookup_session" name="CSessionManager::lookup_session">
+<area shape="rect" id="node2" href="$d2/d5b/classCSessionManager.html#aadbedbf4badaeabd9328ad904a515acd" title="Remove (close) one session, indicated by its Session ID. " alt="" coords="243,5,437,46"/>
+<area shape="rect" id="node3" href="$d2/d5b/classCSessionManager.html#a995955457c3d8962c76043d931c349a3" title="Remove all subscriptions of the protocol handler associated to the session, and close the session..." alt="" coords="251,70,429,111"/>
+</map>

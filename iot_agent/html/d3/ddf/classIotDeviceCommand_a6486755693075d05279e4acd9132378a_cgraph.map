@@ -1,0 +1,6 @@
+<map id="IotDeviceCommand::handle_img_up_status" name="IotDeviceCommand::handle_img_up_status">
+<area shape="rect" id="node2" href="$d3/ddf/classIotDeviceCommand.html#ae8c7cfeb3d43a8e68265da1193fb1e45" title="Gets the current command&#39;s UUID text. " alt="" coords="531,5,711,46"/>
+<area shape="rect" id="node3" href="$d3/ddf/classIotDeviceCommand.html#a99e493bf3aea14075c8c7493259d62fd" title="Complete the current Firmware Update process, logging a message, and resetting all of the parameters..." alt="" coords="257,69,477,110"/>
+<area shape="rect" id="node4" href="$d3/ddf/classIotDeviceCommand.html#a7de4e99b99527f750888dc26c82244e5" title="Getter function to get the named parameter from the current _cmd_params or else (use_retained = true)..." alt="" coords="531,70,711,111"/>
+<area shape="rect" id="node5" href="$d3/ddf/classIotDeviceCommand.html#a2f0585078794cd2bb731b59c4f9db28c" title="Called when we have completed the command (unrecoverable failure or all devices done) to clear all of..." alt="" coords="526,135,717,177"/>
+</map>

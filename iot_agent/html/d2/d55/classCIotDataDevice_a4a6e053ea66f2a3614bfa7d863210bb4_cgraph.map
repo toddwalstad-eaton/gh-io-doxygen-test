@@ -1,0 +1,5 @@
+<map id="CIotDataDevice::add_iot_subdevice" name="CIotDataDevice::add_iot_subdevice">
+<area shape="rect" id="node2" href="$d2/d55/classCIotDataDevice.html#a4cc70f77799174928c80ffad8751f06f" title="Initialize, and return a handle to the subdevices list. " alt="" coords="211,5,384,46"/>
+<area shape="rect" id="node3" href="$d2/d55/classCIotDataDevice.html#a6772544d6480623c4ebafaae945c7d02" title="Clear subdevices structure, recursively. " alt="" coords="433,5,597,46"/>
+<area shape="rect" id="node4" href="$d2/d55/classCIotDataDevice.html#aaa67ecd4120c2f39322c8c58685ab9bf" title="Recursively clear the given subdevice list and any child device lists. " alt="" coords="645,5,819,46"/>
+</map>

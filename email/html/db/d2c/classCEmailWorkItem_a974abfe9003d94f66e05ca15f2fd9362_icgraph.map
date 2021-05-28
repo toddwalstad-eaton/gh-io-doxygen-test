@@ -1,0 +1,5 @@
+<map id="CEmailWorkItem::id" name="CEmailWorkItem::id">
+<area shape="rect" id="node2" href="$db/d2c/classCEmailWorkItem.html#ac4bd595311b9a01a210c7d11cfcc65d6" title="set_id " alt="" coords="208,5,387,32"/>
+<area shape="rect" id="node3" href="$db/d2c/classCEmailWorkItem.html#a12b3c8df77c5d53a98908d00711de5ae" title="set_alarm_attachment_id " alt="" coords="213,57,381,98"/>
+<area shape="rect" id="node4" href="$db/d2c/classCEmailWorkItem.html#aadc9914f3f32e170b0b4c132e924be07" title="set_device_attachment_id " alt="" coords="206,122,389,163"/>
+</map>

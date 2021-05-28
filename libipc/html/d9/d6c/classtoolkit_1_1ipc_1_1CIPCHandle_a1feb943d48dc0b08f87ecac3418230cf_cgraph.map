@@ -1,0 +1,6 @@
+<map id="toolkit::ipc::CIPCHandle::connect" name="toolkit::ipc::CIPCHandle::connect">
+<area shape="rect" id="node2" href="$d6/df1/classtoolkit_1_1ipc_1_1CIPCConnector.html#a80e46f7b6188aab4369e0be2f0a84bab" title="Connect to the remote [listening] process. " alt="" coords="229,5,424,46"/>
+<area shape="rect" id="node3" href="$d6/df1/classtoolkit_1_1ipc_1_1CIPCConnector.html#aa066ae09df116d87bedef68c090a9b2b" title="Initialize a new IPC handle using the already&#45;connected socket. " alt="" coords="229,70,424,111"/>
+<area shape="rect" id="node4" href="$d6/df1/classtoolkit_1_1ipc_1_1CIPCConnector.html#ac3607c2b871fc7cbd301c1e1b2f5ddf6" title="Allocate a shared memory segment. " alt="" coords="472,37,667,78"/>
+<area shape="rect" id="node5" href="$d6/df1/classtoolkit_1_1ipc_1_1CIPCConnector.html#a06fdc7f354b5fd80b571424bed2534c4" title="Allocate a new eventfd() file descriptor. " alt="" coords="472,102,667,143"/>
+</map>

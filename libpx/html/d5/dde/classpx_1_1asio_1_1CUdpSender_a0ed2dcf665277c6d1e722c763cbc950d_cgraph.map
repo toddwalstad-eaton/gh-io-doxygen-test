@@ -1,0 +1,4 @@
+<map id="px::asio::CUdpSender::update_local_port" name="px::asio::CUdpSender::update_local_port">
+<area shape="rect" id="node2" href="$d5/dde/classpx_1_1asio_1_1CUdpSender.html#a168c2a94ca97185f1aec04e4fe83535a" title="Create or reset our sending socket, at _port. " alt="" coords="217,5,378,46"/>
+<area shape="rect" id="node3" href="$dd/d60/classpx_1_1asio_1_1CIoActor.html#aad90c314c7d733326fe1f0d88e0bede2" title="Get the I/O service associated with the owner of this actor. " alt="" coords="427,5,563,46"/>
+</map>

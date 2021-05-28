@@ -1,0 +1,23 @@
+<map id="CModbusConfig::build_dynamic_peds" name="CModbusConfig::build_dynamic_peds">
+<area shape="rect" id="node2" href="$classCModbusConfig.html#a580bb32ecd1e66edd3de8a4b86826948" title="Dynamically create PEDs files for existing devices and save to the &quot;/tmp/peds&quot; directory. " alt="" coords="216,325,379,366"/>
+<area shape="rect" id="node3" href="$classCModbusUtil.html#a050b83c8a08e3d3b7e501a9d16ca3504" title="Generate dynamic PEDs file name based on Device ID and canonical name. " alt="" coords="427,9,623,50"/>
+<area shape="rect" id="node5" href="$classCModbusTcpUnitSettings.html#ab0f681341450751f8fb3594e118621d4" title="get the currently configured PEDS file " alt="" coords="707,70,890,111"/>
+<area shape="rect" id="node6" href="$classCModbusTcpUnitSettings.html#a97db5c522bb88de65d8eb06cf0a6ec60" title="set the currently configured PEDS file " alt="" coords="434,194,617,235"/>
+<area shape="rect" id="node7" href="$classCModbusTcpUnitSettings.html#ad34ece43cbdb339c7101584622b3495c" title="set the PEDS name " alt="" coords="434,259,617,301"/>
+<area shape="rect" id="node8" href="$classCModbusTcpUnitSettings.html#a75040535647df25bea5080cf178adc3d" title="set the PEDS description " alt="" coords="434,325,617,366"/>
+<area shape="rect" id="node9" href="$classCModbusConfig.html#a1f48c6e00c2ca0c81d3a234d0059c12c" title="Dynamically create PEDs files for existing devices and save to the &quot;/tmp/peds&quot; directory. " alt="" coords="440,390,611,431"/>
+<area shape="rect" id="node15" href="$classCModbusConfig.html#a4bc8d3103b1e3823f21f5df61f81ff5b" title="Get a unique unit id for a new device. " alt="" coords="446,455,605,497"/>
+<area shape="rect" id="node16" href="$classCModbusConfig.html#a9165e895a10070aed0ca2c81193575c5" title="Updates (migrate) CDS OOB and TCP Unit Settings for Dynamic mappings if the OOB is missing the map_li..." alt="" coords="436,129,615,170"/>
+<area shape="rect" id="node19" href="$classCModbusTcpUnitSettings.html#a5b2bd897f239d091dda13ab4ffcf257e" title="Subscribe to device events. " alt="" coords="434,521,617,562"/>
+<area shape="rect" id="node21" href="$classCModbusTcpUnitSettings.html#a977d5f3075c4aaca28e43f08f0b27d0e" title="Determine whether this class was initialized without errors. " alt="" coords="434,586,617,627"/>
+<area shape="rect" id="node22" href="$classCModbusTcpUnitSettings.html#a7590e1667a0996378d593145a2923332" title="Set the class initialization state to valid;. " alt="" coords="434,651,617,693"/>
+<area shape="rect" id="node4" href="$classCModbusUtil.html#a308d6e5bd7976a54536f6a19c56599ea" title="Replace any forbidden filename charaters in a string. " alt="" coords="700,5,897,46"/>
+<area shape="rect" id="node10" href="$classCModbusUtil.html#a0e88aa5cef4d314c3101bdb11e13a379" title="Check if a given file exists or not. " alt="" coords="713,325,884,366"/>
+<area shape="rect" id="node11" href="$classCEfficient.html#a385322b9f1c3ab2ac5b713b62970f393" title="Create PEDs file from device attributes, channels, and commands. " alt="" coords="725,390,873,431"/>
+<area shape="rect" id="node14" href="$classCModbusUtil.html#a810fa100a70e436cbe20cbdc3305933d" title="Delete the specified file. " alt="" coords="709,456,889,483"/>
+<area shape="rect" id="node12" href="$classCModbusUtil.html#a6af1e1d43d44e906f140f6711ae5c582" title="Get register count for a data&#45;type. " alt="" coords="974,357,1165,398"/>
+<area shape="rect" id="node13" href="$classCModbusCdsHandle.html#a07c1b743de512abf3d0ac5abca2bc0d3" title="Retrieve list of supported commands for a particular device. " alt="" coords="980,422,1159,463"/>
+<area shape="rect" id="node17" href="$classCModbusTcpUnitSettings.html#ab9a43eb513e7eac31743471d4834a5d4" title="get the subdevice PEDS file (if available) " alt="" coords="707,135,890,177"/>
+<area shape="rect" id="node18" href="$classCModbusCdsHandle.html#a3436a86ba0d8a2a028c5039bddce14e1" title="Utility function to set the UNITID_MAP/MODBUS_SERVER/&lt;id&gt; OOB object. " alt="" coords="693,201,904,228"/>
+<area shape="rect" id="node20" href="$classCModbusCdsHandle.html#ae6b1878d7d3a92d95ff66135a7766367" title="utility function to subscribe to a particular oob object. " alt="" coords="673,528,925,555"/>
+</map>

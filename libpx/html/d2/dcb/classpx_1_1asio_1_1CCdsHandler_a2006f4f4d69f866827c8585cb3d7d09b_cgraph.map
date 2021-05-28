@@ -1,0 +1,8 @@
+<map id="px::asio::CCdsHandler::process_device_data" name="px::asio::CCdsHandler::process_device_data">
+<area shape="rect" id="node2" href="$d2/dcb/classpx_1_1asio_1_1CCdsHandler.html#a5e678922f96c39b1076791cf66354c93" title="Add the given message type and Device ID to our queue of messages to be processed, unless it is already in that queue. " alt="" coords="222,5,410,46"/>
+<area shape="rect" id="node3" href="$d6/d5b/classpx_1_1CDevice.html#ab836878b0d7f55ad3d16b937994f3df0" title="Getter for device ID. " alt="" coords="484,72,604,99"/>
+<area shape="rect" id="node4" href="$da/d67/classpx_1_1asio_1_1CCdsDevice.html#af01372623d442be1a7edde160653cb4e" title="Is the Device held by this container valid &#45; enabled and communicating? " alt="" coords="237,122,395,163"/>
+<area shape="rect" id="node5" href="$dd/d57/classpx_1_1CBitset.html#a990ea0e6f3eb03b789d1cd58c74b38f2" title="Get the value of a flag. " alt="" coords="483,127,605,153"/>
+<area shape="rect" id="node6" href="$d6/d5b/classpx_1_1CDevice.html#abfc55a39e8c96431ef6588a56869ea71" title="Return the device&#39;s state, the union of bits set by inherited_state and own_state. " alt="" coords="459,177,629,204"/>
+<area shape="rect" id="node7" href="$dd/d57/classpx_1_1CBitset.html#a8d97b50a255e17f20721d29a9d3d2d73" title="Set any flag that is set in the given &quot;mask&quot; Bitset. " alt="" coords="678,177,842,204"/>
+</map>

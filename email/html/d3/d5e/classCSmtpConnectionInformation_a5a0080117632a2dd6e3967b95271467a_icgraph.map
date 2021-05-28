@@ -1,0 +1,9 @@
+<map id="CSmtpConnectionInformation::user" name="CSmtpConnectionInformation::user">
+<area shape="rect" id="node2" href="$de/d91/classCEmailClient.html#ac6e2bf7fccb29d0d40a08df455f3ca12" title="Constructor for Email SMTP client (test requests) " alt="" coords="270,5,469,32"/>
+<area shape="rect" id="node3" href="$de/d91/classCEmailClient.html#adbec79aed6eac14beffa74df0f40f4d0" title="test_smtp_connection " alt="" coords="299,57,439,98"/>
+<area shape="rect" id="node8" href="$de/d91/classCEmailClient.html#abac757989f0ee907899c19d097aa9fd9" title="send&#45;test_email " alt="" coords="297,122,442,163"/>
+<area shape="rect" id="node4" href="$d3/d95/classCEmailServer.html#ad278fabab0fef49cbcd71a6469170b82" title="Invokes test method based on command line arguments. " alt="" coords="517,90,685,131"/>
+<area shape="rect" id="node5" href="$d3/d95/classCEmailServer.html#ad7f05d9102e6537940a221071d958caf" title="Execute the server core&#39;s main loop. " alt="" coords="733,97,904,124"/>
+<area shape="rect" id="node6" href="$df/d0a/main_8cpp.html#af5291a3e029627e530895b1c9f481dcf" title="&quot;Real&quot; main, used by the server code " alt="" coords="952,97,1035,124"/>
+<area shape="rect" id="node7" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Program entry point. " alt="" coords="1083,97,1138,124"/>
+</map>

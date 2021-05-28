@@ -1,0 +1,5 @@
+<map id="rapidxml::xml_document&lt; Ch &gt;" name="rapidxml::xml_document&lt; Ch &gt;">
+<area shape="rect" id="node2" href="$de/d82/classrapidxml_1_1xml__node.html" title="Class representing a node of XML document. " alt="" coords="5,353,157,709"/>
+<area shape="rect" id="node3" href="$d4/d48/classrapidxml_1_1xml__base.html" title="Base class for xml_node and xml_attribute implementing common functions: name(), name_size(), value(), value_size() and parent(). " alt="" coords="6,6,156,303"/>
+<area shape="rect" id="node4" href="$d1/d46/classrapidxml_1_1memory__pool.html" title="This class is used by the parser to create new nodes and attributes, without overheads of dynamic mem..." alt="" coords="183,367,361,694"/>
+</map>

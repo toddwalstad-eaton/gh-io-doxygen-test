@@ -1,0 +1,7 @@
+<map id="CDataAccumulator::count" name="CDataAccumulator::count">
+<area shape="rect" id="node2" href="$dd/dc0/classCDataAccumulator.html#a97ebb17b28ea4f53886274df1d4f1707" title="Get the minimum value. " alt="" coords="245,20,422,47"/>
+<area shape="rect" id="node6" href="$dd/dc0/classCDataAccumulator.html#a2353e551b68673375ede6f09fa497663" title="Get the maximum value. " alt="" coords="243,71,424,97"/>
+<area shape="rect" id="node3" href="$de/d8a/classCDataBlock.html#a2e5254ee57897aac08109674fc2545bf" title="Sets the time when this block was last updated. " alt="" coords="472,38,629,79"/>
+<area shape="rect" id="node4" href="$df/d62/classCModbusCommandBlock.html#a894f44268936cb36f5f1886493d1be54" title="Callback invoked when this DataBlock&#39;s messages have been completed. " alt="" coords="685,5,869,46"/>
+<area shape="rect" id="node5" href="$de/df8/classCModbusDataBlock.html#a6e4d8179495b23028debcc5725aa557a" title="Callback invoked when this DataBlock&#39;s messages have been completed. " alt="" coords="677,70,877,111"/>
+</map>

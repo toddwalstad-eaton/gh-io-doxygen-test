@@ -1,0 +1,8 @@
+<map id="CSyntheticChannels::initialize_channels" name="CSyntheticChannels::initialize_channels">
+<area shape="rect" id="node2" href="$d4/d5b/classCSyntheticChannels.html#a555c09281197a9783dad9fd2a76ee282" title="Attempt to get the channels on the parent device. " alt="" coords="226,5,385,46"/>
+<area shape="rect" id="node3" href="$d4/d5b/classCSyntheticChannels.html#a76733195744d519795902e4c154ca3d4" title="Create the given channels in the CDS, using their channel data, and relying on the MCL to fill in the..." alt="" coords="229,70,381,111"/>
+<area shape="rect" id="node4" href="$d4/d5b/classCSyntheticChannels.html#acac2a0ae99f2b598087ef13baf1fd3f2" title="Write the channel values for all channels into the CDS. " alt="" coords="226,135,385,177"/>
+<area shape="rect" id="node5" href="$d4/d5b/classCSyntheticChannels.html#aeeafca544ae6d54b6474b4244b8120f5" title="Set the channel state for all channels to reflect comm state. " alt="" coords="228,201,383,242"/>
+<area shape="rect" id="node6" href="$d4/d5b/classCSyntheticChannels.html#a5d518f56cf276b73a3762ef3cbac4e46" title="Subscribe channels for data validation. " alt="" coords="205,266,405,307"/>
+<area shape="rect" id="node7" href="$d4/d5b/classCSyntheticChannels.html#ab7134cab71b009e7a3a8518d67a3ff53" title="Register for channel value data validation. " alt="" coords="454,266,642,307"/>
+</map>

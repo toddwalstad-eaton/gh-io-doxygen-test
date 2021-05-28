@@ -1,0 +1,6 @@
+<map id="CCommand::get_rx_timeout" name="CCommand::get_rx_timeout">
+<area shape="rect" id="node2" href="$d7/d46/classCModbusDevice.html#a302fad9aa3afb0faad6d32998ea03f37" title="Call this function to create a Block for the named command that may be issued to this Device..." alt="" coords="259,70,434,111"/>
+<area shape="rect" id="node3" href="$d7/d46/classCModbusDevice.html#a53f23722e476f1bd17a33a2ddcadf862" title="Call this function to create and execute the named command for this Device. " alt="" coords="501,5,688,46"/>
+<area shape="rect" id="node4" href="$dc/deb/classCModbusSerialDevice.html#a55303b3b178117fff9dfef0fd005b9a7" title="Creates the Modbus device waveform command block and messages and and writes them to the transaction_..." alt="" coords="483,70,707,111"/>
+<area shape="rect" id="node5" href="$dc/deb/classCModbusSerialDevice.html#a38d14199a95a6b96e4594c878f62a2a0" title="Creates the next command in the Modbus device multipart command transaction and writes it to the tran..." alt="" coords="489,136,700,192"/>
+</map>

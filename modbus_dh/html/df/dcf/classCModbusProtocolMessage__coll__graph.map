@@ -1,0 +1,5 @@
+<map id="CModbusProtocolMessage" name="CModbusProtocolMessage">
+<area shape="rect" id="node2" href="$da/d56/classCProtocolMessage.html" title="Base class for a non&#45;cloned (singleton) protocol&#45;based IO message. " alt="" coords="75,641,299,938"/>
+<area shape="rect" id="node3" href="$dc/ddf/classCIoMessage.html" title="I/O Message base class. " alt="" coords="5,147,229,576"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="273,5,431,83"/>
+</map>

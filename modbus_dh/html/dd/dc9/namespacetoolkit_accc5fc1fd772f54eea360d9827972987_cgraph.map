@@ -1,0 +1,6 @@
+<map id="toolkit::ExtTypeToNewValue" name="toolkit::ExtTypeToNewValue">
+<area shape="rect" id="node2" href="$dd/dc9/namespacetoolkit.html#a31903467dde5cc0bd074c675a7978b3e" title="Convert into existing px::CValue using its existing datatype. " alt="" coords="256,56,429,83"/>
+<area shape="rect" id="node3" href="$dd/dc9/namespacetoolkit.html#a5209d56d57f1468826b81741efc1b525" title="Return the size of an External Data Type. " alt="" coords="497,5,645,32"/>
+<area shape="rect" id="node4" href="$dd/dc9/namespacetoolkit.html#aa5d8ccc56a73cb3cbf1fccabcf63e0b8" title="toolkit::float_from_bits" alt="" coords="485,56,656,83"/>
+<area shape="rect" id="node5" href="$dd/dc9/namespacetoolkit.html#a98f419b827ee64e13faa881b0040368e" title="toolkit::double_from_bits" alt="" coords="478,107,663,133"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="certmgr/common/src/ExternalCertificateAccessor.cpp" name="certmgr/common/src/ExternalCertificateAccessor.cpp">
+<area shape="rect" id="node2" href="$dd/d34/ExternalCertificatesAccessor_8hpp.html" title="Extrenal Certificate files accessor which help to get the path of an external certificate and his rel..." alt="" coords="149,96,383,123"/>
+<area shape="rect" id="node4" href="$df/d56/ServiceConfiguration_8hpp.html" title="Representation of the configuration for a service for certificate managment. " alt="" coords="173,171,358,197"/>
+<area shape="rect" id="node8" href="$d5/d34/Types_8hpp.html" title="Types certificate managment. " alt="" coords="409,171,495,197"/>
+<area shape="rect" id="node5" href="$d3/d52/DaemonConfiguration_8hpp.html" title="Representation of the configuration for the Daemon certificate management (singleton) ..." alt="" coords="23,245,215,272"/>
+</map>

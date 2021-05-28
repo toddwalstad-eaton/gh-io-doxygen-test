@@ -1,0 +1,3 @@
+<map id="CIotChannel::get_iot_channel_realtime_struct" name="CIotChannel::get_iot_channel_realtime_struct">
+<area shape="rect" id="node2" href="$df/d12/classCIotChannel.html#ad703abe33f454bf8398bd57a310791c8" title="Gets a pointer to either the IOT_DATA_CHANNEL_REALTIMES_ITEM member of this instance, or else the IOT_DATA_TREND_ITEM member with its &quot;actual&quot; value, after it has been unconditionally updated with the latest channel present value and timestamp value. " alt="" coords="241,5,487,46"/>
+</map>

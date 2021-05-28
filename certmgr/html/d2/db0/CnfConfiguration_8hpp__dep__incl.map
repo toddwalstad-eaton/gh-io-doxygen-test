@@ -1,0 +1,12 @@
+<map id="certmgr/certmanagd/inc/CnfConfiguration.hpp" name="certmgr/certmanagd/inc/CnfConfiguration.hpp">
+<area shape="rect" id="node2" href="$d9/d64/CnfFileConfiguration_8hpp.html" title="Representation of the cnf file configuration for a service for certificate managment. " alt="" coords="68,97,276,138"/>
+<area shape="rect" id="node5" href="$d6/dc5/CnfHookConfiguration_8hpp.html" title="Representation of the cnf file configuration for a service for certificate managment. " alt="" coords="351,97,571,138"/>
+<area shape="rect" id="node7" href="$de/d3d/Server_8hpp.html" title="Server representation for certificate managment. " alt="" coords="596,97,751,138"/>
+<area shape="rect" id="node11" href="$d1/d3c/CnfConfiguration_8cpp.html" title="certmgr/certmanagd\l/src/CnfConfiguration.cpp" alt="" coords="775,97,960,138"/>
+<area shape="rect" id="node4" href="$db/dd9/Server_8cpp.html" title="certmgr/certmanagd\l/src/Server.cpp" alt="" coords="236,187,391,229"/>
+<area shape="rect" id="node3" href="$d5/d6a/CnfFileConfiguration_8cpp.html" title="certmgr/certmanagd\l/src/CnfFileConfiguration.cpp" alt="" coords="5,187,211,229"/>
+<area shape="rect" id="node6" href="$d9/dd8/CnfHookConfiguration_8cpp.html" title="certmgr/certmanagd\l/src/CnfHookConfiguration.cpp" alt="" coords="415,187,633,229"/>
+<area shape="rect" id="node8" href="$d8/d3a/Service_8hpp.html" title="Representation of a service for certificate managment. " alt="" coords="657,187,812,229"/>
+<area shape="rect" id="node9" href="$d3/d3b/certmanagd_8cpp.html" title="certmgr/certmanagd\l/src/certmanagd.cpp" alt="" coords="568,278,723,319"/>
+<area shape="rect" id="node10" href="$d2/dc4/Service_8cpp.html" title="certmgr/certmanagd\l/src/Service.cpp" alt="" coords="747,278,901,319"/>
+</map>

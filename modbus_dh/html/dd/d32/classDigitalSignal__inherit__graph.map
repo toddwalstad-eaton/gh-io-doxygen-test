@@ -1,0 +1,3 @@
+<map id="DigitalSignal" name="DigitalSignal">
+<area shape="rect" id="node2" href="$d4/dc9/classCSignal.html" title="{CSignal\n|# m_nIndex\l# m_pPoints\l# m_nSize\l# m_pId\l# m_pPhase\l# m_pCcbm\l# m_isDigital\l|+ CSignal()\l+ ~CSignal()\l+ SetIndex()\l+ GetSize()\l+ SetSize()\l+ SetId()\l+ SetPhase()\l+ SetCcbm()\l+ IsDigital()\l+ GetPoints()\l+ ToString()\l}" alt="" coords="25,5,135,317"/>
+</map>

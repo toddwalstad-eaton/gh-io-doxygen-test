@@ -1,0 +1,11 @@
+<map id="CModbusConfig::update_oob_map_list" name="CModbusConfig::update_oob_map_list">
+<area shape="rect" id="node2" href="$classCModbusTcpUnitSettings.html#acd38f3f0514b4c8fc591a1192dcbafab" title="get the EDS file name for this device as known by the cds " alt="" coords="243,5,426,46"/>
+<area shape="rect" id="node3" href="$classCModbusTcpUnitSettings.html#ab0f681341450751f8fb3594e118621d4" title="get the currently configured PEDS file " alt="" coords="243,70,426,111"/>
+<area shape="rect" id="node4" href="$classCModbusTcpUnitSettings.html#ab9a43eb513e7eac31743471d4834a5d4" title="get the subdevice PEDS file (if available) " alt="" coords="243,135,426,177"/>
+<area shape="rect" id="node5" href="$classCModbusCdsHandle.html#abcbc77e743d206b8495b2bc737431585" title="Utility function to read a full OOB object from the CDS, given a Device ID. " alt="" coords="229,201,440,228"/>
+<area shape="rect" id="node6" href="$classCModbusConfig.html#a1c04ca993eddb1a7dca5c5156b8b410b" title="Helper function to get the global PEDs file associated with an EDS name. " alt="" coords="259,253,410,294"/>
+<area shape="rect" id="node7" href="$classCModbusTcpUnitSettings.html#ad34ece43cbdb339c7101584622b3495c" title="set the PEDS name " alt="" coords="243,318,426,359"/>
+<area shape="rect" id="node8" href="$classCModbusTcpUnitSettings.html#a4e85225830a7abe85cd8bca1cb8add0b" title="set the subdevice PEDS file " alt="" coords="241,383,429,425"/>
+<area shape="rect" id="node9" href="$classCModbusConfig.html#ae37a0b6cf610cce5533a43c98eeda2df" title="Get the subdevice PEDs file associated with a device EDS file name. " alt="" coords="255,449,415,490"/>
+<area shape="rect" id="node10" href="$classCModbusCdsHandle.html#a3436a86ba0d8a2a028c5039bddce14e1" title="Utility function to set the UNITID_MAP/MODBUS_SERVER/&lt;id&gt; OOB object. " alt="" coords="229,515,440,541"/>
+</map>

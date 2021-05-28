@@ -1,0 +1,6 @@
+<map id="CDevice::add_waveform_channel" name="CDevice::add_waveform_channel">
+<area shape="rect" id="node2" href="$df/d2c/classCParam.html#a80ed5610f4c057d10ee83a6348182576" title="Getter for this parameter&#39;s ID. " alt="" coords="279,5,371,32"/>
+<area shape="rect" id="node3" href="$d6/d13/classCChannelService.html#abd581f8e38a64ed7aa4ed1cd4b889163" title="Member Functions. " alt="" coords="235,57,416,98"/>
+<area shape="rect" id="node5" href="$d5/df0/structeds__parse__err.html#ae7895a7c942bf2450a2670c642407dca" title="Implement the virtual function to provide the error&#39;s text. " alt="" coords="249,123,402,149"/>
+<area shape="rect" id="node4" href="$d6/d13/classCChannelService.html#a2f6053f45b832c36a0e29815e19e670b" title="Merge Channel Settings Set any blank channel settings to those provided by defaults. " alt="" coords="465,57,647,98"/>
+</map>

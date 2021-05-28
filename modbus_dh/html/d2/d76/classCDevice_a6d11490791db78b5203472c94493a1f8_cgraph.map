@@ -1,0 +1,4 @@
+<map id="CDevice::create_writable_channel_command" name="CDevice::create_writable_channel_command">
+<area shape="rect" id="node2" href="$d4/dab/classCChannel.html#a8ff69ef5bbaf01d78772840b6e659c8c" title="Getter for the canonical channel name. " alt="" coords="240,5,467,32"/>
+<area shape="rect" id="node3" href="$d8/dc8/classCIdAllocator.html#a0400d8deb5703217316fe605cd1a1657" title="Allocate a new internal unique ID. " alt="" coords="288,56,419,83"/>
+</map>

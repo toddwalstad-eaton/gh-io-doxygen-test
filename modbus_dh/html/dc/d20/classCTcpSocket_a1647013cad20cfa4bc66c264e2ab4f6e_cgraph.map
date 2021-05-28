@@ -1,0 +1,14 @@
+<map id="CTcpSocket::CTcpSocket" name="CTcpSocket::CTcpSocket">
+<area shape="rect" id="node2" href="$dc/d20/classCTcpSocket.html#a0223c463d287d33776da4abbd684f838" title="Starts socket connection attempt. " alt="" coords="232,159,387,185"/>
+<area shape="rect" id="node3" href="$db/daf/classCModbusUtil.html#ab70e5afd58d230097aa7888857760859" title="Check if the IP address is in range of the current subnet address and mask values. " alt="" coords="442,5,585,46"/>
+<area shape="rect" id="node5" href="$dc/d20/classCTcpSocket.html#ab25f689ad9e4dc016dd644cfb4c2bcea" title="Closes current connection and starts the reconnect timer. " alt="" coords="667,132,805,159"/>
+<area shape="rect" id="node10" href="$db/daf/classCModbusUtil.html#a9822f9cfe0ef1262669014e539829e02" title="Check if a IPv4 address responds to ICMP ping requests. " alt="" coords="443,188,583,215"/>
+<area shape="rect" id="node12" href="$dc/d20/classCTcpSocket.html#aafc5304fcaaf7af4f515a8816719af51" title="Error handler if the TCP connection attempt fails. " alt="" coords="435,122,592,163"/>
+<area shape="rect" id="node13" href="$dc/d20/classCTcpSocket.html#a966746ad151bca0dfd76cd02003fb65c" title="Handler if the TCP connection attempt succeeds. " alt="" coords="641,239,831,265"/>
+<area shape="rect" id="node4" href="$dd/dcc/modbus__util_8cpp.html#a27ba4ed6af53162b985da5e4a1ad8b4c" title="ip_to_uint" alt="" coords="693,12,779,39"/>
+<area shape="rect" id="node6" href="$dc/d20/classCTcpSocket.html#a1c987a97ba155a366f36bb5f707d3fe0" title="Cancels timer. " alt="" coords="883,237,1071,264"/>
+<area shape="rect" id="node7" href="$dc/d20/classCTcpSocket.html#a7ea7ac59fef0e0418892c8415f08f609" title="Close the socket. " alt="" coords="1339,183,1477,209"/>
+<area shape="rect" id="node8" href="$dc/d20/classCTcpSocket.html#a6a3846e059bfdb16a5b186892a8d6b23" title="Handler for when the reconnect timer times out. " alt="" coords="880,183,1075,209"/>
+<area shape="rect" id="node9" href="$dc/d20/classCTcpSocket.html#aaf184fb0e609403f03d41b98c17d5f51" title="Start socket reconnection attempt. " alt="" coords="1123,233,1291,260"/>
+<area shape="rect" id="node11" href="$dd/dcc/modbus__util_8cpp.html#af228456a8adb6a945218f99539ce1318" title="in_cksum" alt="" coords="694,188,778,215"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CIotDeviceClient::build_tree_structure" name="CIotDeviceClient::build_tree_structure">
+<area shape="rect" id="node2" href="$dd/d68/classCIotDeviceClient.html#a88f14cdca116cb11cdb757027f16edfd" title="Build the DEVICE_TREE structure and publish it to the IoT Hub. " alt="" coords="224,5,395,46"/>
+<area shape="rect" id="node3" href="$dd/d68/classCIotDeviceClient.html#ac3e59938659409ee0adee10292047aca" title="Called by the core&#39;s update timer to manage next state / action. " alt="" coords="443,5,626,46"/>
+</map>

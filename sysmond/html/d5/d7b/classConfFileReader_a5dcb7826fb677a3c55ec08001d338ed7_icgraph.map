@@ -1,0 +1,6 @@
+<map id="ConfFileReader::removeSpaceAtBeginning" name="ConfFileReader::removeSpaceAtBeginning">
+<area shape="rect" id="node2" href="$d5/d7b/classConfFileReader.html#a215aaa979bb71a6be8308314bc5e275d" title="This function attempts to return a pair of key and value tokens from the given configuration string..." alt="" coords="287,5,484,46"/>
+<area shape="rect" id="node5" href="$d5/d7b/classConfFileReader.html#a01d148086ec20403c52bdda214ef901f" title="This function helps to cleanup (remove spaces/tabs from the begining and end of the string) a line of..." alt="" coords="270,71,501,97"/>
+<area shape="rect" id="node3" href="$d5/d7b/classConfFileReader.html#a8db833d20aa9c86a411803da96885337" title="Read in the contents of the given conf file, and parse its contents into the map for return..." alt="" coords="550,34,706,75"/>
+<area shape="rect" id="node4" href="$da/d0d/classSystemMonitor.html#a55c56f9172a058013c6eb10c8d380305" title="Read in the contents of the sysmond.conf file, and parse its contents into the monitored channels map..." alt="" coords="755,41,939,68"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="CModbusTCPDevice::create_subdevice" name="CModbusTCPDevice::create_subdevice">
+<area shape="rect" id="node2" href="$d2/d1e/classCModbusTCPDevice.html#a9d5146c6c2d81c02ff8192e99522410e" title="Default constructor. " alt="" coords="254,99,471,141"/>
+<area shape="rect" id="node8" href="$d2/d76/classCDevice.html#a4f11c33b44bcdc26931f6276326362df" title="Provide access to the shared pointer for copying. " alt="" coords="301,165,424,192"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#a5e083835cb8c682687a4c693f76650ee" title="Tells us if this is a subdevice, and can return its instance number. " alt="" coords="528,5,696,32"/>
+<area shape="rect" id="node4" href="$dc/d20/classCTcpSocket.html#a74dc46078bc2067395365d30d5e45a41" title="Factory function to create a new CTcpSocket object. " alt="" coords="539,56,685,83"/>
+<area shape="rect" id="node5" href="$d2/d76/classCDevice.html#ab231a1465890affb24529dfe50f6a441" title="Get the parent Port and Device ID tag string (eg, &quot;(p2:d64)&quot; ) for this Device. " alt="" coords="520,107,704,133"/>
+<area shape="rect" id="node6" href="$d2/d76/classCDevice.html#ae8ee8335613d268b330e869d597f7440" title="Setter for the formatted address of this device. " alt="" coords="524,158,700,199"/>
+<area shape="rect" id="node7" href="$dc/d4a/classCUtil.html#aff025a27e9d1e7204e72c564e7a60adb" title="CUtil::get_formatted\l_address" alt="" coords="535,223,689,265"/>
+</map>

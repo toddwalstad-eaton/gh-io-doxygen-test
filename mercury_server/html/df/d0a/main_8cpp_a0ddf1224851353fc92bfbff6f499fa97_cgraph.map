@@ -1,0 +1,12 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$df/d0a/main_8cpp.html#af609bfc109371cac8911c2bf1622085c" title="Configure the syslog debugging options and levels for this application and the libpx library subsyste..." alt="" coords="109,85,197,112"/>
+<area shape="rect" id="node3" href="$df/d0a/main_8cpp.html#a72dfe501a5b0c6d1753dc3bc888d33b9" title="&quot;Real&quot; main, used by the server code " alt="" coords="112,136,195,163"/>
+<area shape="rect" id="node4" href="$d4/d4a/classCMercuryServer.html#a707b9988f9eba5fb8762ff89419a8848" title="This function sets up the configuration for the main loop(). " alt="" coords="253,49,425,76"/>
+<area shape="rect" id="node6" href="$d4/d4a/classCMercuryServer.html#ae7be7e35958e9e89ee36b52f6451d956" title="Execute the server core&#39;s main loop. " alt="" coords="246,136,431,163"/>
+<area shape="rect" id="node11" href="$d4/d4a/classCMercuryServer.html#ad66f7bcaa1a241238c8f2b42253e9b35" title="Gracefully shut down the server. " alt="" coords="481,187,677,213"/>
+<area shape="rect" id="node5" href="$d4/d4a/classCMercuryServer.html#ab7c9bc8c38aacdb72bcb22986813a7a4" title="Configure the options for this process itself. " alt="" coords="493,5,665,46"/>
+<area shape="rect" id="node7" href="$dd/d8f/classCWebsocketListener.html#a0ad315f2df7bdd61d857c17cb1fd0614" title="Factory function for I/O manager. " alt="" coords="501,70,656,111"/>
+<area shape="rect" id="node9" href="$d2/d5b/classCSessionManager.html#a667a6eac86699317affe06ef341a6ca8" title="Factory function to create a new CSessionManager object. " alt="" coords="485,136,672,163"/>
+<area shape="rect" id="node8" href="$dd/d8f/classCWebsocketListener.html#a89636e40a90f39668480a5d0f195836c" title="Constructor. " alt="" coords="747,66,909,107"/>
+<area shape="rect" id="node10" href="$d2/d5b/classCSessionManager.html#a0eaa6cd494509c5c532aad2b7e6a3b9f" title="Constructor. " alt="" coords="726,131,930,173"/>
+</map>

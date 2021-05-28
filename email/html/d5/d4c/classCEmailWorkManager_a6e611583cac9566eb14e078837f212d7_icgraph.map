@@ -1,0 +1,10 @@
+<map id="CEmailWorkManager::extract_alarm_information" name="CEmailWorkManager::extract_alarm_information">
+<area shape="rect" id="node2" href="$d5/d4c/classCEmailWorkManager.html#a33c12ac66096924ec32150b612dc9eb7" title="is_alarm_work_item_ready " alt="" coords="267,5,466,46"/>
+<area shape="rect" id="node6" href="$d5/d4c/classCEmailWorkManager.html#a04c3f3897fe4cfe92e6609a3098c8c5e" title="get_attachment_alarms_callback " alt="" coords="558,59,735,115"/>
+<area shape="rect" id="node7" href="$d5/d4c/classCEmailWorkManager.html#a5c40e62d0c211d0370a5a4cc2b253bae" title="get_periodic_alarm_information_callback " alt="" coords="251,128,482,184"/>
+<area shape="rect" id="node3" href="$d5/d4c/classCEmailWorkManager.html#af65f1e4eddc5594708be69c84d37f503" title="process_alarm_update " alt="" coords="818,5,987,46"/>
+<area shape="rect" id="node4" href="$d5/d4c/classCEmailWorkManager.html#a019b7141a10d5f7e12338aa1f228ba32" title="process_pending_queue " alt="" coords="1043,66,1221,107"/>
+<area shape="rect" id="node5" href="$d5/d4c/classCEmailWorkManager.html#ae378dceb208a7e70a56e2e527717bfa2" title="timeout " alt="" coords="1269,66,1435,107"/>
+<area shape="rect" id="node8" href="$d5/d4c/classCEmailWorkManager.html#a6c65153ae498441a5b7784277285c73e" title="get_periodic_alarm_information " alt="" coords="531,139,762,181"/>
+<area shape="rect" id="node9" href="$d5/d4c/classCEmailWorkManager.html#a9bf377dc0bcc8e05a63cf9ff7b8f54d9" title="process_periodic_update " alt="" coords="811,131,994,173"/>
+</map>

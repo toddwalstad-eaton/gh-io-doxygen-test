@@ -1,0 +1,8 @@
+<map id="CDevice::handle_command_completion" name="CDevice::handle_command_completion">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#a0057f31cbcd44999aa2ce06fc308016f" title="Getter for the display name of this device. " alt="" coords="253,5,475,32"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#a0e5b0994e943728e63a41cbd76fc2933" title="Getter for the formatted address of this device. " alt="" coords="275,57,453,98"/>
+<area shape="rect" id="node4" href="$d2/d76/classCDevice.html#a6344b484b5fe2916bcd18df712b923d1" title="Getter for device ID. " alt="" coords="316,123,412,149"/>
+<area shape="rect" id="node5" href="$d6/d0f/classCCommandService.html#a2e938d3596268b4feceaa79e8ce15847" title="Send a command result to a device in the CDS Note: This overload performs a full CDS update of all CD..." alt="" coords="271,174,457,215"/>
+<area shape="rect" id="node6" href="$dd/de8/command__service_8cpp.html#a5b005098f808914039f86f83f9d6f680" title="get_command_status" alt="" coords="535,156,697,183"/>
+<area shape="rect" id="node7" href="$dd/de8/command__service_8cpp.html#a36ade948c171481c38bad3ff3f7556dc" title="get_command_substatus" alt="" coords="523,207,709,233"/>
+</map>

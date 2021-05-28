@@ -1,0 +1,9 @@
+<map id="certmanager::ServiceConfiguration::getSelfSignedValidityDurationOffset" name="certmanager::ServiceConfiguration::getSelfSignedValidityDurationOffset">
+<area shape="rect" id="node2" href="$d8/d20/classcertmanager_1_1Server.html#ab750437dd5bb0671513e06b0f86c58f0" title="This function calculates the valid from and valid until seconds. " alt="" coords="336,37,491,78"/>
+<area shape="rect" id="node8" href="$d5/d89/main__test_8cpp.html#ace607988fe55aae7c01782934709d98e" title="BOOST_AUTO_TEST_CASE" alt="" coords="318,103,509,129"/>
+<area shape="rect" id="node3" href="$d8/d20/classcertmanager_1_1Server.html#afd8bc370fa915c961a60c907c86541ac" title="Function to create and apply Self&#45;Signed certificate. " alt="" coords="557,70,760,111"/>
+<area shape="rect" id="node7" href="$d8/d20/classcertmanager_1_1Server.html#a2f85d3e8735942f74cbff4cefad166ba" title="Function to create and apply CA signed certificate. " alt="" coords="561,5,756,46"/>
+<area shape="rect" id="node4" href="$d8/d20/classcertmanager_1_1Server.html#a4aa558b07a86ac7cba3dc3b431fa2f0f" title="Function to create the certificates for https &amp; pki1 services as server and client. " alt="" coords="808,37,963,78"/>
+<area shape="rect" id="node6" href="$d8/d20/classcertmanager_1_1Server.html#ae5059d0b3a95ba970446f9032870775f" title="Function to check the validity of certificate w.r.t. " alt="" coords="1011,7,1165,49"/>
+<area shape="rect" id="node5" href="$d8/d20/classcertmanager_1_1Server.html#a922134db4aabce0b0b8ccf472b738106" title="Constructor. " alt="" coords="1213,37,1368,78"/>
+</map>

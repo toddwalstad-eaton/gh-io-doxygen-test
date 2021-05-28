@@ -1,0 +1,10 @@
+<map id="CModbusDeviceSetpoints::handle_setpoints_command_completion" name="CModbusDeviceSetpoints::handle_setpoints_command_completion">
+<area shape="rect" id="node2" href="$d2/d08/classCModbusDeviceSetpoints.html#ad9a4501317fd2b50210ffe2c3858d726" title="Is the command name a setpoints command. " alt="" coords="275,51,461,93"/>
+<area shape="rect" id="node3" href="$d2/d08/classCModbusDeviceSetpoints.html#ac590ce8efe052591eaf231d3e54df15b" title="Is the command name a setpoints read command. " alt="" coords="520,5,736,46"/>
+<area shape="rect" id="node5" href="$dd/dc9/namespacetoolkit.html#accc5fc1fd772f54eea360d9827972987" title="Conversion functions between px::CValue and external (e.g. " alt="" coords="267,168,469,195"/>
+<area shape="rect" id="node4" href="$d2/d08/classCModbusDeviceSetpoints.html#a991a9b42a8722d70cd796aaef2524a2d" title="Is the command name a setpoints write command. " alt="" coords="518,81,738,122"/>
+<area shape="rect" id="node6" href="$dd/dc9/namespacetoolkit.html#a31903467dde5cc0bd074c675a7978b3e" title="Convert into existing px::CValue using its existing datatype. " alt="" coords="541,168,715,195"/>
+<area shape="rect" id="node7" href="$dd/dc9/namespacetoolkit.html#a5209d56d57f1468826b81741efc1b525" title="Return the size of an External Data Type. " alt="" coords="806,117,954,144"/>
+<area shape="rect" id="node8" href="$dd/dc9/namespacetoolkit.html#aa5d8ccc56a73cb3cbf1fccabcf63e0b8" title="toolkit::float_from_bits" alt="" coords="795,168,965,195"/>
+<area shape="rect" id="node9" href="$dd/dc9/namespacetoolkit.html#a98f419b827ee64e13faa881b0040368e" title="toolkit::double_from_bits" alt="" coords="787,219,973,245"/>
+</map>

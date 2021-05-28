@@ -1,0 +1,7 @@
+<map id="opcua::utils::conv::cds_to_opcua_datatypes" name="opcua::utils::conv::cds_to_opcua_datatypes">
+<area shape="rect" id="node2" href="$dc/dec/classopcua_1_1server_1_1COPCUaServer.html#a7d254a4f0326eca566b22bbb5459714c" title="Create new OPC UA Variable node from CDS channel. " alt="" coords="246,5,461,46"/>
+<area shape="rect" id="node6" href="$da/dc0/test____opcua__utils_8cpp.html#ae185b80c5fe3d3ac7de7d18c78511d67" title="BOOST_AUTO_TEST_CASE" alt="" coords="258,71,449,97"/>
+<area shape="rect" id="node3" href="$dc/dec/classopcua_1_1server_1_1COPCUaServer.html#a981ff5731dd750bbbdac9be229e78fbf" title="Map the CDS device tree to OPC UA node structure. " alt="" coords="510,5,725,46"/>
+<area shape="rect" id="node4" href="$df/d0a/main_8cpp.html#a72dfe501a5b0c6d1753dc3bc888d33b9" title="Server code body function. " alt="" coords="773,12,856,39"/>
+<area shape="rect" id="node5" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Program entry point. " alt="" coords="905,12,959,39"/>
+</map>

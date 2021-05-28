@@ -1,0 +1,4 @@
+<map id="certmanager::ServiceConfiguration::getUniqueTrustedClientByCn" name="certmanager::ServiceConfiguration::getUniqueTrustedClientByCn">
+<area shape="rect" id="node2" href="$d5/dd7/classcertmanager_1_1TrustedCertificate.html#a282e3234aeef336dda1976e884ff0659" title="Verify that the hashed name of Trusted Client certificate is unique. " alt="" coords="301,5,528,46"/>
+<area shape="rect" id="node3" href="$d5/d89/main__test_8cpp.html#ace607988fe55aae7c01782934709d98e" title="BOOST_AUTO_TEST_CASE" alt="" coords="319,71,510,97"/>
+</map>

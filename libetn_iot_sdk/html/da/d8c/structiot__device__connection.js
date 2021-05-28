@@ -1,0 +1,26 @@
+var structiot__device__connection =
+[
+    [ "deviceUUID", "da/d8c/structiot__device__connection.html#a21ea2cac8d9970bd0f71c23387837993", null ],
+    [ "context", "da/d8c/structiot__device__connection.html#af378b80a9df0e9915b465af73ebc811e", null ],
+    [ "handle", "da/d8c/structiot__device__connection.html#ad8584ffa586a0357173c7f68729e151f", null ],
+    [ "c2dDeviceCommandCallback", "da/d8c/structiot__device__connection.html#a5e094e71bd82d9d871c485a58509e970", null ],
+    [ "timerCallback", "da/d8c/structiot__device__connection.html#ad6400922182c4735c1b04cea2810d38e", null ],
+    [ "timerCallbackInterval", "da/d8c/structiot__device__connection.html#a8a0b7474077729394dc3a1836457743f", null ],
+    [ "connectionStatusCallback", "da/d8c/structiot__device__connection.html#a9df856431ab00b0ed1fa766ea4f7ea9d", null ],
+    [ "messageThreadId", "da/d8c/structiot__device__connection.html#ac30f4aa765791d2035ffd47f400ab07c", null ],
+    [ "close", "da/d8c/structiot__device__connection.html#a670b07854b505a16e6cfd4fa9efe88f3", null ],
+    [ "connectionStatus", "da/d8c/structiot__device__connection.html#abd1b3d15ea691abfe6afa9f11a1520c8", null ],
+    [ "msgOutbound", "da/d8c/structiot__device__connection.html#af74b24d0ab68753993e0478b697b9781", null ],
+    [ "msgConfirmed", "da/d8c/structiot__device__connection.html#a2d1878e093a11d3c9db70a113c58a229", null ],
+    [ "msgInbound", "da/d8c/structiot__device__connection.html#acd6efbe404440b3613787b1ba1be7a70", null ],
+    [ "cmdInbound", "da/d8c/structiot__device__connection.html#a09b858da87a4cafcc991e6aaa0adc0d6", null ],
+    [ "lastTimerCallbackInvoked", "da/d8c/structiot__device__connection.html#a69437428321e82ca764a77d1ee8a1d13", null ],
+    [ "lastErrorCode", "da/d8c/structiot__device__connection.html#ad383f882cd35ae0c8e0b2e570756b313", null ],
+    [ "unconfirmedMessageCount", "da/d8c/structiot__device__connection.html#a95b301085edde90224fa77c588bcd72b", null ],
+    [ "connectionStatusCode", "da/d8c/structiot__device__connection.html#a7cbac9d90392cb847aefdab6eeaa454b", null ],
+    [ "connectionReasonCode", "da/d8c/structiot__device__connection.html#a5329ac9a557f75f61aafcfe541be5762", null ],
+    [ "messageDoneCallback", "da/d8c/structiot__device__connection.html#a34156654bbfb8a4b20f2d3e616b363f9", null ],
+    [ "wantBatching", "da/d8c/structiot__device__connection.html#ad681593eee60b3684e5b0157cb69edcf", null ],
+    [ "sendImmediately", "da/d8c/structiot__device__connection.html#ad7f6a863ef1c229b4072e75a64b24706", null ],
+    [ "doWorkIntervalSeconds", "da/d8c/structiot__device__connection.html#a194b69451883f8d2077ecd6ea752b1a8", null ]
+];

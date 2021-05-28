@@ -1,0 +1,4 @@
+<map id="certmanager::CnfConfiguration" name="certmanager::CnfConfiguration">
+<area shape="rect" id="node2" href="$dc/d21/classcertmanager_1_1CnfFileConfiguration.html" title="Class stores all server certificate parameters for a service. " alt="" coords="5,512,248,619"/>
+<area shape="rect" id="node3" href="$da/d87/classcertmanager_1_1CnfHookConfiguration.html" title="Class stores all server certificate parameters for a service. " alt="" coords="273,527,529,604"/>
+</map>

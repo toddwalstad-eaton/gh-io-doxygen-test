@@ -1,0 +1,6 @@
+<map id="IotDeviceCommand::handle_builtin_cmds" name="IotDeviceCommand::handle_builtin_cmds">
+<area shape="rect" id="node2" href="$d3/ddf/classIotDeviceCommand.html#a95488f908378cf0380cda2ec327350a2" title="Constructor. " alt="" coords="256,5,477,46"/>
+<area shape="rect" id="node3" href="$d3/ddf/classIotDeviceCommand.html#ad82a3fb33c2c66dde4230ee9b5ec4c1e" title="Set the message in commandResponse after checking the memory allocated. " alt="" coords="525,122,704,163"/>
+<area shape="rect" id="node4" href="$d3/ddf/classIotDeviceCommand.html#a6cd277db795a6a1ed8538d14c06024b2" title="Handle a C2D built in Device Command for the get and set field. " alt="" coords="265,122,468,163"/>
+<area shape="rect" id="node5" href="$d3/ddf/classIotDeviceCommand.html#a46ba218b7873d0cf662247b205054c81" title="Handle a C2D built in Device Command for commands which execute through shell_cmd. " alt="" coords="265,187,468,229"/>
+</map>

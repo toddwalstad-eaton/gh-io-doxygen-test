@@ -1,0 +1,8 @@
+<map id="BOOST_AUTO_TEST_CASE" name="BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d6/dee/classCMercuryProtocolHandler.html#a33bdc6ec4bdf775064104cec25b4c4bd" title="simple getter for the underlying protocol data unit " alt="" coords="523,34,709,75"/>
+<area shape="rect" id="node3" href="$d9/dad/classMockMercuryProtocolHandler.html#a3e654afc660e61af489cf46d76b6b4dc" title="MockMercuryProtocolHandler\l::get_ptr" alt="" coords="246,55,458,97"/>
+<area shape="rect" id="node4" href="$d6/d92/classCMercuryWhoAmIRequest.html#a7a34ca9da15e33ca3633248ba8ba4c7f" title="Handle a Mercury request (dispatch to the CDS) A pure virtual function, to be implemented in each mes..." alt="" coords="257,186,447,227"/>
+<area shape="rect" id="node7" href="$d9/dad/classMockMercuryProtocolHandler.html#ac451e9c4f01c528fdcaac9e65633afe5" title="MockMercuryProtocolHandler\l::PHgetPdu" alt="" coords="246,121,458,162"/>
+<area shape="rect" id="node5" href="$df/df6/classCMercuryMessageHandler.html#a17ed689c3244cf11e17c39827a61c70a" title="Post an error response, with the optional error message. " alt="" coords="507,160,725,187"/>
+<area shape="rect" id="node6" href="$df/df6/classCMercuryMessageHandler.html#ab1d4986083e1271b288e3da19be56359" title="interface to respond to interested parties " alt="" coords="521,211,711,253"/>
+</map>

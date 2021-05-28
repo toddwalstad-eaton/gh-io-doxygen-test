@@ -1,0 +1,8 @@
+<map id="CBacnetIpHandler::bvlc_send_to_bbmd" name="CBacnetIpHandler::bvlc_send_to_bbmd">
+<area shape="rect" id="node2" href="$d0/d58/classCBacnetIpHandler.html#a151ba4bf21f21396507001987bb82bff" title="The common send function for BVLC functions, using BACnet/IP. " alt="" coords="241,5,415,46"/>
+<area shape="rect" id="node5" href="$d0/d58/classCBacnetIpHandler.html#a2949d8cf1b78dff83c10cc708ae55c1a" title="Register as a Foreign Device with the designated BBMD. " alt="" coords="229,70,427,111"/>
+<area shape="rect" id="node3" href="$d7/d94/group__bip__interface.html#gacf4d82c08beac50cdfa09b5cbbf5bde1" title="Function to add BVLC support to PDU data and then send a packet out the BACnet/IP socket (Annex J)..." alt="" coords="515,12,634,39"/>
+<area shape="rect" id="node4" href="$d7/d94/group__bip__interface.html#gafd95a0bfb0c464bcffdcf6c6476a0859" title="Function to send a packet out the BACnet/IP socket (Annex J). " alt="" coords="723,12,834,39"/>
+<area shape="rect" id="node6" href="$d0/d58/classCBacnetIpHandler.html#a64101e782a5defbbb73b68e0758400db" title="Initialize the service configuration for the bacnet&#45;stack functions. " alt="" coords="491,66,659,107"/>
+<area shape="rect" id="node7" href="$d0/d58/classCBacnetIpHandler.html#a21f0eab1241ddb158f52ee0ab65e4303" title="Timeout callback invoked when the ASIO timer for BBMD registration expires. " alt="" coords="475,132,674,159"/>
+</map>

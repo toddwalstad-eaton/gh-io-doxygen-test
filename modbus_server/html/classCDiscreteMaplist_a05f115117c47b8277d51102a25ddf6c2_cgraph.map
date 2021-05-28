@@ -1,0 +1,5 @@
+<map id="CDiscreteMaplist::translate_vals" name="CDiscreteMaplist::translate_vals">
+<area shape="rect" id="node2" href="$classCDiscreteResultSet.html#a705c71762c74679492cc7621ddc0a799" title="Add a discrete mapping to this result set. " alt="" coords="285,5,464,32"/>
+<area shape="rect" id="node3" href="$classCDiscreteResultSet.html#a5b53d0e57482bbbf371f1c634c799ab6" title="Translate the accumulated mappings in the result set. " alt="" coords="301,57,448,98"/>
+<area shape="rect" id="node4" href="$classCAddressRange.html#a2aa3e5a246ea58bc699092173cdc815c" title="Get the size of this range. " alt="" coords="513,64,671,91"/>
+</map>

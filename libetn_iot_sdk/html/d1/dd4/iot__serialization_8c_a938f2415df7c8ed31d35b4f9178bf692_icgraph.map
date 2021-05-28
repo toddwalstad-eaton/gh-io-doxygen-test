@@ -1,0 +1,4 @@
+<map id="serializeDeviceCommandResponse" name="serializeDeviceCommandResponse">
+<area shape="rect" id="node2" href="$d6/d10/iot__device__common_8c.html#a731f145a725ced7338a094cdd34f8a65" title="Callback routine to process inbound (Azure Cloud&#45;to&#45;Device) device commands, internal to the SDK..." alt="" coords="305,5,570,32"/>
+<area shape="rect" id="node3" href="$d6/dce/group__connection__status__apis.html#ga46c73bec3f14cba2453d334b2dabf459" title="Opens a connection with IoT Hub. " alt="" coords="619,5,698,32"/>
+</map>

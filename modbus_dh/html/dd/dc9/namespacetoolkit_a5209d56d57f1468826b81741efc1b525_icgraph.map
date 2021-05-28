@@ -1,0 +1,10 @@
+<map id="toolkit::type_to_len" name="toolkit::type_to_len">
+<area shape="rect" id="node2" href="$de/d55/classCDataBlockTranslator.html#acc9f29d48735c3862c2503b854428e9e" title="Add a mapping record that describes a portion of a CDataBlock data buffer. " alt="" coords="217,5,380,46"/>
+<area shape="rect" id="node4" href="$d7/d46/classCModbusDevice.html#a7304d59a192d86c572c1e9b3ef1a8670" title="Call this function to initially populate the list of polled Data Blocks that may be managed by this D..." alt="" coords="203,70,394,111"/>
+<area shape="rect" id="node5" href="$dd/dc9/namespacetoolkit.html#a31903467dde5cc0bd074c675a7978b3e" title="Convert into existing px::CValue using its existing datatype. " alt="" coords="212,136,385,163"/>
+<area shape="rect" id="node3" href="$de/d55/classCDataBlockTranslator.html#a03196da66b316d10671fec7e5f429ffb" title="CDataBlockTranslator\l::add_mapping" alt="" coords="463,5,625,46"/>
+<area shape="rect" id="node6" href="$dd/dc9/namespacetoolkit.html#accc5fc1fd772f54eea360d9827972987" title="Conversion functions between px::CValue and external (e.g. " alt="" coords="443,136,645,163"/>
+<area shape="rect" id="node7" href="$de/d55/classCDataBlockTranslator.html#a443faf0313fa3866593483db64e4c746" title="Translate the buffer of received data, via the mappings array, into the expected variadic array of Va..." alt="" coords="719,91,881,133"/>
+<area shape="rect" id="node8" href="$d2/d08/classCModbusDeviceSetpoints.html#a4ebc156f522787ae8f04a8d15f4cf0ac" title="Handle the setpoints command completion. " alt="" coords="693,157,907,213"/>
+<area shape="rect" id="node9" href="$d7/d46/classCModbusDevice.html#aa257c186cc0c6d1acee490152630ce92" title="See device.hpp. " alt="" coords="955,165,1133,206"/>
+</map>

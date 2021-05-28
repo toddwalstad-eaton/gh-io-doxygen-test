@@ -1,0 +1,4 @@
+<map id="CConfigsubscriberCdsHandle::get_sub_id" name="CConfigsubscriberCdsHandle::get_sub_id">
+<area shape="rect" id="node2" href="$df/d7e/classCConfigsubscriberCdsHandle.html#acf6ca0eb259bf36715bdb4753a0ba5f5" title="Subscribe to the CDS for out of band changes per the configuration Will throw a px::generic_err() wit..." alt="" coords="265,5,474,46"/>
+<area shape="rect" id="node3" href="$df/d7e/classCConfigsubscriberCdsHandle.html#aea2dcf4e1ba4de65446c39384883faba" title="Subscribe to the CDS for command execution events on device 1. " alt="" coords="265,70,474,111"/>
+</map>

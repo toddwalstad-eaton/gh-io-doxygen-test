@@ -1,0 +1,6 @@
+<map id="Device_Write_Property" name="Device_Write_Property">
+<area shape="rect" id="node2" href="$d3/d9d/group__bip__routing__interface.html#gaca13e00f88c28db7220d0b523397a87f" title="Get a pointer to the current Device object (look up from the current global setting for instance numb..." alt="" coords="235,5,381,46"/>
+<area shape="rect" id="node3" href="$d9/dd7/classCBacnetDeviceObject.html#a622b445699e7fd0358e3cd73b23bcabe" title="Looks for the instance of a (supported) Object Type and Instance. " alt="" coords="227,70,389,111"/>
+<area shape="rect" id="node5" href="$dd/d0a/classCBacnetObject.html#a911d4cf0b56b9bbb6c70efbe9dc362cc" title="Attempts to write a new value to one property for this object type of a given instance. " alt="" coords="224,135,392,177"/>
+<area shape="rect" id="node4" href="$dd/d0a/classCBacnetObject.html#a10c6a7ab5827a1de1ea3b1d97513a4f3" title="Getter for this object&#39;s Object_Name. " alt="" coords="440,77,675,104"/>
+</map>

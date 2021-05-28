@@ -1,0 +1,8 @@
+<map id="CIotDataDevice::init_from_data" name="CIotDataDevice::init_from_data">
+<area shape="rect" id="node2" href="$d2/d55/classCIotDataDevice.html#ab7254340ba87ad8c89d34a0e9e545df8" title="Update _iot_device_struct and _iot_device_realtime_state_struct with latest device settings data..." alt="" coords="209,70,386,111"/>
+<area shape="rect" id="node7" href="$d2/d55/classCIotDataDevice.html#ab0e54829d7d4d841590159e8883cb27d" title="Setter and getter for the device &quot;IoT Agent&quot; state value. " alt="" coords="221,135,374,177"/>
+<area shape="rect" id="node3" href="$d2/d55/classCIotDataDevice.html#a938e4e92d24e3a15d54a28cadbe98a2a" title="Give the canonical Model Name, find the IoT Device Profile and UUID for this device. " alt="" coords="441,5,617,46"/>
+<area shape="rect" id="node4" href="$d2/d55/classCIotDataDevice.html#a9e6f1be05ffef0d9f9928525a315eea4" title="Initialize all channels found in the IoT Device Profile. " alt="" coords="435,70,623,111"/>
+<area shape="rect" id="node6" href="$d2/d55/classCIotDataDevice.html#a43e8f8086a734a04c8e04d1f4349ff88" title="Is the device enabled and communicating? " alt="" coords="458,135,601,177"/>
+<area shape="rect" id="node5" href="$df/d12/classCIotChannel.html#a187c8ed386eb660530ffd3e34da56e95" title="Initialize the IoT Real&#45;Time and Trend structures in this instance with Channel Settings data from th..." alt="" coords="672,77,837,104"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="CModbusReadDiscretes" name="CModbusReadDiscretes">
+<area shape="rect" id="node2" href="$classCModbusFunctionHandler.html" title="Modbus Function Handler. " alt="" coords="1579,712,1801,877"/>
+<area shape="rect" id="node3" href="$classpx_1_1asio_1_1CTimedObject.html" title="{px::asio::CTimedObject\n||}" alt="" coords="1788,489,1961,567"/>
+<area shape="rect" id="node4" href="$classCModbusPdu.html" title="Modbus Protocol Data Unit. " alt="" coords="229,453,371,603"/>
+<area shape="rect" id="node5" href="$classpx_1_1asio_1_1CProtocolObject.html" title="{px::asio::CProtocolObject\n||}" alt="" coords="5,175,189,252"/>
+<area shape="rect" id="node10" href="$classCModbusProtocolHandler.html" title="Modbus Protocol Handler. " alt="" coords="1143,409,1364,647"/>
+<area shape="rect" id="node19" href="$classCModbusDeviceConfig.html" title="Modbus per&#45;device configuration. " alt="" coords="1985,416,2188,640"/>
+<area shape="rect" id="node11" href="$classpx_1_1asio_1_1CProtocolHandler.html" title="{px::asio::CProtocolHandler\n||}" alt="" coords="1156,175,1351,252"/>
+<area shape="rect" id="node15" title="STL class. " alt="" coords="553,5,681,83"/>
+<area shape="rect" id="node18" title="STL class. " alt="" coords="1791,5,1948,83"/>
+<area shape="rect" id="node22" title="STL class. " alt="" coords="2525,5,2659,83"/>
+</map>

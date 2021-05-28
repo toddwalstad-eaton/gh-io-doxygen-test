@@ -1,0 +1,6 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$db/d41/mqtt__broker__conf_8cpp.html#ad8bf2ebe714bdb6a1e216ed7d9efa7a3" title="init_logging" alt="" coords="139,5,237,32"/>
+<area shape="rect" id="node3" href="$d8/d7b/classCMqttBrokerSettings.html#a5a8446b18db9a6b4997e8901236c7c68" title="Set or unset a list of &#39;key_label,value&#39; elements in the MqttBrokerSettings OOB. " alt="" coords="110,57,266,98"/>
+<area shape="rect" id="node5" href="$d8/d7b/classCMqttBrokerSettings.html#a08cf1cc0185635736136bf202ff9d8cf" title="Write the header and output conf file data, from the MqttBrokerSettings data. " alt="" coords="110,122,266,163"/>
+<area shape="rect" id="node4" href="$d8/d7b/classCMqttBrokerSettings.html#aa01dc61f6ec9f5710ea26dfcebf7d673" title="Write the header and output conf file data, from the MqttBrokerSettings data. " alt="" coords="315,57,471,98"/>
+</map>

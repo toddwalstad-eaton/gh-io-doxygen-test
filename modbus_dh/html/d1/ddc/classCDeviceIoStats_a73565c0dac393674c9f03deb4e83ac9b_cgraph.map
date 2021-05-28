@@ -1,0 +1,7 @@
+<map id="CDeviceIoStats::process_nack" name="CDeviceIoStats::process_nack">
+<area shape="rect" id="node2" href="$d1/ddc/classCDeviceIoStats.html#a08eb0cdadd31d9b34f55b020f7be6b34" title="Getter for the maximum number of consecutive errors based on: " alt="" coords="307,5,458,46"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#ab231a1465890affb24529dfe50f6a441" title="Get the parent Port and Device ID tag string (eg, &quot;(p2:d64)&quot; ) for this Device. " alt="" coords="291,71,475,97"/>
+<area shape="rect" id="node4" href="$dc/d4a/classCUtil.html#afdffbca731e234e54193c7aba4fbe341" title="CUtil::get_err_text" alt="" coords="312,121,453,148"/>
+<area shape="rect" id="node5" href="$d2/d76/classCDevice.html#a0057f31cbcd44999aa2ce06fc308016f" title="Getter for the display name of this device. " alt="" coords="272,172,493,199"/>
+<area shape="rect" id="node6" href="$d2/d76/classCDevice.html#a0e5b0994e943728e63a41cbd76fc2933" title="Getter for the formatted address of this device. " alt="" coords="294,223,471,265"/>
+</map>

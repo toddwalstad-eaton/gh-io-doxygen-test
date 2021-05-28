@@ -1,0 +1,12 @@
+<map id="CDevice::get_formatted_name" name="CDevice::get_formatted_name">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#a2b6500949396a4d972e94118dd4687e7" title="Cleanup any remaining junk, once profiling is complete. " alt="" coords="289,13,479,40"/>
+<area shape="rect" id="node4" href="$d2/d76/classCDevice.html#a62fdb6fcd48d2afe1fa8f77acfb5028f" title="Initialize single channel from eds entry. " alt="" coords="314,67,454,109"/>
+<area shape="rect" id="node8" href="$d2/d76/classCDevice.html#a34ad793db652d3b8539f96199e4d042a" title="Called from a Command Block to handle its done state and manage received data. " alt="" coords="284,133,484,174"/>
+<area shape="rect" id="node9" href="$d1/ddc/classCDeviceIoStats.html#adf7588c3a2aab8f60d61319fba39362b" title="Update the Device&#39;s I/O state based on I/O completion result. " alt="" coords="542,217,717,258"/>
+<area shape="rect" id="node10" href="$d1/ddc/classCDeviceIoStats.html#a73565c0dac393674c9f03deb4e83ac9b" title="Method to process unrecoverable Modbus Exception Codes. " alt="" coords="275,249,493,276"/>
+<area shape="rect" id="node11" href="$d7/d46/classCModbusDevice.html#aa257c186cc0c6d1acee490152630ce92" title="See device.hpp. " alt="" coords="295,301,473,342"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#a00f0cf46dca1ac48b5f397b435ef867a" title="Called from the Data Block to handle its done state and manage received data. " alt="" coords="544,5,715,46"/>
+<area shape="rect" id="node5" href="$d2/d76/classCDevice.html#a86e0d795f0cc71ab61e023d4213c36ab" title="Create and initialize the Channels called for by the EDS. " alt="" coords="559,70,699,111"/>
+<area shape="rect" id="node6" href="$d2/d76/classCDevice.html#a1d5a52000fc574354fb3548eb4dcae96" title="Call this function to initialize the Channels and Internal Parameters for this Device. " alt="" coords="766,70,906,111"/>
+<area shape="rect" id="node7" href="$d2/d76/classCDevice.html#accb14c1121791e295ac675fc99b36807" title="Initialize the Data Blocks, Channels, and Internal Parameters for this Device. " alt="" coords="955,70,1095,111"/>
+</map>

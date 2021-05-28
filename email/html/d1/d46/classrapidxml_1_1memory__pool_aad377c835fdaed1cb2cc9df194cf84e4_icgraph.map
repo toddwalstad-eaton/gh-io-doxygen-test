@@ -1,0 +1,4 @@
+<map id="rapidxml::memory_pool::clear" name="rapidxml::memory_pool::clear">
+<area shape="rect" id="node2" href="$d1/d46/classrapidxml_1_1memory__pool.html#a0a3e82126e59e4077f41e933130bb5a0" title="Destroys pool and frees all the memory. " alt="" coords="236,5,415,46"/>
+<area shape="rect" id="node3" href="$db/d68/classrapidxml_1_1xml__document.html#a826929ff54242532198701f19ff5f83f" title="Clears the document by deleting all nodes and clearing the memory pool. " alt="" coords="233,70,418,111"/>
+</map>

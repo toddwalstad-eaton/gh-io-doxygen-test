@@ -1,0 +1,20 @@
+<map id="update_channel_settings.hpp" name="update_channel_settings.hpp">
+<area shape="rect" id="node3" href="$dd/d3a/common_8hpp.html" title="px/common.hpp" alt="" coords="207,395,333,421"/>
+<area shape="rect" id="node4" href="$de/d7c/request__response_8hpp.html" title="px/cds/request_response.hpp" alt="" coords="236,155,447,181"/>
+<area shape="rect" id="node14" href="$dc/d3d/channel__settings_8hpp.html" title="px/data/channel_settings.hpp" alt="" coords="887,80,1100,107"/>
+<area shape="rect" id="node27" href="$db/db3/id_8hpp.html" title="px/type/id.hpp" alt="" coords="471,155,585,181"/>
+<area shape="rect" id="node6" href="$d4/d76/type_2string_8hpp.html" title="px/type/string.hpp" alt="" coords="1663,395,1803,421"/>
+<area shape="rect" id="node8" href="$d8/da6/mono__time_8hpp.html" title="px/type/mono_time.hpp" alt="" coords="287,237,464,264"/>
+<area shape="rect" id="node9" href="$d1/db0/timestamp_8hpp.html" title="timestamp.hpp" alt="" coords="721,320,841,347"/>
+<area shape="rect" id="node17" href="$df/d2b/shared__string_8hpp.html" title="px/type/shared_string.hpp" alt="" coords="2685,237,2875,264"/>
+<area shape="rect" id="node19" href="$d2/dca/type_2value_8hpp.html" title="px/type/value.hpp" alt="" coords="924,237,1063,264"/>
+<area shape="rect" id="node23" href="$d6/d12/datatype_8hpp.html" title="px/enum/datatype.hpp" alt="" coords="527,320,696,347"/>
+<area shape="rect" id="node29" href="$d6/d86/bitset_8hpp.html" title="px/type/bitset.hpp" alt="" coords="1349,155,1488,181"/>
+<area shape="rect" id="node40" href="$d9/d04/hash_8hpp.html" title="px/hash.hpp" alt="" coords="808,155,909,181"/>
+<area shape="rect" id="node41" href="$d8/df7/channel__flag_8hpp.html" title="channel_flag.hpp" alt="" coords="5,155,136,181"/>
+<area shape="rect" id="node42" href="$de/d21/multistate__map_8hpp.html" title="multistate_map.hpp" alt="" coords="2443,155,2596,181"/>
+<area shape="rect" id="node22" href="$db/d73/invalid_8hpp.html" title="invalid.hpp" alt="" coords="1339,320,1433,347"/>
+<area shape="rect" id="node25" href="$d6/d78/best__type_8hpp.html" title="value/best_type.hpp" alt="" coords="867,320,1021,347"/>
+<area shape="rect" id="node24" href="$d7/dc1/datatype__enums_8hpp.html" title="datatype_enums.hpp" alt="" coords="358,395,516,421"/>
+<area shape="rect" id="node33" href="$d7/d1e/exception_8hpp.html" title="px/exception.hpp" alt="" coords="1087,237,1221,264"/>
+</map>

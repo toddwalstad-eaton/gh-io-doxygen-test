@@ -1,0 +1,6 @@
+<map id="CDevice::set_formatted_address" name="CDevice::set_formatted_address">
+<area shape="rect" id="node2" href="$dc/deb/classCModbusSerialDevice.html#a16701c58369fb9dcef8bb74759ffc9c5" title="Default constructor. " alt="" coords="253,5,424,46"/>
+<area shape="rect" id="node4" href="$d2/d1e/classCModbusTCPDevice.html#a9d5146c6c2d81c02ff8192e99522410e" title="Default constructor. " alt="" coords="230,70,447,111"/>
+<area shape="rect" id="node3" href="$dc/deb/classCModbusSerialDevice.html#a5ae66e1a852618c7f9c1d5ba0ba2beca" title="Create and initialize a subdevice, given its EDS and device description, and our shared settings as p..." alt="" coords="515,5,677,46"/>
+<area shape="rect" id="node5" href="$d2/d1e/classCModbusTCPDevice.html#adafbb9db082f607b9f1563fc4d5ce84d" title="Create and initialize a subdevice, given its EDS and device description, and our shared settings as p..." alt="" coords="497,70,695,111"/>
+</map>

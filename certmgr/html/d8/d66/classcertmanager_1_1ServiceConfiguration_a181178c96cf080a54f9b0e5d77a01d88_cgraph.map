@@ -1,0 +1,4 @@
+<map id="certmanager::ServiceConfiguration::getServiceConfigFile" name="certmanager::ServiceConfiguration::getServiceConfigFile">
+<area shape="rect" id="node2" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#ac290558de6b3bb97cf8eded8befd9297" title="Returns Service configuration path where all service conf files are present. " alt="" coords="302,5,557,46"/>
+<area shape="rect" id="node3" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#af0d6b3282ce91cff4d7d5844e1e077ee" title="This is the API to get the singleton object of the class. " alt="" coords="606,5,861,46"/>
+</map>

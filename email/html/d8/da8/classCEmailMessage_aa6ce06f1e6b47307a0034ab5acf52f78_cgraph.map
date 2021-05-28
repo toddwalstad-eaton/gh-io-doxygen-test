@@ -1,0 +1,16 @@
+<map id="CEmailMessage::add_internal_attachments" name="CEmailMessage::add_internal_attachments">
+<area shape="rect" id="node2" href="$d8/da8/classCEmailMessage.html#a2ec2785a0471f814e15f35f0ffde543e" title="add_alarm_attachment " alt="" coords="231,71,388,113"/>
+<area shape="rect" id="node8" href="$d8/da8/classCEmailMessage.html#a657b4a24e4337ec67052e8631fec8809" title="add_trend_attachment " alt="" coords="231,202,388,243"/>
+<area shape="rect" id="node10" href="$d8/da8/classCEmailMessage.html#ac10661ba03b4183af972cdaa90a110e5" title="add_user_attachment " alt="" coords="231,267,388,309"/>
+<area shape="rect" id="node11" href="$d8/da8/classCEmailMessage.html#a7baed571c05c5028f81ad0b7bdb3a8f5" title="add_device_attachment " alt="" coords="231,333,388,374"/>
+<area shape="rect" id="node12" href="$d8/da8/classCEmailMessage.html#ac1ad94d6aa90d2669d3389137567ba2a" title="add_config_attachment " alt="" coords="231,398,388,439"/>
+<area shape="rect" id="node13" href="$d8/da8/classCEmailMessage.html#a00e6988ea7d6bda9bd38121a035afa6d" title="add_session_attachment " alt="" coords="229,463,389,505"/>
+<area shape="rect" id="node14" href="$d8/da8/classCEmailMessage.html#a97d7af9ac5426043d95b49c03a317178" title="add_command_attachment " alt="" coords="221,529,397,570"/>
+<area shape="rect" id="node15" href="$d8/da8/classCEmailMessage.html#a521f646c4bf443289d5e4d1f92e7a04b" title="add_update_attachment " alt="" coords="231,137,388,178"/>
+<area shape="rect" id="node3" href="$d8/da8/classCEmailMessage.html#a89bf256cbac7198ae16a8cbe6c73b81a" title="build_attachment_header " alt="" coords="689,263,855,305"/>
+<area shape="rect" id="node4" href="$d8/da8/classCEmailMessage.html#a1b3a9450c95c1019c83c1f14bf292174" title="parse_delimited_string " alt="" coords="450,137,619,178"/>
+<area shape="rect" id="node5" href="$d8/da8/classCEmailMessage.html#acef0549425035b8fce9f22a322f2cf2b" title="lookup_attachment_header " alt="" coords="446,6,623,47"/>
+<area shape="rect" id="node7" href="$d8/da8/classCEmailMessage.html#a1f4676420a132f2f7856b189a23c7fb5" title="lookup_attachment_column " alt="" coords="446,71,623,113"/>
+<area shape="rect" id="node6" href="$d8/da8/classCEmailMessage.html#a27442616c181af6113abfe106cd44232" title="substitute_string " alt="" coords="673,39,871,81"/>
+<area shape="rect" id="node9" href="$d8/da8/classCEmailMessage.html#a4dc1f277dbf7140e6973b9d71eaab9f1" title="add_file_attachment " alt="" coords="456,299,613,341"/>
+</map>

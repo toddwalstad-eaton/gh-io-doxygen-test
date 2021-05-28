@@ -1,0 +1,7 @@
+<map id="px::asio::CTcpListener::handle_accept" name="px::asio::CTcpListener::handle_accept">
+<area shape="rect" id="node2" href="$d4/d0f/classpx_1_1asio_1_1CTcpListener.html#afd9632fe8b4feaad69e06d7d97cf4b9d" title="Asynchronously accept a new connection. " alt="" coords="231,5,393,46"/>
+<area shape="rect" id="node6" href="$d6/d32/classpx_1_1asio_1_1CIoManager.html#a46653fc723a57edb4ab58cd80f5d6ee8" title="Add an I/O actor to be tracked and managed. " alt="" coords="217,71,407,97"/>
+<area shape="rect" id="node3" href="$d6/d4d/classpx_1_1asio_1_1CTcpConnection.html#a62b9a995014d01c1bb8beeaba8f91141" title="Factory function to create a new CTcpConnection object. " alt="" coords="456,5,640,46"/>
+<area shape="rect" id="node4" href="$d6/d4d/classpx_1_1asio_1_1CTcpConnection.html#af503e9e3fb2c9bfae05a170c932f5b30" title="Constructor. " alt="" coords="688,5,872,46"/>
+<area shape="rect" id="node5" href="$dd/d60/classpx_1_1asio_1_1CIoActor.html#aad90c314c7d733326fe1f0d88e0bede2" title="Get the I/O service associated with the owner of this actor. " alt="" coords="920,5,1056,46"/>
+</map>

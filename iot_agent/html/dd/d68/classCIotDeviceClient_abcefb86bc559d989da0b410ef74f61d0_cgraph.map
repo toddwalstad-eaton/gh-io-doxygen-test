@@ -1,0 +1,4 @@
+<map id="CIotDeviceClient::publish_device_realtime_state" name="CIotDeviceClient::publish_device_realtime_state">
+<area shape="rect" id="node2" href="$dd/d68/classCIotDeviceClient.html#ae984c52721231fe663d3941edb9765b5" title="Initialize the IOT_DATA structure for the given device and Type of message, and return the pointer to..." alt="" coords="240,5,435,46"/>
+<area shape="rect" id="node3" href="$dd/d68/classCIotDeviceClient.html#a47b6924adc4e4c501854573b5bdfda1b" title="Lookup a Device instance in our map of devices, using its CDS Device ID. " alt="" coords="483,5,666,46"/>
+</map>

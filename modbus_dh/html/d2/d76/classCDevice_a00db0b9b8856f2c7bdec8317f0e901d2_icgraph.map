@@ -1,0 +1,11 @@
+<map id="CDevice::create_placeholder_value" name="CDevice::create_placeholder_value">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#abb0416ff49a1b6f8ae4f418981c8e703" title="Create and add a new Internal Parameter to the given map, using its EDS description. " alt="" coords="262,97,418,138"/>
+<area shape="rect" id="node8" href="$d2/d76/classCDevice.html#a07f52c9e6e08da46ee2aa558105443d3" title="Create and initialize the device commands called for by the EDS. " alt="" coords="265,187,415,229"/>
+<area shape="rect" id="node9" href="$d2/d76/classCDevice.html#a62fdb6fcd48d2afe1fa8f77acfb5028f" title="Initialize single channel from eds entry. " alt="" coords="270,253,410,294"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#a623f52fff7f402a7e9746e93e8996fc2" title="Create and initialize the Internal Parameters called for by the EDS. " alt="" coords="467,5,607,46"/>
+<area shape="rect" id="node6" href="$d2/d76/classCDevice.html#acfa370a8a85e823aa7f28c0e7ebbee41" title="Create and initialize the Device attribute params called for by the EDS. " alt="" coords="467,70,607,111"/>
+<area shape="rect" id="node7" href="$d2/d76/classCDevice.html#a7a9d9f480e1d7c0ec102459c14a8076d" title="Use the subdevices parameters in the parsed device EDS, setup the subdevices for this device..." alt="" coords="467,135,607,177"/>
+<area shape="rect" id="node4" href="$d2/d76/classCDevice.html#a1d5a52000fc574354fb3548eb4dcae96" title="Call this function to initialize the Channels and Internal Parameters for this Device. " alt="" coords="657,133,797,174"/>
+<area shape="rect" id="node5" href="$d2/d76/classCDevice.html#accb14c1121791e295ac675fc99b36807" title="Initialize the Data Blocks, Channels, and Internal Parameters for this Device. " alt="" coords="846,133,986,174"/>
+<area shape="rect" id="node10" href="$d2/d76/classCDevice.html#a86e0d795f0cc71ab61e023d4213c36ab" title="Create and initialize the Channels called for by the EDS. " alt="" coords="467,253,607,294"/>
+</map>

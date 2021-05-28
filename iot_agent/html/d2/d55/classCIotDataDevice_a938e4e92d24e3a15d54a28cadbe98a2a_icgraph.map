@@ -1,0 +1,4 @@
+<map id="CIotDataDevice::lookup_iot_profile" name="CIotDataDevice::lookup_iot_profile">
+<area shape="rect" id="node2" href="$d2/d55/classCIotDataDevice.html#ab7254340ba87ad8c89d34a0e9e545df8" title="Update _iot_device_struct and _iot_device_realtime_state_struct with latest device settings data..." alt="" coords="230,5,407,46"/>
+<area shape="rect" id="node3" href="$d2/d55/classCIotDataDevice.html#a1f8f38e6ec3feabee713bbf89ff563ec" title="The initialization routine, which checks for data validity as it initializes the fields for IOT_DATA_..." alt="" coords="457,5,610,46"/>
+</map>

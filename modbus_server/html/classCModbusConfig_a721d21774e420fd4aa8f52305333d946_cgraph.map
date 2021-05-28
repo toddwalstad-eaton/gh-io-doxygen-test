@@ -1,0 +1,6 @@
+<map id="CModbusConfig::CModbusConfig" name="CModbusConfig::CModbusConfig">
+<area shape="rect" id="node2" href="$classCModbusConfig.html#a0eed7f16755c2dc94c5c18aec4656708" title="Threadsafe method to add or remove a device from the _tcp_map. " alt="" coords="297,5,452,46"/>
+<area shape="rect" id="node4" href="$classCModbusCdsHandle.html#a717d5de6eca53b75879167a227762740" title="ToDo: replace with CdsHandler&#39;s init_device_map() and more List the device or sub&#45;devices of the spec..." alt="" coords="285,70,464,111"/>
+<area shape="rect" id="node5" href="$classCModbusConfig.html#a2a313685904bac00accb6666c46dc744" title="Helper function to add sub&#45;device IDs. " alt="" coords="297,135,452,177"/>
+<area shape="rect" id="node3" href="$classCModbusUtil.html#a810fa100a70e436cbe20cbdc3305933d" title="Delete the specified file. " alt="" coords="513,12,693,39"/>
+</map>

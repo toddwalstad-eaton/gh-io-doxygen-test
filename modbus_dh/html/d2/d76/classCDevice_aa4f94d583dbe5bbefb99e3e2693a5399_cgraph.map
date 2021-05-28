@@ -1,0 +1,5 @@
+<map id="CDevice::update_params" name="CDevice::update_params">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#acc926c91d2db0fabebf1a039c06c4b38" title="Checks to see if a given block or channel ID is wanted by subdevices. " alt="" coords="257,5,407,46"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#ab231a1465890affb24529dfe50f6a441" title="Get the parent Port and Device ID tag string (eg, &quot;(p2:d64)&quot; ) for this Device. " alt="" coords="240,71,424,97"/>
+<area shape="rect" id="node4" href="$d4/d3d/log_8hpp.html#abf2f61305d4094a3db0627f445825d5b" title="Test if the desired debug level should produce output for the selected debug subsystem. " alt="" coords="265,121,399,148"/>
+</map>

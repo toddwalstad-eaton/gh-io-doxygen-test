@@ -1,0 +1,79 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$df/df6/classCMercuryMessageHandler.html" title="Mercury Message Handler. " alt="" coords="6,2121,197,2148"/>
+<area shape="rect" id="node2" href="$d9/d85/classCMercuryAckAlarmsRequest.html" title="Implementation of Mercury &quot;CMercuryAckAlarmsRequest&quot; message. " alt="" coords="271,5,476,32"/>
+<area shape="rect" id="node3" href="$dd/d51/classCMercuryAckDevicesAlarmsRequest.html" title="Implementation of Mercury &quot;CMercuryAckDevicesAlarmsRequest&quot; message. " alt="" coords="271,57,476,98"/>
+<area shape="rect" id="node4" href="$da/ddf/classCMercuryAddCertificateRequest.html" title="Implementation of Mercury &quot;AddCertificateRequest&quot; message. " alt="" coords="260,123,487,149"/>
+<area shape="rect" id="node5" href="$d0/d03/classCMercuryAddDeviceRequest.html" title="Implementation of Mercury &quot;CMercuryAddDeviceRequest&quot; message. " alt="" coords="271,173,476,200"/>
+<area shape="rect" id="node6" href="$d0/dc7/classCMercuryApplyCertificateRequest.html" title="Implementation of Mercury &quot;ApplyCrtRequest&quot; message. " alt="" coords="280,225,467,266"/>
+<area shape="rect" id="node7" href="$d2/d49/classCMercuryCancelSubscriptionRequest.html" title="Implementation of Mercury &quot;CMercuryCancelSubscriptionRequest&quot; message. " alt="" coords="270,290,477,331"/>
+<area shape="rect" id="node8" href="$dc/df1/classCMercuryChangePasswordRequest.html" title="Implementation of Mercury &quot;CMercuryChangePasswordRequest&quot; message. " alt="" coords="251,356,496,383"/>
+<area shape="rect" id="node9" href="$d9/dc1/classCMercuryCreateCsrRequest.html" title="Implementation of Mercury &quot;CreateCsrRequest&quot; message. " alt="" coords="274,407,473,433"/>
+<area shape="rect" id="node10" href="$d5/dc0/classCMercuryDelBlobRequest.html" title="Implementation of Mercury &quot;DeleteBlobRequest&quot; message. " alt="" coords="280,457,467,484"/>
+<area shape="rect" id="node11" href="$d2/d56/classCMercuryDisableChannelsRequest.html" title="Implementation of Mercury &quot;CMercuryDisableChannelsRequest&quot; message. " alt="" coords="251,508,495,535"/>
+<area shape="rect" id="node12" href="$dd/d90/classCMercuryDisableDevicesRequest.html" title="Implementation of Mercury &quot;CMercuryDisableDeviceRequest&quot; message. " alt="" coords="255,559,491,585"/>
+<area shape="rect" id="node13" href="$d3/ddc/classCMercuryDisarmChannelsRequest.html" title="Implementation of Mercury &quot;CMercuryDisarmChannelsRequest&quot; message. " alt="" coords="252,609,495,636"/>
+<area shape="rect" id="node14" href="$da/d7e/classCMercuryEcho.html" title="Implementation of Mercury &quot;Echo&quot; message. " alt="" coords="316,660,431,687"/>
+<area shape="rect" id="node15" href="$d0/dbe/classCMercuryExecuteCommandRequest.html" title="The Mercury API to trigger device command execution. " alt="" coords="246,711,501,737"/>
+<area shape="rect" id="node16" href="$d5/d26/classCMercuryGetAlarmConfigRequest.html" title="Implementation of Mercury &quot;CMercuryGetAlarmConfigRequest&quot; message. " alt="" coords="254,761,493,788"/>
+<area shape="rect" id="node17" href="$dc/d22/classCMercuryGetAlarmsSingleUpdateRequest.html" title="Implementation of Mercury &quot;CMercuryGetAlarmsSingleUpdateRequest&quot; message. " alt="" coords="254,813,493,854"/>
+<area shape="rect" id="node18" href="$de/d72/classCMercuryGetAlarmUpdateGlobalCountRequest.html" title="Implementation of Mercury &quot;CMercuryGetAlarmUpdateGlobalCountRequest&quot; message. " alt="" coords="256,878,491,919"/>
+<area shape="rect" id="node19" href="$de/dfc/classCMercuryGetAlarmUpdatesByIdRequest.html" title="Implementation of Mercury &quot;CMercuryGetAlarmUpdatesByIdRequest&quot; message. " alt="" coords="265,943,481,985"/>
+<area shape="rect" id="node20" href="$d4/ddf/classCMercuryGetAlarmUpdatesRequest.html" title="Implementation of Mercury &quot;CMercuryGetAlarmUpdatesRequest&quot; message. " alt="" coords="248,1009,499,1036"/>
+<area shape="rect" id="node21" href="$de/dfb/classCMercuryGetBlobInfoRequest.html" title="Implementation of Mercury &quot;GetBlobInfoRequest&quot; message. " alt="" coords="267,1060,479,1087"/>
+<area shape="rect" id="node22" href="$d1/d70/classCMercuryGetBlobListRequest.html" title="Implementation of Mercury &quot;GetBlobListRequest&quot; message. " alt="" coords="268,1111,479,1137"/>
+<area shape="rect" id="node23" href="$dc/dd5/classCMercuryGetBlobRequest.html" title="Implementation of Mercury &quot;GetBlobRequest&quot; message. " alt="" coords="280,1161,467,1188"/>
+<area shape="rect" id="node24" href="$d6/d65/classCMercuryGetCertificateInfoRequest.html" title="Implementation of Mercury &quot;GetCertInfoRequest&quot; message. " alt="" coords="274,1213,473,1254"/>
+<area shape="rect" id="node25" href="$d3/d25/classCMercuryGetCertificatePemRequest.html" title="Implementation of Mercury &quot;GetCertPemRequest&quot; message. " alt="" coords="272,1278,475,1319"/>
+<area shape="rect" id="node26" href="$d4/daf/classCMercuryGetChannelRealtimeRequest.html" title="Implementation of Mercury &quot;GetchannelsRealtimeRequest&quot; message. " alt="" coords="265,1343,482,1385"/>
+<area shape="rect" id="node27" href="$d8/d78/classCMercuryGetChannelsRequest.html" title="Implementation of Mercury &quot;GetchannelsRealtimeRequest&quot; message. " alt="" coords="264,1409,483,1436"/>
+<area shape="rect" id="node28" href="$dd/de1/classCMercuryGetCommandResultRequest.html" title="The Mercury API to query a device command&#39;s execution result. " alt="" coords="267,1461,480,1502"/>
+<area shape="rect" id="node29" href="$d2/d57/classCMercuryGetCommandsRequest.html" title="The Mercury API to allow device commands discovery. " alt="" coords="257,1527,489,1553"/>
+<area shape="rect" id="node30" href="$de/d23/classCMercuryGetCsrPemRequest.html" title="Implementation of Mercury &quot;GetCsrPemRequest&quot; message. " alt="" coords="269,1577,477,1604"/>
+<area shape="rect" id="node31" href="$dc/de6/classCMercuryGetCsrRequest.html" title="Implementation of Mercury &quot;GetCsrRequest&quot; message. " alt="" coords="284,1628,463,1655"/>
+<area shape="rect" id="node32" href="$da/df6/classCMercuryGetCsrTimestampRequest.html" title="Implementation of Mercury &quot;GetCsrTimestampRequest&quot; message. " alt="" coords="247,1679,500,1705"/>
+<area shape="rect" id="node33" href="$d5/d8b/classCMercuryGetDeviceRealtimeRequest.html" title="Implementation of Mercury &quot;CMercuryGetDeviceRealtimeRequest&quot; message. " alt="" coords="269,1730,478,1771"/>
+<area shape="rect" id="node34" href="$d0/d5d/classCMercuryGetDevicesRequest.html" title="Implementation of Mercury &quot;GetDevicesRequest&quot; message. " alt="" coords="268,1796,479,1823"/>
+<area shape="rect" id="node35" href="$da/d8f/classCMercuryGetOpenAlarmIdsRequest.html" title="Implementation of Mercury &quot;CMercuryGetOpenAlarmIdsRequest&quot; message. " alt="" coords="248,1847,499,1873"/>
+<area shape="rect" id="node36" href="$d1/d15/classCMercuryGetProtocolVersionRequest.html" title="Implementation of Mercury &quot;CMercuryGetProtocolVersionRequest&quot; message. " alt="" coords="270,1898,477,1939"/>
+<area shape="rect" id="node37" href="$de/dca/classCMercuryGetServiceInfoRequest.html" title="Implementation of Mercury &quot;ServiceInfoRequest&quot; message. " alt="" coords="258,1964,489,1991"/>
+<area shape="rect" id="node38" href="$d2/d25/classCMercuryGetSubscriptionDetailsRequest.html" title="Implementation of Mercury &quot;CMercuryGetSubscriptionDetailsRequest&quot; message. " alt="" coords="257,2015,489,2057"/>
+<area shape="rect" id="node39" href="$d4/d75/classCMercuryGetSubscriptionIdsRequest.html" title="Implementation of Mercury &quot;CMercuryGetSubscriptionIdsRequest&quot; message. " alt="" coords="271,2081,476,2122"/>
+<area shape="rect" id="node40" href="$de/d4c/classCMercuryGetSupportedLocalesRequest.html" title="Implementation of Mercury &quot;CMercuryGetSupportedLocalesRequest&quot; message. " alt="" coords="263,2146,484,2187"/>
+<area shape="rect" id="node41" href="$d3/d4b/classCMercuryGetTimeRequest.html" title="Implementation of Mercury &quot;CMercuryGetTimeRequest&quot; message. " alt="" coords="278,2212,469,2239"/>
+<area shape="rect" id="node42" href="$da/de5/classCMercuryGetToolkitConfigRequest.html" title="Implementation of Mercury &quot;GetchannelsRealtimeRequest&quot; message. " alt="" coords="278,2263,469,2305"/>
+<area shape="rect" id="node43" href="$d1/ddf/classCMercuryGetTrendConfigurationsRequest.html" title="Request the Trend Configuration for every Channel specified in the ChannelSelector. " alt="" coords="256,2329,491,2370"/>
+<area shape="rect" id="node44" href="$d6/dd4/classCMercuryGetTrendSnapshotsRequest.html" title="Implementation of Mercury &quot;CMercuryGetTrendSnapshotsRequest&quot; message. " alt="" coords="269,2394,477,2435"/>
+<area shape="rect" id="node45" href="$d8/dd4/classCMercuryGetTrendsRequest.html" title="Implementation of Mercury &quot;CMercuryGetTrendsRequest&quot; message, for the UI trendviewer. " alt="" coords="273,2460,473,2487"/>
+<area shape="rect" id="node46" href="$d3/d84/classCMercuryGetUserPolicyRequest.html" title="Implementation of Mercury &quot;GetUserPolicyRequest&quot; message. " alt="" coords="260,2511,487,2537"/>
+<area shape="rect" id="node47" href="$dd/d46/classCMercuryGetUsersRequest.html" title="The Mercury API to implement the GetUsersRequest. " alt="" coords="276,2561,471,2588"/>
+<area shape="rect" id="node48" href="$db/d4c/classCMercuryListCertificateRequest.html" title="Implementation of Mercury &quot;ListCertificateRequest&quot; message. " alt="" coords="261,2612,486,2639"/>
+<area shape="rect" id="node49" href="$d2/dff/classCMercuryListPermissionsRequest.html" title="Implementation of Mercury &quot;CMercuryListPermissionsRequest&quot; message. " alt="" coords="255,2663,492,2689"/>
+<area shape="rect" id="node50" href="$d7/d1b/classCMercuryListRolesRequest.html" title="The Mercury API to implement the ListRolesRequest. " alt="" coords="277,2713,470,2740"/>
+<area shape="rect" id="node51" href="$d1/d86/classCMercuryListServicesRequest.html" title="Implementation of Mercury &quot;ListServicesRequest&quot; message. " alt="" coords="267,2764,480,2791"/>
+<area shape="rect" id="node52" href="$d8/d78/classCMercuryListToolkitConfigRequest.html" title="Implementation of Mercury &quot;GetchannelsRealtimeRequest&quot; message. " alt="" coords="278,2815,469,2857"/>
+<area shape="rect" id="node53" href="$d6/dd9/classCMercuryLoginRequest.html" title="Implementation of Mercury &quot;CMercuryLoginRequest&quot; message. " alt="" coords="288,2881,459,2908"/>
+<area shape="rect" id="node54" href="$d8/dd8/classCMercuryPutBlobReadyRequest.html" title="Implementation of Mercury &quot;PutBlobReadyRequest&quot; message. " alt="" coords="261,2932,486,2959"/>
+<area shape="rect" id="node55" href="$d1/d91/classCMercuryPutBlobRequest.html" title="Implementation of Mercury &quot;PutBlobRequest&quot; message. " alt="" coords="281,2983,466,3009"/>
+<area shape="rect" id="node56" href="$d0/d61/classCMercuryRebootRequest.html" title="Implementation of Mercury &quot;CMercuryRebootRequest&quot; message. " alt="" coords="283,3033,463,3060"/>
+<area shape="rect" id="node57" href="$df/de4/classCMercuryRemoveDevicesRequest.html" title="Implementation of Mercury &quot;CMercuryRemoveDevicesRequest&quot; message. " alt="" coords="253,3084,493,3111"/>
+<area shape="rect" id="node58" href="$df/d2d/classCMercuryRemoveRoleRequest.html" title="The Mercury API to implement the RemoveRoleRequest. " alt="" coords="265,3135,481,3161"/>
+<area shape="rect" id="node59" href="$d8/d28/classCMercuryRemoveToolkitConfigRequest.html" title="Implementation of Mercury &quot;GetchannelsRealtimeRequest&quot; message. " alt="" coords="263,3186,483,3227"/>
+<area shape="rect" id="node60" href="$de/d1f/classCMercuryRemoveUserRequest.html" title="The Mercury API to implement the RemoveUserRequest. " alt="" coords="264,3252,483,3279"/>
+<area shape="rect" id="node61" href="$d1/d00/classCMercuryRevokeCertificateRequest.html" title="Implementation of Mercury &quot;RevokeCertificateRequest&quot; message. " alt="" coords="274,3303,473,3345"/>
+<area shape="rect" id="node62" href="$d8/d02/classCMercurySetAlarmConfigRequest.html" title="Implementation of Mercury &quot;CMercurySetAlarmConfigRequest&quot; message. " alt="" coords="255,3369,491,3396"/>
+<area shape="rect" id="node63" href="$d0/dce/classCMercurySetChannelValuesRequest.html" title="Implementation of Mercury &quot;CMercurySetChannelValuesRequest&quot; message. " alt="" coords="273,3421,473,3462"/>
+<area shape="rect" id="node64" href="$d1/d5a/classCMercurySetDevicePropertiesRequest.html" title="Implementation of Mercury &quot;CMercurySetDevicePropertiesRequest&quot; message. " alt="" coords="266,3486,481,3527"/>
+<area shape="rect" id="node65" href="$d9/d2f/classCMercurySetToolkitConfigRequest.html" title="Implementation of Mercury &quot;GetchannelsRealtimeRequest&quot; message. " alt="" coords="279,3551,467,3593"/>
+<area shape="rect" id="node66" href="$d7/d03/classCMercurySetTrendConfigurationRequest.html" title="Implementation of Mercury &quot;CMercurySetTrendConfigurationRequest&quot; message. " alt="" coords="260,3617,487,3658"/>
+<area shape="rect" id="node67" href="$d6/dc9/classCMercurySetUserPolicyRequest.html" title="Implementation of Mercury &quot;SetUserPolicyRequest&quot; message. " alt="" coords="261,3683,486,3709"/>
+<area shape="rect" id="node68" href="$d3/d5e/classCMercurySubscribeAlarmsRequest.html" title="Implementation of Mercury &quot;CMercurySubscribeAlarmsRequest&quot; message. " alt="" coords="251,3733,495,3760"/>
+<area shape="rect" id="node69" href="$d1/dec/classCMercurySubscribeChannelRealtimeRequest.html" title="Implementation of Mercury &quot;CMercurySubscribeChannelRealtimeRequest&quot; message. " alt="" coords="274,3785,473,3826"/>
+<area shape="rect" id="node70" href="$d3/d9d/classCMercurySubscribeDeviceStatesRequest.html" title="Implementation of Mercury &quot;CMercurySubscribeDeviceStatesRequest&quot; message. " alt="" coords="257,3850,489,3891"/>
+<area shape="rect" id="node71" href="$d1/d95/classCMercurySubscribeStructureRequest.html" title="Implementation of Mercury &quot;CMercurySubscribeStructureRequest&quot; message. " alt="" coords="271,3915,476,3957"/>
+<area shape="rect" id="node72" href="$d1/d91/classCMercurySubscribeToolkitConfigRequest.html" title="Implementation of Mercury &quot;SubscribeToolkitConfigurationRequest&quot; message. " alt="" coords="279,3981,468,4022"/>
+<area shape="rect" id="node73" href="$d1/d87/classCMercuryUpdateChannelRealtimeSubscriptionRequest.html" title="Implementation of Mercury &quot;CMercuryUpdateChannelRealtimeSubscriptionRequest&quot; message. " alt="" coords="253,4046,494,4087"/>
+<area shape="rect" id="node74" href="$d9/df9/classCMercuryUpdateRoleRequest.html" title="The Mercury API to implement the UpdateRoleRequest. " alt="" coords="268,4112,479,4139"/>
+<area shape="rect" id="node75" href="$de/dea/classCMercuryUpdateToolkitConfigSubscriptionRequest.html" title="Implementation of Mercury &quot;CMercuryUpdateToolkitConfigurationSubscriptionRequest&quot; message..." alt="" coords="266,4163,481,4205"/>
+<area shape="rect" id="node76" href="$d8/d79/classCMercuryUpdateUsersRequest.html" title="The Mercury API to implement the UpdateUserRequest. " alt="" coords="264,4229,483,4256"/>
+<area shape="rect" id="node77" href="$d6/d92/classCMercuryWhoAmIRequest.html" title="Implementation of Mercury &quot;WhoAmI&quot; message. " alt="" coords="278,4280,469,4307"/>
+</map>

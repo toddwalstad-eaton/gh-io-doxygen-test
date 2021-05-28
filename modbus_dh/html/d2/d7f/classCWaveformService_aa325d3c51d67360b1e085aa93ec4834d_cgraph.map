@@ -1,0 +1,7 @@
+<map id="CWaveformService::cleanup_waveform_space" name="CWaveformService::cleanup_waveform_space">
+<area shape="rect" id="node2" href="$dc/dd4/waveform__service_8cpp.html#a0a86d4dac935946d77ec1b1b223402c9" title="get_files_from_dir" alt="" coords="277,5,416,32"/>
+<area shape="rect" id="node3" href="$d2/d7f/classCWaveformService.html#a015a528a309236a2a24f0e017e6139fc" title="Gets the size and number of files in a directory path. " alt="" coords="259,57,434,98"/>
+<area shape="rect" id="node4" href="$dc/dd4/waveform__service_8cpp.html#a2bc1e6607e522abe1e5d0640ae56e5b3" title="to_export_path" alt="" coords="287,123,407,149"/>
+<area shape="rect" id="node6" href="$d2/d7f/classCWaveformService.html#afe52c80a7cb9d1c1bb4a894a2391e363" title="CWaveformService::set\l_waveform_available" alt="" coords="259,174,434,215"/>
+<area shape="rect" id="node5" href="$d2/d7f/classCWaveformService.html#abcf03dc7eaacadfd726ec5306936ae41" title="Getter for the waveform export path. " alt="" coords="483,115,658,157"/>
+</map>

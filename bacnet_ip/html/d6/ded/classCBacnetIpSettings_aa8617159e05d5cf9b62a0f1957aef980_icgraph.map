@@ -1,0 +1,4 @@
+<map id="CBacnetIpSettings::update_bacnet_oob" name="CBacnetIpSettings::update_bacnet_oob">
+<area shape="rect" id="node2" href="$d6/ded/classCBacnetIpSettings.html#af3965ff28b4ab362b3cf6ede9e21aefb" title="Since someone changed a BACnet Device Object ID, we have to update our device instance and save it to..." alt="" coords="208,5,357,46"/>
+<area shape="rect" id="node3" href="$d6/ded/classCBacnetIpSettings.html#a82199f7d27371f45d6881f5463aad1f0" title="Since someone changed a BACnet Device Object Name, we have to update our device instance and save it ..." alt="" coords="203,70,362,111"/>
+</map>

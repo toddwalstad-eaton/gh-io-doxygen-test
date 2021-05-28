@@ -1,0 +1,5 @@
+<map id="CDevice::mark_block_profiled" name="CDevice::mark_block_profiled">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#ab231a1465890affb24529dfe50f6a441" title="Get the parent Port and Device ID tag string (eg, &quot;(p2:d64)&quot; ) for this Device. " alt="" coords="213,5,397,32"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#a184036fc7dad41da587f9fd8790a2699" title="CDevice::unprofiled\l_blocks_remain" alt="" coords="231,57,380,98"/>
+<area shape="rect" id="node4" href="$d2/d76/classCDevice.html#abac1fe55b006dfb7cf69e1b52cfa0f0e" title="Getter for one DataBlock, from its ID. " alt="" coords="445,64,616,91"/>
+</map>

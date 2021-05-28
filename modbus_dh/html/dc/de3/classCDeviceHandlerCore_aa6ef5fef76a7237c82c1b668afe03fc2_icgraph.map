@@ -1,0 +1,6 @@
+<map id="CDeviceHandlerCore::config_process" name="CDeviceHandlerCore::config_process">
+<area shape="rect" id="node2" href="$dc/de3/classCDeviceHandlerCore.html#a9d793bdad4cbef0b046aa1e297b6327f" title="Fetch port configuration and create serial port object and its devices. " alt="" coords="215,5,372,46"/>
+<area shape="rect" id="node5" href="$dc/de3/classCDeviceHandlerCore.html#a654b27ee11387b0717381d61da0aa1cc" title="Fetch port configuration and create network port object and its devices. " alt="" coords="211,70,375,111"/>
+<area shape="rect" id="node3" href="$dc/de3/classCDeviceHandlerCore.html#a2f61bd2758f039bdf6fd36db67a0f7dd" title="This function sets up the configuration for the main loop(). " alt="" coords="424,38,581,79"/>
+<area shape="rect" id="node4" href="$d0/da8/group__DH__Startup.html#ga0ddf1224851353fc92bfbff6f499fa97" title="The program entry point, main(). " alt="" coords="630,45,685,72"/>
+</map>

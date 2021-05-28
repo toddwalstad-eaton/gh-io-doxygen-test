@@ -1,0 +1,12 @@
+<map id="CBacnetDeviceObject::initialize_subdevice_settings" name="CBacnetDeviceObject::initialize_subdevice_settings">
+<area shape="rect" id="node2" href="$d9/dd7/classCBacnetDeviceObject.html#a21101cc2c2c13faf230d26efbea566e1" title="Given the subdevice data, calculate the BACnet Object&#45;ID we will always have for its associated Struc..." alt="" coords="244,7,407,63"/>
+<area shape="rect" id="node4" href="$d3/d11/classCBacnetStructuredViewObject.html#ad758a0a0aa3cc4449c439eda12b98c35" title="Initializes or updates the subdevice objects which can be created from the channel data..." alt="" coords="217,87,434,143"/>
+<area shape="rect" id="node3" href="$d3/d11/classCBacnetStructuredViewObject.html#a6dc888dcf19520574d8c0f85f08eb457" title="Utility function to return the calculated Object ID to use for a new StructuredView object..." alt="" coords="483,14,701,55"/>
+<area shape="rect" id="node5" href="$db/d33/classCBacnetPointObject.html#a7334fea712036b4ca9610d4f0a0d73e2" title="Static factory function to create a Point Object instance (not from Channel Settings). " alt="" coords="517,86,667,127"/>
+<area shape="rect" id="node6" href="$db/d33/classCBacnetPointObject.html#a5a67e743bfeeda892c5d1547ecdc471a" title="Given this Point&#39;s Channel Settings, determine which (if any) need to be stored in the _field_map for..." alt="" coords="502,151,682,193"/>
+<area shape="rect" id="node7" href="$db/d33/classCBacnetPointObject.html#a3254b27dc375c4bd6d60acfa77469120" title="This implements lock for accessing object property as it may happen that for optional properties like..." alt="" coords="789,5,944,61"/>
+<area shape="rect" id="node8" href="$db/d33/classCBacnetPointObject.html#a34bf0c52d2575c6c728966c3dca5c684" title="Update the BACnet object instance property list based on diferent optional settings available in chan..." alt="" coords="763,86,971,127"/>
+<area shape="rect" id="node9" href="$db/d33/classCBacnetPointObject.html#ab9597063ce58d06c08fcdc0126e9c94a" title="Gets the list of Properties (the Required and the implemented Optional and Proprietary ones) availabl..." alt="" coords="766,151,967,193"/>
+<area shape="rect" id="node10" href="$dd/d0a/classCBacnetObject.html#a10c6a7ab5827a1de1ea3b1d97513a4f3" title="Getter for this object&#39;s Object_Name. " alt="" coords="749,217,984,244"/>
+<area shape="rect" id="node11" href="$db/d33/classCBacnetPointObject.html#a686af16613dcfd3b65a52dc7961fb931" title="This releases the lock to access the object property array. " alt="" coords="776,268,957,324"/>
+</map>

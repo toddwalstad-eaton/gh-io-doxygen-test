@@ -1,0 +1,7 @@
+<map id="CIotDeviceClient::request_client_state" name="CIotDeviceClient::request_client_state">
+<area shape="rect" id="node2" href="$dd/d68/classCIotDeviceClient.html#a8e205d4c1ccf4497b49a527f84635f8f" title="Callback invoked by CdsHandler when a Device is about to be removed from our map. ..." alt="" coords="243,5,437,46"/>
+<area shape="rect" id="node4" href="$dd/d68/classCIotDeviceClient.html#aa90dd3f0c575294f26cd3f23ed304337" title="Callback invoked by CdsHandler when a Device state is updated. " alt="" coords="243,70,437,111"/>
+<area shape="rect" id="node5" href="$dd/d68/classCIotDeviceClient.html#a599b1389d240022c14b03437d3ab43c2" title="Callback invoked by CdsHandler when an existing Device is updated. " alt="" coords="243,135,437,177"/>
+<area shape="rect" id="node6" href="$dd/d68/classCIotDeviceClient.html#a8a9607414b185ad47c87d7b17e1667e0" title="Application callback invoked by CdsHandler when it gets the ChannelSettings for a device..." alt="" coords="243,201,437,242"/>
+<area shape="rect" id="node3" href="$dd/d68/classCIotDeviceClient.html#a20352e404497ab3b8f107dadddd83df7" title="Initialize this client and setup the CDS callbacks and message handlers, and kick off device discover..." alt="" coords="485,111,680,137"/>
+</map>

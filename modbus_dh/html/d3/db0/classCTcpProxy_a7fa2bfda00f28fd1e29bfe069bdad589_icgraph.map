@@ -1,0 +1,15 @@
+<map id="CTcpProxy::send_error_response" name="CTcpProxy::send_error_response">
+<area shape="rect" id="node2" href="$d3/db0/classCTcpProxy.html#aa4edd79a769a44053aae9dc8433e658e" title="Callback function for Boost.Asio upon accepting a new connection. " alt="" coords="219,63,395,89"/>
+<area shape="rect" id="node10" href="$d2/d95/classCTcpSession.html#ae497f58131f4b8a7934b0226240cdd98" title="Callback function for Boost.Asio when upstream connection attempt times out. " alt="" coords="457,114,620,155"/>
+<area shape="rect" id="node12" href="$d2/d95/classCTcpSession.html#a77ad300740e82b8d694aba3f9b608a83" title="Callback function for Boost.Asio upon accepting a new connection. " alt="" coords="683,210,837,251"/>
+<area shape="rect" id="node13" href="$d2/d95/classCTcpSession.html#a6ebff77c6b2b1efb4dc42efbd06f1461" title="Callback function to handle reads from the downstream connection. " alt="" coords="229,257,384,298"/>
+<area shape="rect" id="node3" href="$d3/db0/classCTcpProxy.html#ab58908366b749fb3ae37f02a012ece58" title="Callback function for Boost.Asio upon accepting a new connection. " alt="" coords="443,12,634,39"/>
+<area shape="rect" id="node4" href="$d3/db0/classCTcpProxy.html#afae841e5fedc33c2eb8733fd47029c17" title="Asynchronously accept a new connection. " alt="" coords="691,12,829,39"/>
+<area shape="rect" id="node5" href="$d3/db0/classCTcpProxy.html#ae353c48b3a892f6d659acf4f19fdbf2c" title="Constructor. " alt="" coords="885,12,1048,39"/>
+<area shape="rect" id="node6" href="$d3/db0/classCTcpProxy.html#a24d8c1a76f4c79cc465ff312c9c966c2" title="Factory function to create a new CTcpProxy server object. " alt="" coords="1097,12,1234,39"/>
+<area shape="rect" id="node7" href="$d6/d71/classCModbusTcpPort.html#a4a2359e0327ffb86a75fd89bf10ce980" title="Open the pass&#45;through socket port &amp; handling, if enabled. " alt="" coords="1283,5,1451,46"/>
+<area shape="rect" id="node8" href="$d6/d71/classCModbusTcpPort.html#a9dd6e9eb42463f8da3cc59fd250d9280" title="(Virtual) Factory method to create the port &quot;Connection&quot; Actor (eg, CSerialConnection). " alt="" coords="1710,5,1887,46"/>
+<area shape="rect" id="node9" href="$d6/d71/classCModbusTcpPort.html#aee1a3c60912ba0cbd1778fd75ef98a59" title="The callback function that we provide to the CDS to handle updates to ServiceAccessCtrl oob data..." alt="" coords="1499,34,1661,75"/>
+<area shape="rect" id="node11" href="$d2/d95/classCTcpSession.html#ab9abed61ca70d35b451a378a793b32ca" title="Ininiates connection to the upstream client with downstream data passed in from the proxy server..." alt="" coords="897,175,1037,201"/>
+<area shape="rect" id="node14" href="$d2/d95/classCTcpSession.html#a116d2a4d8efb670943f074fa49b653ba" title="Callback function to handle writes to the upstream connection. " alt="" coords="461,282,616,323"/>
+</map>

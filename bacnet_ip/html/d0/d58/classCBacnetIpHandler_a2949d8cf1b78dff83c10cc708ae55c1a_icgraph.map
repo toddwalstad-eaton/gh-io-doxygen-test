@@ -1,0 +1,4 @@
+<map id="CBacnetIpHandler::register_as_foreign_device" name="CBacnetIpHandler::register_as_foreign_device">
+<area shape="rect" id="node2" href="$d0/d58/classCBacnetIpHandler.html#a64101e782a5defbbb73b68e0758400db" title="Initialize the service configuration for the bacnet&#45;stack functions. " alt="" coords="267,5,435,46"/>
+<area shape="rect" id="node3" href="$d0/d58/classCBacnetIpHandler.html#a21f0eab1241ddb158f52ee0ab65e4303" title="Timeout callback invoked when the ASIO timer for BBMD registration expires. " alt="" coords="251,71,450,97"/>
+</map>

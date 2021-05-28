@@ -1,0 +1,5 @@
+<map id="CBlobFileAccess::init" name="CBlobFileAccess::init">
+<area shape="rect" id="node2" href="$d2/d13/classCBlobFolderConfig.html#a7430af9faa6a81071db18b86ff0d8e66" title="Initialization function that will create the base folder if it does not exist. " alt="" coords="211,5,360,46"/>
+<area shape="rect" id="node3" href="$d2/d13/classCBlobFolderConfig.html#a2dbfa9bd783867752c896244d51a2a60" title="Add a new folder_path to this instance&#39;s set of _child_folders. " alt="" coords="408,5,557,46"/>
+<area shape="rect" id="node4" href="$d2/d13/classCBlobFolderConfig.html#a868f524630107979938754ba4e6d680e" title="Given a real folder_path, remove the base path and return just the child portion. ..." alt="" coords="605,5,755,46"/>
+</map>

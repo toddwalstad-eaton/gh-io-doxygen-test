@@ -1,0 +1,11 @@
+<map id="certmanager::NetworkInfo::NetworkInfo" name="certmanager::NetworkInfo::NetworkInfo">
+<area shape="rect" id="node2" href="$d8/d66/classcertmanager_1_1ServiceConfiguration.html#a0b6a3a115c51f3c7fc2d97b60a3ff7d9" title="certmanager::ServiceConfiguration\l::isFQDNInclude" alt="" coords="252,5,500,46"/>
+<area shape="rect" id="node3" href="$d2/dcb/classcertmanager_1_1NetworkConfiguration.html#ab18e9e20ef26b61cfcd4557c1c959c55" title="certmanager::NetworkConfiguration\l::getInstance" alt="" coords="249,70,503,111"/>
+<area shape="rect" id="node4" href="$d2/dcb/classcertmanager_1_1NetworkConfiguration.html#a84b9c5c26478da13e3c421c9f2281031" title="This function gets a list of all DNS interfaces. " alt="" coords="249,135,503,177"/>
+<area shape="rect" id="node5" href="$d8/d66/classcertmanager_1_1ServiceConfiguration.html#af30a09d1a606d89c4735748e4606fe17" title="certmanager::ServiceConfiguration\l::getNetworkInterfacesNames" alt="" coords="252,201,500,242"/>
+<area shape="rect" id="node6" href="$d2/dcb/classcertmanager_1_1NetworkConfiguration.html#afec63487935638fd6bd33f158b98dd2f" title="This function verifies whether the given interface is off. " alt="" coords="249,266,503,307"/>
+<area shape="rect" id="node7" href="$d2/dcb/classcertmanager_1_1NetworkConfiguration.html#aa891022ee68303472bb9ff9808d834f6" title="This function returns whether an interface exists on the device. " alt="" coords="553,201,807,242"/>
+<area shape="rect" id="node9" href="$d2/dcb/classcertmanager_1_1NetworkConfiguration.html#aed764579462cdce7a93ab425528e489f" title="This function gets a list of ipv4 addresses. " alt="" coords="553,266,807,307"/>
+<area shape="rect" id="node10" href="$d2/dcb/classcertmanager_1_1NetworkConfiguration.html#a27472851f526366f3230cd69b4a1c601" title="This function gets a list of ipv6 addresses. " alt="" coords="553,331,807,373"/>
+<area shape="rect" id="node8" href="$d2/dcb/classcertmanager_1_1NetworkConfiguration.html#a54776c83386f1580520b9d9fb79c97d3" title="certmanager::NetworkConfiguration\l::interfaceIndex" alt="" coords="857,266,1111,307"/>
+</map>

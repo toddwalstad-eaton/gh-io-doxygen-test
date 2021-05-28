@@ -1,0 +1,4 @@
+<map id="certmanagerApi::CertmanagerService::getTrustedClient" name="certmanagerApi::CertmanagerService::getTrustedClient">
+<area shape="rect" id="node2" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a23c24b64d950ca0674958d73905d0322" title="Read the data of certificate from path provided. " alt="" coords="272,5,491,46"/>
+<area shape="rect" id="node3" href="$dc/dba/classcertmanager_1_1Tools.html#ad0dcb87f909dd94559f03213b50feeb4" title="This API tells if a file exists in the system. " alt="" coords="539,5,685,46"/>
+</map>

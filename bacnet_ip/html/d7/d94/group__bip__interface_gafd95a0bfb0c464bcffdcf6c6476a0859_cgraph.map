@@ -1,0 +1,9 @@
+<map id="bip_send_pdu" name="bip_send_pdu">
+<area shape="rect" id="node2" href="$d7/d94/group__bip__interface.html#gacf4d82c08beac50cdfa09b5cbbf5bde1" title="Function to add BVLC support to PDU data and then send a packet out the BACnet/IP socket (Annex J)..." alt="" coords="166,100,285,127"/>
+<area shape="rect" id="node3" href="$d0/d58/classCBacnetIpHandler.html#a151ba4bf21f21396507001987bb82bff" title="The common send function for BVLC functions, using BACnet/IP. " alt="" coords="334,93,509,134"/>
+<area shape="rect" id="node4" href="$d0/d58/classCBacnetIpHandler.html#a656388fdc68188b1e657f10877a10f9e" title="Send a buffer as a unicast BACnet/IP packet to the given destination address. " alt="" coords="573,27,752,69"/>
+<area shape="rect" id="node7" href="$d0/d58/classCBacnetIpHandler.html#a54fa5f3a188b958a1f50eb861bda7e01" title="Send a BVLC message (BVLC header + PDU data) to the BBMD. " alt="" coords="575,93,750,134"/>
+<area shape="rect" id="node8" href="$d0/d58/classCBacnetIpHandler.html#a9de2a4857ee9c38956a9526e506c7a15" title="Broadcast a BACnet/IP packet. " alt="" coords="557,158,768,199"/>
+<area shape="rect" id="node5" href="$d7/d94/group__bip__interface.html#ga51d8943ac2b970c0e048a4023869f643" title="Returns the current BVLL Function Code we are processing. " alt="" coords="818,5,993,32"/>
+<area shape="rect" id="node6" href="$d0/d58/classCBacnetIpHandler.html#a88d9352fc35880e6f0f22eac0c64c3be" title="Send a buffer as a unicast BACnet/IP packet specifically to the given destination address..." alt="" coords="816,57,995,98"/>
+</map>

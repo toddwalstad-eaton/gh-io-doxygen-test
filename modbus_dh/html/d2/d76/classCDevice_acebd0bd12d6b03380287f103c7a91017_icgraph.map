@@ -1,0 +1,5 @@
+<map id="CDevice::remove_blocks_and_children" name="CDevice::remove_blocks_and_children">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#a2b6500949396a4d972e94118dd4687e7" title="Cleanup any remaining junk, once profiling is complete. " alt="" coords="238,12,429,39"/>
+<area shape="rect" id="node4" href="$d7/d46/classCModbusDevice.html#aef2c0d00d463c14c535a6f4ed457e7aa" title="Called from the Data Block to handle a device communication error. " alt="" coords="244,63,423,105"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#a00f0cf46dca1ac48b5f397b435ef867a" title="Called from the Data Block to handle its done state and manage received data. " alt="" coords="477,5,648,46"/>
+</map>

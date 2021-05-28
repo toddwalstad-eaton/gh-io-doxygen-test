@@ -1,0 +1,5 @@
+<map id="CTrendStore::get_stage_db" name="CTrendStore::get_stage_db">
+<area shape="rect" id="node2" href="$classCTrendStore.html#ad1c7deb03bf9c342c8ca5e554f2f8cf2" title="Stores trends update from the accumulators to the stage db. " alt="" coords="256,5,397,32"/>
+<area shape="rect" id="node4" href="$classCTrendStore.html#a8a35bb8b7a967d2dc7664282ffa0f717" title="Create today&#39;s stage db if not existing, during the startup. " alt="" coords="249,57,405,98"/>
+<area shape="rect" id="node3" href="$classCTrendStore.html#a7adaa6fa7bd22a8800383313c072dd89" title="Import from CSV. " alt="" coords="454,5,647,32"/>
+</map>

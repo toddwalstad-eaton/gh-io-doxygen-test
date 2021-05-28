@@ -1,0 +1,4 @@
+<map id="CPcdMib::delete_device" name="CPcdMib::delete_device">
+<area shape="rect" id="node2" href="$d2/db3/classCPcdMib.html#ab5431e84bb5a143716343effef9560a0" title="Remove all the row entries for this device from all of this MIB&#39;s tables. " alt="" coords="230,12,453,39"/>
+<area shape="rect" id="node3" href="$d3/d1d/classCMmedsNodeTableEntry.html#ac5ada2871a3cd95b9f791123accfb616" title="A static function to split a row key value into its Primary and Secondary OIDs. " alt="" coords="502,5,682,46"/>
+</map>

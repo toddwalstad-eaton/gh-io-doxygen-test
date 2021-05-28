@@ -1,0 +1,4 @@
+<map id="CModbusDeviceSetpoints::is_setpoints_command" name="CModbusDeviceSetpoints::is_setpoints_command">
+<area shape="rect" id="node2" href="$d2/d08/classCModbusDeviceSetpoints.html#ac590ce8efe052591eaf231d3e54df15b" title="Is the command name a setpoints read command. " alt="" coords="243,5,459,46"/>
+<area shape="rect" id="node3" href="$d2/d08/classCModbusDeviceSetpoints.html#a991a9b42a8722d70cd796aaef2524a2d" title="Is the command name a setpoints write command. " alt="" coords="241,70,461,111"/>
+</map>

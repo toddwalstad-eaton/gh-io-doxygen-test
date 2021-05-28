@@ -1,0 +1,4 @@
+<map id="CModbusTcpUnitSettings::CModbusTcpUnitSettings" name="CModbusTcpUnitSettings::CModbusTcpUnitSettings">
+<area shape="rect" id="node2" href="$classCModbusCdsHandle.html#abcbc77e743d206b8495b2bc737431585" title="Utility function to read a full OOB object from the CDS, given a Device ID. " alt="" coords="267,5,477,32"/>
+<area shape="rect" id="node3" href="$classCModbusCdsHandle.html#ae6b1878d7d3a92d95ff66135a7766367" title="utility function to subscribe to a particular oob object. " alt="" coords="246,56,498,83"/>
+</map>

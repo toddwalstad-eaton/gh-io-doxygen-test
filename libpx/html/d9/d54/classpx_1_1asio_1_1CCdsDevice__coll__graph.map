@@ -1,0 +1,14 @@
+<map id="px::asio::CCdsDevice" name="px::asio::CCdsDevice">
+<area shape="rect" id="node7" href="$dd/d57/classpx_1_1CBitset.html" title="{px::CBitset\&lt; px::device\l_control \&gt;\n||+ CBitset()\l+ get()\l+ set()\l+ reset()\l+ mask_set()\l+ mask_clear()\l+ mask()\l+ empty()\l+ operator==()\l+ operator!=()\land 11 more...\l+ size()\l+ nbytes()\l}" alt="" coords="251,694,425,962"/>
+<area shape="rect" id="node11" href="$dd/d57/classpx_1_1CBitset.html" title="Stores a bit&#45;field of flags defined by an enumerated type. " alt="" coords="460,340,591,593"/>
+<area shape="rect" id="node23" href="$dd/d57/classpx_1_1CBitset.html" title="{px::CBitset\&lt; px::realtime\l_state \&gt;\n||+ CBitset()\l+ get()\l+ set()\l+ reset()\l+ mask_set()\l+ mask_clear()\l+ mask()\l+ empty()\l+ operator==()\l+ operator!=()\land 11 more...\l+ size()\l+ nbytes()\l}" alt="" coords="812,694,999,962"/>
+<area shape="rect" id="node4" href="$d6/d5b/classpx_1_1CDevice.html" title="Represents a device, which can be either a publisher, a device connected to the publisher, or a network connector such as INCOM port 1. " alt="" coords="977,1232,1239,1485"/>
+<area shape="rect" id="node5" href="$d8/d8c/classpx_1_1CDeviceRole.html" title="Device role. " alt="" coords="2298,701,2427,955"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="628,5,751,83"/>
+<area shape="rect" id="node16" href="$d9/d7d/classpx_1_1CWallTime.html" title="Wall&#45;clock time. " alt="" coords="2139,701,2256,955"/>
+<area shape="rect" id="node17" href="$d6/d4e/classpx_1_1CTimestamp.html" title="Wrapper around a &quot;timespec&quot; structure that provides additional useful functionality. " alt="" coords="2087,318,2307,615"/>
+<area shape="rect" id="node18" href="$da/d9d/classtimespec.html" title="{timespec\n||}" alt="" coords="2111,155,2193,232"/>
+<area shape="rect" id="node21" title="STL class. " alt="" coords="1212,421,1364,513"/>
+<area shape="rect" id="node27" title="STL class. " alt="" coords="1631,428,1760,505"/>
+<area shape="rect" id="node29" title="STL class. " alt="" coords="1953,428,2063,505"/>
+</map>

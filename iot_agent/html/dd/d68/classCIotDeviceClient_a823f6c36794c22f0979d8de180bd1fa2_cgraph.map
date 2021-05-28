@@ -1,0 +1,4 @@
+<map id="CIotDeviceClient::iot_message_done_callback" name="CIotDeviceClient::iot_message_done_callback">
+<area shape="rect" id="node2" href="$dc/d18/iot__agent_8hpp.html#abe7deeee0c2af0fd6aa19027b0a80e30" title="Logging utility which uses sdk_custom_logger, for use by iot_agent code. " alt="" coords="249,5,391,32"/>
+<area shape="rect" id="node3" href="$db/db5/classTrendManager.html#a4c3c21f9569bbed965ab71e0150c9718" title="Mark a trend message as &quot;done&quot;, from Azure&#39;s PoV, with either success or failure. " alt="" coords="243,57,397,98"/>
+</map>

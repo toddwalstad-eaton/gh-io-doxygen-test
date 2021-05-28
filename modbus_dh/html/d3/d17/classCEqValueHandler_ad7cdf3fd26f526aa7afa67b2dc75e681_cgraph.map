@@ -1,0 +1,9 @@
+<map id="CEqValueHandler::get" name="CEqValueHandler::get">
+<area shape="rect" id="node2" href="$d3/d17/classCEqValueHandler.html#a0f48c7d8cb01bc8a0a1fec1bfa4b2ba0" title="QLF to find the named parameter in our map. " alt="" coords="216,5,387,46"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#acace33b057a3e2de57af44f990eca5ef" title="Return current CValue given block ID and translator array index. " alt="" coords="228,135,375,177"/>
+<area shape="rect" id="node7" href="$d2/d76/classCDevice.html#ad900bffadb42c2749f127f3d0a806140" title="Return current CValue given block ID, translator array index, bit position, and count. " alt="" coords="216,70,387,111"/>
+<area shape="rect" id="node8" href="$d2/d76/classCDevice.html#a486d83946508c37417397d98ea69df0c" title="Getter to lookup the Channel or Internal Parameter by its ID and return (a copy of) its Value..." alt="" coords="224,201,379,242"/>
+<area shape="rect" id="node4" href="$d2/d76/classCDevice.html#abac1fe55b006dfb7cf69e1b52cfa0f0e" title="Getter for one DataBlock, from its ID. " alt="" coords="441,128,612,155"/>
+<area shape="rect" id="node5" href="$d2/d76/classCDevice.html#ab231a1465890affb24529dfe50f6a441" title="Get the parent Port and Device ID tag string (eg, &quot;(p2:d64)&quot; ) for this Device. " alt="" coords="435,179,619,205"/>
+<area shape="rect" id="node6" href="$d2/d76/classCDevice.html#a5e083835cb8c682687a4c693f76650ee" title="Tells us if this is a subdevice, and can return its instance number. " alt="" coords="443,77,611,104"/>
+</map>

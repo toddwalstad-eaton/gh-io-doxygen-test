@@ -1,0 +1,6 @@
+<map id="bvlc_encode_header" name="bvlc_encode_header">
+<area shape="rect" id="node2" href="$d7/d94/group__bip__interface.html#ga98ec5b34574c0c432dea2b5d3f5c08f4" title="J.2.6 Register&#45;Foreign&#45;Device: encode. " alt="" coords="208,34,368,75"/>
+<area shape="rect" id="node3" href="$d0/d58/classCBacnetIpHandler.html#a2949d8cf1b78dff83c10cc708ae55c1a" title="Register as a Foreign Device with the designated BBMD. " alt="" coords="416,34,613,75"/>
+<area shape="rect" id="node4" href="$d0/d58/classCBacnetIpHandler.html#a64101e782a5defbbb73b68e0758400db" title="Initialize the service configuration for the bacnet&#45;stack functions. " alt="" coords="677,5,845,46"/>
+<area shape="rect" id="node5" href="$d0/d58/classCBacnetIpHandler.html#a21f0eab1241ddb158f52ee0ab65e4303" title="Timeout callback invoked when the ASIO timer for BBMD registration expires. " alt="" coords="662,71,861,97"/>
+</map>

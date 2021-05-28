@@ -1,0 +1,9 @@
+<map id="CMercuryGetBlobListRequest::retrieve_blob_list" name="CMercuryGetBlobListRequest::retrieve_blob_list">
+<area shape="rect" id="node2" href="$db/d16/classCMercuryUtil.html#a76d065c1f37ff1e9b75b8dd75a288b97" title="Authorize read access to a resource. " alt="" coords="284,24,463,65"/>
+<area shape="rect" id="node6" href="$df/df6/classCMercuryMessageHandler.html#a17ed689c3244cf11e17c39827a61c70a" title="Post an error response, with the optional error message. " alt="" coords="265,90,482,117"/>
+<area shape="rect" id="node7" href="$d1/d70/classCMercuryGetBlobListRequest.html#a1a9f74bd6664bc156bb9443d72205daa" title="For a given real folder path and pattern to match, get all the files or folders (recursively or not) ..." alt="" coords="268,141,479,183"/>
+<area shape="rect" id="node3" href="$dc/df2/mercury__util_8cpp.html#a6a0380bd3f34c61b640f0e73216259a2" title="is_valid_path" alt="" coords="742,31,850,58"/>
+<area shape="rect" id="node4" href="$db/d16/classCMercuryUtil.html#ac6ded0d3a1ddbf49fa22eb64e55d2872" title="Given a virtual URI and its base folder configuration information, restate it as a (potential) real f..." alt="" coords="534,24,690,65"/>
+<area shape="rect" id="node5" href="$dc/df2/mercury__util_8cpp.html#a39adda5682039c3a35cc4bdfce20da8f" title="normalize_and_check" alt="" coords="531,90,693,117"/>
+<area shape="rect" id="node8" href="$d3/d2e/mercury__get__blob__list__request_8cpp.html#af7ae907b1b90891a16d3984bda1813bc" title="filter_one_path" alt="" coords="553,149,671,175"/>
+</map>

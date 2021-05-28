@@ -1,0 +1,4 @@
+<map id="CBacnetAnalogOutputObject::is_almost_equal" name="CBacnetAnalogOutputObject::is_almost_equal">
+<area shape="rect" id="node2" href="$da/d99/classCBacnetAnalogOutputObject.html#a4d770d56e73d3238b04497c8047cc8a3" title="Handler to get the priority&#45;array value for this object type. " alt="" coords="265,5,471,46"/>
+<area shape="rect" id="node3" href="$da/d99/classCBacnetAnalogOutputObject.html#afeb39a304a230e677460532585585aca" title="Handles the write to present&#45;value for this object type. " alt="" coords="261,70,475,111"/>
+</map>

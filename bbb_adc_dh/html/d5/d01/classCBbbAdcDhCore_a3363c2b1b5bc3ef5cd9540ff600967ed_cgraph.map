@@ -1,0 +1,5 @@
+<map id="CBbbAdcDhCore::shutdown" name="CBbbAdcDhCore::shutdown">
+<area shape="rect" id="node2" href="$d4/d5b/classCSyntheticChannels.html#a29929630a8a6d8b74f5831693f313a33" title="Do any cleanup necessary when cleanly exiting the main loop. " alt="" coords="254,5,413,46"/>
+<area shape="rect" id="node4" href="$d5/d01/classCBbbAdcDhCore.html#afa314217eb223e7c27418a73b37a3ec6" title="Set the channel&#39;s state to reflect comm state. " alt="" coords="255,70,411,111"/>
+<area shape="rect" id="node3" href="$d4/d5b/classCSyntheticChannels.html#aeeafca544ae6d54b6474b4244b8120f5" title="Set the channel state for all channels to reflect comm state. " alt="" coords="461,5,616,46"/>
+</map>

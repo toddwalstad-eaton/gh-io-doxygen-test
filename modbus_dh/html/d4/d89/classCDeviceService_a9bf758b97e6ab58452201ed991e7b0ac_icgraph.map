@@ -1,0 +1,10 @@
+<map id="CDeviceService::set_pass_through" name="CDeviceService::set_pass_through">
+<area shape="rect" id="node2" href="$d6/d71/classCModbusTcpPort.html#a4a2359e0327ffb86a75fd89bf10ce980" title="Open the pass&#45;through socket port &amp; handling, if enabled. " alt="" coords="429,5,597,46"/>
+<area shape="rect" id="node5" href="$d6/d71/classCModbusTcpPort.html#a843dfafb0228e2b7393c29d3e367ffc6" title="Close the pass&#45;through socket port, if opened. " alt="" coords="205,63,376,105"/>
+<area shape="rect" id="node6" href="$df/d6f/classCSerialPort.html#adfc010e120c5857781be898d6d1b853e" title="Open the pass&#45;through socket port &amp; handling, if enabled. " alt="" coords="205,129,376,170"/>
+<area shape="rect" id="node9" href="$df/d6f/classCSerialPort.html#aa7045de27860c2aa29732ec36110aad3" title="Close the pass&#45;through socket port, if opened. " alt="" coords="216,194,365,235"/>
+<area shape="rect" id="node3" href="$d6/d71/classCModbusTcpPort.html#a9dd6e9eb42463f8da3cc59fd250d9280" title="(Virtual) Factory method to create the port &quot;Connection&quot; Actor (eg, CSerialConnection). " alt="" coords="862,34,1039,75"/>
+<area shape="rect" id="node4" href="$d6/d71/classCModbusTcpPort.html#aee1a3c60912ba0cbd1778fd75ef98a59" title="The callback function that we provide to the CDS to handle updates to ServiceAccessCtrl oob data..." alt="" coords="651,63,813,105"/>
+<area shape="rect" id="node7" href="$df/d6f/classCSerialPort.html#a801fb24a18b6d99785d4b3edbecb04e9" title="(Virtual) Factory method to create the port &quot;Connection&quot; Actor (eg, CSerialConnection). " alt="" coords="661,158,803,199"/>
+<area shape="rect" id="node8" href="$df/d6f/classCSerialPort.html#ac3b2b4238302e64fd8d005d243336aa0" title="The callback function that we provide to the CDS to handle updates to ServiceAccessCtrl oob data..." alt="" coords="425,187,602,229"/>
+</map>

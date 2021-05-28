@@ -1,0 +1,4 @@
+<map id="CModbusTcpPort::open_pass_through_port" name="CModbusTcpPort::open_pass_through_port">
+<area shape="rect" id="node2" href="$d6/d71/classCModbusTcpPort.html#a9dd6e9eb42463f8da3cc59fd250d9280" title="(Virtual) Factory method to create the port &quot;Connection&quot; Actor (eg, CSerialConnection). " alt="" coords="433,5,610,46"/>
+<area shape="rect" id="node3" href="$d6/d71/classCModbusTcpPort.html#aee1a3c60912ba0cbd1778fd75ef98a59" title="The callback function that we provide to the CDS to handle updates to ServiceAccessCtrl oob data..." alt="" coords="221,34,384,75"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="yyrestart" name="yyrestart">
+<area shape="rect" id="node2" href="$d3/d6a/equation_8yy_8hpp.html#ac09acfd337d92d0d2a9fc779a6e695a7" title="Allocate and initialize an input buffer state. " alt="" coords="156,56,287,83"/>
+<area shape="rect" id="node4" href="$d3/d6a/equation_8yy_8hpp.html#a7f87095933e6703c8bd0c6e42bf1d98b" title="yy_init_buffer" alt="" coords="355,5,466,32"/>
+<area shape="rect" id="node6" href="$d3/d6a/equation_8yy_8hpp.html#a0fc6cdf359250a64c05a3a6e52fc5875" title="yy_load_buffer_state" alt="" coords="686,120,845,147"/>
+<area shape="rect" id="node8" href="$d3/d6a/equation_8yy_8hpp.html#ae98dc5fbf9c2926a4bce6d42ac6bd331" title="yyensure_buffer_stack" alt="" coords="137,107,306,133"/>
+<area shape="rect" id="node3" href="$d3/d6a/equation_8yy_8hpp.html#ac4cfd138acaf1638bbed26360e3a36ba" title="yyalloc" alt="" coords="376,56,445,83"/>
+<area shape="rect" id="node5" href="$d3/d6a/equation_8yy_8hpp.html#a120dc1da21a01a6803c3238d4b0c87f6" title="Discard all buffered characters. " alt="" coords="515,81,637,108"/>
+<area shape="rect" id="node7" href="$d3/d6a/equation_8yy_8hpp.html#ab4155ffea05dab2dafae68fd88a0517f" title="isatty" alt="" coords="547,5,605,32"/>
+<area shape="rect" id="node9" href="$d3/d6a/equation_8yy_8hpp.html#a9a5935a8d5bf7bc68cd31addef195e46" title="yyrealloc" alt="" coords="369,107,452,133"/>
+</map>

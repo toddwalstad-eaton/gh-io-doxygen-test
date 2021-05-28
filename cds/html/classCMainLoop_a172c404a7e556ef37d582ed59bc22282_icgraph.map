@@ -1,0 +1,18 @@
+<map id="CMainLoop::handle_receive" name="CMainLoop::handle_receive">
+<area shape="rect" id="node2" href="$classCCommandSetFieldValue.html#a02d1489b049719cf7061298b98bc6cf2" title="Execute the command in &#39;req&#39;, adding to oplist anything that isn&#39;t done in this function. " alt="" coords="262,5,447,46"/>
+<area shape="rect" id="node3" href="$classCDataStore.html#ac1cc543d53a082cf1f618d4386b4f9ed" title="Set up the system channels on the publisher, if they don&#39;t already exist. " alt="" coords="257,70,452,111"/>
+<area shape="rect" id="node5" href="$classCMainLoop.html#a376c18e4d110f728ccc8d48b141ce670" title="Execute the main loop. " alt="" coords="287,136,422,163"/>
+<area shape="rect" id="node6" href="$classCMainLoop.html#a3fa483fe7bb9c4072331f4e4a862f6af" title="Update a system channel value. " alt="" coords="254,242,455,283"/>
+<area shape="rect" id="node4" href="$classCDataStore.html#af96b836a3d210927a3aed067f4f29d42" title="Load data from our persistent databases. " alt="" coords="535,49,667,76"/>
+<area shape="rect" id="node7" href="$classCThreadQueryAlarms.html#a8211377551476647c48f8fa7df940640" title="Execute the given command. " alt="" coords="521,151,682,193"/>
+<area shape="rect" id="node8" href="$classCTrendStore.html#af183006bcd799d8d92565050a88b2840" title="Gets the stage db based on the stage index, create it if not existing. " alt="" coords="504,217,699,244"/>
+<area shape="rect" id="node9" href="$classCTrendStore.html#ad1c7deb03bf9c342c8ca5e554f2f8cf2" title="Stores trends update from the accumulators to the stage db. " alt="" coords="780,129,921,156"/>
+<area shape="rect" id="node12" href="$classCTrendStore.html#a85aecef759f13455e6ed202b75971eb1" title="Move trends from the stage dbs (whose index is smaller than the cutoff) to the bucket, then delete the moved stage dbs. " alt="" coords="507,334,695,375"/>
+<area shape="rect" id="node13" href="$classCTrendStore.html#a634f8304b324e61a428bb00193e5332a" title="Levelup bucket trends from 5 to 15, then to 60, then to deletion, based on the policy. " alt="" coords="523,269,679,310"/>
+<area shape="rect" id="node15" href="$classCTrendStore.html#a59ae14f650ab7f058f8dd0c52bd15610" title="Query the databases. " alt="" coords="507,451,696,477"/>
+<area shape="rect" id="node17" href="$classCTrendStore.html#ad76f4c4b0dcfec8ec3c34af58aead9fc" title="Delete entries from the trend databases. " alt="" coords="505,501,698,528"/>
+<area shape="rect" id="node14" href="$classCTrendStore.html#ad2047a9303a805c0334733c49008f229" title="Trend bucket database periodic maintenance: level&#45;up, roll&#45;off, and clean&#45;up. " alt="" coords="747,339,954,365"/>
+<area shape="rect" id="node11" href="$classCTrendStore.html#a8a35bb8b7a967d2dc7664282ffa0f717" title="Create today&#39;s stage db if not existing, during the startup. " alt="" coords="773,210,929,251"/>
+<area shape="rect" id="node10" href="$classCTrendStore.html#a7adaa6fa7bd22a8800383313c072dd89" title="Import from CSV. " alt="" coords="1003,129,1197,156"/>
+<area shape="rect" id="node16" href="$classCTrendStore.html#ae5e4b974f877eb1a20e2793e55ded3fe" title="Export to CSV. " alt="" coords="755,451,947,477"/>
+</map>

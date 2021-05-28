@@ -1,0 +1,5 @@
+<map id="certmanager::BinaryServiceCallbacks" name="certmanager::BinaryServiceCallbacks">
+<area shape="rect" id="node2" href="$d0/d4b/classcertmanager_1_1ServiceCallbacks.html" title="{certmanager::ServiceCallbacks\n||+ ServiceCallbacks()\l+ ~ServiceCallbacks()\l+ started()\l+ stopped()\l+ allStarted()\l+ newGeneratedCertificate()\l+ updateValidityGeneratedCertificate()\l+ newExternalCertificate()\l+ revokedExternalCertificate()\l+ revokedExternalCertificate()\l}" alt="" coords="5,449,280,658"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="229,307,315,384"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="203,6,341,98"/>
+</map>

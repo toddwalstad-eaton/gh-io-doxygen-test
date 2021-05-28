@@ -1,0 +1,8 @@
+<map id="CWaveformService::add_waveform_to_cds" name="CWaveformService::add_waveform_to_cds">
+<area shape="rect" id="node2" href="$d2/d7f/classCWaveformService.html#a015a528a309236a2a24f0e017e6139fc" title="Gets the size and number of files in a directory path. " alt="" coords="233,5,407,46"/>
+<area shape="rect" id="node3" href="$d2/d7f/classCWaveformService.html#ad5101080533597baf28f47c15caefd38" title="Check if storage space is available in a particular location. " alt="" coords="237,70,403,111"/>
+<area shape="rect" id="node4" href="$dc/dd4/waveform__service_8cpp.html#a2bc1e6607e522abe1e5d0640ae56e5b3" title="to_export_path" alt="" coords="260,136,380,163"/>
+<area shape="rect" id="node6" href="$dc/dd4/waveform__service_8cpp.html#a2f00cebe419a6d0aacae12669f9379ae" title="to_www_path" alt="" coords="265,187,375,213"/>
+<area shape="rect" id="node7" href="$d2/d7f/classCWaveformService.html#afe52c80a7cb9d1c1bb4a894a2391e363" title="CWaveformService::set\l_waveform_available" alt="" coords="233,238,407,279"/>
+<area shape="rect" id="node5" href="$d2/d7f/classCWaveformService.html#abcf03dc7eaacadfd726ec5306936ae41" title="Getter for the waveform export path. " alt="" coords="457,129,631,170"/>
+</map>

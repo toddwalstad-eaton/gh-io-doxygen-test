@@ -1,0 +1,4 @@
+<map id="CSerialPort::close_pass_through_port" name="CSerialPort::close_pass_through_port">
+<area shape="rect" id="node2" href="$df/d6f/classCSerialPort.html#ac3b2b4238302e64fd8d005d243336aa0" title="The callback function that we provide to the CDS to handle updates to ServiceAccessCtrl oob data..." alt="" coords="203,5,381,46"/>
+<area shape="rect" id="node3" href="$df/d6f/classCSerialPort.html#a801fb24a18b6d99785d4b3edbecb04e9" title="(Virtual) Factory method to create the port &quot;Connection&quot; Actor (eg, CSerialConnection). " alt="" coords="430,5,573,46"/>
+</map>

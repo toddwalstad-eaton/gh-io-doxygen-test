@@ -1,0 +1,5 @@
+<map id="toolkit::ExtTypeToNewValue" name="toolkit::ExtTypeToNewValue">
+<area shape="rect" id="node2" href="$de/d55/classCDataBlockTranslator.html#a443faf0313fa3866593483db64e4c746" title="Translate the buffer of received data, via the mappings array, into the expected variadic array of Va..." alt="" coords="281,5,444,46"/>
+<area shape="rect" id="node3" href="$d2/d08/classCModbusDeviceSetpoints.html#a4ebc156f522787ae8f04a8d15f4cf0ac" title="Handle the setpoints command completion. " alt="" coords="256,71,469,127"/>
+<area shape="rect" id="node4" href="$d7/d46/classCModbusDevice.html#aa257c186cc0c6d1acee490152630ce92" title="See device.hpp. " alt="" coords="517,78,696,119"/>
+</map>

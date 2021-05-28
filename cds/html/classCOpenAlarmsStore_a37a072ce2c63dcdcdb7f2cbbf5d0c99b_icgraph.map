@@ -1,0 +1,6 @@
+<map id="COpenAlarmsStore::GetNextByID" name="COpenAlarmsStore::GetNextByID">
+<area shape="rect" id="node2" href="$classCCommandAckAlarms.html#ab670f7ef2c18c7b22d59a192b2a36dc3" title="Execute the command in &#39;req&#39;, adding to oplist anything that isn&#39;t done in this function. " alt="" coords="319,5,495,46"/>
+<area shape="rect" id="node3" href="$classCCommandGetActiveAlarmsIds.html#ac898383c03e28db73b30bc25d1386733" title="Execute the command in &#39;req&#39;, adding to oplist anything that isn&#39;t done in this function. " alt="" coords="293,70,520,111"/>
+<area shape="rect" id="node4" href="$classCCommandGetAlarms.html#a55c3fc3a749e5b289494488d6e38cfae" title="Execute the command in &#39;req&#39;, adding to oplist anything that isn&#39;t done in this function. " alt="" coords="319,135,494,177"/>
+<area shape="rect" id="node5" href="$classCOpCloseAlarms.html#a2cb38de53ae1c094fb6c5da427565f39" title="Execution method. " alt="" coords="311,201,502,228"/>
+</map>

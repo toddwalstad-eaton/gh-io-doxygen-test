@@ -1,0 +1,4 @@
+<map id="certmanagerApi::CertmanagerService::getCADetails" name="certmanagerApi::CertmanagerService::getCADetails">
+<area shape="rect" id="node2" href="$dc/dba/classcertmanager_1_1Tools.html#ad0dcb87f909dd94559f03213b50feeb4" title="This API tells if a file exists in the system. " alt="" coords="308,5,455,46"/>
+<area shape="rect" id="node3" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#aca91cae4547e38214ac3782b6c0c82f9" title="Read the certificate details file. " alt="" coords="272,70,491,111"/>
+</map>

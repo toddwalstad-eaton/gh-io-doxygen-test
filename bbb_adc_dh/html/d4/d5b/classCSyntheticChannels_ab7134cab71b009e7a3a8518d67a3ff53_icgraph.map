@@ -1,0 +1,6 @@
+<map id="CSyntheticChannels::register_data_validation" name="CSyntheticChannels::register_data_validation">
+<area shape="rect" id="node2" href="$d4/d5b/classCSyntheticChannels.html#abc68633f3bffe6cd7ad8af5db7b3485e" title="Default Xtor. " alt="" coords="257,5,428,46"/>
+<area shape="rect" id="node3" href="$d4/d5b/classCSyntheticChannels.html#a5d518f56cf276b73a3762ef3cbac4e46" title="Subscribe channels for data validation. " alt="" coords="243,70,443,111"/>
+<area shape="rect" id="node4" href="$d4/d5b/classCSyntheticChannels.html#adcf8a8d8793d1789bc335fbfbf75b03f" title="Initialize the channels by setting them into the CDS (if they don&#39;t already exist) or reading out the..." alt="" coords="491,70,643,111"/>
+<area shape="rect" id="node5" href="$d5/d01/classCBbbAdcDhCore.html#a4033ba59c52adc587271a10885f4a5e2" title="Do any setup necessary before the main loop is started. " alt="" coords="691,77,866,104"/>
+</map>

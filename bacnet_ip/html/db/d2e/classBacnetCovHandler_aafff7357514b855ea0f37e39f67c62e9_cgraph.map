@@ -1,0 +1,4 @@
+<map id="BacnetCovHandler::timeout" name="BacnetCovHandler::timeout">
+<area shape="rect" id="node2" href="$db/d2e/classBacnetCovHandler.html#a62c628388571637e9587758d9c2677db" title="Function to manage sending the list of pending updates to each object. " alt="" coords="259,5,442,46"/>
+<area shape="rect" id="node3" href="$db/d2e/classBacnetCovHandler.html#ad3f8f1a909f4dc9a25c9a1b9e5eb0041" title="Function to periodically check the list of Active Subscriptions and remove any that have aged out (ha..." alt="" coords="256,70,445,111"/>
+</map>

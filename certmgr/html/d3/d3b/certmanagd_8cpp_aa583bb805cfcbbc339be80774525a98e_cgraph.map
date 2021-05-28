@@ -1,0 +1,26 @@
+<map id="notificationHandler" name="notificationHandler">
+<area shape="rect" id="node2" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#a5495e7bd5d88bac8e72c7906769b6dea" title="This function returns the Name Pipes Directory path where all IPC files for certmanagd are stored..." alt="" coords="505,145,759,186"/>
+<area shape="rect" id="node4" href="$dc/d10/classcertmanager_1_1Log.html#a27483934bafe51e2dd7eefe22d3b2ce1" title="Open the syslog daemon if close. " alt="" coords="240,352,416,379"/>
+<area shape="rect" id="node5" href="$dc/d10/classcertmanager_1_1Log.html#a56c9c1e70c82c11852e0c32d9967a5a1" title="Write a log inside syslog daemon if the syslog is open. " alt="" coords="1455,631,1633,657"/>
+<area shape="rect" id="node6" href="$d3/d3b/certmanagd_8cpp.html#a7194a69a055d7ac14032468ee25b5419" title="exitDaemon" alt="" coords="885,605,987,632"/>
+<area shape="rect" id="node12" href="$d6/d04/classcertmanager_1_1Common.html#a80d0585bf67ff9d04966596aa7975e77" title="This function checks if current system date is older than the defined time limit of requested secs..." alt="" coords="546,679,718,721"/>
+<area shape="rect" id="node13" href="$d2/dcb/classcertmanager_1_1NetworkConfiguration.html#ab18e9e20ef26b61cfcd4557c1c959c55" title="certmanager::NetworkConfiguration\l::getInstance" alt="" coords="201,555,455,597"/>
+<area shape="rect" id="node14" href="$d2/dcb/classcertmanager_1_1NetworkConfiguration.html#a102bb3a939ebcc70fa4f3ce44f5d2ac5" title="This function reloads the network configuration. " alt="" coords="809,213,1063,254"/>
+<area shape="rect" id="node21" href="$d3/d3b/certmanagd_8cpp.html#ad401e9089d2fcad473dee887743918ec" title="networkNotificationHandler" alt="" coords="227,621,429,648"/>
+<area shape="rect" id="node23" href="$d4/d0d/classcertmanager_1_1CertmanagerDaemonException.html#aed2b7a0e42112a13424c6668dd95ad90" title="Get the error message. " alt="" coords="837,758,1035,799"/>
+<area shape="rect" id="node24" href="$d3/d3b/certmanagd_8cpp.html#ada5032690498d07173a592c03f19cdbf" title="timeNotificationHandler" alt="" coords="239,759,417,785"/>
+<area shape="rect" id="node3" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#af0d6b3282ce91cff4d7d5844e1e077ee" title="This is the API to get the singleton object of the class. " alt="" coords="1417,213,1671,254"/>
+<area shape="rect" id="node7" href="$d6/d04/classcertmanager_1_1Common.html#af7f030c6e3288e9752c1f4359c7c5768" title="This function helps to remove the given file. " alt="" coords="1154,707,1326,749"/>
+<area shape="rect" id="node8" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#a5a56eed543edba2c8292a0f700c05dce" title="This returns the Lock file for the certmanagd daemon. " alt="" coords="1113,387,1367,429"/>
+<area shape="rect" id="node9" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#af90e6581db76c4482d83271a94fff8cd" title="This returns the PID file path for certmanagd daemon. " alt="" coords="1113,322,1367,363"/>
+<area shape="rect" id="node10" href="$dc/d10/classcertmanager_1_1Log.html#ac6e2f1376101ae05da9322dbb889a221" title="Close the syslog. " alt="" coords="1151,555,1329,581"/>
+<area shape="rect" id="node11" href="$d3/d3b/certmanagd_8cpp.html#a3f2e8c021c0138149fbc47530112aefd" title="unready" alt="" coords="1203,605,1277,632"/>
+<area shape="rect" id="node15" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#ae6450d5785efe33fa87ea609f3321ca6" title="Returns the scripts directory path where various certmanagd required scripts are stored. " alt="" coords="1113,154,1367,195"/>
+<area shape="rect" id="node16" href="$dc/dba/classcertmanager_1_1Tools.html#a466cc7d80ed129cdb20010a703f7b810" title="certmanager::Tools\l::getConfigMap" alt="" coords="1167,37,1313,78"/>
+<area shape="rect" id="node17" href="$dc/dba/classcertmanager_1_1Tools.html#a7cec9f1f26054727a0c28a09035553ce" title="This function helps to cleanup (remove spaces/tabs from the begining and end of the string) a line of..." alt="" coords="1471,5,1617,46"/>
+<area shape="rect" id="node20" href="$dc/dba/classcertmanager_1_1Tools.html#a7ef9275c3046c82c31e6d81c3765c959" title="This function returns a pair of key and value from the given configuration string. " alt="" coords="1471,70,1617,111"/>
+<area shape="rect" id="node18" href="$dc/dba/classcertmanager_1_1Tools.html#a857a77034025daf364500815003ea5f7" title="This function helps to cleanup (remove spaces/tabs from the begining of the string) a line of configu..." alt="" coords="1721,70,1919,111"/>
+<area shape="rect" id="node19" href="$dc/dba/classcertmanager_1_1Tools.html#a794af2d30475377b9d6fded19f7b9297" title="This function helps to cleanup (remove spaces/tabs from the end of the string) a line of configuratio..." alt="" coords="1723,5,1917,46"/>
+<area shape="rect" id="node22" href="$d3/d3b/certmanagd_8cpp.html#a7a6dded34638d6a41bf2a19ac9e2108e" title="notifiyNetworkChanged" alt="" coords="545,621,719,648"/>
+<area shape="rect" id="node25" href="$d3/d3b/certmanagd_8cpp.html#a02af63c567c046fe8903a5df636a2014" title="notifiyTimeChanged" alt="" coords="555,759,709,785"/>
+</map>

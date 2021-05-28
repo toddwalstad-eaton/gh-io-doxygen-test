@@ -1,0 +1,36 @@
+<map id="perf__device.cpp" name="perf__device.cpp">
+<area shape="rect" id="node4" href="$d7/d1e/exception_8hpp.html" title="px/exception.hpp" alt="" coords="2897,352,3031,379"/>
+<area shape="rect" id="node8" href="$db/d1c/serializer_8hpp.html" title="px/serialization/serializer.hpp" alt="" coords="1928,88,2141,115"/>
+<area shape="rect" id="node10" href="$dc/dea/deserializer_8hpp.html" title="px/serialization/deserializer.hpp" alt="" coords="2933,88,3163,115"/>
+<area shape="rect" id="node11" href="$df/d41/dynamic__archive_8hpp.html" title="px/serialization/archive\l/dynamic_archive.hpp" alt="" coords="2482,262,2656,303"/>
+<area shape="rect" id="node15" href="$dc/dd4/all_8hpp.html" title="px/serialization/type\l/all.hpp" alt="" coords="873,81,1028,122"/>
+<area shape="rect" id="node37" href="$d5/d08/device_8hpp.html" title="px/data/device.hpp" alt="" coords="2512,88,2659,115"/>
+<area shape="rect" id="node7" href="$d4/d76/type_2string_8hpp.html" title="type/string.hpp" alt="" coords="2396,427,2516,453"/>
+<area shape="rect" id="node14" href="$dd/d3a/common_8hpp.html" title="px/common.hpp" alt="" coords="2445,352,2571,379"/>
+<area shape="rect" id="node16" href="$de/d7d/serialization_2type_2common_8hpp.html" title="common.hpp" alt="" coords="771,352,877,379"/>
+<area shape="rect" id="node17" href="$d4/db5/array_8hpp.html" title="array.hpp" alt="" coords="609,269,692,296"/>
+<area shape="rect" id="node18" href="$d7/df6/deque_8hpp.html" title="deque.hpp" alt="" coords="716,269,807,296"/>
+<area shape="rect" id="node19" href="$d5/d66/flyweight_8hpp.html" title="flyweight.hpp" alt="" coords="831,269,941,296"/>
+<area shape="rect" id="node20" href="$dc/d1d/list_8hpp.html" title="list.hpp" alt="" coords="966,269,1036,296"/>
+<area shape="rect" id="node21" href="$df/d7c/map_8hpp.html" title="map.hpp" alt="" coords="1039,179,1117,205"/>
+<area shape="rect" id="node23" href="$db/dd5/optional_8hpp.html" title="optional.hpp" alt="" coords="1373,179,1475,205"/>
+<area shape="rect" id="node22" href="$d3/d9f/pair_8hpp.html" title="pair.hpp" alt="" coords="1112,269,1187,296"/>
+<area shape="rect" id="node25" href="$da/de4/px__string_8hpp.html" title="px_string.hpp" alt="" coords="1629,269,1739,296"/>
+<area shape="rect" id="node26" href="$da/dfe/set_8hpp.html" title="set.hpp" alt="" coords="394,179,464,205"/>
+<area shape="rect" id="node27" href="$d6/da4/serialization_2type_2string_8hpp.html" title="string.hpp" alt="" coords="489,179,575,205"/>
+<area shape="rect" id="node28" href="$d0/dc5/shared__ptr_8hpp.html" title="shared_ptr.hpp" alt="" coords="199,179,317,205"/>
+<area shape="rect" id="node29" href="$df/d78/tribool_8hpp.html" title="tribool.hpp" alt="" coords="599,179,691,205"/>
+<area shape="rect" id="node30" href="$d1/d17/unique__ptr_8hpp.html" title="unique_ptr.hpp" alt="" coords="5,179,123,205"/>
+<area shape="rect" id="node31" href="$d3/dbb/unordered__map_8hpp.html" title="unordered_map.hpp" alt="" coords="1193,179,1345,205"/>
+<area shape="rect" id="node33" href="$db/daf/unordered__set_8hpp.html" title="unordered_set.hpp" alt="" coords="1706,179,1848,205"/>
+<area shape="rect" id="node35" href="$d9/d7a/variant_8hpp.html" title="variant.hpp" alt="" coords="716,179,812,205"/>
+<area shape="rect" id="node36" href="$da/d16/vector_8hpp.html" title="vector.hpp" alt="" coords="1815,269,1905,296"/>
+<area shape="rect" id="node39" href="$df/d2b/shared__string_8hpp.html" title="px/type/shared_string.hpp" alt="" coords="2037,352,2227,379"/>
+<area shape="rect" id="node40" href="$db/db3/id_8hpp.html" title="px/type/id.hpp" alt="" coords="3056,269,3171,296"/>
+<area shape="rect" id="node41" href="$d8/d27/device__role_8hpp.html" title="px/enum/device_role.hpp" alt="" coords="2220,269,2407,296"/>
+<area shape="rect" id="node42" href="$d6/d86/bitset_8hpp.html" title="px/type/bitset.hpp" alt="" coords="2681,269,2820,296"/>
+<area shape="rect" id="node43" href="$de/dda/wall__time_8hpp.html" title="px/type/wall_time.hpp" alt="" coords="2322,179,2488,205"/>
+<area shape="rect" id="node44" href="$d8/dc4/realtime__state_8hpp.html" title="px/data/realtime_state.hpp" alt="" coords="3246,269,3444,296"/>
+<area shape="rect" id="node45" href="$d5/d62/device__flags_8hpp.html" title="px/data/device_flags.hpp" alt="" coords="3311,179,3495,205"/>
+<area shape="rect" id="node46" href="$d5/d91/device__command_8hpp.html" title="px/data/device_command.hpp" alt="" coords="2909,179,3128,205"/>
+</map>

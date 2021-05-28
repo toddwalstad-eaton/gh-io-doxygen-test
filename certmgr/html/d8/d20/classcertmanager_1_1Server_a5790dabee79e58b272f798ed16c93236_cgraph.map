@@ -1,0 +1,7 @@
+<map id="certmanager::Server::buildAltName" name="certmanager::Server::buildAltName">
+<area shape="rect" id="node2" href="$d8/d66/classcertmanager_1_1ServiceConfiguration.html#aadbf77c40609266aadb61db41fa72aa4" title="Functions to get the service configuration parameters Service basic details. " alt="" coords="212,5,460,46"/>
+<area shape="rect" id="node3" href="$d8/d66/classcertmanager_1_1ServiceConfiguration.html#a0b6a3a115c51f3c7fc2d97b60a3ff7d9" title="certmanager::ServiceConfiguration\l::isFQDNInclude" alt="" coords="212,70,460,111"/>
+<area shape="rect" id="node4" href="$d2/dcb/classcertmanager_1_1NetworkConfiguration.html#ab18e9e20ef26b61cfcd4557c1c959c55" title="certmanager::NetworkConfiguration\l::getInstance" alt="" coords="209,135,463,177"/>
+<area shape="rect" id="node5" href="$d2/dcb/classcertmanager_1_1NetworkConfiguration.html#a84b9c5c26478da13e3c421c9f2281031" title="This function gets a list of all DNS interfaces. " alt="" coords="209,201,463,242"/>
+<area shape="rect" id="node6" href="$d8/d66/classcertmanager_1_1ServiceConfiguration.html#af30a09d1a606d89c4735748e4606fe17" title="certmanager::ServiceConfiguration\l::getNetworkInterfacesNames" alt="" coords="212,266,460,307"/>
+</map>

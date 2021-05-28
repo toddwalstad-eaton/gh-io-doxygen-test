@@ -1,0 +1,11 @@
+<map id="CEmailClient::create_session" name="CEmailClient::create_session">
+<area shape="rect" id="node2" href="$d3/d5e/classCSmtpConnectionInformation.html#a4e8ed8019d71ba3b67ff3aa506c21edf" title="SMTP server address. " alt="" coords="209,5,423,46"/>
+<area shape="rect" id="node3" href="$d3/d5e/classCSmtpConnectionInformation.html#a64dede9e3debaee24d70d55e868e7061" title="SMTP server port. " alt="" coords="209,70,423,111"/>
+<area shape="rect" id="node4" href="$d3/d5e/classCSmtpConnectionInformation.html#ad0ede25df75cd21ca4dfa5fb6e61a390" title="Email from address. " alt="" coords="209,135,423,177"/>
+<area shape="rect" id="node5" href="$dd/d4d/email__client_8cpp.html#a54304ef22faed566db2b6b829804b310" title="event_callback" alt="" coords="256,201,376,228"/>
+<area shape="rect" id="node6" href="$dd/d4d/email__client_8cpp.html#a5c6936a722e2fbe9116b5d7c0fd3cfaf" title="monitor_callback" alt="" coords="249,252,383,279"/>
+<area shape="rect" id="node7" href="$d3/d5e/classCSmtpConnectionInformation.html#abdf97dc90e92af1d56456859e154cfc3" title="Require TLS session. " alt="" coords="209,303,423,345"/>
+<area shape="rect" id="node8" href="$dd/d4d/email__client_8cpp.html#a0ab5809364fc28a037d8c905d2160c5d" title="getEmailPasswordLength" alt="" coords="223,369,409,396"/>
+<area shape="rect" id="node9" href="$dd/d4d/email__client_8cpp.html#aff751dcf109e5f67e5156b2872494ffd" title="setGsaslLogin" alt="" coords="259,420,373,447"/>
+<area shape="rect" id="node10" href="$de/d91/classCEmailClient.html#ad7c075a68239b70a90b79ce787ae4ae8" title="set the client host name that will be sent to the smtp server " alt="" coords="209,471,423,497"/>
+</map>

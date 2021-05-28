@@ -1,0 +1,4 @@
+<map id="CThreadBase::idle" name="CThreadBase::idle">
+<area shape="rect" id="node2" href="$classCThreadBase.html#afd02aea690c0790bbb4406fb2a0627ac" title="This is the function called by the main loop (in the worker thread) to wait for new commands in the i..." alt="" coords="195,5,363,46"/>
+<area shape="rect" id="node3" href="$classCThreadBase.html#af590fc4fd4e8a9879c7b1531d918bcb3" title="This class is a functor, as required by the Boost threads library to kick off thread execution..." alt="" coords="411,12,592,39"/>
+</map>

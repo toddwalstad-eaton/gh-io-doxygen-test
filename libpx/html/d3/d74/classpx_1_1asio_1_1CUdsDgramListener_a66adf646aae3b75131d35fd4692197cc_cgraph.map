@@ -1,0 +1,9 @@
+<map id="px::asio::CUdsDgramListener::on_read" name="px::asio::CUdsDgramListener::on_read">
+<area shape="rect" id="node2" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html#ae588c38d3c50b994681ce46f162fbc0f" title="Callback function to handle incoming data. " alt="" coords="285,70,454,111"/>
+<area shape="rect" id="node7" href="$d3/d74/classpx_1_1asio_1_1CUdsDgramListener.html#aa547e71dab98c8f124f108d0acafffef" title="Create or reset our listening socket, at _path. " alt="" coords="264,135,475,177"/>
+<area shape="rect" id="node3" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html#aa954e2eb03102f7e7e1753402ee1f410" title="Attempt to parse the currently&#45;read data in the buffer. " alt="" coords="523,70,693,111"/>
+<area shape="rect" id="node4" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html#afc4045882f60a7967a7bcaf0a3b4c192" title="px::asio::CIoTransactor\l::get_parse_success" alt="" coords="742,5,911,46"/>
+<area shape="rect" id="node5" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html#a7aeb25f58867a36d15419d3753047e2f" title="Read more data from the messenger&#39;s input source. " alt="" coords="742,70,911,111"/>
+<area shape="rect" id="node6" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html#a96e4af1d0ab45ad6ec41070064f75060" title="px::asio::CIoTransactor\l::set_parse_failed" alt="" coords="742,135,911,177"/>
+<area shape="rect" id="node8" href="$dd/d60/classpx_1_1asio_1_1CIoActor.html#aad90c314c7d733326fe1f0d88e0bede2" title="Get the I/O service associated with the owner of this actor. " alt="" coords="540,135,676,177"/>
+</map>

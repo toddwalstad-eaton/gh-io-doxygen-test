@@ -1,0 +1,7 @@
+<map id="px::cds::CSetChannelSelectorState" name="px::cds::CSetChannelSelectorState">
+<area shape="rect" id="node4" href="$df/d70/classpx_1_1CChannelSelector.html" title="Encapsulates the data of a Mercury ChannelSelector, to represent a list of channels. " alt="" coords="251,671,413,895"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="215,155,324,232"/>
+<area shape="rect" id="node8" href="$dd/d57/classpx_1_1CBitset.html" title="{px::CBitset\&lt; realtime\l_state \&gt;\n||+ CBitset()\l+ get()\l+ set()\l+ reset()\l+ mask_set()\l+ mask_clear()\l+ mask()\l+ empty()\l+ operator==()\l+ operator!=()\land 11 more...\l+ size()\l+ nbytes()\l}" alt="" coords="585,649,748,917"/>
+<area shape="rect" id="node13" href="$dd/d57/classpx_1_1CBitset.html" title="Stores a bit&#45;field of flags defined by an enumerated type. " alt="" coords="601,317,732,571"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="768,5,891,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CSignal" name="CSignal">
+<area shape="rect" id="node2" href="$dd/d91/classAnalogSignal.html" title="{AnalogSignal\n|# m_pUnit\l# m_multiplier\l# m_offsetAdder\l# m_skew\l# m_nRangeMin\l# m_nRangeMax\l# m_primary\l# m_secondary\l# m_bUsePrimaryScaling\l|+ AnalogSignal()\l+ ~AnalogSignal()\l+ SetUnit()\l+ SetMultiplier()\l+ SetOffsetAdder()\l+ SetSkew()\l+ SetRange()\l+ SetPrimarySecondary()\l+ ToString()\l}" alt="" coords="5,365,192,677"/>
+<area shape="rect" id="node3" href="$d1/dda/classDigitalSignal.html" title="{DigitalSignal\n|# m_nNormalState\l|+ DigitalSignal()\l+ SetNormalState()\l+ ToString()\l}" alt="" coords="217,468,367,575"/>
+</map>

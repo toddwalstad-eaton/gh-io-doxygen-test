@@ -1,0 +1,4 @@
+<map id="certmanager::Server::getServerCertificateTimestamp" name="certmanager::Server::getServerCertificateTimestamp">
+<area shape="rect" id="node2" href="$dc/d2a/classcertmanager_1_1InternalCertificatesAccessor.html#ac4e236a74549f01ee5066e23fc54d844" title="certmanager::InternalCertificates\lAccessor::certPath" alt="" coords="288,5,525,46"/>
+<area shape="rect" id="node3" href="$dc/d2a/classcertmanager_1_1InternalCertificatesAccessor.html#a983b273f5252274999b0b39832a17be2" title="certmanager::InternalCertificates\lAccessor::getActive" alt="" coords="288,70,525,111"/>
+</map>

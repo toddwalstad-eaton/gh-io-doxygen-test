@@ -1,0 +1,8 @@
+<map id="LinuxImageTypeHandler::do_update_steps" name="LinuxImageTypeHandler::do_update_steps">
+<area shape="rect" id="node2" href="$d9/d85/classCFwLnxUtil.html#a1d069cc2bc751f1e22a35f52a19b27d2" title="Initializes &#39;_target_map&#39; variable based on the new partion value. " alt="" coords="251,5,421,46"/>
+<area shape="rect" id="node3" href="$d9/d85/classCFwLnxUtil.html#a06b8d89412b46020a10b39e356d6d9f4" title="Execute an update step. " alt="" coords="233,71,439,97"/>
+<area shape="rect" id="node7" href="$d9/d85/classCFwLnxUtil.html#a719d3c45f69360b38e8fe6ac99711e9d" title="Set the current flash partition (0 or 1) " alt="" coords="263,122,409,163"/>
+<area shape="rect" id="node4" href="$d9/d85/classCFwLnxUtil.html#a5777d1084db4286085b7c861de13b9dd" title="Given an image name and its checksum(s), flash it to a given &quot;target_file&quot;. " alt="" coords="506,5,654,46"/>
+<area shape="rect" id="node5" href="$d9/d85/classCFwLnxUtil.html#abe768013bf2337ca082d4ad96e5a2439" title="Turn IDENT LED on/off. " alt="" coords="490,71,670,97"/>
+<area shape="rect" id="node6" href="$d9/d85/classCFwLnxUtil.html#a74bc51e5608242482278cf2b3dc02dc1" title="Clears the &quot;EULA accepted&quot; OOB (Not much else we can do, since EULA text is in read&#45;only space) ..." alt="" coords="489,121,671,148"/>
+</map>

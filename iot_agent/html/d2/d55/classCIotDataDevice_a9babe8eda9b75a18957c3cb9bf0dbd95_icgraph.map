@@ -1,0 +1,6 @@
+<map id="CIotDataDevice::create_iot_device" name="CIotDataDevice::create_iot_device">
+<area shape="rect" id="node2" href="$dd/d68/classCIotDeviceClient.html#a1d5caa93bbe9bf8ae396796fd5b29cdc" title="Callback invoked by CdsHandler when a Device is added (or discovered). " alt="" coords="227,5,421,46"/>
+<area shape="rect" id="node4" href="$dd/d68/classCIotDeviceClient.html#aa90dd3f0c575294f26cd3f23ed304337" title="Callback invoked by CdsHandler when a Device state is updated. " alt="" coords="227,70,421,111"/>
+<area shape="rect" id="node5" href="$dd/d68/classCIotDeviceClient.html#a8a9607414b185ad47c87d7b17e1667e0" title="Application callback invoked by CdsHandler when it gets the ChannelSettings for a device..." alt="" coords="227,135,421,177"/>
+<area shape="rect" id="node3" href="$dd/d68/classCIotDeviceClient.html#a20352e404497ab3b8f107dadddd83df7" title="Initialize this client and setup the CDS callbacks and message handlers, and kick off device discover..." alt="" coords="469,77,664,104"/>
+</map>

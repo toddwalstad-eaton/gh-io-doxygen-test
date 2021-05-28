@@ -1,0 +1,6 @@
+<map id="CIotDataDevice::update_iot_structs" name="CIotDataDevice::update_iot_structs">
+<area shape="rect" id="node2" href="$d2/d55/classCIotDataDevice.html#a938e4e92d24e3a15d54a28cadbe98a2a" title="Give the canonical Model Name, find the IoT Device Profile and UUID for this device. " alt="" coords="239,5,415,46"/>
+<area shape="rect" id="node3" href="$d2/d55/classCIotDataDevice.html#a9e6f1be05ffef0d9f9928525a315eea4" title="Initialize all channels found in the IoT Device Profile. " alt="" coords="233,70,421,111"/>
+<area shape="rect" id="node5" href="$d2/d55/classCIotDataDevice.html#a43e8f8086a734a04c8e04d1f4349ff88" title="Is the device enabled and communicating? " alt="" coords="255,135,398,177"/>
+<area shape="rect" id="node4" href="$df/d12/classCIotChannel.html#a187c8ed386eb660530ffd3e34da56e95" title="Initialize the IoT Real&#45;Time and Trend structures in this instance with Channel Settings data from th..." alt="" coords="469,77,635,104"/>
+</map>

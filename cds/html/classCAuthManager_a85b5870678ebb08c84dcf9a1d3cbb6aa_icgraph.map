@@ -1,0 +1,7 @@
+<map id="CAuthManager::password_check" name="CAuthManager::password_check">
+<area shape="rect" id="node2" href="$classCAuthManager.html#ae22812def60fa13bea7e10043180d06b" title="Looks for the given password in the password history of the user. " alt="" coords="267,5,416,46"/>
+<area shape="rect" id="node5" href="$classCAuthManager.html#ad2f9a31177a8eb0154ec2c998c0e4944" title="Check a user&#39;s plain text password. " alt="" coords="240,70,443,111"/>
+<area shape="rect" id="node3" href="$classCAuthManager.html#a51e0a14d469929e487393244ccd81f46" title="Checks for password policy fulfillment. " alt="" coords="501,5,688,46"/>
+<area shape="rect" id="node4" href="$classCAuthManager.html#ad0acbd206b9b1a3dc330070ba39bd31b" title="Set a user&#39;s plain&#45;text password. " alt="" coords="747,12,984,39"/>
+<area shape="rect" id="node6" href="$classCAuthManager.html#a402fd33cfc7bc2ae62474c95b079fbf9" title="Authenticate a user, given plain&#45;text password. " alt="" coords="491,70,699,111"/>
+</map>

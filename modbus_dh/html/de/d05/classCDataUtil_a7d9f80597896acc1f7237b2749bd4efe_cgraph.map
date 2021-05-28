@@ -1,0 +1,4 @@
+<map id="CDataUtil::incom_to_host_word" name="CDataUtil::incom_to_host_word">
+<area shape="rect" id="node2" href="$de/d05/classCDataUtil.html#a1fd73aca9d5d4c71af178d618afcb0b5" title="Indicates if the platform is low&#45;endian. " alt="" coords="209,5,394,32"/>
+<area shape="rect" id="node3" href="$de/d05/classCDataUtil.html#a5f04b6730473f3690c725435a512f688" title="Swap byte order of 16&#45;bit value (switch endianess) " alt="" coords="216,57,387,98"/>
+</map>

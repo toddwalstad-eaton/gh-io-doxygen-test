@@ -1,0 +1,25 @@
+var classCModbusDevice =
+[
+    [ "CModbusDevice", "d7/d46/classCModbusDevice.html#a6b50b1439c5109642a865879e761bb27", null ],
+    [ "~CModbusDevice", "d7/d46/classCModbusDevice.html#ac613f3fa22688ffa3556caeeb67eb2f2", null ],
+    [ "initialize_block_list", "d7/d46/classCModbusDevice.html#a7304d59a192d86c572c1e9b3ef1a8670", null ],
+    [ "execute_command", "d7/d46/classCModbusDevice.html#a53f23722e476f1bd17a33a2ddcadf862", null ],
+    [ "next_transaction_series", "d7/d46/classCModbusDevice.html#a64729f41548fc750b37111ef7d84a46d", null ],
+    [ "create_waveform_transaction", "d7/d46/classCModbusDevice.html#aa25872c26e318ef971bd99537b283c79", null ],
+    [ "create_multipart_command_transaction", "d7/d46/classCModbusDevice.html#ae9a111f9e8b116fc6a8a5f354192d305", null ],
+    [ "handle_device_error", "d7/d46/classCModbusDevice.html#aef2c0d00d463c14c535a6f4ed457e7aa", null ],
+    [ "check_block_profiling_status", "d7/d46/classCModbusDevice.html#ab5fb47d3e3b12ce63617ba5b6f399b94", null ],
+    [ "handle_command_completion", "d7/d46/classCModbusDevice.html#aa257c186cc0c6d1acee490152630ce92", null ],
+    [ "handle_io_comm_loss", "d7/d46/classCModbusDevice.html#a929bd84a6be4ca6fa3567f1c97cdc3ed", null ],
+    [ "is_connected", "d7/d46/classCModbusDevice.html#a7db565fa43befe10b83633bc382546b1", null ],
+    [ "connection_id", "d7/d46/classCModbusDevice.html#aae2797cf97c66e6f4611edebad0821de", null ],
+    [ "create_command", "d7/d46/classCModbusDevice.html#a302fad9aa3afb0faad6d32998ea03f37", null ],
+    [ "calculate_timeout", "d7/d46/classCModbusDevice.html#aafa8f7ad8a11089a12b97edcc663bffe", null ],
+    [ "calculate_delay", "d7/d46/classCModbusDevice.html#af0579673b006eb09443d41a4b5d3dcf0", null ],
+    [ "adu_gen", "d7/d46/classCModbusDevice.html#a44a48b93b610a78f533ea8ddc407024b", null ],
+    [ "_base_device_timeout", "d7/d46/classCModbusDevice.html#a291d2829deb3875e553a395c485d41e2", null ],
+    [ "_timeout_extension", "d7/d46/classCModbusDevice.html#aa0e9e8e9e620604bc4f9d839f7d1382d", null ],
+    [ "_interframe_delay_extension", "d7/d46/classCModbusDevice.html#a659a3dcf246071ed26b9c56e844ef547", null ],
+    [ "_device_specific_handler", "d7/d46/classCModbusDevice.html#a97231aca7f1958766614ef2210cc0995", null ],
+    [ "_waveform_poll_counter", "d7/d46/classCModbusDevice.html#a11a67fd986695339488f007b71808767", null ]
+];

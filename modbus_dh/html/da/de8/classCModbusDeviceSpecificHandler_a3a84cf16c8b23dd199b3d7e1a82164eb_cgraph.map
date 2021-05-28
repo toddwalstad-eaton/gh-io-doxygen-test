@@ -1,0 +1,16 @@
+<map id="CModbusDeviceSpecificHandler::handle_command_completion" name="CModbusDeviceSpecificHandler::handle_command_completion">
+<area shape="rect" id="node2" href="$da/de8/classCModbusDeviceSpecificHandler.html#ab5cbe3cc4772a57d144468d94a3a2ace" title="Called from this object to determine if the command name is a waveform command. " alt="" coords="280,59,507,101"/>
+<area shape="rect" id="node3" href="$da/de8/classCModbusDeviceSpecificHandler.html#af9f0a812c5b9c28096f1e77b9122ee34" title="Called from an Modbus serial device to handle Modbus device specific waveform command completions..." alt="" coords="280,125,507,181"/>
+<area shape="rect" id="node9" href="$da/de8/classCModbusDeviceSpecificHandler.html#a63a430630250368097293a1f316ca4f5" title="Called from this object to determine if the command name is a multipart command. " alt="" coords="280,206,507,247"/>
+<area shape="rect" id="node10" href="$da/de8/classCModbusDeviceSpecificHandler.html#ab90cec302f55d73f0b7c41953651ee21" title="Called from an Modbus serial device to handle Modbus device specific multipart command completions..." alt="" coords="280,279,507,335"/>
+<area shape="rect" id="node4" href="$da/de8/classCModbusDeviceSpecificHandler.html#a3e08c40910b1c65b7087aac69361109e" title="Called from this object to process the Modbus device waveform transaction data buffers. " alt="" coords="555,5,781,46"/>
+<area shape="rect" id="node5" href="$d5/df1/structgeneric__err.html#ae3bee2d13a4c011702e5a9ab4650bc95" title="Implement the virtual function to provide the error&#39;s text. " alt="" coords="601,237,735,264"/>
+<area shape="rect" id="node6" href="$d4/d8d/classCDeviceSpecificHandler.html#aa6bfe079b32a57fb68a8c70774a542fd" title="Called to halt acquisition of waveforms for this device. " alt="" coords="568,70,768,111"/>
+<area shape="rect" id="node7" href="$dc/d4a/classCUtil.html#afdffbca731e234e54193c7aba4fbe341" title="CUtil::get_err_text" alt="" coords="852,220,993,247"/>
+<area shape="rect" id="node8" href="$d4/d8d/classCDeviceSpecificHandler.html#a3a3e503e3b8b0c7192baa2fba02816a7" title="Called from to end waveform data acquisition. " alt="" coords="563,187,773,213"/>
+<area shape="rect" id="node11" href="$da/de8/classCModbusDeviceSpecificHandler.html#a07cdaeb6e2ae2077967a80dfbe66cc11" title="Called to process the Modbus device multipart transaction data buffers. " alt="" coords="555,289,781,330"/>
+<area shape="rect" id="node12" href="$d4/d8d/classCDeviceSpecificHandler.html#aaa96013c9f61b4d3e95bc24fca327c78" title="Called update the CDS on the current status of the command (i.e. " alt="" coords="579,354,757,395"/>
+<area shape="rect" id="node13" href="$d6/d0f/classCCommandService.html#a2e938d3596268b4feceaa79e8ce15847" title="Send a command result to a device in the CDS Note: This overload performs a full CDS update of all CD..." alt="" coords="830,354,1015,395"/>
+<area shape="rect" id="node14" href="$dd/de8/command__service_8cpp.html#a5b005098f808914039f86f83f9d6f680" title="get_command_status" alt="" coords="1076,336,1239,363"/>
+<area shape="rect" id="node15" href="$dd/de8/command__service_8cpp.html#a36ade948c171481c38bad3ff3f7556dc" title="get_command_substatus" alt="" coords="1065,387,1250,413"/>
+</map>

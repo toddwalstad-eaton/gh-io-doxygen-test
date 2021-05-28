@@ -1,0 +1,5 @@
+<map id="CPort::review_devices_validity" name="CPort::review_devices_validity">
+<area shape="rect" id="node2" href="$d6/dd4/classCPort.html#afcf177164b03560a1da104b2e5ec5908" title="Tell port to refresh it&#39;s devices to pick up additions and deletions. " alt="" coords="229,5,397,32"/>
+<area shape="rect" id="node3" href="$d6/dd4/classCPort.html#a7cccf680d86c94e9abbb59985321524f" title="Call this function to purge wvaeforms for a device (if suppported). " alt="" coords="222,56,405,83"/>
+<area shape="rect" id="node4" href="$d6/dd4/classCPort.html#a2f51da36a5d39b82202435219c188614" title="Handler for device removal events. " alt="" coords="231,107,396,149"/>
+</map>

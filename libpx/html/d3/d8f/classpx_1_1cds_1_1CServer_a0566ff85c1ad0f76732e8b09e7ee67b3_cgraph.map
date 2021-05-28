@@ -1,0 +1,4 @@
+<map id="px::cds::CServer::serve_client_conn_req" name="px::cds::CServer::serve_client_conn_req">
+<area shape="rect" id="node2" href="$d3/d8f/classpx_1_1cds_1_1CServer.html#aef65f1fe4050e9c401d329cd1d31b55e" title="Update the UID, in case the process has done a setuid() Returns the new UID (even if unchanged)..." alt="" coords="225,12,431,39"/>
+<area shape="rect" id="node3" href="$d5/dc3/classpx_1_1CUtil.html#a157761daad85221750f73edfd65f5715" title="Get a process&#39;s group IDs. " alt="" coords="481,12,679,39"/>
+</map>

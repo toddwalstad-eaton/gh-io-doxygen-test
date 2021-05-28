@@ -1,0 +1,4 @@
+<map id="CDevice::getptr" name="CDevice::getptr">
+<area shape="rect" id="node2" href="$dc/deb/classCModbusSerialDevice.html#a5ae66e1a852618c7f9c1d5ba0ba2beca" title="Create and initialize a subdevice, given its EDS and device description, and our shared settings as p..." alt="" coords="195,5,357,46"/>
+<area shape="rect" id="node3" href="$d2/d1e/classCModbusTCPDevice.html#adafbb9db082f607b9f1563fc4d5ce84d" title="Create and initialize a subdevice, given its EDS and device description, and our shared settings as p..." alt="" coords="177,70,375,111"/>
+</map>

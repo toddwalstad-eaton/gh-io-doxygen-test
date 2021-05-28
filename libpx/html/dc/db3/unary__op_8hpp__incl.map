@@ -1,0 +1,19 @@
+<map id="unary_op.hpp" name="unary_op.hpp">
+<area shape="rect" id="node2" href="$d8/d0e/expression_8hpp.html" title="expression.hpp" alt="" coords="1135,80,1256,107"/>
+<area shape="rect" id="node4" href="$d8/dbf/constant_8hpp.html" title="constant.hpp" alt="" coords="1423,155,1529,181"/>
+<area shape="rect" id="node5" href="$da/d0e/variable_8hpp.html" title="variable.hpp" alt="" coords="1295,155,1397,181"/>
+<area shape="rect" id="node10" href="$d3/d4a/string__constant_8hpp.html" title="string_constant.hpp" alt="" coords="1121,155,1271,181"/>
+<area shape="rect" id="node29" href="$d1/d77/variadic__expr_8hpp.html" title="variadic_expr.hpp" alt="" coords="591,229,728,256"/>
+<area shape="rect" id="node6" href="$df/d2b/shared__string_8hpp.html" title="px/type/shared_string.hpp" alt="" coords="1402,229,1592,256"/>
+<area shape="rect" id="node8" href="$d4/d76/type_2string_8hpp.html" title="string.hpp" alt="" coords="1259,453,1345,480"/>
+<area shape="rect" id="node12" href="$d7/db9/px__value_8hpp.html" title="px/equation/px_value.hpp" alt="" coords="753,229,943,256"/>
+<area shape="rect" id="node15" href="$d2/d43/translatable_8hpp.html" title="concept/translatable.hpp" alt="" coords="975,304,1157,331"/>
+<area shape="rect" id="node18" href="$d2/dca/type_2value_8hpp.html" title="px/type/value.hpp" alt="" coords="479,304,617,331"/>
+<area shape="rect" id="node20" href="$dd/d3a/common_8hpp.html" title="px/common.hpp" alt="" coords="435,453,561,480"/>
+<area shape="rect" id="node21" href="$d1/db0/timestamp_8hpp.html" title="timestamp.hpp" alt="" coords="631,379,752,405"/>
+<area shape="rect" id="node24" href="$db/d73/invalid_8hpp.html" title="invalid.hpp" alt="" coords="513,379,607,405"/>
+<area shape="rect" id="node25" href="$d6/d12/datatype_8hpp.html" title="px/enum/datatype.hpp" alt="" coords="267,379,436,405"/>
+<area shape="rect" id="node27" href="$d6/d78/best__type_8hpp.html" title="value/best_type.hpp" alt="" coords="828,379,983,405"/>
+<area shape="rect" id="node26" href="$d7/dc1/datatype__enums_8hpp.html" title="datatype_enums.hpp" alt="" coords="166,453,324,480"/>
+<area shape="rect" id="node30" href="$d0/d4e/variadic__op_8hpp.html" title="variadic_op.hpp" alt="" coords="641,304,767,331"/>
+</map>

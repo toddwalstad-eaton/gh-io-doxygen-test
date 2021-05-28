@@ -1,0 +1,5 @@
+<map id="px::asio::CIoTransactor::parse" name="px::asio::CIoTransactor::parse">
+<area shape="rect" id="node2" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html#afc4045882f60a7967a7bcaf0a3b4c192" title="px::asio::CIoTransactor\l::get_parse_success" alt="" coords="225,5,394,46"/>
+<area shape="rect" id="node3" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html#a7aeb25f58867a36d15419d3753047e2f" title="Read more data from the messenger&#39;s input source. " alt="" coords="225,70,394,111"/>
+<area shape="rect" id="node4" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html#a96e4af1d0ab45ad6ec41070064f75060" title="px::asio::CIoTransactor\l::set_parse_failed" alt="" coords="225,135,394,177"/>
+</map>

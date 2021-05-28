@@ -1,0 +1,4 @@
+<map id="CSerialConnection::CSerialConnection" name="CSerialConnection::CSerialConnection">
+<area shape="rect" id="node2" href="$d5/daf/classCSerialConnection.html#a11f088eb71f80cc47563f19f24c67441" title="Factory function. " alt="" coords="203,5,352,46"/>
+<area shape="rect" id="node3" href="$df/d6f/classCSerialPort.html#a801fb24a18b6d99785d4b3edbecb04e9" title="(Virtual) Factory method to create the port &quot;Connection&quot; Actor (eg, CSerialConnection). " alt="" coords="401,5,543,46"/>
+</map>

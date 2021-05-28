@@ -1,0 +1,10 @@
+<map id="CDevice::update_device_params" name="CDevice::update_device_params">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#a497ca4959da5daf04964c0c52eb15ba4" title="Getter to lookup a Device attribute parameter by its canonical name and get its instance. " alt="" coords="501,62,680,103"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#ab231a1465890affb24529dfe50f6a441" title="Get the parent Port and Device ID tag string (eg, &quot;(p2:d64)&quot; ) for this Device. " alt="" coords="251,40,435,66"/>
+<area shape="rect" id="node4" href="$d2/d76/classCDevice.html#a5e083835cb8c682687a4c693f76650ee" title="Tells us if this is a subdevice, and can return its instance number. " alt="" coords="259,90,427,117"/>
+<area shape="rect" id="node5" href="$d8/d41/classCDeviceUtil.html#ad656eab729fb2298c662a9ddcc0a8f00" title="CDeviceUtil::check\l_meter_name" alt="" coords="270,142,415,183"/>
+<area shape="rect" id="node6" href="$d6/d52/classCParsedDeviceEds.html#ada63afd997925e86cc9de1dc406328d8" title="Checks to see if the PX Device instance should be updated with parent device information. " alt="" coords="249,207,437,248"/>
+<area shape="rect" id="node8" href="$d2/d76/classCDevice.html#af553f063aa533f3e38b701031cc408f0" title="Setter for the formatted name of this device. " alt="" coords="233,273,453,300"/>
+<area shape="rect" id="node9" href="$dc/d4a/classCUtil.html#ab23b89e75ee52ed0e45e7a188ce3386f" title="CUtil::get_formatted_name" alt="" coords="243,324,442,350"/>
+<area shape="rect" id="node7" href="$d6/d52/classCParsedDeviceEds.html#a8ae8b0b41a4f62b85491a11517929ea6" title="Static Getter for the Device attribute parameter name, by enum. " alt="" coords="505,207,676,248"/>
+</map>

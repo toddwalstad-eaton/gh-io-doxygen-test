@@ -1,0 +1,11 @@
+<map id="CDeviceUtil::handle_special_param" name="CDeviceUtil::handle_special_param">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#ab231a1465890affb24529dfe50f6a441" title="Get the parent Port and Device ID tag string (eg, &quot;(p2:d64)&quot; ) for this Device. " alt="" coords="443,310,627,336"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#ad1b1f452e6ff631b31b481405e431bc9" title="Setter that adds a new subdevice instance number to our deque, as long as it is not already in the li..." alt="" coords="209,48,391,89"/>
+<area shape="rect" id="node4" href="$d2/d76/classCDevice.html#aff535f306432c1e29261a6626815f312" title="Update the counter that keeps track of how many times we had checked for sub&#45;device addresses..." alt="" coords="212,113,388,154"/>
+<area shape="rect" id="node5" href="$d2/d76/classCDevice.html#ae216fca9c172e6f7678b95586a447be6" title="Setter for _marked_for_refresh. " alt="" coords="219,178,381,220"/>
+<area shape="rect" id="node6" href="$d2/d76/classCDevice.html#ad9840aef5da81284f3b34c010c5165e0" title="Get the counter value that keeps track of how many times we had checked for sub&#45;device addresses..." alt="" coords="211,244,389,285"/>
+<area shape="rect" id="node7" href="$d2/d76/classCDevice.html#a1d10d2d6c59281c8d482206838643681" title="Do a reverse lookup of an xBlock, given its name. " alt="" coords="205,310,395,336"/>
+<area shape="rect" id="node8" href="$d2/d76/classCDevice.html#acace33b057a3e2de57af44f990eca5ef" title="Return current CValue given block ID and translator array index. " alt="" coords="227,361,373,402"/>
+<area shape="rect" id="node9" href="$d2/d76/classCDevice.html#abac1fe55b006dfb7cf69e1b52cfa0f0e" title="Getter for one DataBlock, from its ID. " alt="" coords="449,364,620,391"/>
+<area shape="rect" id="node10" href="$d2/d76/classCDevice.html#a5e083835cb8c682687a4c693f76650ee" title="Tells us if this is a subdevice, and can return its instance number. " alt="" coords="451,415,619,442"/>
+</map>

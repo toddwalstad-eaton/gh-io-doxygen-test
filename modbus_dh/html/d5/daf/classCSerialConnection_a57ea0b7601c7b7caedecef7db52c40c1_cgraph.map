@@ -1,0 +1,7 @@
+<map id="CSerialConnection::CSerialConnection" name="CSerialConnection::CSerialConnection">
+<area shape="rect" id="node2" href="$d5/daf/classCSerialConnection.html#a3dd7fb4271ff7c7cec658553be185b93" title="Set the baud rate of the serial port. " alt="" coords="203,5,352,46"/>
+<area shape="rect" id="node3" href="$d5/daf/classCSerialConnection.html#a2168b7a39fdee1ecf810d67c1b60c6e4" title="Set the flow control option of the serial port. " alt="" coords="203,70,352,111"/>
+<area shape="rect" id="node4" href="$d5/daf/classCSerialConnection.html#ac785ead6f9df487c3c2aecb2e0bff9e6" title="Set the character size of the serial port. " alt="" coords="203,135,352,177"/>
+<area shape="rect" id="node5" href="$d5/daf/classCSerialConnection.html#ac7c375a3ed34cedb7b16c782396f2c4c" title="Set the parity option of the serial port. " alt="" coords="203,201,352,242"/>
+<area shape="rect" id="node6" href="$d5/daf/classCSerialConnection.html#a2f36a02837c6f77de883fb6c29913654" title="Set the number of stop bits on the serial port. " alt="" coords="203,266,352,307"/>
+</map>

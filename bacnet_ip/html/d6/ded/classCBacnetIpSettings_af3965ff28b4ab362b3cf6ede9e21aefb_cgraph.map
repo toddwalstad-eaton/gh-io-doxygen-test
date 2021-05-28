@@ -1,0 +1,4 @@
+<map id="CBacnetIpSettings::update_object_id" name="CBacnetIpSettings::update_object_id">
+<area shape="rect" id="node2" href="$d6/ded/classCBacnetIpSettings.html#a8446a162c8e1e0589118b9a87b6d562b" title="Retrieve virtual device from the virtual device map or the gateway device. " alt="" coords="401,5,599,46"/>
+<area shape="rect" id="node3" href="$d6/ded/classCBacnetIpSettings.html#aa8617159e05d5cf9b62a0f1957aef980" title="Update the BACnetDatabase OOB object for the indicated device, writing the update to the CDS..." alt="" coords="203,34,352,75"/>
+</map>

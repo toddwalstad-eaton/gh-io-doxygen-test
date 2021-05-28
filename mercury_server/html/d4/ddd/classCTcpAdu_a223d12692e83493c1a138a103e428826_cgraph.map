@@ -1,0 +1,4 @@
+<map id="CTcpAdu::serialize" name="CTcpAdu::serialize">
+<area shape="rect" id="node2" href="$d8/d4b/classCMercuryAdu.html#aae3ac89673eb34e14aa07e3000b48689" title="Serialize the (optional) Header and binary Protobuf or JSON message into the buffer. " alt="" coords="195,5,365,32"/>
+<area shape="rect" id="node3" href="$d7/d8a/classCMercuryPdu.html#a591f3a30274afddb71a3249d70d38454" title="Copy all available bytes from internal data[] buffer into the given buf[]. " alt="" coords="413,5,584,32"/>
+</map>

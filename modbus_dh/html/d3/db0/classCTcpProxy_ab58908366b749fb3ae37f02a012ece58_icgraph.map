@@ -1,0 +1,9 @@
+<map id="CTcpProxy::handle_accept" name="CTcpProxy::handle_accept">
+<area shape="rect" id="node2" href="$d3/db0/classCTcpProxy.html#afae841e5fedc33c2eb8733fd47029c17" title="Asynchronously accept a new connection. " alt="" coords="245,12,384,39"/>
+<area shape="rect" id="node3" href="$d3/db0/classCTcpProxy.html#ae353c48b3a892f6d659acf4f19fdbf2c" title="Constructor. " alt="" coords="439,12,601,39"/>
+<area shape="rect" id="node8" href="$d3/db0/classCTcpProxy.html#aa4edd79a769a44053aae9dc8433e658e" title="Callback function for Boost.Asio upon accepting a new connection. " alt="" coords="432,63,608,89"/>
+<area shape="rect" id="node4" href="$d3/db0/classCTcpProxy.html#a24d8c1a76f4c79cc465ff312c9c966c2" title="Factory function to create a new CTcpProxy server object. " alt="" coords="657,12,794,39"/>
+<area shape="rect" id="node5" href="$d6/d71/classCModbusTcpPort.html#a4a2359e0327ffb86a75fd89bf10ce980" title="Open the pass&#45;through socket port &amp; handling, if enabled. " alt="" coords="843,5,1011,46"/>
+<area shape="rect" id="node6" href="$d6/d71/classCModbusTcpPort.html#a9dd6e9eb42463f8da3cc59fd250d9280" title="(Virtual) Factory method to create the port &quot;Connection&quot; Actor (eg, CSerialConnection). " alt="" coords="1270,5,1447,46"/>
+<area shape="rect" id="node7" href="$d6/d71/classCModbusTcpPort.html#aee1a3c60912ba0cbd1778fd75ef98a59" title="The callback function that we provide to the CDS to handle updates to ServiceAccessCtrl oob data..." alt="" coords="1059,34,1221,75"/>
+</map>

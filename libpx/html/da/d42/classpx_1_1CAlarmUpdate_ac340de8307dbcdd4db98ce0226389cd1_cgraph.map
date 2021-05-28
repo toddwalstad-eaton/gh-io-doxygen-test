@@ -1,0 +1,5 @@
+<map id="px::CAlarmUpdate::CAlarmUpdate" name="px::CAlarmUpdate::CAlarmUpdate">
+<area shape="rect" id="node2" href="$da/d42/classpx_1_1CAlarmUpdate.html#aae0073c46a7469d6af7a4afe518e9912" title="px::CAlarmUpdate::from" alt="" coords="251,31,431,57"/>
+<area shape="rect" id="node3" href="$dd/d57/classpx_1_1CBitset.html#a26e16c0d4766404badb5fb2c3a2c585d" title="Assign this object&#39;s bitset based on a protobuf message object. " alt="" coords="503,5,635,32"/>
+<area shape="rect" id="node4" href="$d6/d62/classpx_1_1CAlarmTrigger.html#aa5085e59087cf6d486c138b9df3bc682" title="px::CAlarmTrigger::from" alt="" coords="481,56,658,83"/>
+</map>

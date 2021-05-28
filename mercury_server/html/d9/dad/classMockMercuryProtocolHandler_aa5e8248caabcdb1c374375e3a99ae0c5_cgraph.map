@@ -1,0 +1,6 @@
+<map id="MockMercuryProtocolHandler::set_mock_transactor" name="MockMercuryProtocolHandler::set_mock_transactor">
+<area shape="rect" id="node2" href="$d6/dee/classCMercuryProtocolHandler.html#a33bdc6ec4bdf775064104cec25b4c4bd" title="simple getter for the underlying protocol data unit " alt="" coords="528,11,715,52"/>
+<area shape="rect" id="node3" href="$d9/dad/classMockMercuryProtocolHandler.html#ac451e9c4f01c528fdcaac9e65633afe5" title="MockMercuryProtocolHandler\l::PHgetPdu" alt="" coords="267,27,479,68"/>
+<area shape="rect" id="node4" href="$d6/dee/classCMercuryProtocolHandler.html#a538ffbdfe246ea924c377d8506b53a5f" title="Submit work to be done by CDS. " alt="" coords="528,102,715,143"/>
+<area shape="rect" id="node5" href="$d9/dad/classMockMercuryProtocolHandler.html#aa2781a93541b897e0ebbd8e7ef299351" title="MockMercuryProtocolHandler\l::MPHcds_submit" alt="" coords="267,144,479,186"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="certmgr/libcertmgr/export/TypesApi.hpp" name="certmgr/libcertmgr/export/TypesApi.hpp">
+<area shape="rect" id="node2" href="$d1/dfd/OverwrittenData_8hpp.html" title="Accessor for data which can be overwritten by the user for each certificate. " alt="" coords="659,97,867,138"/>
+<area shape="rect" id="node3" href="$d0/d39/CertmanagerApi_8hpp.html" title="Definition of c++ Api for certificate manager. " alt="" coords="518,187,724,229"/>
+<area shape="rect" id="node7" href="$d2/dd7/OverwrittenData_8cpp.html" title="certmgr/libcertmgr\l/src/OverwrittenData.cpp" alt="" coords="912,278,1096,319"/>
+<area shape="rect" id="node4" href="$d9/d42/certcmd_8cpp.html" title="certcmd/src/certcmd.cpp" alt="" coords="5,285,187,312"/>
+<area shape="rect" id="node5" href="$d3/d54/CertmanagerApi_8cpp.html" title="certmgr/libcertmgr\l/src/CertmanagerApi.cpp" alt="" coords="211,278,393,319"/>
+<area shape="rect" id="node6" href="$de/d8e/CertmanagerApiException_8cpp.html" title="Implementation of certificate manager API exceptions. " alt="" coords="418,278,664,319"/>
+<area shape="rect" id="node8" href="$d5/d89/main__test_8cpp.html" title="certmgr/test/main_test.cpp" alt="" coords="689,285,887,312"/>
+</map>

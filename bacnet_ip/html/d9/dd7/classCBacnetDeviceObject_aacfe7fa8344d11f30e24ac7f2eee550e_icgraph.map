@@ -1,0 +1,5 @@
+<map id="CBacnetDeviceObject::add_persisted_property" name="CBacnetDeviceObject::add_persisted_property">
+<area shape="rect" id="node2" href="$d2/d28/classCBacnetAnalogObject.html#a5817abf9d5441a39e0885cd5b297381d" title="Handles the write to properties like COV_Increment for this object type. " alt="" coords="253,5,429,46"/>
+<area shape="rect" id="node3" href="$da/d99/classCBacnetAnalogOutputObject.html#a6710bd4455b7a3ce1fde8a1d76721f30" title="Handles the write to properties like COV_Increment for this object type. " alt="" coords="238,70,445,111"/>
+<area shape="rect" id="node4" href="$dc/d60/classCBacnetIntegerValue.html#a6948ba5f419e63292370438c518a80d0" title="Handles the write to properties like COV_Increment for this object type. " alt="" coords="253,135,429,177"/>
+</map>

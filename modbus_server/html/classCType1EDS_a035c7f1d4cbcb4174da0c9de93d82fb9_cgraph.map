@@ -1,0 +1,15 @@
+<map id="CType1EDS::CType1EDS" name="CType1EDS::CType1EDS">
+<area shape="rect" id="node2" href="$classCModbusUtil.html#a0e88aa5cef4d314c3101bdb11e13a379" title="Check if a given file exists or not. " alt="" coords="229,5,400,46"/>
+<area shape="rect" id="node3" href="$classCType1EDS.html#a9d4f2e6abf056add54a6e488ab41f843" title="Process EDS models from the given json object. " alt="" coords="238,70,391,111"/>
+<area shape="rect" id="node5" href="$classCType1EDS.html#a58b9685577fe26a1a080e7995f0c5d3f" title="Process EDS protocol types from the given json object. " alt="" coords="238,135,391,177"/>
+<area shape="rect" id="node6" href="$classCType1EDS.html#a7cdacf5b1d0dbae45ef27564a0d4b50a" title="Process sub&#45;device properties from the given json object. " alt="" coords="231,201,399,242"/>
+<area shape="rect" id="node7" href="$classCType1EDS.html#ae895c06d31bdad253fc4793e5c129358" title="Process device properties from the given json object. " alt="" coords="238,266,391,307"/>
+<area shape="rect" id="node8" href="$classCType1EDS.html#ab0462bf22f0aca8f30724250dbac8eb9" title="Process EDS pollblocks section. " alt="" coords="238,397,391,438"/>
+<area shape="rect" id="node11" href="$classCType1EDS.html#afe40d7fafe31b6a9059452e5125fdde1" title="Process EDS command list section. " alt="" coords="238,331,391,373"/>
+<area shape="rect" id="node12" href="$classCType1EDS.html#a976c68cc111c2b6548f1f7bdc8889612" title="Process EDS channel list section. " alt="" coords="238,462,391,503"/>
+<area shape="rect" id="node4" href="$classCType1EDS.html#acf255f0377e24ae199f5ba09c1e7b585" title="Helper method to read a string value from json object. " alt="" coords="463,266,639,307"/>
+<area shape="rect" id="node9" href="$classCType1EDS.html#a8abeb3689900d37355830e74d72c6eda" title="Helper method to read a int value from json object. " alt="" coords="473,426,629,467"/>
+<area shape="rect" id="node10" href="$classCType1EDS.html#a032a35444a394020072c0cdde8cdb992" title="Helper method to read data type from json object. " alt="" coords="449,375,653,401"/>
+<area shape="rect" id="node13" href="$classCType1EDS.html#a95e8e7db5b7ccdcac2b7aa4dcc1393de" title="Get data type from channel translation. " alt="" coords="459,491,642,533"/>
+<area shape="rect" id="node14" href="$classCType1EDS.html#a98f687d5ca03afc7724be6fb0bc10fc0" title="Helper method to get xblock name and index. " alt="" coords="702,491,877,533"/>
+</map>

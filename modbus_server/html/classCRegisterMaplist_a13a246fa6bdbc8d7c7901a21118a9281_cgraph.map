@@ -1,0 +1,5 @@
+<map id="CRegisterMaplist::translate_vals" name="CRegisterMaplist::translate_vals">
+<area shape="rect" id="node2" href="$classCRegisterResultSet.html#acd52f6b4c53be1b151fd2d6a4328d732" title="Add a register mapping to this result set. " alt="" coords="286,5,463,32"/>
+<area shape="rect" id="node3" href="$classCRegisterResultSet.html#af37f170fd012f4b66ab70adfc354f7e7" title="Translate the accumulated mappings in the result set. " alt="" coords="302,57,447,98"/>
+<area shape="rect" id="node4" href="$classCAddressRange.html#a2aa3e5a246ea58bc699092173cdc815c" title="Get the size of this range. " alt="" coords="513,64,671,91"/>
+</map>

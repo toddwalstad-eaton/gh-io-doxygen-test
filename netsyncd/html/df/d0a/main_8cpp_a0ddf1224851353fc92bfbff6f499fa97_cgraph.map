@@ -1,0 +1,12 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$de/d62/sig_8h.html#a0c7675bb9268e27b1b9b480f53f8e6b0" title="register_handlers" alt="" coords="118,5,253,32"/>
+<area shape="rect" id="node6" href="$df/d0a/main_8cpp.html#ae8a95388ca8a68d9a6ce8f42157b4eb4" title="parse_cmdline" alt="" coords="127,208,244,235"/>
+<area shape="rect" id="node9" href="$df/d0a/main_8cpp.html#a6349a7c736375e7b16ee31d7ebccfad8" title="usage" alt="" coords="155,107,216,133"/>
+<area shape="rect" id="node10" href="$de/d62/sig_8h.html#acc7983440513de16892ba5c4c0b0aab8" title="deregister_handlers" alt="" coords="110,157,261,184"/>
+<area shape="rect" id="node7" href="$df/d0a/main_8cpp.html#a7a85c8e4d891fd3bfcc312b56dbbd8c1" title="user" alt="" coords="333,120,384,147"/>
+<area shape="rect" id="node8" href="$df/d0a/main_8cpp.html#a5c363a57db58a77130f04608472ae49f" title="group" alt="" coords="329,233,388,260"/>
+<area shape="rect" id="node11" href="$df/d0a/main_8cpp.html#a859307c43da5908cb529781d87068c29" title="main_loop" alt="" coords="140,309,231,336"/>
+<area shape="rect" id="node3" href="$da/d12/sig_8c.html#a2158e306a961ad0d38b727984a77e154" title="sig_handler" alt="" coords="310,5,407,32"/>
+<area shape="rect" id="node4" href="$de/d62/sig_8h.html#aedfd3977817e18496ad650914bee67f0" title="trace" alt="" coords="457,5,511,32"/>
+<area shape="rect" id="node5" href="$da/d12/sig_8c.html#af0031e07e856ee188809c09d8db1b608" title="__cxa_demangle" alt="" coords="560,5,691,32"/>
+</map>

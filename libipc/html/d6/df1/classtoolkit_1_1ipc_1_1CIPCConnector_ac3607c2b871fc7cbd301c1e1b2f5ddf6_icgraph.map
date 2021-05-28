@@ -1,0 +1,4 @@
+<map id="toolkit::ipc::CIPCConnector::get_shm" name="toolkit::ipc::CIPCConnector::get_shm">
+<area shape="rect" id="node2" href="$d6/df1/classtoolkit_1_1ipc_1_1CIPCConnector.html#aa066ae09df116d87bedef68c090a9b2b" title="Initialize a new IPC handle using the already&#45;connected socket. " alt="" coords="248,5,443,46"/>
+<area shape="rect" id="node3" href="$d9/d6c/classtoolkit_1_1ipc_1_1CIPCHandle.html#a1feb943d48dc0b08f87ecac3418230cf" title="Connection factory. " alt="" coords="491,5,666,46"/>
+</map>

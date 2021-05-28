@@ -1,0 +1,14 @@
+<map id="certmanager::Log::close" name="certmanager::Log::close">
+<area shape="rect" id="node2" href="$d3/d3b/certmanagd_8cpp.html#a7194a69a055d7ac14032468ee25b5419" title="exitDaemon" alt="" coords="233,177,335,203"/>
+<area shape="rect" id="node3" href="$d3/d3b/certmanagd_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1107,202,1162,229"/>
+<area shape="rect" id="node4" href="$d3/d3b/certmanagd_8cpp.html#aa583bb805cfcbbc339be80774525a98e" title="notificationHandler" alt="" coords="885,101,1032,127"/>
+<area shape="rect" id="node5" href="$d3/d3b/certmanagd_8cpp.html#a7a6dded34638d6a41bf2a19ac9e2108e" title="notifiyNetworkChanged" alt="" coords="385,101,559,127"/>
+<area shape="rect" id="node8" href="$d3/d3b/certmanagd_8cpp.html#a02af63c567c046fe8903a5df636a2014" title="notifiyTimeChanged" alt="" coords="395,151,549,178"/>
+<area shape="rect" id="node10" href="$d3/d3b/certmanagd_8cpp.html#a869452f0c0952acd39230fcf0ef89c1e" title="daemonize" alt="" coords="662,202,757,229"/>
+<area shape="rect" id="node11" href="$d3/d3b/certmanagd_8cpp.html#a478d3292dd50c461f1edfe2bde5a5cc5" title="initCheck" alt="" coords="917,253,1000,279"/>
+<area shape="rect" id="node12" href="$d3/d3b/certmanagd_8cpp.html#a4cffa3b1efa45bb6ee48b1f6be3fe9c1" title="checkLock" alt="" coords="664,303,755,330"/>
+<area shape="rect" id="node13" href="$d3/d3b/certmanagd_8cpp.html#a7861ee1569802186a619778efc85af13" title="shutdown" alt="" coords="429,354,515,381"/>
+<area shape="rect" id="node6" href="$d3/d3b/certmanagd_8cpp.html#ad401e9089d2fcad473dee887743918ec" title="networkNotificationHandler" alt="" coords="609,101,810,127"/>
+<area shape="rect" id="node7" href="$d3/d3b/certmanagd_8cpp.html#a2121aa6537ccb8b643002847c6d7d9b4" title="MonitorTimeNetworkConfig" alt="" coords="859,151,1059,178"/>
+<area shape="rect" id="node9" href="$d3/d3b/certmanagd_8cpp.html#ada5032690498d07173a592c03f19cdbf" title="timeNotificationHandler" alt="" coords="620,151,799,178"/>
+</map>

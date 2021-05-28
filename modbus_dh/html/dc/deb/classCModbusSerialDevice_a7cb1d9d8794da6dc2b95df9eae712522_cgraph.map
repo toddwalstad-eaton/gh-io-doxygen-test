@@ -1,0 +1,10 @@
+<map id="CModbusSerialDevice::handle_device_notification" name="CModbusSerialDevice::handle_device_notification">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#af2721033408a4aa62bcbfa647aef16ef" title="Getter to lookup a parameter by its canonical name and get its instance. " alt="" coords="259,5,437,32"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#a184036fc7dad41da587f9fd8790a2699" title="CDevice::unprofiled\l_blocks_remain" alt="" coords="273,57,423,98"/>
+<area shape="rect" id="node5" href="$dc/deb/classCModbusSerialDevice.html#a2a58768d366aeab524c080238168015f" title="Method to create the device specific handler. " alt="" coords="259,148,437,204"/>
+<area shape="rect" id="node4" href="$d2/d76/classCDevice.html#abac1fe55b006dfb7cf69e1b52cfa0f0e" title="Getter for one DataBlock, from its ID. " alt="" coords="513,39,684,65"/>
+<area shape="rect" id="node6" href="$d2/d76/classCDevice.html#ad60e80f0d6193312b75f9610dfd3ae0b" title="Create a COMTRADE station_id per from C37.232&#45;2007 or C37.111&#45;1999. " alt="" coords="501,90,696,131"/>
+<area shape="rect" id="node7" href="$da/de8/classCModbusDeviceSpecificHandler.html#a0bba31c736aaeedeb5e9a2ac843b59d1" title="Factory method for a device specific handler. " alt="" coords="485,155,712,197"/>
+<area shape="rect" id="node8" href="$d2/d76/classCDevice.html#a41993d06609a8cca7e3a25e55fbf049d" title="Gets the ID of the parent of this Device (eg, the Port&#39;s ID). " alt="" coords="512,221,685,248"/>
+<area shape="rect" id="node9" href="$d2/d76/classCDevice.html#a9a03fb4a2a71897906ab7fc388fe19ef" title="Gets the ID of this device&#39;s waveform availability channel. " alt="" coords="509,273,688,314"/>
+</map>

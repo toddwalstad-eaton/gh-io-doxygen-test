@@ -1,0 +1,7 @@
+<map id="CIotDataDevice::clear_nested_subdevice_list" name="CIotDataDevice::clear_nested_subdevice_list">
+<area shape="rect" id="node2" href="$d2/d55/classCIotDataDevice.html#a6772544d6480623c4ebafaae945c7d02" title="Clear subdevices structure, recursively. " alt="" coords="237,37,401,78"/>
+<area shape="rect" id="node6" href="$d2/d55/classCIotDataDevice.html#a85796451528c1a62b87536b8347af90a" title="Remove the indicated device from our IoT DeviceTree list of subdevices, if present there..." alt="" coords="227,102,410,143"/>
+<area shape="rect" id="node3" href="$d2/d55/classCIotDataDevice.html#a8935f342ec4ae61e2c43bbee5a3e14bc" title="Xtor, which does a little cleanup. " alt="" coords="459,5,659,46"/>
+<area shape="rect" id="node4" href="$d2/d55/classCIotDataDevice.html#a4cc70f77799174928c80ffad8751f06f" title="Initialize, and return a handle to the subdevices list. " alt="" coords="472,70,645,111"/>
+<area shape="rect" id="node5" href="$d2/d55/classCIotDataDevice.html#a4a6e053ea66f2a3614bfa7d863210bb4" title="Add a subdevice to the IoT DeviceTree subdevices list of this device. " alt="" coords="707,70,863,111"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CIotOobHandler::store_connection_string" name="CIotOobHandler::store_connection_string">
+<area shape="rect" id="node2" href="$d3/d1e/classCIotOobHandler.html#af0355cef8124f4f7d767c7a68c5b94cd" title="Set the status and error codes, with optional reason, and output to the IotConnectionStatus OOB..." alt="" coords="222,5,375,46"/>
+<area shape="rect" id="node3" href="$d3/d1e/classCIotOobHandler.html#ad818cd7d9b65206793cd2f379e2775ae" title="Initialize by reading in the IotConfigSettings, ProxySettings, ImageUpdateApp, IotDeviceMapping, and IotDeviceSettings OOBs and doing some validation. " alt="" coords="424,12,613,39"/>
+</map>

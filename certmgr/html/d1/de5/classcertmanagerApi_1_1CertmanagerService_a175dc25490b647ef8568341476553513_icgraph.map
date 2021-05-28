@@ -1,0 +1,10 @@
+<map id="certmanagerApi::CertmanagerService::addCertificate" name="certmanagerApi::CertmanagerService::addCertificate">
+<area shape="rect" id="node2" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#ad975c900725ddd32baa065c3b21c17dd" title="Apply a certificate from PKI. " alt="" coords="273,5,495,46"/>
+<area shape="rect" id="node3" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#ab1ec85981c233200c94eb8fe1b0f6e19" title="Add a certificate authority on the service if the CA is not present. " alt="" coords="275,70,493,111"/>
+<area shape="rect" id="node5" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a49fe042fc0c398f0bda00c140e89cdb7" title="Add a Trusted client on the service if the trusted client is not present. " alt="" coords="275,135,493,177"/>
+<area shape="rect" id="node6" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a2062da42282cc8ece2b1e859fa329578" title="Add the certificate to the given target from the file. " alt="" coords="275,201,493,242"/>
+<area shape="rect" id="node4" href="$d5/d89/main__test_8cpp.html#aa1142b591322885ef01eac4c3529c890" title="BOOST_AUTO_TEST_CASE" alt="" coords="571,77,762,104"/>
+<area shape="rect" id="node7" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#adaa69a6a117f7021ccf093a538d07548" title="Apply a certificate from PKI. " alt="" coords="544,135,789,177"/>
+<area shape="rect" id="node8" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a656b4ecd28b168ab21978e67951f8901" title="Add a certificate authority on the service if the CA is not present. " alt="" coords="557,201,776,242"/>
+<area shape="rect" id="node9" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a29419177d078e3a3a0bd5bf55c3e928e" title="Add a trusted client on the service if the Trusted Client is not present. " alt="" coords="557,266,776,307"/>
+</map>

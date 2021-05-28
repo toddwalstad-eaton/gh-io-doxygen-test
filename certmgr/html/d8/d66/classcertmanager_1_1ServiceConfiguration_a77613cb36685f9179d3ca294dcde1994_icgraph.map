@@ -1,0 +1,4 @@
+<map id="certmanager::ServiceConfiguration::isSelfSignedGeneration" name="certmanager::ServiceConfiguration::isSelfSignedGeneration">
+<area shape="rect" id="node2" href="$d8/d20/classcertmanager_1_1Server.html#a38e94f9cb1fb01398d237ec5c6db88e1" title="Function to check whether Self Signed generation is enabled on expiry. " alt="" coords="306,5,489,46"/>
+<area shape="rect" id="node3" href="$d5/d89/main__test_8cpp.html#ace607988fe55aae7c01782934709d98e" title="BOOST_AUTO_TEST_CASE" alt="" coords="302,71,493,97"/>
+</map>

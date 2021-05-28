@@ -1,0 +1,9 @@
+<map id="px::asio::CIoTransactor" name="px::asio::CIoTransactor">
+<area shape="rect" id="node4" href="$d6/d4d/classpx_1_1asio_1_1CTcpConnection.html" title="TCP Connection class, which manages TCP transactions. " alt="" coords="5,1001,189,1181"/>
+<area shape="rect" id="node5" href="$d1/d8e/classpx_1_1asio_1_1CTcpSslConnection.html" title="TCP Connection class, which manages TCP transactions. " alt="" coords="213,979,416,1203"/>
+<area shape="rect" id="node6" href="$d8/d6a/classpx_1_1asio_1_1CUdpListener.html" title="UDP Socket Listener class, used to listen on a UDP port. " alt="" coords="441,883,647,1298"/>
+<area shape="rect" id="node7" href="$d5/dde/classpx_1_1asio_1_1CUdpSender.html" title="UDP Socket Sender class, used to Send packets on a UDP portThis class implements a UPD sender..." alt="" coords="672,927,835,1254"/>
+<area shape="rect" id="node8" href="$df/db1/classpx_1_1asio_1_1CUdsConnection.html" title="Unix Domain Socket Connection class, which manages transactions on a socket of type stream_protocol::..." alt="" coords="859,1001,1047,1181"/>
+<area shape="rect" id="node9" href="$d3/d74/classpx_1_1asio_1_1CUdsDgramListener.html" title="Unix Domain Socket (datagram) Listener classThis class implements a UDS &quot;listener&quot;. " alt="" coords="1072,935,1283,1247"/>
+<area shape="rect" id="node2" href="$dd/d60/classpx_1_1asio_1_1CIoActor.html" title="The I/O &quot;Actor&quot; base class. " alt="" coords="571,147,724,327"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CIotDeviceClient::add_child_device_to_tree_structure" name="CIotDeviceClient::add_child_device_to_tree_structure">
+<area shape="rect" id="node2" href="$dd/d68/classCIotDeviceClient.html#a747f810cc21e41b3e81ffa6059b3c4e5" title="Add a device (and its subdevices) to the Device Tree structure. " alt="" coords="216,13,387,54"/>
+<area shape="rect" id="node3" href="$dd/d68/classCIotDeviceClient.html#a88f14cdca116cb11cdb757027f16edfd" title="Build the DEVICE_TREE structure and publish it to the IoT Hub. " alt="" coords="435,13,605,54"/>
+<area shape="rect" id="node4" href="$dd/d68/classCIotDeviceClient.html#ac3e59938659409ee0adee10292047aca" title="Called by the core&#39;s update timer to manage next state / action. " alt="" coords="654,13,837,54"/>
+</map>

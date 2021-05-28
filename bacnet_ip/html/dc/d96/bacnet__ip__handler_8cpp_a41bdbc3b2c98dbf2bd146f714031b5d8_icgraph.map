@@ -1,0 +1,4 @@
+<map id="bactext_bvlc_function" name="bactext_bvlc_function">
+<area shape="rect" id="node2" href="$d0/d58/classCBacnetIpHandler.html#a097e74048a899230e73678aeff18064c" title="Try to parse the buffer, when the CIoTransactor calls us. " alt="" coords="443,5,626,32"/>
+<area shape="rect" id="node3" href="$d0/d58/classCBacnetIpHandler.html#ac25e8ea63490cc6cafdfc99113c6df90" title="Note any BVLC_RESULT code, or NAK the BVLL message in the unsupported cases. " alt="" coords="219,27,394,69"/>
+</map>

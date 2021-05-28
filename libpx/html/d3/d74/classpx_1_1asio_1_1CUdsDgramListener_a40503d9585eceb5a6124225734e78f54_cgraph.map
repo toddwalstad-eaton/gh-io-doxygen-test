@@ -1,0 +1,7 @@
+<map id="px::asio::CUdsDgramListener::CUdsDgramListener" name="px::asio::CUdsDgramListener::CUdsDgramListener">
+<area shape="rect" id="node2" href="$d1/d20/classpx_1_1asio_1_1CProtocolHandler.html#a5be0ff44a7c9794ee1c7717b93f8626a" title="Getter for the string to identify the protocol for session tracking and debugging purposes..." alt="" coords="272,5,467,46"/>
+<area shape="rect" id="node3" href="$d3/d74/classpx_1_1asio_1_1CUdsDgramListener.html#aa547e71dab98c8f124f108d0acafffef" title="Create or reset our listening socket, at _path. " alt="" coords="264,70,475,111"/>
+<area shape="rect" id="node5" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html#adc4afd0ca46c1111d323d16b094d3b37" title="Kick&#45;start the messenger by waiting for incoming data. " alt="" coords="285,135,454,177"/>
+<area shape="rect" id="node4" href="$dd/d60/classpx_1_1asio_1_1CIoActor.html#aad90c314c7d733326fe1f0d88e0bede2" title="Get the I/O service associated with the owner of this actor. " alt="" coords="540,70,676,111"/>
+<area shape="rect" id="node6" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html#a7aeb25f58867a36d15419d3753047e2f" title="Read more data from the messenger&#39;s input source. " alt="" coords="523,135,693,177"/>
+</map>

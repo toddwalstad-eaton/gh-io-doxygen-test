@@ -1,0 +1,7 @@
+<map id="CMercuryGetTrendConfigurationsRequest::post" name="CMercuryGetTrendConfigurationsRequest::post">
+<area shape="rect" id="node2" href="$df/df6/classCMercuryMessageHandler.html#a17ed689c3244cf11e17c39827a61c70a" title="Post an error response, with the optional error message. " alt="" coords="571,90,789,117"/>
+<area shape="rect" id="node3" href="$d1/ddf/classCMercuryGetTrendConfigurationsRequest.html#a73ca18cb7520d5e39558f575550e2b26" title="Determine if request based purely on channel id&#39;s (rather than device id&#39;s). " alt="" coords="288,38,523,94"/>
+<area shape="rect" id="node4" href="$df/df6/classCMercuryMessageHandler.html#ada7cec4cb6c5ef2b5cd55f23fa3cf301" title="Post a warning response, with the optional warning message. " alt="" coords="310,119,501,160"/>
+<area shape="rect" id="node5" href="$df/df6/classCMercuryMessageHandler.html#a60e36e9ba52b6b0b4b7199b65e96a70f" title="Post an error response, based on the CDS response status, with the optional error message..." alt="" coords="310,184,501,226"/>
+<area shape="rect" id="node6" href="$df/df6/classCMercuryMessageHandler.html#ab1d4986083e1271b288e3da19be56359" title="interface to respond to interested parties " alt="" coords="310,250,501,291"/>
+</map>

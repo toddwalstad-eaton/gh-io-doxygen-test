@@ -1,0 +1,5 @@
+<map id="CBacnetIpHandler::register_as_foreign_device" name="CBacnetIpHandler::register_as_foreign_device">
+<area shape="rect" id="node2" href="$d7/d94/group__bip__interface.html#ga98ec5b34574c0c432dea2b5d3f5c08f4" title="J.2.6 Register&#45;Foreign&#45;Device: encode. " alt="" coords="259,5,419,46"/>
+<area shape="rect" id="node4" href="$d0/d58/classCBacnetIpHandler.html#a54fa5f3a188b958a1f50eb861bda7e01" title="Send a BVLC message (BVLC header + PDU data) to the BBMD. " alt="" coords="251,70,426,111"/>
+<area shape="rect" id="node3" href="$d7/d94/group__bip__interface.html#ga8be3a0662a9073ed60d6e8cacde64a08" title="Encode the BVLC header. " alt="" coords="475,12,629,39"/>
+</map>

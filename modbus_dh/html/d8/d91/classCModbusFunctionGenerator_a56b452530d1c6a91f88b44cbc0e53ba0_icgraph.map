@@ -1,0 +1,5 @@
+<map id="CModbusFunctionGenerator::create" name="CModbusFunctionGenerator::create">
+<area shape="rect" id="node2" href="$df/d62/classCModbusCommandBlock.html#a3957884d90672cd19e793c2da15af662" title="Generate a message which reads/writes this command block from/to the appropriate device. " alt="" coords="260,5,444,46"/>
+<area shape="rect" id="node4" href="$de/df8/classCModbusDataBlock.html#a11bd794605c052bcd6b2c271cfb2e155" title="Generate a message which reads/writes this data block from/to the appropriate device. " alt="" coords="253,70,451,111"/>
+<area shape="rect" id="node3" href="$d7/d46/classCModbusDevice.html#a64729f41548fc750b37111ef7d84a46d" title="Get the queue of &quot;next&quot; Modbus transaction(s) for this Device. " alt="" coords="499,5,661,46"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="/src/product&#45;ref1/px&#45;toolkit/etn_source/modbus_device_handler/source/io/serial/serial_connection.cpp" name="/src/product&#45;ref1/px&#45;toolkit/etn_source/modbus_device_handler/source/io/serial/serial_connection.cpp">
+<area shape="rect" id="node2" href="$d4/d5f/device__handler_8hpp.html" title="device_handler.hpp" alt="" coords="293,133,440,160"/>
+<area shape="rect" id="node13" href="$d3/d6b/serial__connection_8hpp.html" title="serial_connection.hpp" alt="" coords="3881,133,4044,160"/>
+<area shape="rect" id="node31" href="$d1/d42/port_8hpp.html" title="port.hpp" alt="" coords="2425,133,2500,160"/>
+<area shape="rect" id="node5" href="$d7/d1e/exception_8hpp.html" title="exception.hpp" alt="" coords="784,472,899,499"/>
+<area shape="rect" id="node8" href="$d4/d3d/log_8hpp.html" title="log.hpp" alt="" coords="127,224,197,251"/>
+<area shape="rect" id="node17" href="$d8/de6/io__messenger_8hpp.html" title="io_messenger.hpp" alt="" coords="3133,224,3272,251"/>
+<area shape="rect" id="node24" href="$d8/da7/io__message_8hpp.html" title="io_message.hpp" alt="" coords="2924,315,3052,341"/>
+<area shape="rect" id="node27" href="$d5/d45/poll__clock_8hpp.html" title="poll_clock.hpp" alt="" coords="2785,315,2900,341"/>
+<area shape="rect" id="node32" href="$d5/d08/device_8hpp.html" title="device.hpp" alt="" coords="1548,224,1641,251"/>
+<area shape="rect" id="node46" href="$dc/d02/asio__cds__handle_8hpp.html" title="asio_cds_handle.hpp" alt="" coords="2560,224,2717,251"/>
+<area shape="rect" id="node47" href="$dc/d65/eds__settings_8hpp.html" title="eds_settings.hpp" alt="" coords="717,397,848,424"/>
+<area shape="rect" id="node48" href="$de/d99/stats__timer_8hpp.html" title="stats_timer.hpp" alt="" coords="557,224,680,251"/>
+<area shape="rect" id="node40" href="$d4/d0b/param_8hpp.html" title="param.hpp" alt="" coords="951,397,1043,424"/>
+<area shape="rect" id="node41" href="$db/d20/channel_8hpp.html" title="channel.hpp" alt="" coords="684,315,785,341"/>
+<area shape="rect" id="node42" href="$dc/d14/internal__param_8hpp.html" title="internal_param.hpp" alt="" coords="1028,315,1177,341"/>
+<area shape="rect" id="node43" href="$d7/dc7/command_8hpp.html" title="command.hpp" alt="" coords="1201,315,1316,341"/>
+<area shape="rect" id="node44" href="$de/d7e/error__types_8hpp.html" title="error_types.hpp" alt="" coords="1442,315,1565,341"/>
+</map>

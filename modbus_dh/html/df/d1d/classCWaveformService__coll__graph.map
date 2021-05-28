@@ -1,0 +1,3 @@
+<map id="CWaveformService" name="CWaveformService">
+<area shape="rect" id="node3" href="$d3/dd8/classCWaveformState.html" title="{CWaveformState\n|&#45; _storage_path\l|+ CWaveformState()\l+ ~CWaveformState()\l+ check_waveform_state_file()\l+ read_waveform_state()\l+ write_waveform_state()\l+ purge_waveform_state\l_for_device()\l+ set_storage_path()\l+ to_json()\l+ from_json()\l&#45; delete_file()\l&#45; read_file()\l&#45; write_file()\l}" alt="" coords="134,5,359,259"/>
+</map>

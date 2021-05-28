@@ -1,0 +1,6 @@
+<map id="CChannel::reinitialize_channel" name="CChannel::reinitialize_channel">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#a62fdb6fcd48d2afe1fa8f77acfb5028f" title="Initialize single channel from eds entry. " alt="" coords="217,5,357,46"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#a86e0d795f0cc71ab61e023d4213c36ab" title="Create and initialize the Channels called for by the EDS. " alt="" coords="406,5,546,46"/>
+<area shape="rect" id="node4" href="$d2/d76/classCDevice.html#a1d5a52000fc574354fb3548eb4dcae96" title="Call this function to initialize the Channels and Internal Parameters for this Device. " alt="" coords="595,5,735,46"/>
+<area shape="rect" id="node5" href="$d2/d76/classCDevice.html#accb14c1121791e295ac675fc99b36807" title="Initialize the Data Blocks, Channels, and Internal Parameters for this Device. " alt="" coords="785,5,925,46"/>
+</map>

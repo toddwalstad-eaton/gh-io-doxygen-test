@@ -1,0 +1,7 @@
+<map id="CBacnetBinaryObject" name="CBacnetBinaryObject">
+<area shape="rect" id="node2" href="$db/d33/classCBacnetPointObject.html" title="Abstract Base Class for several BACnet &quot;Point&quot; measures: These types have many common properties that..." alt="" coords="1276,811,1508,1079"/>
+<area shape="rect" id="node3" href="$dd/d0a/classCBacnetObject.html" title="Abstract Base Class for BACnet Objects. " alt="" coords="1013,176,1235,400"/>
+<area shape="rect" id="node14" href="$d9/dd7/classCBacnetDeviceObject.html" title="The class that provides Device data, mapped from the CDS data to BACnet. " alt="" coords="610,507,816,746"/>
+<area shape="rect" id="node12" title="STL class. " alt="" coords="1565,242,1717,334"/>
+<area shape="rect" id="node17" title="STL class. " alt="" coords="422,5,556,83"/>
+</map>

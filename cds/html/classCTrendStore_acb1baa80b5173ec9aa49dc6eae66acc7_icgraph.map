@@ -1,0 +1,8 @@
+<map id="CTrendStore::get_stage_db_path" name="CTrendStore::get_stage_db_path">
+<area shape="rect" id="node2" href="$classCTrendStore.html#af183006bcd799d8d92565050a88b2840" title="Gets the stage db based on the stage index, create it if not existing. " alt="" coords="235,35,429,61"/>
+<area shape="rect" id="node6" href="$classCTrendStore.html#abc8c75eccfec80c4db86f8d5eb0f5a28" title="Initialize the object. " alt="" coords="227,85,437,112"/>
+<area shape="rect" id="node7" href="$classCTrendStore.html#a85aecef759f13455e6ed202b75971eb1" title="Move trends from the stage dbs (whose index is smaller than the cutoff) to the bucket, then delete the moved stage dbs. " alt="" coords="238,137,426,178"/>
+<area shape="rect" id="node3" href="$classCTrendStore.html#ad1c7deb03bf9c342c8ca5e554f2f8cf2" title="Stores trends update from the accumulators to the stage db. " alt="" coords="493,5,635,32"/>
+<area shape="rect" id="node5" href="$classCTrendStore.html#a8a35bb8b7a967d2dc7664282ffa0f717" title="Create today&#39;s stage db if not existing, during the startup. " alt="" coords="486,57,642,98"/>
+<area shape="rect" id="node4" href="$classCTrendStore.html#a7adaa6fa7bd22a8800383313c072dd89" title="Import from CSV. " alt="" coords="691,5,885,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CDevice::get_block_value" name="CDevice::get_block_value">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#abac1fe55b006dfb7cf69e1b52cfa0f0e" title="Getter for one DataBlock, from its ID. " alt="" coords="207,5,377,32"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#ab231a1465890affb24529dfe50f6a441" title="Get the parent Port and Device ID tag string (eg, &quot;(p2:d64)&quot; ) for this Device. " alt="" coords="200,56,384,83"/>
+<area shape="rect" id="node4" href="$d2/d76/classCDevice.html#a5e083835cb8c682687a4c693f76650ee" title="Tells us if this is a subdevice, and can return its instance number. " alt="" coords="208,107,376,133"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CSyntheticChannels::set_channel_states" name="CSyntheticChannels::set_channel_states">
+<area shape="rect" id="node2" href="$d4/d5b/classCSyntheticChannels.html#adcf8a8d8793d1789bc335fbfbf75b03f" title="Initialize the channels by setting them into the CDS (if they don&#39;t already exist) or reading out the..." alt="" coords="212,5,364,46"/>
+<area shape="rect" id="node4" href="$d4/d5b/classCSyntheticChannels.html#a29929630a8a6d8b74f5831693f313a33" title="Do any cleanup necessary when cleanly exiting the main loop. " alt="" coords="209,70,367,111"/>
+<area shape="rect" id="node3" href="$d5/d01/classCBbbAdcDhCore.html#a4033ba59c52adc587271a10885f4a5e2" title="Do any setup necessary before the main loop is started. " alt="" coords="429,12,603,39"/>
+<area shape="rect" id="node5" href="$d5/d01/classCBbbAdcDhCore.html#a3363c2b1b5bc3ef5cd9540ff600967ed" title="Do any cleanup necessary when cleanly exiting the main loop. " alt="" coords="417,77,615,104"/>
+</map>

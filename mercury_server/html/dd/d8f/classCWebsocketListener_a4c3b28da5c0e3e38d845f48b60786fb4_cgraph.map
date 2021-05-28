@@ -1,0 +1,11 @@
+<map id="CWebsocketListener::cleartext_listen" name="CWebsocketListener::cleartext_listen">
+<area shape="rect" id="node2" href="$dd/d8f/classCWebsocketListener.html#afb582315e0568c55c0d36dc24b0cf20c" title="Handler for connection open &#45; create CWsConnection to manage it. " alt="" coords="208,63,363,105"/>
+<area shape="rect" id="node8" href="$dd/d8f/classCWebsocketListener.html#ab9e69fe7dccd2be1474c9d41ea475d0e" title="Handler for connection close. " alt="" coords="208,129,363,170"/>
+<area shape="rect" id="node9" href="$d4/db9/ws__listener_8cpp.html#aeddfee9614fb14197eae368b842f0d58" title="get_alevel" alt="" coords="240,195,331,221"/>
+<area shape="rect" id="node10" href="$d4/db9/ws__listener_8cpp.html#aa3b3d2cff5795bec60f34bff61d5427c" title="get_elevel" alt="" coords="240,245,331,272"/>
+<area shape="rect" id="node3" href="$de/d40/classCWsConnection.html#a61234baa38a021ee7e970e76471e9b6e" title="Factory function. " alt="" coords="411,71,584,97"/>
+<area shape="rect" id="node4" href="$de/d40/classCWsConnection.html#ae0ba717c748c77a87dea543260d2d416" title="Constructor. " alt="" coords="632,71,867,97"/>
+<area shape="rect" id="node5" href="$de/d40/classCWsConnection.html#ac0cff03f49a7d6161e0fbcecee470c9f" title="Handle a received message, for SSL and non&#45;SSL websockets. " alt="" coords="936,5,1109,46"/>
+<area shape="rect" id="node6" href="$de/d40/classCWsConnection.html#aa7d4cf0069ab520775586b85ea660f4e" title="Handle a pong. " alt="" coords="929,71,1116,97"/>
+<area shape="rect" id="node7" href="$de/d40/classCWsConnection.html#a999d26d7bd99f941251d8fa52b9e559b" title="CWsConnection::on_message" alt="" coords="915,121,1130,148"/>
+</map>

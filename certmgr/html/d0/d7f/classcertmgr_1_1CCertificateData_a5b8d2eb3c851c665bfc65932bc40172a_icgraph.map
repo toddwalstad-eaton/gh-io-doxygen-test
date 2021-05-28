@@ -1,0 +1,5 @@
+<map id="certmgr::CCertificateData::to" name="certmgr::CCertificateData::to">
+<area shape="rect" id="node2" href="$d8/d1f/namespacecertmanager.html#aca297d58da5921d4db20983d70fb0f72" title="This function returns string serialized CCertificateData of certificate at given path. " alt="" coords="264,38,456,79"/>
+<area shape="rect" id="node3" href="$db/df9/classcertmanager_1_1ExternalCertificatesStorage.html#a54bf658df45b3ed025b3491241005e4a" title="Get the certificate data for the given certificate. " alt="" coords="505,5,746,46"/>
+<area shape="rect" id="node4" href="$d8/d20/classcertmanager_1_1Server.html#a27189c0de12979095914045093d84166" title="This function returns string serialized CCertificateData of server certificate at given path..." alt="" coords="548,70,703,111"/>
+</map>

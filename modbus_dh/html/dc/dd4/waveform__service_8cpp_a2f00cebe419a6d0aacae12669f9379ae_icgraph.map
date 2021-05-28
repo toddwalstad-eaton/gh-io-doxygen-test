@@ -1,0 +1,5 @@
+<map id="to_www_path" name="to_www_path">
+<area shape="rect" id="node2" href="$d2/d7f/classCWaveformService.html#aff166c1d4e8b11663f6af90b2aff29cc" title="Store waveform catalog info in CDS Oob Fields: optional string file = 1; // (required) The Waveform f..." alt="" coords="173,5,352,46"/>
+<area shape="rect" id="node4" href="$d2/d7f/classCWaveformService.html#a92783a2670294f8f61f618c93c755e1c" title="Create a waveform alarm. " alt="" coords="165,70,360,111"/>
+<area shape="rect" id="node3" href="$d2/d7f/classCWaveformService.html#a589fd992a4a00071b3846412b5a071f2" title="Store waveform and update housekeeping records. " alt="" coords="408,38,595,79"/>
+</map>

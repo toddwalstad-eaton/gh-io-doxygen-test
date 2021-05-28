@@ -1,0 +1,14 @@
+<map id="certmanagerApi::CertmanagerService::addTrustedClient" name="certmanagerApi::CertmanagerService::addTrustedClient">
+<area shape="rect" id="node2" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a175dc25490b647ef8568341476553513" title="Add the certificate to the given target from the data. " alt="" coords="272,103,491,145"/>
+<area shape="rect" id="node3" href="$dc/dba/classcertmanager_1_1Tools.html#aa546e71ec3d8444a15e301a5782aba30" title="This function changes the group for the path given. " alt="" coords="873,5,1020,46"/>
+<area shape="rect" id="node4" href="$dc/dba/classcertmanager_1_1Tools.html#a8f72c06492cb0a437b0f834da63dff91" title="The function helps to change directory or file mode. " alt="" coords="581,70,728,111"/>
+<area shape="rect" id="node5" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#ace51b348a53dd6262debc533e808bc0c" title="Send command to the certmanager daemon. " alt="" coords="539,135,771,177"/>
+<area shape="rect" id="node13" href="$d2/dfd/classcertmanagerApi_1_1CertmanagerApiException.html#adcf571228e58bca6c3178385362c4c2f" title="Return the Exception Message. " alt="" coords="545,201,764,242"/>
+<area shape="rect" id="node6" href="$dc/dba/classcertmanager_1_1Tools.html#a57f4befccd23a5f9866de54bfe6d99be" title="This function will return the current User Name. " alt="" coords="873,70,1020,111"/>
+<area shape="rect" id="node7" href="$dc/dba/classcertmanager_1_1Tools.html#a31485dc30c259d50064295f78d537f5b" title="This function will get the current process pid. " alt="" coords="873,135,1020,177"/>
+<area shape="rect" id="node8" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#a5495e7bd5d88bac8e72c7906769b6dea" title="This function returns the Name Pipes Directory path where all IPC files for certmanagd are stored..." alt="" coords="819,201,1074,242"/>
+<area shape="rect" id="node10" href="$df/d56/classcertmanager_1_1Commands.html#a4ec4a560364f9a0546d9bb512844d610" title="Function to convert received command to string. " alt="" coords="853,266,1040,307"/>
+<area shape="rect" id="node11" href="$dc/dba/classcertmanager_1_1Tools.html#ab7d8c293ff91416cf23903aa1538f5f4" title="This function removes the requested file and on error prints debug message. " alt="" coords="873,331,1020,373"/>
+<area shape="rect" id="node9" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#af0d6b3282ce91cff4d7d5844e1e077ee" title="This is the API to get the singleton object of the class. " alt="" coords="1123,201,1378,242"/>
+<area shape="rect" id="node12" href="$dc/dba/classcertmanager_1_1Tools.html#ad0dcb87f909dd94559f03213b50feeb4" title="This API tells if a file exists in the system. " alt="" coords="1177,331,1324,373"/>
+</map>

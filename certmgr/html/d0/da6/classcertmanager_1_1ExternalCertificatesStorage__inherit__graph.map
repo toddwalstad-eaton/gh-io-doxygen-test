@@ -1,0 +1,4 @@
+<map id="certmanager::ExternalCertificatesStorage" name="certmanager::ExternalCertificatesStorage">
+<area shape="rect" id="node2" href="$d5/d83/classcertmanager_1_1CertificateAuthority.html" title="Class representing the CA part of certificate managment daemon. " alt="" coords="5,352,235,488"/>
+<area shape="rect" id="node3" href="$d5/dd7/classcertmanager_1_1TrustedCertificate.html" title="Class representing the client part of certificate managment daemon. " alt="" coords="259,359,489,481"/>
+</map>

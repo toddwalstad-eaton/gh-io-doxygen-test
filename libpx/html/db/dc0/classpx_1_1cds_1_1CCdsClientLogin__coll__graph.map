@@ -1,0 +1,9 @@
+<map id="px::cds::CCdsClientLogin" name="px::cds::CCdsClientLogin">
+<area shape="rect" id="node2" href="$d3/dbb/classpx_1_1cds_1_1CRequestResponse.html" title="All CDS interprocess messages are subclasses of this. " alt="" coords="285,899,504,1093"/>
+<area shape="rect" id="node7" href="$d5/d4c/classpx_1_1CMonoTime.html" title="Monotonic time. " alt="" coords="434,523,557,776"/>
+<area shape="rect" id="node8" href="$d6/d4e/classpx_1_1CTimestamp.html" title="Wrapper around a &quot;timespec&quot; structure that provides additional useful functionality. " alt="" coords="386,147,605,445"/>
+<area shape="rect" id="node9" href="$da/d9d/classtimespec.html" title="{timespec\n||}" alt="" coords="500,5,583,83"/>
+<area shape="rect" id="node11" href="$dd/d57/classpx_1_1CBitset.html" title="{px::CBitset\&lt; px::permissions \&gt;\n||+ CBitset()\l+ get()\l+ set()\l+ reset()\l+ mask_set()\l+ mask_clear()\l+ mask()\l+ empty()\l+ operator==()\l+ operator!=()\land 11 more...\l+ size()\l+ nbytes()\l}" alt="" coords="808,869,1035,1123"/>
+<area shape="rect" id="node16" href="$dd/d57/classpx_1_1CBitset.html" title="Stores a bit&#45;field of flags defined by an enumerated type. " alt="" coords="1001,523,1132,776"/>
+<area shape="rect" id="node14" title="STL class. " alt="" coords="1168,5,1291,83"/>
+</map>

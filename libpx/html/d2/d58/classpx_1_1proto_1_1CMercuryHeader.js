@@ -1,0 +1,28 @@
+var classpx_1_1proto_1_1CMercuryHeader =
+[
+    [ "CMercuryHeader", "d2/d58/classpx_1_1proto_1_1CMercuryHeader.html#aa197a466665be7b185a5a1e2c9ba7a42", null ],
+    [ "~CMercuryHeader", "d2/d58/classpx_1_1proto_1_1CMercuryHeader.html#ab3294d69681610a091ca3e84ffb5892f", null ],
+    [ "operator=", "d2/d58/classpx_1_1proto_1_1CMercuryHeader.html#ae7ffb60e8c5925a0e82d37ff64ebc1a8", null ],
+    [ "clear", "d2/d58/classpx_1_1proto_1_1CMercuryHeader.html#a03a10e6526fe5c0193f2c2778ef9af42", null ],
+    [ "parse", "d2/d58/classpx_1_1proto_1_1CMercuryHeader.html#a8df6f8a042c22198d55de4a13435744d", null ],
+    [ "serialize", "d2/d58/classpx_1_1proto_1_1CMercuryHeader.html#a0e1edbba7bb1409a2dca36b0ddbee771", null ],
+    [ "parse_header_only", "d2/d58/classpx_1_1proto_1_1CMercuryHeader.html#a78c9616e9e8591e37c9adf7de3f6f216", null ],
+    [ "set_parsing_requirements", "d2/d58/classpx_1_1proto_1_1CMercuryHeader.html#a260243d6dd58838a0e7d972963676da2", null ],
+    [ "HEADER_MAGIC_BYTE", "d2/d58/classpx_1_1proto_1_1CMercuryHeader.html#a15804dafcd6655d5c7bc65293e6aa063", null ],
+    [ "HEADER_VERSION_2", "d2/d58/classpx_1_1proto_1_1CMercuryHeader.html#a56c8ddef1d6733616ad77132d49c0b3d", null ],
+    [ "HEADER_VERSION_2_SIZE", "d2/d58/classpx_1_1proto_1_1CMercuryHeader.html#af537905140c66547fe89f4eab08e5071", null ],
+    [ "HEADER_VERSION_3", "d2/d58/classpx_1_1proto_1_1CMercuryHeader.html#a19c6062aca322a6761f69d16b59ea87e", null ],
+    [ "HEADER_VERSION_3_SIZE", "d2/d58/classpx_1_1proto_1_1CMercuryHeader.html#a30fd941e721770496987a1ef7d5f63be", null ],
+    [ "_header_version", "d2/d58/classpx_1_1proto_1_1CMercuryHeader.html#aeef6c5b0b23859976f0a0ed754a304f6", null ],
+    [ "_header_size", "d2/d58/classpx_1_1proto_1_1CMercuryHeader.html#afca2eebf0fd88bdfc33c3728a512b22a", null ],
+    [ "_message_size", "d2/d58/classpx_1_1proto_1_1CMercuryHeader.html#a4e1102fa32bf05b3d9f6347751772e95", null ],
+    [ "HEADER_MESSAGE_SIZE_LOC", "d2/d58/classpx_1_1proto_1_1CMercuryHeader.html#a6c6107fc902fe6fbaa3068a9572a1a18", null ],
+    [ "_message_type", "d2/d58/classpx_1_1proto_1_1CMercuryHeader.html#a7e420bbe22e32ca870deae119bafff5c", null ],
+    [ "_message_api", "d2/d58/classpx_1_1proto_1_1CMercuryHeader.html#a1c52c4dd7dc5a4ee59aad4488a4b2409", null ],
+    [ "_uuid", "d2/d58/classpx_1_1proto_1_1CMercuryHeader.html#aa37832a37290ba6506087e58db418bcf", null ],
+    [ "_error_message", "d2/d58/classpx_1_1proto_1_1CMercuryHeader.html#aea55478015b4d7178d79eeced9f1f930", null ],
+    [ "_min_header_version", "d2/d58/classpx_1_1proto_1_1CMercuryHeader.html#ae06659cb7727477d801d0a9e68584133", null ],
+    [ "_max_header_version", "d2/d58/classpx_1_1proto_1_1CMercuryHeader.html#ac801d0f8997251e1f27c6ba6a1a613eb", null ],
+    [ "_require_uuid_match", "d2/d58/classpx_1_1proto_1_1CMercuryHeader.html#ab0b8baf9c27b6797978a9eb0af7315d0", null ],
+    [ "_required_message_type", "d2/d58/classpx_1_1proto_1_1CMercuryHeader.html#a24f0ff87ef584e6f50332de0b2851869", null ]
+];

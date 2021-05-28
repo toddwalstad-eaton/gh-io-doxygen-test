@@ -1,0 +1,17 @@
+<map id="CModbusTcpPort::subcribe_device_commands" name="CModbusTcpPort::subcribe_device_commands">
+<area shape="rect" id="node2" href="$d6/d71/classCModbusTcpPort.html#ac7c56c43910aacf8ace8654d46ca7a13" title="The callback function that we provide to the CDS to handle Device Command events. ..." alt="" coords="245,125,424,166"/>
+<area shape="rect" id="node3" href="$d6/dd4/classCPort.html#ae2be0084b3f78d396e993655e8f669db" title="CPort::device_command\l_handler" alt="" coords="473,125,653,166"/>
+<area shape="rect" id="node4" href="$d6/dd4/classCPort.html#a67fdf9324b9596b8c462cfa66159a7db" title="Getter for the name of this port. " alt="" coords="713,5,876,32"/>
+<area shape="rect" id="node5" href="$d6/dd4/classCPort.html#ab230774c3894ac6a2b385da578e21ce1" title="Getter for the Device ID of this Port. " alt="" coords="742,56,847,83"/>
+<area shape="rect" id="node6" href="$d6/dd4/classCPort.html#a3c54c16bb9eadc27a07b715e8c89a929" title="Reset statistics counters for all devices. " alt="" coords="726,157,863,184"/>
+<area shape="rect" id="node11" href="$d6/dd4/classCPort.html#aab0a068ac09cc3087a267740514457b8" title="Log device block statistics. " alt="" coords="711,245,878,272"/>
+<area shape="rect" id="node14" href="$d6/d0f/classCCommandService.html#a2e938d3596268b4feceaa79e8ce15847" title="Send a command result to a device in the CDS Note: This overload performs a full CDS update of all CD..." alt="" coords="702,369,887,410"/>
+<area shape="rect" id="node7" href="$dc/d4a/classCUtil.html#a3fc24ae5c12897079c425c8f4af5fcbf" title="CUtil::get_no_device\l_string" alt="" coords="951,91,1107,133"/>
+<area shape="rect" id="node8" href="$d6/dd4/classCPort.html#a4558355c64c9956638ae556aef91732e" title="Log port and device statistics. " alt="" coords="967,157,1091,184"/>
+<area shape="rect" id="node9" href="$d0/d7e/classCWriteStats.html#a1de9bf70855258fe2625c145ed6ae233" title="CWriteStats::write\l_io_stats_file" alt="" coords="1203,150,1341,191"/>
+<area shape="rect" id="node10" href="$d6/dd4/classCPort.html#a61ce1938bab023e7a4cdd00163af86d8" title="Getter for the display name of this port. " alt="" coords="1171,245,1373,272"/>
+<area shape="rect" id="node12" href="$d0/d7e/classCWriteStats.html#a051a7cdb7d9745def35e332af89b55a5" title="CWriteStats::write\l_block_stats_file" alt="" coords="960,209,1099,250"/>
+<area shape="rect" id="node13" href="$d6/dd4/classCPort.html#a8cdefbfb53043bb0fa85a13ff608c2c7" title="Getter for the port speed (baud rate if serial port). " alt="" coords="947,325,1112,352"/>
+<area shape="rect" id="node15" href="$dd/de8/command__service_8cpp.html#a5b005098f808914039f86f83f9d6f680" title="get_command_status" alt="" coords="948,376,1111,403"/>
+<area shape="rect" id="node16" href="$dd/de8/command__service_8cpp.html#a36ade948c171481c38bad3ff3f7556dc" title="get_command_substatus" alt="" coords="937,427,1122,453"/>
+</map>

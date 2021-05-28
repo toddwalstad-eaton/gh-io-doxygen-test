@@ -1,0 +1,4 @@
+<map id="TrendManager::check_is_done" name="TrendManager::check_is_done">
+<area shape="rect" id="node2" href="$dd/d68/classCIotDeviceClient.html#ac3e59938659409ee0adee10292047aca" title="Called by the core&#39;s update timer to manage next state / action. " alt="" coords="457,5,639,46"/>
+<area shape="rect" id="node3" href="$db/db5/classTrendManager.html#a7e15b25e9a49db85a53aad57bd309053" title="Get the results of the trend catchup thread, once it is done executing. " alt="" coords="214,37,407,64"/>
+</map>

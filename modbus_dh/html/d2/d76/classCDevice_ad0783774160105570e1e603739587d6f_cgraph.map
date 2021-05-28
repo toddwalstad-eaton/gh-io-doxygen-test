@@ -1,0 +1,4 @@
+<map id="CDevice::lookup_object_id" name="CDevice::lookup_object_id">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#ab231a1465890affb24529dfe50f6a441" title="Get the parent Port and Device ID tag string (eg, &quot;(p2:d64)&quot; ) for this Device. " alt="" coords="485,5,669,32"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#a1d10d2d6c59281c8d482206838643681" title="Do a reverse lookup of an xBlock, given its name. " alt="" coords="248,31,437,57"/>
+</map>

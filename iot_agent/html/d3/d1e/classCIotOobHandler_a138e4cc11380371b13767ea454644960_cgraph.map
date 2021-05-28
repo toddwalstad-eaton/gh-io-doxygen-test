@@ -1,0 +1,4 @@
+<map id="CIotOobHandler::add_device_setting" name="CIotOobHandler::add_device_setting">
+<area shape="rect" id="node2" href="$d3/d1e/classCIotOobHandler.html#a67fca04e66ef65529273811cc851b94d" title="Write the _iot_settings_map out to the IotDeviceSettings OOB. " alt="" coords="211,5,397,46"/>
+<area shape="rect" id="node3" href="$d3/d1e/classCIotOobHandler.html#aa66bec315a7f4d9da507b456917c1755" title="Reads in the IotDeviceSettings OOB and maps its data into the given settings_map. ..." alt="" coords="445,5,632,46"/>
+</map>

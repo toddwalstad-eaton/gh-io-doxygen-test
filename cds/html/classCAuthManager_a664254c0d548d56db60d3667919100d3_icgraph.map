@@ -1,0 +1,7 @@
+<map id="CAuthManager::update_passwd_ssh" name="CAuthManager::update_passwd_ssh">
+<area shape="rect" id="node2" href="$classCAuthManager.html#a7fcac3f1bfa72364477eda06ef40217d" title="Constructor. " alt="" coords="225,5,445,32"/>
+<area shape="rect" id="node3" href="$classCAuthManager.html#afc45cf6615e81315229a29e4715daab9" title="Set a user&#39;s information, creating it if necessary. " alt="" coords="234,157,435,184"/>
+<area shape="rect" id="node6" href="$classCAuthManager.html#a5287651404fc92dfdd61a9e2f56b2bf2" title="Delete a user. " alt="" coords="235,107,434,133"/>
+<area shape="rect" id="node4" href="$classCAuthManager.html#aa17ee9691f3b4d97f8367eca32e53e6d" title="Delete a role. " alt="" coords="495,132,691,159"/>
+<area shape="rect" id="node5" href="$classCAuthManager.html#a4f8d2b7f588abd875d78c6aad537833a" title="Update or create a role. " alt="" coords="493,195,693,221"/>
+</map>

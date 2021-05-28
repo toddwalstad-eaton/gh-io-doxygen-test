@@ -1,0 +1,4 @@
+<map id="CProtocolMessage::on_send_complete" name="CProtocolMessage::on_send_complete">
+<area shape="rect" id="node2" href="$dc/ddf/classCIoMessage.html#a1e99535802ac0b6456381fffda773710" title="Return ID of the Device which this message is for. " alt="" coords="219,5,389,32"/>
+<area shape="rect" id="node3" href="$da/d56/classCProtocolMessage.html#ae3c9ae2095bdde0939487303d35f243f" title="Tells if this message has a response or not. " alt="" coords="224,57,384,98"/>
+</map>

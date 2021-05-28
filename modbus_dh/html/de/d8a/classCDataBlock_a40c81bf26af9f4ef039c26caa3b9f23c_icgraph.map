@@ -1,0 +1,5 @@
+<map id="CDataBlock::id" name="CDataBlock::id">
+<area shape="rect" id="node2" href="$de/d8a/classCDataBlock.html#ac0e1e83235e11c060a3388c8b108cb7b" title="Constructor which creates the Data Block from its EDS data, gives its buffer the right size..." alt="" coords="174,5,357,32"/>
+<area shape="rect" id="node3" href="$de/d8a/classCDataBlock.html#a4fbfff44583cbc74dc2e45500e7e39ff" title="Add one Source CNode to this data block&#39;s map of Sources. " alt="" coords="175,56,355,83"/>
+<area shape="rect" id="node4" href="$de/d8a/classCDataBlock.html#a047cc8eb8ed94d043a04f1db9726e83d" title="CDataBlock::lookup\l_eqn_variables" alt="" coords="406,49,557,90"/>
+</map>

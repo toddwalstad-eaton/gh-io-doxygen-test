@@ -1,0 +1,5 @@
+<map id="CBacnetIpHandler::send_i_ams" name="CBacnetIpHandler::send_i_ams">
+<area shape="rect" id="node2" href="$d9/dd7/classCBacnetDeviceObject.html#a8fe2aa76c324462ea6ebc0b223957914" title="Broadcasts an I&#45;Am for this object. " alt="" coords="240,5,403,46"/>
+<area shape="rect" id="node4" href="$d0/d58/classCBacnetIpHandler.html#abf1a4d3ef93d8399181ee311b9f2393c" title="Broadcast BACnet/IP I&#45;Am&#45;Router&#45;to&#45;Network. " alt="" coords="232,70,411,111"/>
+<area shape="rect" id="node3" href="$d3/d9d/group__bip__routing__interface.html#gab192b293040106b05da1e36aeb6d4a7b" title="Set the global Current Device instance number (Device Map key) and corresponding Device BACnet Addres..." alt="" coords="459,12,631,39"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="px::asio::CCdsHandler::set_oob" name="px::asio::CCdsHandler::set_oob">
+<area shape="rect" id="node2" href="$db/db8/classpx_1_1cds_1_1CClient.html#acb54300760c627bee88063465442bd74" title="Static function that checks whether &quot;this&quot; thread is the CDS Client background thread. " alt="" coords="437,63,603,105"/>
+<area shape="rect" id="node4" href="$d2/df5/classpx_1_1asio_1_1CCdsSyncIO.html#a5f8a8b6012a3798213d38f323d330867" title="Utility function to check if we got a response, and that the returned CDS Results status is Success..." alt="" coords="222,5,381,46"/>
+<area shape="rect" id="node7" href="$d2/dcb/classpx_1_1asio_1_1CCdsHandler.html#af206864b870bb26b37f9fc6cd563a88e" title="Submit a request for CDS processing fire and forget style. " alt="" coords="219,187,384,229"/>
+<area shape="rect" id="node16" href="$d2/dcb/classpx_1_1asio_1_1CCdsHandler.html#ad7e1632da24ad4edf0b0bac9d3b2de55" title="Submit a request for CDS processing, waiting for the response and returning it. " alt="" coords="219,122,384,163"/>
+<area shape="rect" id="node3" href="$db/db8/classpx_1_1cds_1_1CClient.html#ad3a241ca4570471536d3436ee23b3d65" title="Static Factory function: constructs if necessary, returns existing instance of CClient otherwise..." alt="" coords="681,129,833,156"/>
+<area shape="rect" id="node5" href="$d5/dd5/namespacepx_1_1cds.html#af13231d122984b008813ea52d906041b" title="Return the string name of a RequestResponse command. " alt="" coords="449,12,591,39"/>
+<area shape="rect" id="node6" href="$d5/dd5/namespacepx_1_1cds.html#ade09d8ce5c3cbc71080e4c9658c71848" title="Given a CRequestResponse pointer, return the type enumeration value. " alt="" coords="930,49,1083,90"/>
+<area shape="rect" id="node8" href="$db/db8/classpx_1_1cds_1_1CClient.html#a907410082d34b93630b2f0b0abe44186" title="Submit a request for CDS processing. " alt="" coords="432,231,608,257"/>
+<area shape="rect" id="node9" href="$db/db8/classpx_1_1cds_1_1CClient.html#a5aa42d307a74fdd3117745f85a587e34" title="Disconnect from the CDS. " alt="" coords="657,281,858,308"/>
+<area shape="rect" id="node12" href="$d5/dd5/namespacepx_1_1cds.html#a49c47a7060e04ef5eaccdab3e441f264" title="px::cds::req_pack" alt="" coords="690,180,825,207"/>
+<area shape="rect" id="node15" href="$d1/d2c/structpx_1_1generic__err.html#ab55d991a1469e98c5d79a27d1b93b4d6" title="px::generic_err::what" alt="" coords="678,231,837,257"/>
+<area shape="rect" id="node10" href="$db/db8/classpx_1_1cds_1_1CClient.html#a04806b8577ecbb198bc2f7c8cf9939ff" title="Unregister a previously registered callback structure. " alt="" coords="908,329,1105,370"/>
+<area shape="rect" id="node11" href="$db/db8/classpx_1_1cds_1_1CClient.html#a28b00111c32ca2391045e23966fb7210" title="Unregister the previously registered callback function for unsolicited messages from the CDS..." alt="" coords="908,263,1105,305"/>
+<area shape="rect" id="node13" href="$de/dcb/namespacepx.html#a7996667dd567e40923855ae03e3ab8ba" title="Polymorphic casting: this utilizes dynamic_cast&lt;&gt; for non&#45;release builds, thus ensuring that the cast..." alt="" coords="953,201,1061,228"/>
+<area shape="rect" id="node14" href="$d1/d21/classpx_1_1serialize_1_1CByteCounter.html#aedb482ba261e695b9e707c53586de650" title="Get the number of bytes which have been accumulated. " alt="" coords="907,135,1106,177"/>
+</map>

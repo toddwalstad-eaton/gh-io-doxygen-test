@@ -1,0 +1,6 @@
+<map id="TrendManager::is_catchup_thread_launched" name="TrendManager::is_catchup_thread_launched">
+<area shape="rect" id="node2" href="$dd/d68/classCIotDeviceClient.html#ac3e59938659409ee0adee10292047aca" title="Called by the core&#39;s update timer to manage next state / action. " alt="" coords="913,27,1095,69"/>
+<area shape="rect" id="node3" href="$dd/d68/classCIotDeviceClient.html#adb2e4268d80323e508cc574786893dd4" title="Execute tasks necessary now that we have achieved a connection. " alt="" coords="246,35,397,77"/>
+<area shape="rect" id="node4" href="$dd/d68/classCIotDeviceClient.html#ab49100be4e2dc5ef53115fbdafb55f94" title="Determines the current connection status via the Eaton Device SDK. " alt="" coords="446,35,623,77"/>
+<area shape="rect" id="node5" href="$dd/d68/classCIotDeviceClient.html#ac088663bab4b0ddec2c4c60bbc605166" title="Attempt to open the Azure IoT Hub connection. " alt="" coords="673,35,863,61"/>
+</map>

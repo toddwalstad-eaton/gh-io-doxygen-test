@@ -1,0 +1,4 @@
+<map id="CDataBlock::reset_stats" name="CDataBlock::reset_stats">
+<area shape="rect" id="node2" href="$dd/dc0/classCDataAccumulator.html#a85c1c5f13e0bd087d39455c189806ae2" title="Clear/reset the accumulator. " alt="" coords="255,5,439,32"/>
+<area shape="rect" id="node3" href="$de/d8a/classCDataBlock.html#a23e7b49531c03f71f53cefc4fb37e05f" title="Reset (invalidate) the last update time for this block. " alt="" coords="233,56,461,83"/>
+</map>

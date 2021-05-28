@@ -1,0 +1,5 @@
+<map id="CPort::log_block_stats" name="CPort::log_block_stats">
+<area shape="rect" id="node2" href="$d0/d7e/classCWriteStats.html#a051a7cdb7d9745def35e332af89b55a5" title="CWriteStats::write\l_block_stats_file" alt="" coords="253,5,392,46"/>
+<area shape="rect" id="node3" href="$d6/dd4/classCPort.html#a61ce1938bab023e7a4cdd00163af86d8" title="Getter for the display name of this port. " alt="" coords="221,71,424,97"/>
+<area shape="rect" id="node4" href="$d6/dd4/classCPort.html#a8cdefbfb53043bb0fa85a13ff608c2c7" title="Getter for the port speed (baud rate if serial port). " alt="" coords="240,121,405,148"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="CIotDeviceClient::lookup_iot_data_device" name="CIotDeviceClient::lookup_iot_data_device">
+<area shape="rect" id="node2" href="$dd/d68/classCIotDeviceClient.html#a8e205d4c1ccf4497b49a527f84635f8f" title="Callback invoked by CdsHandler when a Device is about to be removed from our map. ..." alt="" coords="238,5,431,46"/>
+<area shape="rect" id="node4" href="$dd/d68/classCIotDeviceClient.html#ace40ba7e12cab369c87e1d01bfc24b48" title="Add a child device (and its subdevices) to the parent device&#39;s DeviceTree structure, whether or not the indicated device is &quot;valid&quot;. " alt="" coords="253,71,416,127"/>
+<area shape="rect" id="node8" href="$dd/d68/classCIotDeviceClient.html#ae984c52721231fe663d3941edb9765b5" title="Initialize the IOT_DATA structure for the given device and Type of message, and return the pointer to..." alt="" coords="480,181,675,222"/>
+<area shape="rect" id="node3" href="$dd/d68/classCIotDeviceClient.html#a20352e404497ab3b8f107dadddd83df7" title="Initialize this client and setup the CDS callbacks and message handlers, and kick off device discover..." alt="" coords="480,12,675,39"/>
+<area shape="rect" id="node5" href="$dd/d68/classCIotDeviceClient.html#a747f810cc21e41b3e81ffa6059b3c4e5" title="Add a device (and its subdevices) to the Device Tree structure. " alt="" coords="492,70,663,111"/>
+<area shape="rect" id="node6" href="$dd/d68/classCIotDeviceClient.html#a88f14cdca116cb11cdb757027f16edfd" title="Build the DEVICE_TREE structure and publish it to the IoT Hub. " alt="" coords="769,59,940,101"/>
+<area shape="rect" id="node7" href="$dd/d68/classCIotDeviceClient.html#ac3e59938659409ee0adee10292047aca" title="Called by the core&#39;s update timer to manage next state / action. " alt="" coords="1035,158,1218,199"/>
+<area shape="rect" id="node9" href="$dd/d68/classCIotDeviceClient.html#abcefb86bc559d989da0b410ef74f61d0" title="Build the IOT_DATA_DEVICES_REALTIME_ITEM message (device states) for just the Publisher device..." alt="" coords="761,125,948,166"/>
+<area shape="rect" id="node10" href="$dd/d68/classCIotDeviceClient.html#a64879bbe10f07d18703bc7348bab4e7d" title="Build the IOT_DATA_CHANNEL_REALTIMES_ITEM messages for all devices, using all available channel real&#45;..." alt="" coords="759,190,951,231"/>
+<area shape="rect" id="node11" href="$dd/d68/classCIotDeviceClient.html#abb176b2927c901efa0a2ea9fb170019c" title="Build the IOT_DATA_TREND_ITEM messages for all devices, sending just the &quot;actual&quot; values of the lates..." alt="" coords="723,255,986,297"/>
+</map>

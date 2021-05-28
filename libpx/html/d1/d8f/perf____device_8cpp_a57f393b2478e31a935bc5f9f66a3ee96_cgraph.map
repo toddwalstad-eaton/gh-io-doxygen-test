@@ -1,0 +1,5 @@
+<map id="BOOST_AUTO_TEST_CASE" name="BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d6/d5b/classpx_1_1CDevice.html#aac2ca8f3c75c4a8da965ea62a28f2781" title="Assign this Device object based on a protobuf Device object. " alt="" coords="245,5,384,32"/>
+<area shape="rect" id="node4" href="$d6/d5b/classpx_1_1CDevice.html#a3fe65f60bec8278eeaf05b6d5daea3b2" title="Initialize a protobuf Device object from this Device. " alt="" coords="254,56,375,83"/>
+<area shape="rect" id="node3" href="$d8/d8c/classpx_1_1CDeviceRole.html#abb610632b8868625c87a5ad85100866c" title="Getter for the underlying device role enumeration. " alt="" coords="433,5,589,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="CPcdSensorTableEntry::check_add_table_entry" name="CPcdSensorTableEntry::check_add_table_entry">
+<area shape="rect" id="node2" href="$d1/d9d/classCMmedsNode.html#a0f597769aed3c7be068ce2607eabc127" title="Static function to lookup the given table (by its name) in the MIB Mapping EDS data, and also return its base OID. " alt="" coords="279,5,443,46"/>
+<area shape="rect" id="node3" href="$d7/d06/classCPcdSensorTableEntry.html#ae60a8f443fa738530cce4fb400624b3c" title="Static function to get the name of this table as found in the MIB Mapping EDS. " alt="" coords="278,70,445,111"/>
+<area shape="rect" id="node4" href="$de/d39/classCSnmpCdsHandler.html#ae7b27c99835e04ac199c963eff006dce" title="For the given set of Channel settings, determine all (if any) of the given MCL Channel name(s) that m..." alt="" coords="274,135,449,177"/>
+<area shape="rect" id="node5" href="$d3/d1d/classCMmedsNodeTableEntry.html#ad320e3239123dbfa62a595e4af5e414d" title="A static function to compose a row key value from its Primary and Secondary indices. " alt="" coords="271,201,451,242"/>
+<area shape="rect" id="node6" href="$d7/d06/classCPcdSensorTableEntry.html#a57be99f33cb9af57a51b4c0243219b8d" title="Table&#45;specific function to validate a &quot;special&quot; node, when this is its Translation Type..." alt="" coords="270,266,453,307"/>
+<area shape="rect" id="node7" href="$d1/d9d/classCMmedsNode.html#ab99081aedd8e94c4adc38b15d35f092f" title="Factory function to create a CMmedsNode given the Device and MIB Mapping EDS data for one MIB scalar ..." alt="" coords="235,332,487,359"/>
+<area shape="rect" id="node8" href="$d1/d9d/classCMmedsNode.html#ac5fb8573182826ea684201f46f4347c7" title="Simple Constructor for a (potential) node. " alt="" coords="536,332,747,359"/>
+</map>

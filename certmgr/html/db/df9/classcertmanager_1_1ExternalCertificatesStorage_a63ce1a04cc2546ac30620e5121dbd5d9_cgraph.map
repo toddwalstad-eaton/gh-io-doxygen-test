@@ -1,0 +1,17 @@
+<map id="certmanager::ExternalCertificatesStorage::revoke" name="certmanager::ExternalCertificatesStorage::revoke">
+<area shape="rect" id="node2" href="$d8/d66/classcertmanager_1_1ServiceConfiguration.html#aadbf77c40609266aadb61db41fa72aa4" title="Functions to get the service configuration parameters Service basic details. " alt="" coords="587,5,835,46"/>
+<area shape="rect" id="node3" href="$db/df9/classcertmanager_1_1ExternalCertificatesStorage.html#a487e3f8d08dde49b0e4468c58eae673f" title="Function to revoke the given single certificate id. " alt="" coords="297,67,538,109"/>
+<area shape="rect" id="node12" href="$da/d5a/classcertmanager_1_1CertificateIdCnMap.html#affaefe1b4d27e27b8ee547f6712cae0e" title="Write the certificate Id from the list into a file. " alt="" coords="327,133,507,174"/>
+<area shape="rect" id="node13" href="$d2/dd7/classcertmanager_1_1ExternalCertificatesAccessor.html#a4614262c3c21a2b96d3b3ad56e0fb509" title="certmanager::ExternalCertificates\lAccessor::cnMapPath" alt="" coords="297,198,538,239"/>
+<area shape="rect" id="node14" href="$da/d5a/classcertmanager_1_1CertificateIdCnMap.html#af48206a02a60a2702fdbdf6ae4cc920d" title="Return a certificate id list from the map. " alt="" coords="317,263,518,305"/>
+<area shape="rect" id="node15" href="$d1/d54/classcertmanager_1_1CertificateIdList.html#ae624940b817c263fc72738385953f62d" title="Write the certificate Id from the list into a file. " alt="" coords="327,329,507,370"/>
+<area shape="rect" id="node16" href="$d2/dd7/classcertmanager_1_1ExternalCertificatesAccessor.html#a55ed714050a81067dc7b8a6606949bd6" title="certmanager::ExternalCertificates\lAccessor::listPath" alt="" coords="297,394,538,435"/>
+<area shape="rect" id="node4" href="$da/d5a/classcertmanager_1_1CertificateIdCnMap.html#a8bc82d077fbfb858b45ada67376bc1d0" title="Check if a CertificateId is on the map. " alt="" coords="613,70,808,111"/>
+<area shape="rect" id="node5" href="$db/df9/classcertmanager_1_1ExternalCertificatesStorage.html#ac6dd29f363b74b65a1c20426a67d9992" title="Remove all the certificate related files. " alt="" coords="590,135,831,177"/>
+<area shape="rect" id="node6" href="$d6/d04/classcertmanager_1_1Common.html#af7f030c6e3288e9752c1f4359c7c5768" title="This function helps to remove the given file. " alt="" coords="922,5,1094,46"/>
+<area shape="rect" id="node8" href="$d2/dd7/classcertmanager_1_1ExternalCertificatesAccessor.html#ac3a468430d90f04d388f159fb12e37ff" title="certmanager::ExternalCertificates\lAccessor::certInfoPath" alt="" coords="887,70,1129,111"/>
+<area shape="rect" id="node9" href="$d2/dd7/classcertmanager_1_1ExternalCertificatesAccessor.html#aed3ae5494b01323e26714b2e2a09de97" title="certmanager::ExternalCertificates\lAccessor::certDetailsPath" alt="" coords="887,135,1129,177"/>
+<area shape="rect" id="node10" href="$d2/dd7/classcertmanager_1_1ExternalCertificatesAccessor.html#a8b22ccf6f7600c0a5f218ef1e8158efd" title="certmanager::ExternalCertificates\lAccessor::certOverwrittenDataPath" alt="" coords="883,201,1133,242"/>
+<area shape="rect" id="node11" href="$d2/dd7/classcertmanager_1_1ExternalCertificatesAccessor.html#ac37d0aeba5fcc81a303d2688d426bb33" title="certmanager::ExternalCertificates\lAccessor::certPath" alt="" coords="887,266,1129,307"/>
+<area shape="rect" id="node7" href="$dc/d10/classcertmanager_1_1Log.html#a56c9c1e70c82c11852e0c32d9967a5a1" title="Write a log inside syslog daemon if the syslog is open. " alt="" coords="1182,12,1359,39"/>
+</map>

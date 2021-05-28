@@ -1,0 +1,6 @@
+<map id="CMercuryProtocolHandler::session_user" name="CMercuryProtocolHandler::session_user">
+<area shape="rect" id="node2" href="$d6/dee/classCMercuryProtocolHandler.html#a2d2d489c918fc8db2c725ef81de4fe0b" title="Handle a Mercury request. " alt="" coords="475,38,661,79"/>
+<area shape="rect" id="node5" href="$d6/dee/classCMercuryProtocolHandler.html#ae8cfdf40e656ee17196d38775e102031" title="Ping the session tracker for this connection&#39;s session. " alt="" coords="240,67,427,109"/>
+<area shape="rect" id="node3" href="$db/dd8/classCTcpProtocolHandler.html#a5df1e58dd987e13789e138e4c2f65172" title="Execute the parsed request. " alt="" coords="710,5,866,46"/>
+<area shape="rect" id="node4" href="$d7/d46/classCWsProtocolHandler.html#a8ba2f45385c311d209cb8925f4f56486" title="Process a parsed message. " alt="" coords="711,70,865,111"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d2/d23/snmpd__wd_8cpp.html#a7cd8db05751530721638ed4d871976f5" title="signal_handler_setup" alt="" coords="113,5,273,32"/>
+<area shape="rect" id="node4" href="$d2/d23/snmpd__wd_8cpp.html#aaa58052bb5c0ba3946489ea9b7d1d1a1" title="config_process" alt="" coords="134,56,253,83"/>
+<area shape="rect" id="node5" href="$d2/d23/snmpd__wd_8cpp.html#ad8bf2ebe714bdb6a1e216ed7d9efa7a3" title="init_logging" alt="" coords="144,107,243,133"/>
+<area shape="rect" id="node6" href="$d2/d23/snmpd__wd_8cpp.html#aed9d22253f0ea419f885d3e92cad1318" title="Open the CDS Handler and get the OOB data that we will need. " alt="" coords="139,157,247,184"/>
+<area shape="rect" id="node7" href="$d2/d23/snmpd__wd_8cpp.html#ab7c3be017849748d5f47511d5b50d4a2" title="is_snmpd_enabled_for\l_wd_monitoring" alt="" coords="109,209,277,250"/>
+<area shape="rect" id="node8" href="$d2/d23/snmpd__wd_8cpp.html#a19a86ab1a402f2c9b3523d3c1ece42ff" title="Determines how to query SNMP agent based on its configuration. " alt="" coords="128,275,259,301"/>
+<area shape="rect" id="node9" href="$d2/d23/snmpd__wd_8cpp.html#adc3f86fb035dd66911f621a199f3d6b0" title="watchdog_setup" alt="" coords="129,325,257,352"/>
+<area shape="rect" id="node10" href="$d2/d23/snmpd__wd_8cpp.html#af7f28bcbdd93b1ea9b599f7a4249fb2a" title="is_snmpd_alive" alt="" coords="132,376,255,403"/>
+<area shape="rect" id="node11" href="$d2/d23/snmpd__wd_8cpp.html#afbeb170418df365345bc0cdac0f57535" title="ping_watchdog" alt="" coords="133,427,253,453"/>
+<area shape="rect" id="node12" href="$d2/d23/snmpd__wd_8cpp.html#ad17dce25aba18e8b97dfa6758101034a" title="close_watchdog" alt="" coords="130,477,257,504"/>
+<area shape="rect" id="node3" href="$d2/d23/snmpd__wd_8cpp.html#a282d6c9466dbd9e7233711419add0774" title="signal_handler" alt="" coords="325,5,443,32"/>
+</map>

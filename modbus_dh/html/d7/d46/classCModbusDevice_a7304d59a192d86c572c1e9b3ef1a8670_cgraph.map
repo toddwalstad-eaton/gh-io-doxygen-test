@@ -1,0 +1,13 @@
+<map id="CModbusDevice::initialize_block_list" name="CModbusDevice::initialize_block_list">
+<area shape="rect" id="node2" href="$de/dd0/structeds__xBlock__entry__s.html#ab166083bacff433e0ac604cf5fefe4bb" title="eds_xBlock_entry_s\l::to_string" alt="" coords="267,5,418,46"/>
+<area shape="rect" id="node4" href="$df/d21/classCModbusAddressRange.html#a0584719118ca127a8d335397c7f94882" title="Validates this Modbus message data per Modbus Application Protocol Specification V1.1b. " alt="" coords="255,70,430,111"/>
+<area shape="rect" id="node5" href="$dd/dc9/namespacetoolkit.html#a5209d56d57f1468826b81741efc1b525" title="Return the size of an External Data Type. " alt="" coords="269,136,417,163"/>
+<area shape="rect" id="node6" href="$d2/d76/classCDevice.html#a1e68fed38fe8ea9144410fbc5f815962" title="Assign ID to block. " alt="" coords="249,187,436,213"/>
+<area shape="rect" id="node8" href="$d7/d46/classCModbusDevice.html#aafa8f7ad8a11089a12b97edcc663bffe" title="Utility function to calculate the Rx timeout in milliseconds. " alt="" coords="246,238,439,279"/>
+<area shape="rect" id="node9" href="$d7/d46/classCModbusDevice.html#af0579673b006eb09443d41a4b5d3dcf0" title="Utility function to calculate the interframe delay in microseconds. " alt="" coords="246,303,439,345"/>
+<area shape="rect" id="node10" href="$d2/d76/classCDevice.html#acfefa20251707abf677f630957c42b44" title="Add a new DataBlock to this Device&#39;s list. " alt="" coords="253,369,432,396"/>
+<area shape="rect" id="node12" href="$d5/df0/structeds__parse__err.html#ae7895a7c942bf2450a2670c642407dca" title="Implement the virtual function to provide the error&#39;s text. " alt="" coords="266,420,419,447"/>
+<area shape="rect" id="node3" href="$dc/d49/structeds__DBT__entry__s.html#ac668113d8386b2a5e22b38ec819e1a80" title="eds_DBT_entry_s::to\l_string" alt="" coords="488,5,643,46"/>
+<area shape="rect" id="node7" href="$d8/dc8/classCIdAllocator.html#a0400d8deb5703217316fe605cd1a1657" title="Allocate a new internal unique ID. " alt="" coords="500,187,631,213"/>
+<area shape="rect" id="node11" href="$d4/d3d/log_8hpp.html#abf2f61305d4094a3db0627f445825d5b" title="Test if the desired debug level should produce output for the selected debug subsystem. " alt="" coords="499,369,632,396"/>
+</map>

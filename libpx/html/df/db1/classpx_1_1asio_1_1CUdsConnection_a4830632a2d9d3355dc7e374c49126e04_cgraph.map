@@ -1,0 +1,7 @@
+<map id="px::asio::CUdsConnection::read_more" name="px::asio::CUdsConnection::read_more">
+<area shape="rect" id="node2" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html#ae588c38d3c50b994681ce46f162fbc0f" title="Callback function to handle incoming data. " alt="" coords="243,70,413,111"/>
+<area shape="rect" id="node3" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html#aa954e2eb03102f7e7e1753402ee1f410" title="Attempt to parse the currently&#45;read data in the buffer. " alt="" coords="462,70,631,111"/>
+<area shape="rect" id="node4" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html#afc4045882f60a7967a7bcaf0a3b4c192" title="px::asio::CIoTransactor\l::get_parse_success" alt="" coords="681,5,850,46"/>
+<area shape="rect" id="node5" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html#a7aeb25f58867a36d15419d3753047e2f" title="Read more data from the messenger&#39;s input source. " alt="" coords="681,70,850,111"/>
+<area shape="rect" id="node6" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html#a96e4af1d0ab45ad6ec41070064f75060" title="px::asio::CIoTransactor\l::set_parse_failed" alt="" coords="681,135,850,177"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="certmgr/common/inc/Types.hpp" name="certmgr/common/inc/Types.hpp">
+<area shape="rect" id="node2" href="$d9/d17/BinaryServiceCallbacks_8hpp.html" title="Representation of callbacks fonctions for certificate managment daemon. " alt="" coords="131,103,361,145"/>
+<area shape="rect" id="node5" href="$d2/d6b/ExternalCertificatesStorage_8hpp.html" title="Representation of storage for external certificates. " alt="" coords="785,305,1039,346"/>
+<area shape="rect" id="node6" href="$df/d43/CertificateAuthority_8hpp.html" title="CA representation for certificate managment daemon. " alt="" coords="503,395,705,437"/>
+<area shape="rect" id="node13" href="$df/d87/CertificateInfoStorage_8hpp.html" title="Representation of certificate information in read &amp; write. " alt="" coords="1777,305,1996,346"/>
+<area shape="rect" id="node17" href="$d5/d64/LibraryWrapperServiceCallbacks_8hpp.html" title="Wrapper of callbacks fonctions for certificate managment daemon comming from external library..." alt="" coords="386,96,581,152"/>
+<area shape="rect" id="node7" href="$d8/d3a/Service_8hpp.html" title="Representation of a service for certificate managment. " alt="" coords="944,486,1099,527"/>
+<area shape="rect" id="node10" href="$da/d48/TrustedCertificate_8hpp.html" title="CA representation for certificate managment daemon. " alt="" coords="730,395,920,437"/>
+<area shape="rect" id="node19" href="$d2/ddd/CertificateIdList_8hpp.html" title="Containeur for certificates Id base on c++ std::set. " alt="" coords="883,103,1040,145"/>
+<area shape="rect" id="node20" href="$d1/d9a/CertificateIdCnMap_8hpp.html" title="Containeur for certificates Id and certificate common name base on c++ std::map. " alt="" coords="1090,207,1267,249"/>
+<area shape="rect" id="node24" href="$d5/db4/CertificateInfo_8hpp.html" title="Representation of certificate information in read only. " alt="" coords="1905,207,2063,249"/>
+<area shape="rect" id="node27" href="$dd/d34/ExternalCertificatesAccessor_8hpp.html" title="Extrenal Certificate files accessor which help to get the path of an external certificate and his rel..." alt="" coords="1343,207,1581,249"/>
+<area shape="rect" id="node29" href="$d2/d61/InternalCertificatesAccessor_8hpp.html" title="Internl Certificate files accessor which help to get the path of an internal certificate and his rela..." alt="" coords="2184,207,2419,249"/>
+<area shape="rect" id="node3" href="$d3/db5/BinaryServiceCallbacks_8cpp.html" title="certmgr/certmanagd\l/src/BinaryServiceCallbacks.cpp" alt="" coords="5,207,235,249"/>
+<area shape="rect" id="node4" href="$d2/dc4/Service_8cpp.html" title="certmgr/certmanagd\l/src/Service.cpp" alt="" coords="337,577,492,618"/>
+<area shape="rect" id="node12" href="$de/d4d/ExternalCertificateStorage_8cpp.html" title="certmgr/certmanagd\l/src/ExternalCertificateStorage.cpp" alt="" coords="997,395,1243,437"/>
+<area shape="rect" id="node9" href="$d8/d1d/CertificateAuthority_8cpp.html" title="certmgr/certmanagd\l/src/CertificateAuthority.cpp" alt="" coords="503,486,704,527"/>
+<area shape="rect" id="node8" href="$d3/d3b/certmanagd_8cpp.html" title="certmgr/certmanagd\l/src/certmanagd.cpp" alt="" coords="944,577,1099,618"/>
+<area shape="rect" id="node11" href="$d2/d1a/TrustedCertificate_8cpp.html" title="certmgr/certmanagd\l/src/TrustedCertificate.cpp" alt="" coords="729,486,919,527"/>
+<area shape="rect" id="node14" href="$de/d3d/Server_8hpp.html" title="Server representation for certificate managment. " alt="" coords="2191,395,2345,437"/>
+<area shape="rect" id="node16" href="$d2/d0c/CertificateInfoStorage_8cpp.html" title="certmgr/certmanagd\l/src/CertificateInfoStorage.cpp" alt="" coords="1777,395,1996,437"/>
+<area shape="rect" id="node15" href="$db/dd9/Server_8cpp.html" title="certmgr/certmanagd\l/src/Server.cpp" alt="" coords="2191,486,2345,527"/>
+<area shape="rect" id="node18" href="$df/d3b/LibraryWrapperServiceCallbacks_8cpp.html" title="certmgr/certmanagd\l/src/LibraryWrapperService\lCallbacks.cpp" alt="" coords="361,200,556,256"/>
+<area shape="rect" id="node23" href="$d9/dcb/CertificateIdList_8cpp.html" title="certmgr/common/src\l/CertificateIdList.cpp" alt="" coords="908,207,1065,249"/>
+<area shape="rect" id="node22" href="$d3/d54/CertmanagerApi_8cpp.html" title="certmgr/libcertmgr\l/src/CertmanagerApi.cpp" alt="" coords="1315,305,1497,346"/>
+<area shape="rect" id="node21" href="$d0/d4d/CertificateIdCnMap_8cpp.html" title="certmgr/common/src\l/CertificateIdCnMap.cpp" alt="" coords="1115,305,1291,346"/>
+<area shape="rect" id="node25" href="$d4/d36/CertificateInfo_8cpp.html" title="certmgr/common/src\l/CertificateInfo.cpp" alt="" coords="2020,305,2177,346"/>
+<area shape="rect" id="node26" href="$d5/d89/main__test_8cpp.html" title="certmgr/test/main_test.cpp" alt="" coords="2202,312,2400,339"/>
+<area shape="rect" id="node28" href="$dd/d6f/ExternalCertificateAccessor_8cpp.html" title="certmgr/common/src\l/ExternalCertificateAccessor.cpp" alt="" coords="1522,305,1752,346"/>
+<area shape="rect" id="node30" href="$df/d38/InternalCertificatesAccessor_8cpp.html" title="certmgr/common/src\l/InternalCertificatesAccessor.cpp" alt="" coords="2527,305,2761,346"/>
+</map>

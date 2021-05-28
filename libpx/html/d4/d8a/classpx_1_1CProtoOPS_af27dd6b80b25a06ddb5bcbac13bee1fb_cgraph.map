@@ -1,0 +1,15 @@
+<map id="px::CProtoOPS::SetFieldValue" name="px::CProtoOPS::SetFieldValue">
+<area shape="rect" id="node2" href="$db/dd9/classpx_1_1CValue.html#acf21cb89c9113098ca63b16f2b0a944b" title="Conversion to binary type. " alt="" coords="272,5,435,32"/>
+<area shape="rect" id="node3" href="$db/dd9/classpx_1_1CValue.html#a2d82b87cb297b149fa9591fbd9adb24a" title="Conversion to boolean type. " alt="" coords="279,56,428,83"/>
+<area shape="rect" id="node4" href="$db/dd9/classpx_1_1CValue.html#af3598fb9efa5ed6d5df53a5c4d1fc0d7" title="Conversion to double type. " alt="" coords="271,107,436,133"/>
+<area shape="rect" id="node5" href="$db/dd9/classpx_1_1CValue.html#a867e34156dc0db407730948a6bd2848c" title="Conversion to float type. " alt="" coords="278,157,429,184"/>
+<area shape="rect" id="node6" href="$db/dd9/classpx_1_1CValue.html#ae193018169caef1666c2fce7247c328d" title="Conversion to int32 type. " alt="" coords="276,208,431,235"/>
+<area shape="rect" id="node7" href="$db/dd9/classpx_1_1CValue.html#ad1b6d54eb122fe198b45083c15aabf1a" title="Conversion to int64 type. " alt="" coords="276,259,431,285"/>
+<area shape="rect" id="node8" href="$db/dd9/classpx_1_1CValue.html#a746a26c3a4970db4ea4f27f30c5d4d9a" title="Conversion to string type. " alt="" coords="274,309,433,336"/>
+<area shape="rect" id="node9" href="$db/dd9/classpx_1_1CValue.html#acd565f9beadaa8c62faf0b26ed203dce" title="Conversion to uint32 type. " alt="" coords="272,360,435,387"/>
+<area shape="rect" id="node10" href="$db/dd9/classpx_1_1CValue.html#a8425c3757ef22f628d3767b0efd8b9ae" title="Conversion to uint64 type. " alt="" coords="272,411,435,437"/>
+<area shape="rect" id="node11" href="$d1/d7d/classpx_1_1CDataType.html#a8adabd350a7ed2de3812db62b59366f8" title="Determine whether this type is a px::string. " alt="" coords="264,461,443,488"/>
+<area shape="rect" id="node12" href="$d6/d1d/proto__ops_8cpp.html#a3884c51e292192e0471754dea72a0b7a" title="remove_index" alt="" coords="296,512,411,539"/>
+<area shape="rect" id="node13" href="$d5/dc3/classpx_1_1CUtil.html#a6e94b72d769c61223e7f1bb218f12a9d" title="Split a single string into multiple sub&#45;strings. " alt="" coords="274,563,433,589"/>
+<area shape="rect" id="node14" href="$db/dd9/classpx_1_1CValue.html#a2a46ef72ad52efd0c5b9d88b4cafc21a" title="Get the data type for this value. " alt="" coords="289,613,417,640"/>
+</map>

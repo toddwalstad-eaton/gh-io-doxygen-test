@@ -1,0 +1,4 @@
+<map id="iot_data_alarm_item" name="iot_data_alarm_item">
+<area shape="rect" id="node2" href="$df/d0e/structiot__data__alarm__trigger__item.html" title="Data structure representing an optional alarm trigger entity. " alt="" coords="359,219,565,296"/>
+<area shape="rect" id="node5" href="$de/d94/structiot__data__alarm__custom__item.html" title="Data structure representing an option alarm custom entity. " alt="" coords="123,219,335,296"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="px::CChannel::operator==" name="px::CChannel::operator==">
+<area shape="rect" id="node2" href="$d0/df1/classpx_1_1CChannel.html#a14119474c6ad3524ac4576b0c580a207" title="Return the device&#39;s state, the union of bits set by inherited_state and own_state. " alt="" coords="249,5,426,32"/>
+<area shape="rect" id="node3" href="$dd/d57/classpx_1_1CBitset.html#a8d97b50a255e17f20721d29a9d3d2d73" title="Set any flag that is set in the given &quot;mask&quot; Bitset. " alt="" coords="475,5,639,32"/>
+</map>

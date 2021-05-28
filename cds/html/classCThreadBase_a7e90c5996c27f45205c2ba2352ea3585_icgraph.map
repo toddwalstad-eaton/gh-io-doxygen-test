@@ -1,0 +1,6 @@
+<map id="CThreadBase::send" name="CThreadBase::send">
+<area shape="rect" id="node2" href="$classCThreadBase.html#acbcf82c6031f6c2f63a8e89f16eec474" title="Stop the worker thread (if one is running), so that it&#39;s completely safe to exit. ..." alt="" coords="228,5,372,32"/>
+<area shape="rect" id="node4" href="$classCThreadConsumeStageDBs.html#a7e61c2c0bf7610b4bc2ec45cf08381f2" title="Execute the given command. " alt="" coords="200,57,400,98"/>
+<area shape="rect" id="node5" href="$classCThreadTrendBucket.html#a115c9f193f4574f63e9832a5faaf8c61" title="Idle&#45;time handler, run every so often when the thread is otherwise idle. " alt="" coords="222,122,378,163"/>
+<area shape="rect" id="node3" href="$classCThreadBase.html#a49d4d6b0b6ef5c9671463d0e7cbe5588" title="Destructor. " alt="" coords="448,5,661,32"/>
+</map>

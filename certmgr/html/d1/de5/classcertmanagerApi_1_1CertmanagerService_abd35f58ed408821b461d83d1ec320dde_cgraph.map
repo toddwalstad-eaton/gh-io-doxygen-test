@@ -1,0 +1,11 @@
+<map id="certmanagerApi::CertmanagerService::reloadService" name="certmanagerApi::CertmanagerService::reloadService">
+<area shape="rect" id="node2" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#ace51b348a53dd6262debc533e808bc0c" title="Send command to the certmanager daemon. " alt="" coords="272,169,504,210"/>
+<area shape="rect" id="node3" href="$dc/dba/classcertmanager_1_1Tools.html#a57f4befccd23a5f9866de54bfe6d99be" title="This function will return the current User Name. " alt="" coords="607,5,753,46"/>
+<area shape="rect" id="node4" href="$dc/dba/classcertmanager_1_1Tools.html#a31485dc30c259d50064295f78d537f5b" title="This function will get the current process pid. " alt="" coords="607,70,753,111"/>
+<area shape="rect" id="node5" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#a5495e7bd5d88bac8e72c7906769b6dea" title="This function returns the Name Pipes Directory path where all IPC files for certmanagd are stored..." alt="" coords="553,135,807,177"/>
+<area shape="rect" id="node7" href="$dc/dba/classcertmanager_1_1Tools.html#aa546e71ec3d8444a15e301a5782aba30" title="This function changes the group for the path given. " alt="" coords="607,201,753,242"/>
+<area shape="rect" id="node8" href="$df/d56/classcertmanager_1_1Commands.html#a4ec4a560364f9a0546d9bb512844d610" title="Function to convert received command to string. " alt="" coords="587,266,773,307"/>
+<area shape="rect" id="node9" href="$dc/dba/classcertmanager_1_1Tools.html#ab7d8c293ff91416cf23903aa1538f5f4" title="This function removes the requested file and on error prints debug message. " alt="" coords="607,331,753,373"/>
+<area shape="rect" id="node6" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#af0d6b3282ce91cff4d7d5844e1e077ee" title="This is the API to get the singleton object of the class. " alt="" coords="857,135,1111,177"/>
+<area shape="rect" id="node10" href="$dc/dba/classcertmanager_1_1Tools.html#ad0dcb87f909dd94559f03213b50feeb4" title="This API tells if a file exists in the system. " alt="" coords="911,331,1057,373"/>
+</map>

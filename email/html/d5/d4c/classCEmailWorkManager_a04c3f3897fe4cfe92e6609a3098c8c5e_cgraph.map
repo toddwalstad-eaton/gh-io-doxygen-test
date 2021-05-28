@@ -1,0 +1,9 @@
+<map id="CEmailWorkManager::get_attachment_alarms_callback" name="CEmailWorkManager::get_attachment_alarms_callback">
+<area shape="rect" id="node2" href="$d5/d4c/classCEmailWorkManager.html#a6e611583cac9566eb14e078837f212d7" title="extract_alarm_information " alt="" coords="233,5,429,46"/>
+<area shape="rect" id="node3" href="$d5/d4c/classCEmailWorkManager.html#a776970d771c4dd9f01d2ea4ef327229b" title="clear_device_variables " alt="" coords="245,70,416,111"/>
+<area shape="rect" id="node4" href="$d5/d4c/classCEmailWorkManager.html#a8c0e559b95fe2bcf4313cf6bfd9635e1" title="clear_channel_variables " alt="" coords="241,135,420,177"/>
+<area shape="rect" id="node5" href="$d5/d4c/classCEmailWorkManager.html#adb94e68025f7ab8e984739544daa3c75" title="get_attachment_devices_callback " alt="" coords="239,201,422,257"/>
+<area shape="rect" id="node7" href="$d5/d4c/classCEmailWorkManager.html#a8f6d0f8a76be583b7721853a7da99c87" title="get_attachment_channels_callback " alt="" coords="235,281,426,337"/>
+<area shape="rect" id="node6" href="$d5/d4c/classCEmailWorkManager.html#a33bd449a31b436ce2d69eeb48a5f1b2a" title="extract_device_information " alt="" coords="482,209,683,250"/>
+<area shape="rect" id="node8" href="$d5/d4c/classCEmailWorkManager.html#af9924498cf0bd3de569fb8019ead1fb0" title="extract_channel_information " alt="" coords="478,289,687,330"/>
+</map>

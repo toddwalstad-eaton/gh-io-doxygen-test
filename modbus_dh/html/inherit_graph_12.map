@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$de/db3/classCMessageHandler.html" title="Message Handler ABC. " alt="" coords="5,56,144,83"/>
+<area shape="rect" id="node2" href="$de/d8a/classCDataBlock.html" title="Abstract &quot;Data Block&quot; class. " alt="" coords="192,56,291,83"/>
+<area shape="rect" id="node3" href="$df/d62/classCModbusCommandBlock.html" title="Implementation of a &quot;command block&quot; for the Modbus protocol. " alt="" coords="339,5,523,32"/>
+<area shape="rect" id="node4" href="$de/df8/classCModbusDataBlock.html" title="Implementation of a &quot;data block&quot; for the Modbus protocol. " alt="" coords="357,56,505,83"/>
+<area shape="rect" id="node6" href="$df/d2c/classCParam.html" title="Base &quot;parameter&quot; class for Channels and Internal Parameters. " alt="" coords="205,145,277,172"/>
+<area shape="rect" id="node7" href="$d4/dab/classCChannel.html" title="Channel class. " alt="" coords="389,107,473,133"/>
+<area shape="rect" id="node8" href="$d1/ddc/classCCommand.html" title="Command class. " alt="" coords="381,157,480,184"/>
+<area shape="rect" id="node9" href="$d9/d07/classCInternalParam.html" title="Internal &quot;parameter&quot; class. " alt="" coords="369,208,492,235"/>
+</map>

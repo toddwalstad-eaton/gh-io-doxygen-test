@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$d2/d37/classCIoMessenger.html" title="I/O &quot;Messenger&quot; class. " alt="" coords="169,31,282,57"/>
+<area shape="rect" id="node5" href="$d3/db0/classCTcpProxy.html" title="TCP Proxy Server class, used to accept new TCP connections. " alt="" coords="181,81,270,108"/>
+<area shape="rect" id="node3" href="$d5/daf/classCSerialConnection.html" title="Serial Connection class. " alt="" coords="331,5,472,32"/>
+<area shape="rect" id="node4" href="$d6/d76/classCTcpMessenger.html" title="TCP Connection class. " alt="" coords="340,56,463,83"/>
+</map>

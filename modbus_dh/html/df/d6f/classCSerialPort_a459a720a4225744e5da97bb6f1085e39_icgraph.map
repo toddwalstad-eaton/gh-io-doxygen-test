@@ -1,0 +1,8 @@
+<map id="CSerialPort::add_device" name="CSerialPort::add_device">
+<area shape="rect" id="node2" href="$df/d6f/classCSerialPort.html#afabfaba92c197fa8ddbbfba52357a917" title="Create and add a (protocol&#45;specific, DH&#45;classed) Device container to our list, along with its EDS inf..." alt="" coords="230,70,373,111"/>
+<area shape="rect" id="node3" href="$df/d6f/classCSerialPort.html#ab0f2e9274ba7eb16455ae06011467d36" title="Scan the list of Devices for this Port or submaster and add any not already mapped, and remove any that have gone missing. " alt="" coords="421,70,568,111"/>
+<area shape="rect" id="node4" href="$df/d6f/classCSerialPort.html#ab1ee4bdac0dc016bf4da24822f61c30e" title="Initialize this port&#39;s devices and their configuration, and add these to the port&#39;s device list..." alt="" coords="617,5,775,46"/>
+<area shape="rect" id="node5" href="$df/d6f/classCSerialPort.html#a55da93d83143f4fceee8005d7ee40408" title="The callback function that we provide to the CDS to handle updates to change_signature events..." alt="" coords="621,70,771,111"/>
+<area shape="rect" id="node7" href="$df/d6f/classCSerialPort.html#ab023ec8bb7d84c48b1505814074ec6af" title="Tell port to refresh it&#39;s devices to pick up additions and deletions. " alt="" coords="622,135,770,177"/>
+<area shape="rect" id="node6" href="$df/d6f/classCSerialPort.html#a801fb24a18b6d99785d4b3edbecb04e9" title="(Virtual) Factory method to create the port &quot;Connection&quot; Actor (eg, CSerialConnection). " alt="" coords="825,70,967,111"/>
+</map>

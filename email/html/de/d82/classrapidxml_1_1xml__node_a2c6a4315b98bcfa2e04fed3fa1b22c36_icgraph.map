@@ -1,0 +1,13 @@
+<map id="rapidxml::xml_node::type" name="rapidxml::xml_node::type">
+<area shape="rect" id="node2" href="$d1/d46/classrapidxml_1_1memory__pool.html#a0a10679fc17597d339a0dc107f8a94ac" title="Clones an xml_node and its hierarchy of child nodes and attributes. " alt="" coords="205,5,384,46"/>
+<area shape="rect" id="node3" href="$de/d82/classrapidxml_1_1xml__node.html#adb6ad21a4590cf13d4a6a5036e3cdbbc" title="Gets document of which node is a child. " alt="" coords="219,70,371,111"/>
+<area shape="rect" id="node4" href="$de/d82/classrapidxml_1_1xml__node.html#a499bbc9300c1b06821d5c08b24164c68" title="Sets type of node. " alt="" coords="219,135,371,177"/>
+<area shape="rect" id="node5" href="$de/d82/classrapidxml_1_1xml__node.html#ae86e92908c3eab40bbed8216e4f3f3cb" title="Prepends a new child node. " alt="" coords="219,201,371,242"/>
+<area shape="rect" id="node7" href="$de/d82/classrapidxml_1_1xml__node.html#a8696d098ecc9c4d2a646b43e91d58e31" title="Appends a new child node. " alt="" coords="219,318,371,359"/>
+<area shape="rect" id="node6" href="$de/d82/classrapidxml_1_1xml__node.html#a666880f42a7e486d78cc45ed51c7c46d" title="Inserts a new child node at specified place inside the node. " alt="" coords="451,226,603,267"/>
+<area shape="rect" id="node8" href="$db/d68/classrapidxml_1_1xml__document.html#ac6e73ff9ac323bf5a370c38feb03a6b1" title="Parses zero&#45;terminated XML string according to given flags. " alt="" coords="434,291,619,333"/>
+<area shape="rect" id="node11" href="$db/d68/classrapidxml_1_1xml__document.html#aec6cedf45179b6378c670bc3ea509e61" title="rapidxml::xml_document\l::parse_and_append_data" alt="" coords="433,357,621,398"/>
+<area shape="rect" id="node12" href="$db/d68/classrapidxml_1_1xml__document.html#aae0a4c2e1972ab9a9e0ce91cf1166ac9" title="rapidxml::xml_document\l::parse_node_contents" alt="" coords="434,422,619,463"/>
+<area shape="rect" id="node9" href="$d3/dcd/classCEmailConfig.html#a49a6b71afe651d9e140d946aa794ee68" title="parse " alt="" coords="670,299,823,325"/>
+<area shape="rect" id="node10" href="$d3/dcd/classCEmailConfig.html#a78afc4cc3c3bda6f427f4ded377954ef" title="Constructor. " alt="" coords="873,299,1077,325"/>
+</map>

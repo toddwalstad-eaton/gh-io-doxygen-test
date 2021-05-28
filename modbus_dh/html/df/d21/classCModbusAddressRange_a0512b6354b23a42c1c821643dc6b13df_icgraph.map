@@ -1,0 +1,6 @@
+<map id="CModbusAddressRange::get_modbus_func_code" name="CModbusAddressRange::get_modbus_func_code">
+<area shape="rect" id="node2" href="$df/d62/classCModbusCommandBlock.html#a3957884d90672cd19e793c2da15af662" title="Generate a message which reads/writes this command block from/to the appropriate device. " alt="" coords="244,5,428,46"/>
+<area shape="rect" id="node4" href="$de/df8/classCModbusDataBlock.html#a2dbd7f20ddbf0a27e3a91f580fd256fb" title="Getter for the _value member of this Modbus data block. " alt="" coords="247,70,425,111"/>
+<area shape="rect" id="node5" href="$de/df8/classCModbusDataBlock.html#a11bd794605c052bcd6b2c271cfb2e155" title="Generate a message which reads/writes this data block from/to the appropriate device. " alt="" coords="237,135,435,177"/>
+<area shape="rect" id="node3" href="$d7/d46/classCModbusDevice.html#a64729f41548fc750b37111ef7d84a46d" title="Get the queue of &quot;next&quot; Modbus transaction(s) for this Device. " alt="" coords="483,5,645,46"/>
+</map>

@@ -1,0 +1,37 @@
+<map id="cds_sync_io.hpp" name="cds_sync_io.hpp">
+<area shape="rect" id="node5" href="$dd/d3a/common_8hpp.html" title="px/common.hpp" alt="" coords="2048,517,2174,544"/>
+<area shape="rect" id="node6" href="$db/d8b/permission_8hpp.html" title="px/enum/permission.hpp" alt="" coords="2118,344,2300,371"/>
+<area shape="rect" id="node9" href="$d4/d76/type_2string_8hpp.html" title="px/type/string.hpp" alt="" coords="1835,517,1974,544"/>
+<area shape="rect" id="node14" href="$da/ddd/cds__types_8hpp.html" title="Define a set of typedefs for the CDS protobuf messages that provide terser labeling of these commonly..." alt="" coords="1099,80,1260,107"/>
+<area shape="rect" id="node29" href="$d4/d6c/get__channel__settings_8hpp.html" title="px/cds/get_channel\l_settings.hpp" alt="" coords="3133,246,3280,287"/>
+<area shape="rect" id="node33" href="$d0/d0a/set__device__state_8hpp.html" title="px/cds/set_device_state.hpp" alt="" coords="2235,253,2441,280"/>
+<area shape="rect" id="node36" href="$d1/d69/set__channel__state_8hpp.html" title="px/cds/set_channel\l_state.hpp" alt="" coords="1845,155,1992,197"/>
+<area shape="rect" id="node37" href="$db/d4b/update__channel__value_8hpp.html" title="px/cds/update_channel\l_value.hpp" alt="" coords="3160,337,3330,378"/>
+<area shape="rect" id="node39" href="$d5/da4/update__channel__settings_8hpp.html" title="px/cds/update_channel\l_settings.hpp" alt="" coords="1766,246,1937,287"/>
+<area shape="rect" id="node17" href="$de/d7c/request__response_8hpp.html" title="px/cds/request_response.hpp" alt="" coords="1458,435,1669,461"/>
+<area shape="rect" id="node40" href="$da/d3b/get__oob__data_8hpp.html" title="px/cds/get_oob_data.hpp" alt="" coords="194,344,378,371"/>
+<area shape="rect" id="node19" href="$d1/d5f/set__oob__data_8hpp.html" title="px/cds/set_oob_data.hpp" alt="" coords="403,344,585,371"/>
+<area shape="rect" id="node41" href="$d5/dad/alarm__update_8hpp.html" title="px/data/alarm_update.hpp" alt="" coords="3762,253,3954,280"/>
+<area shape="rect" id="node44" href="$d5/d08/device_8hpp.html" title="px/data/device.hpp" alt="" coords="4656,253,4802,280"/>
+<area shape="rect" id="node50" href="$d9/d8f/subscription__type_8hpp.html" title="px/subscription/subscription\l_type.hpp" alt="" coords="5151,155,5354,197"/>
+<area shape="rect" id="node7" href="$d6/d33/permission__enums_8hpp.html" title="px/enum/permission\l_enums.hpp" alt="" coords="2376,427,2530,469"/>
+<area shape="rect" id="node11" href="$d6/d86/bitset_8hpp.html" title="px/type/bitset.hpp" alt="" coords="3552,435,3692,461"/>
+<area shape="rect" id="node16" href="$db/dfb/get__field__value_8hpp.html" title="px/cds/get_field_value.hpp" alt="" coords="729,253,924,280"/>
+<area shape="rect" id="node25" href="$d7/d7b/set__field__value_8hpp.html" title="px/cds/set_field_value.hpp" alt="" coords="1009,163,1204,189"/>
+<area shape="rect" id="node26" href="$d0/d3f/execute__device__command_8hpp.html" title="px/cds/execute_device\l_command.hpp" alt="" coords="1410,246,1581,287"/>
+<area shape="rect" id="node28" href="$d2/dd7/get__device__command__result_8hpp.html" title="px/cds/get_device_command\l_result.hpp" alt="" coords="1176,246,1386,287"/>
+<area shape="rect" id="node23" href="$d2/dca/type_2value_8hpp.html" title="px/type/value.hpp" alt="" coords="3237,435,3376,461"/>
+<area shape="rect" id="node24" href="$db/db3/id_8hpp.html" title="px/type/id.hpp" alt="" coords="2946,435,3061,461"/>
+<area shape="rect" id="node18" href="$d8/da6/mono__time_8hpp.html" title="px/type/mono_time.hpp" alt="" coords="1475,517,1652,544"/>
+<area shape="rect" id="node21" href="$d8/d90/protobuf_8hpp.html" title="px/serialization/type\l/protobuf.hpp" alt="" coords="638,427,793,469"/>
+<area shape="rect" id="node22" href="$dd/d59/cast_8hpp.html" title="px/cast.hpp" alt="" coords="151,435,248,461"/>
+<area shape="rect" id="node27" href="$d5/d91/device__command_8hpp.html" title="px/data/device_command.hpp" alt="" coords="2426,344,2645,371"/>
+<area shape="rect" id="node30" href="$dc/d3d/channel__settings_8hpp.html" title="px/data/channel_settings.hpp" alt="" coords="3557,344,3770,371"/>
+<area shape="rect" id="node32" href="$df/d2b/shared__string_8hpp.html" title="px/type/shared_string.hpp" alt="" coords="3716,435,3906,461"/>
+<area shape="rect" id="node34" href="$d8/dc4/realtime__state_8hpp.html" title="px/data/realtime_state.hpp" alt="" coords="3947,344,4145,371"/>
+<area shape="rect" id="node35" href="$d4/d1c/channel__selector_8hpp.html" title="px/data/channel_selector.hpp" alt="" coords="2720,344,2932,371"/>
+<area shape="rect" id="node38" href="$de/dda/wall__time_8hpp.html" title="px/type/wall_time.hpp" alt="" coords="4550,435,4716,461"/>
+<area shape="rect" id="node43" href="$dc/d45/alarm__trigger_8hpp.html" title="px/data/alarm_trigger.hpp" alt="" coords="4272,344,4462,371"/>
+<area shape="rect" id="node46" href="$d8/d27/device__role_8hpp.html" title="px/enum/device_role.hpp" alt="" coords="4792,435,4978,461"/>
+<area shape="rect" id="node47" href="$d5/d62/device__flags_8hpp.html" title="px/data/device_flags.hpp" alt="" coords="5188,435,5372,461"/>
+</map>

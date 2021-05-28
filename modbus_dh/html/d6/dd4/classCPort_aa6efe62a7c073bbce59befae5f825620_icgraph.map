@@ -1,0 +1,4 @@
+<map id="CPort::review_devices_validity" name="CPort::review_devices_validity">
+<area shape="rect" id="node2" href="$d6/dd4/classCPort.html#a50fd5bbaac80c831b77653f5370c18ef" title="Get the next transaction series (ie, requests) to be executed for this port. " alt="" coords="473,5,639,46"/>
+<area shape="rect" id="node3" href="$d6/dd4/classCPort.html#ad4921533430dd215d911c91db090de08" title="Poll the devices and get the highest priority transaction series from one. " alt="" coords="221,34,424,75"/>
+</map>

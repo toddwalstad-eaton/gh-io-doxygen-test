@@ -1,0 +1,7 @@
+<map id="CWaveformState::write_waveform_state" name="CWaveformState::write_waveform_state">
+<area shape="rect" id="node2" href="$d3/dd8/classCWaveformState.html#abc5cbc85e4ddd94de1dfc6a8c7fbc2dc" title="CWaveformState::read_file" alt="" coords="229,56,425,83"/>
+<area shape="rect" id="node5" href="$d3/dd8/classCWaveformState.html#a51f1de22c14d3fdde86a15da916c495f" title="CWaveformState::write_file" alt="" coords="227,107,427,133"/>
+<area shape="rect" id="node3" href="$d3/dd8/classCWaveformState.html#aaca01b8c95fc8b6b92da1c41c873a8d7" title="CWaveformState::from_json" alt="" coords="476,5,681,32"/>
+<area shape="rect" id="node4" href="$d3/dd8/classCWaveformState.html#ab4e26f2fccabb6ae1f16b077d80c7ba5" title="CWaveformState::delete_file" alt="" coords="475,56,683,83"/>
+<area shape="rect" id="node6" href="$d3/dd8/classCWaveformState.html#ad7e9d66fa034853222c1530c5adc7480" title="CWaveformState::to_json" alt="" coords="485,107,672,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CIotDeviceClient::callback_delete_device" name="CIotDeviceClient::callback_delete_device">
+<area shape="rect" id="node2" href="$dd/d68/classCIotDeviceClient.html#a47b6924adc4e4c501854573b5bdfda1b" title="Lookup a Device instance in our map of devices, using its CDS Device ID. " alt="" coords="251,5,434,46"/>
+<area shape="rect" id="node3" href="$dd/d68/classCIotDeviceClient.html#a8c0885ca901a8588ca31c0bd1809e3a6" title="Request a new client_state action. " alt="" coords="249,70,437,111"/>
+</map>

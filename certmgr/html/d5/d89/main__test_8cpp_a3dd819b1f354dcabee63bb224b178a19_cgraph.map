@@ -1,0 +1,15 @@
+<map id="BOOST_AUTO_TEST_CASE" name="BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$dc/d2a/classcertmanager_1_1InternalCertificatesAccessor.html#accf679c01734d471bf0e2cf846bcf0dc" title="certmanager::InternalCertificates\lAccessor::activePath" alt="" coords="245,5,483,46"/>
+<area shape="rect" id="node3" href="$dc/d2a/classcertmanager_1_1InternalCertificatesAccessor.html#ad6d0673d6c223a68a2d8730c1f8fc560" title="certmanager::InternalCertificates\lAccessor::certInfoPath" alt="" coords="245,70,483,111"/>
+<area shape="rect" id="node4" href="$d8/d81/classcertmanager_1_1CertificateInfo.html#a61fdb322530027f20aa3f26b996e2b00" title="Get a map of parameters and values from the conf file. " alt="" coords="274,135,454,177"/>
+<area shape="rect" id="node6" href="$d8/d81/classcertmanager_1_1CertificateInfo.html#aceba4cdace0e9ff9e2399717fa7ee838" title="Functions to get the certificate basic information. " alt="" coords="274,201,454,242"/>
+<area shape="rect" id="node7" href="$d8/d81/classcertmanager_1_1CertificateInfo.html#acf4463820484509413c41cd5ee5f4338" title="Get the certificate subject name. " alt="" coords="274,266,454,307"/>
+<area shape="rect" id="node8" href="$d8/d81/classcertmanager_1_1CertificateInfo.html#a2efb05bfd81885017bc05aa492ee5193" title="Check whether the service is CA. " alt="" coords="274,331,454,373"/>
+<area shape="rect" id="node9" href="$d8/d81/classcertmanager_1_1CertificateInfo.html#a62f0ac5cc3df4408fc368192f5691a08" title="Check whether the service is CA signed. " alt="" coords="274,397,454,438"/>
+<area shape="rect" id="node10" href="$d8/d81/classcertmanager_1_1CertificateInfo.html#ad3363f6b92dba14b1ea71beca3eba9ae" title="Check whether the service is self&#45;signed. " alt="" coords="274,462,454,503"/>
+<area shape="rect" id="node11" href="$d8/d81/classcertmanager_1_1CertificateInfo.html#a01e675a71f5840ce141ceeb20f9a72be" title="Get the validity start date for the certificate. " alt="" coords="274,527,454,569"/>
+<area shape="rect" id="node12" href="$d8/d81/classcertmanager_1_1CertificateInfo.html#afe5eecd1c6f1ee5b0ef13759f6b74723" title="Get the validity end date for the certificate. " alt="" coords="274,593,454,634"/>
+<area shape="rect" id="node13" href="$d8/d81/classcertmanager_1_1CertificateInfo.html#a874ae7ab2462e5fb3d5ef47d4f8742af" title="Get the list of IPs on which certificate depends. " alt="" coords="274,658,454,699"/>
+<area shape="rect" id="node14" href="$d8/d81/classcertmanager_1_1CertificateInfo.html#aafdb32ceda666a70572e906fa2835249" title="Get the list of hostnames on which certificate depends. " alt="" coords="274,723,454,765"/>
+<area shape="rect" id="node5" href="$d8/d1f/namespacecertmanager.html#a30befc0c9be8fdede8df8144cf2b097b" title="certmanager::boolToString" alt="" coords="531,143,725,169"/>
+</map>

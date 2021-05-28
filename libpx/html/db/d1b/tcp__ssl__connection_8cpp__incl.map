@@ -1,0 +1,12 @@
+<map id="tcp_ssl_connection.cpp" name="tcp_ssl_connection.cpp">
+<area shape="rect" id="node2" href="$d5/d86/tcp__ssl__connection_8hpp.html" title="px/asio/transactors\l/simple/tcp/tcp_ssl\l_connection.hpp" alt="" coords="433,80,580,136"/>
+<area shape="rect" id="node14" href="$d0/d76/io__manager_8hpp.html" title="px/asio/io_manager.hpp" alt="" coords="731,283,908,309"/>
+<area shape="rect" id="node18" href="$d2/de7/protocol__handler_8hpp.html" title="px/asio/protocol/protocol\l_handler.hpp" alt="" coords="933,275,1115,317"/>
+<area shape="rect" id="node20" href="$d4/d3d/log_8hpp.html" title="An internal libpx header that defines the syslogging functions. " alt="" coords="922,95,992,121"/>
+<area shape="rect" id="node6" href="$d6/de8/io__transactor_8hpp.html" title="px/asio/transactors\l/simple/io_transactor.hpp" alt="" coords="227,185,413,226"/>
+<area shape="rect" id="node8" href="$dd/d3a/common_8hpp.html" title="px/common.hpp" alt="" coords="499,365,625,392"/>
+<area shape="rect" id="node9" href="$dd/d07/io__buffer_8hpp.html" title="px/asio/io_buffer.hpp" alt="" coords="109,365,267,392"/>
+<area shape="rect" id="node13" href="$d7/dd2/io__actor_8hpp.html" title="px/asio/io_actor.hpp" alt="" coords="323,283,475,309"/>
+<area shape="rect" id="node16" href="$d4/d76/type_2string_8hpp.html" title="px/type/string.hpp" alt="" coords="899,365,1039,392"/>
+<area shape="rect" id="node22" href="$d6/df8/lib__log_8hpp.html" title="px/util/lib_log.hpp" alt="" coords="651,192,789,219"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="eds_parse_err::what" name="eds_parse_err::what">
+<area shape="rect" id="node2" href="$d6/d12/structCDataBlockTranslator_1_1Mapping.html#acb35b95a9240f1030489b144d12e0f2a" title="CDataBlockTranslator\l::Mapping::Mapping" alt="" coords="223,5,385,46"/>
+<area shape="rect" id="node3" href="$d4/dab/classCChannel.html#a11e5afc5fa8cb59a139eafdc942299c9" title="Initialize this Channel, and its ChannelSettings, from its EDS information. " alt="" coords="230,70,378,111"/>
+<area shape="rect" id="node4" href="$d9/d07/classCInternalParam.html#a41e8042ceef897236fbf50833c959cb9" title="Initialize this Internal Parameter from its EDS information. " alt="" coords="211,135,397,177"/>
+<area shape="rect" id="node5" href="$d1/ddc/classCCommand.html#a9768dea651078e9b57dd78ffe6083e16" title="Initialize this Command Parameter from its EDS information. " alt="" coords="223,201,385,242"/>
+<area shape="rect" id="node6" href="$d2/d76/classCDevice.html#abb0416ff49a1b6f8ae4f418981c8e703" title="Create and add a new Internal Parameter to the given map, using its EDS description. " alt="" coords="226,266,382,307"/>
+<area shape="rect" id="node12" href="$d2/d76/classCDevice.html#a07f52c9e6e08da46ee2aa558105443d3" title="Create and initialize the device commands called for by the EDS. " alt="" coords="453,329,603,370"/>
+<area shape="rect" id="node13" href="$d2/d76/classCDevice.html#a62fdb6fcd48d2afe1fa8f77acfb5028f" title="Initialize single channel from eds entry. " alt="" coords="234,383,374,425"/>
+<area shape="rect" id="node15" href="$d2/d76/classCDevice.html#a4d96653aa893e3644d7338a0f0c226f8" title="Adds the waveform alarm channel. " alt="" coords="213,449,395,490"/>
+<area shape="rect" id="node19" href="$d7/d46/classCModbusDevice.html#a7304d59a192d86c572c1e9b3ef1a8670" title="Call this function to initially populate the list of polled Data Blocks that may be managed by this D..." alt="" coords="209,514,399,555"/>
+<area shape="rect" id="node7" href="$d2/d76/classCDevice.html#a623f52fff7f402a7e9746e93e8996fc2" title="Create and initialize the Internal Parameters called for by the EDS. " alt="" coords="458,133,598,174"/>
+<area shape="rect" id="node10" href="$d2/d76/classCDevice.html#acfa370a8a85e823aa7f28c0e7ebbee41" title="Create and initialize the Device attribute params called for by the EDS. " alt="" coords="458,198,598,239"/>
+<area shape="rect" id="node11" href="$d2/d76/classCDevice.html#a7a9d9f480e1d7c0ec102459c14a8076d" title="Use the subdevices parameters in the parsed device EDS, setup the subdevices for this device..." alt="" coords="458,263,598,305"/>
+<area shape="rect" id="node8" href="$d2/d76/classCDevice.html#a1d5a52000fc574354fb3548eb4dcae96" title="Call this function to initialize the Channels and Internal Parameters for this Device. " alt="" coords="682,263,822,305"/>
+<area shape="rect" id="node9" href="$d2/d76/classCDevice.html#accb14c1121791e295ac675fc99b36807" title="Initialize the Data Blocks, Channels, and Internal Parameters for this Device. " alt="" coords="911,263,1051,305"/>
+<area shape="rect" id="node14" href="$d2/d76/classCDevice.html#a86e0d795f0cc71ab61e023d4213c36ab" title="Create and initialize the Channels called for by the EDS. " alt="" coords="458,394,598,435"/>
+<area shape="rect" id="node16" href="$d2/d76/classCDevice.html#a09a759293a18a047fb1294b3daf6d506" title="Add Device Commands to the CDS. " alt="" coords="449,459,607,501"/>
+<area shape="rect" id="node17" href="$d2/d76/classCDevice.html#a2b6500949396a4d972e94118dd4687e7" title="Cleanup any remaining junk, once profiling is complete. " alt="" coords="657,467,847,493"/>
+<area shape="rect" id="node18" href="$d2/d76/classCDevice.html#a00f0cf46dca1ac48b5f397b435ef867a" title="Called from the Data Block to handle its done state and manage received data. " alt="" coords="896,459,1067,501"/>
+</map>

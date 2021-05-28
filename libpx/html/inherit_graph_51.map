@@ -1,0 +1,71 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d3/dbb/classpx_1_1cds_1_1CRequestResponse.html" title="All CDS interprocess messages are subclasses of this. " alt="" coords="6,1725,205,1752"/>
+<area shape="rect" id="node2" href="$da/d61/classpx_1_1cds_1_1CAckAlarms.html" title="Acknowledge alarms. " alt="" coords="301,5,456,32"/>
+<area shape="rect" id="node3" href="$dc/d26/classpx_1_1cds_1_1CCdsClientLogin.html" title="Login with the credentials assigned to this process by virtue of its Linux user ID (assigned by &quot;uid_..." alt="" coords="287,56,470,83"/>
+<area shape="rect" id="node4" href="$da/dae/classpx_1_1cds_1_1CCheckSession.html" title="Check a session token for validity, and return the permissions granted to it. " alt="" coords="291,107,466,133"/>
+<area shape="rect" id="node5" href="$dc/d1b/classpx_1_1cds_1_1CClearOOBData.html" title="Erase OOB data items. " alt="" coords="289,157,468,184"/>
+<area shape="rect" id="node6" href="$d6/dbd/classpx_1_1cds_1_1CClearWatchdog.html" title="Undoes the effect of CRegisterWatchdog. " alt="" coords="287,208,470,235"/>
+<area shape="rect" id="node7" href="$d9/de4/classpx_1_1cds_1_1CCreateChannel.html" title="Create one or more channels. " alt="" coords="288,259,469,285"/>
+<area shape="rect" id="node8" href="$d3/d57/classpx_1_1cds_1_1CCreateDevice.html" title="Create one or more devices. " alt="" coords="292,309,465,336"/>
+<area shape="rect" id="node9" href="$d6/d68/classpx_1_1cds_1_1CDeleteAlarms.html" title="Delete a list of alarms. " alt="" coords="291,360,466,387"/>
+<area shape="rect" id="node10" href="$d1/d7c/classpx_1_1cds_1_1CDeleteChannel.html" title="Delete a list of channels. " alt="" coords="288,411,469,437"/>
+<area shape="rect" id="node11" href="$db/d93/classpx_1_1cds_1_1CDeleteDevice.html" title="Delete a list of devices. " alt="" coords="292,461,465,488"/>
+<area shape="rect" id="node12" href="$dc/d26/classpx_1_1cds_1_1CDeleteRole.html" title="Delete a role from the system. " alt="" coords="301,512,457,539"/>
+<area shape="rect" id="node13" href="$d4/dfc/classpx_1_1cds_1_1CDeleteTrends.html" title="Delete trend storage by date range and channel ID. " alt="" coords="293,563,464,589"/>
+<area shape="rect" id="node14" href="$d8/df7/classpx_1_1cds_1_1CDeleteUser.html" title="Remove a user from the system. " alt="" coords="299,613,458,640"/>
+<area shape="rect" id="node15" href="$d6/d7d/classpx_1_1cds_1_1CExecuteDeviceCommand.html" title="Execute a device command/control operation. " alt="" coords="254,664,503,691"/>
+<area shape="rect" id="node16" href="$d6/db5/classpx_1_1cds_1_1CExportConfig.html" title="Client fills in a file path name, which must be writable by the CDS. " alt="" coords="295,715,463,741"/>
+<area shape="rect" id="node17" href="$d9/d13/classpx_1_1cds_1_1CExportTrend.html" title="Exports data from the trend storage to a CSV file. " alt="" coords="297,765,460,792"/>
+<area shape="rect" id="node18" href="$d9/d54/classpx_1_1cds_1_1CGetActiveAlarmsIds.html" title="Get the IDs for all currently&#45;open alarms. " alt="" coords="271,816,486,843"/>
+<area shape="rect" id="node19" href="$db/dbe/classpx_1_1cds_1_1CGetAlarmConfig.html" title="Get the alarm configuration for one or more channels. " alt="" coords="285,867,473,893"/>
+<area shape="rect" id="node20" href="$d1/dc0/classpx_1_1cds_1_1CGetAlarms.html" title="Returns alarms updates in the system (active or both active and historical) according to the ANDing o..." alt="" coords="301,917,456,944"/>
+<area shape="rect" id="node21" href="$d1/d1a/classpx_1_1cds_1_1CGetAlarmUpdateGlobalCount.html" title="Get the latest alarm update global count that has been used. " alt="" coords="281,969,476,1010"/>
+<area shape="rect" id="node22" href="$d5/d83/classpx_1_1cds_1_1CGetChannel.html" title="Get all the CDS&#39;s information about a list of channels. " alt="" coords="298,1035,459,1061"/>
+<area shape="rect" id="node23" href="$de/dab/classpx_1_1cds_1_1CGetChannelSettings.html" title="Get the current settings for a channel. " alt="" coords="271,1085,486,1112"/>
+<area shape="rect" id="node24" href="$d8/d35/classpx_1_1cds_1_1CGetChannelValue.html" title="Get channels&#39; realtime values and states. " alt="" coords="280,1136,477,1163"/>
+<area shape="rect" id="node25" href="$dc/d8a/classpx_1_1cds_1_1CGetDevice.html" title="Get list of devices from the CDS. " alt="" coords="302,1187,455,1213"/>
+<area shape="rect" id="node26" href="$d1/d54/classpx_1_1cds_1_1CGetDeviceCommandResult.html" title="Get a device command/control result after execution. " alt="" coords="269,1238,489,1279"/>
+<area shape="rect" id="node27" href="$d3/dc8/classpx_1_1cds_1_1CGetDeviceCommands.html" title="Gets a list of commands supported by a device, put there by px::cds::CSetDeviceCommands. " alt="" coords="265,1304,492,1331"/>
+<area shape="rect" id="node28" href="$dd/d71/classpx_1_1cds_1_1CGetFieldValue.html" title="Get single fields of devices, channels, or commands. " alt="" coords="291,1355,466,1381"/>
+<area shape="rect" id="node29" href="$d3/d07/classpx_1_1cds_1_1CGetOOBData.html" title="Get the OOB data corresponding to a list of tags. " alt="" coords="295,1405,463,1432"/>
+<area shape="rect" id="node30" href="$d4/d5b/classpx_1_1cds_1_1CGetOOBTags.html" title="Get a list of current OOB tags. " alt="" coords="295,1456,462,1483"/>
+<area shape="rect" id="node31" href="$dc/d4b/classpx_1_1cds_1_1CGetRole.html" title="Get a list of defined roles and/or details about them. " alt="" coords="311,1507,447,1533"/>
+<area shape="rect" id="node32" href="$da/d7f/classpx_1_1cds_1_1CGetSubscriptionDetails.html" title="Get details (e.g. " alt="" coords="285,1558,473,1599"/>
+<area shape="rect" id="node33" href="$d6/d47/classpx_1_1cds_1_1CGetSubscriptionIds.html" title="Get existing subscription IDs, for yourself or all clients. " alt="" coords="275,1624,482,1651"/>
+<area shape="rect" id="node34" href="$df/d51/classpx_1_1cds_1_1CGetUserInfo.html" title="Get a list of users in the system, and details about them. " alt="" coords="297,1675,460,1701"/>
+<area shape="rect" id="node35" href="$d0/dec/classpx_1_1cds_1_1CGetUserPassword.html" title="Get a user&#39;s password hashes. " alt="" coords="279,1725,478,1752"/>
+<area shape="rect" id="node36" href="$d4/d99/classpx_1_1cds_1_1CGetUserPolicy.html" title="Retrieve global password&#45;management policy, such as expiration and complexity requirements. " alt="" coords="290,1776,467,1803"/>
+<area shape="rect" id="node37" href="$dc/dab/classpx_1_1cds_1_1CImportFile.html" title="Defines the base class to import a file (such as trends, updates, etc) to the CDS. " alt="" coords="303,1827,454,1853"/>
+<area shape="rect" id="node39" href="$d9/dcc/classpx_1_1cds_1_1CInsertAlarmUpdates.html" title="Adds alarm updates in &#39;requests&#39; directly to the table of alarms, without them needing to be triggere..." alt="" coords="271,1877,486,1904"/>
+<area shape="rect" id="node40" href="$d5/d04/classpx_1_1cds_1_1CLevelupTrend.html" title="Trigger an immediate trend&#45;cleanup task, that will aggregate and/or delete trend data according to th..." alt="" coords="293,1928,464,1955"/>
+<area shape="rect" id="node41" href="$db/d2b/classpx_1_1cds_1_1CListSessions.html" title="List the current active login sessions in the system. " alt="" coords="296,1979,461,2005"/>
+<area shape="rect" id="node42" href="$d6/dae/classpx_1_1cds_1_1CLogin.html" title="Log a human user in to the CDS with a username and password. " alt="" coords="319,2029,439,2056"/>
+<area shape="rect" id="node43" href="$d4/de9/classpx_1_1cds_1_1CLogout.html" title="Ends a login session. " alt="" coords="314,2080,443,2107"/>
+<area shape="rect" id="node44" href="$d9/d00/classpx_1_1cds_1_1CManageSubscriberIDs.html" title="This message is used to add and remove subscription IDs. " alt="" coords="266,2131,491,2157"/>
+<area shape="rect" id="node45" href="$d0/d39/classpx_1_1cds_1_1CNotifyCompletion.html" title="Return when previously&#45;queued messages have been processed. " alt="" coords="279,2181,479,2208"/>
+<area shape="rect" id="node46" href="$d9/d9c/classpx_1_1cds_1_1CPingWatchdog.html" title="Notifies the CDS that the client is still alive. " alt="" coords="290,2232,467,2259"/>
+<area shape="rect" id="node47" href="$d6/dee/classpx_1_1cds_1_1CQueryTrends.html" title="Return data from channel trend storage. " alt="" coords="295,2283,462,2309"/>
+<area shape="rect" id="node48" href="$da/d8e/classpx_1_1cds_1_1CQuiesceServer.html" title="Puts the CDS into an inactive state for a specified time period. " alt="" coords="289,2333,468,2360"/>
+<area shape="rect" id="node49" href="$db/d07/classpx_1_1cds_1_1CRegisterWatchdog.html" title="Used to request that the CDS reboot the system if this client does not send any messages to the CDS f..." alt="" coords="277,2384,480,2411"/>
+<area shape="rect" id="node50" href="$d4/d55/classpx_1_1cds_1_1CSetAlarmConfig.html" title="Set the alarm configuration for a channel or channels. " alt="" coords="285,2435,472,2461"/>
+<area shape="rect" id="node51" href="$d0/d46/classpx_1_1cds_1_1CSetChannelState.html" title="Change the realtime state of a set of channels. " alt="" coords="282,2485,475,2512"/>
+<area shape="rect" id="node52" href="$dc/d3e/classpx_1_1cds_1_1CSetDeviceCommandResult.html" title="Set a device command/control result after execution. " alt="" coords="269,2537,488,2578"/>
+<area shape="rect" id="node53" href="$d0/db9/classpx_1_1cds_1_1CSetDeviceCommands.html" title="Sets the list of commands supported by a device, nonpersistently. " alt="" coords="266,2603,491,2629"/>
+<area shape="rect" id="node54" href="$d3/db5/classpx_1_1cds_1_1CSetDeviceState.html" title="Change the state of a device or devices. " alt="" coords="286,2653,471,2680"/>
+<area shape="rect" id="node55" href="$d9/db7/classpx_1_1cds_1_1CSetFieldValue.html" title="Set single fields of devices, channels, or commands. " alt="" coords="293,2704,465,2731"/>
+<area shape="rect" id="node56" href="$d4/d55/classpx_1_1cds_1_1CSetOOBData.html" title="Update OOB data items in the CDS. " alt="" coords="295,2755,462,2781"/>
+<area shape="rect" id="node57" href="$db/d4b/classpx_1_1cds_1_1CSetPassword.html" title="Change a user&#39;s password. " alt="" coords="295,2805,462,2832"/>
+<area shape="rect" id="node58" href="$d7/dd6/classpx_1_1cds_1_1CSetUserInfo.html" title="Create or update users. " alt="" coords="298,2856,459,2883"/>
+<area shape="rect" id="node59" href="$d2/d82/classpx_1_1cds_1_1CSetUserPolicy.html" title="Configures global password&#45;management policy, such as expiration and complexity requirements, and maximum allowed concurrent login sessions. " alt="" coords="291,2907,466,2933"/>
+<area shape="rect" id="node60" href="$d9/dda/classpx_1_1cds_1_1CSubscribe.html" title="Manage subscriptions, to get notified when CDS data objects change. " alt="" coords="305,2957,453,2984"/>
+<area shape="rect" id="node61" href="$d7/d07/classpx_1_1cds_1_1CSubscriberNotify.html" title="Sent, unsolicited, from CDS to clients in response to a subscribed event or change, or a login session ending. " alt="" coords="282,3008,475,3035"/>
+<area shape="rect" id="node62" href="$d0/d89/classpx_1_1cds_1_1CSubsessionLogin.html" title="Login a subsession of an existing parent session. " alt="" coords="282,3059,475,3085"/>
+<area shape="rect" id="node63" href="$de/d3c/classpx_1_1cds_1_1CTerminateSessions.html" title="Force login sessions to log out. " alt="" coords="275,3109,482,3136"/>
+<area shape="rect" id="node64" href="$df/d9b/classpx_1_1cds_1_1CUpdateChannelSettings.html" title="Request an update to a channel&#39;s settings. " alt="" coords="259,3160,498,3187"/>
+<area shape="rect" id="node65" href="$db/df2/classpx_1_1cds_1_1CUpdateChannelValue.html" title="Update a set of channels&#39; realtime values. " alt="" coords="268,3211,489,3237"/>
+<area shape="rect" id="node66" href="$db/d63/classpx_1_1cds_1_1CUpdateDevice.html" title="Request an update to a Device object. " alt="" coords="290,3261,467,3288"/>
+<area shape="rect" id="node67" href="$d7/dba/classpx_1_1cds_1_1CUpdateRole.html" title="Create or update a role (which assigns permissions to users). " alt="" coords="299,3312,459,3339"/>
+<area shape="rect" id="node68" href="$de/d74/classpx_1_1cds_1_1CUpdateTrends.html" title="Unimplemented, do not use. " alt="" coords="291,3363,466,3389"/>
+<area shape="rect" id="node69" href="$d0/d37/classpx_1_1cds_1_1CWaveformCaptured.html" title="Used by device handlers to notify CDS of a waveform&#45;capture event. " alt="" coords="273,3413,484,3440"/>
+<area shape="rect" id="node38" href="$dd/d7a/classpx_1_1cds_1_1CImportTrend.html" title="px::cds::CImportTrend" alt="" coords="552,1827,715,1853"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CDevice::get_parent_id" name="CDevice::get_parent_id">
+<area shape="rect" id="node2" href="$dc/deb/classCModbusSerialDevice.html#a2a58768d366aeab524c080238168015f" title="Method to create the device specific handler. " alt="" coords="227,5,405,61"/>
+<area shape="rect" id="node3" href="$dc/deb/classCModbusSerialDevice.html#a7cb1d9d8794da6dc2b95df9eae712522" title="Called from the Data Block to handle a device notification. " alt="" coords="454,13,658,54"/>
+</map>

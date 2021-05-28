@@ -1,0 +1,5 @@
+<map id="CTcpProxy::~CTcpProxy" name="CTcpProxy::~CTcpProxy">
+<area shape="rect" id="node2" href="$d3/db0/classCTcpProxy.html#ad887579937442dfe6961a70e07880923" title="Inherited from px::asio::CIoActor. " alt="" coords="229,45,360,72"/>
+<area shape="rect" id="node3" href="$d3/db0/classCTcpProxy.html#ad431a8ab2e97173a3927fb8ddc6d8354" title="Utility function to close the local socket, and trap any exceptions. " alt="" coords="409,5,577,46"/>
+<area shape="rect" id="node4" href="$d3/db0/classCTcpProxy.html#a6974c94508aa3dd4ac08024d233ecf3c" title="Remove all sessions. " alt="" coords="409,70,578,111"/>
+</map>

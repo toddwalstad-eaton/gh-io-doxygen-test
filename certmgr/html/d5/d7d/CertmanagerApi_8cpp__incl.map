@@ -1,0 +1,17 @@
+<map id="certmgr/libcertmgr/src/CertmanagerApi.cpp" name="certmgr/libcertmgr/src/CertmanagerApi.cpp">
+<area shape="rect" id="node2" href="$d0/d39/CertmanagerApi_8hpp.html" title="Definition of c++ Api for certificate manager. " alt="" coords="1385,96,1540,123"/>
+<area shape="rect" id="node28" href="$dc/d4b/Commands_8hpp.html" title="Class for commands and function to parse and create commands. " alt="" coords="5,171,128,197"/>
+<area shape="rect" id="node29" href="$d3/d52/DaemonConfiguration_8hpp.html" title="Representation of the configuration for the Daemon certificate management (singleton) ..." alt="" coords="71,245,263,272"/>
+<area shape="rect" id="node30" href="$df/d1b/Tools_8hpp.html" title="tools for certificate managment " alt="" coords="1875,96,1957,123"/>
+<area shape="rect" id="node31" href="$de/d52/ReturnCode_8hpp.html" title="Code for the API, certcmd and Daemon. " alt="" coords="3068,96,3193,123"/>
+<area shape="rect" id="node32" href="$df/d56/ServiceConfiguration_8hpp.html" title="Representation of the configuration for a service for certificate managment. " alt="" coords="255,171,440,197"/>
+<area shape="rect" id="node33" href="$d2/ddd/CertificateIdList_8hpp.html" title="Containeur for certificates Id base on c++ std::set. " alt="" coords="668,171,820,197"/>
+<area shape="rect" id="node36" href="$d1/d9a/CertificateIdCnMap_8hpp.html" title="Containeur for certificates Id and certificate common name base on c++ std::map. " alt="" coords="820,96,993,123"/>
+<area shape="rect" id="node37" href="$d5/db4/CertificateInfo_8hpp.html" title="Representation of certificate information in read only. " alt="" coords="895,171,1037,197"/>
+<area shape="rect" id="node40" href="$dd/d34/ExternalCertificatesAccessor_8hpp.html" title="Extrenal Certificate files accessor which help to get the path of an external certificate and his rel..." alt="" coords="255,96,489,123"/>
+<area shape="rect" id="node41" href="$d2/d61/InternalCertificatesAccessor_8hpp.html" title="Internl Certificate files accessor which help to get the path of an internal certificate and his rela..." alt="" coords="514,96,744,123"/>
+<area shape="rect" id="node8" href="$d1/dab/certificate_8hpp.html" title="certificate.hpp" alt="" coords="1500,171,1615,197"/>
+<area shape="rect" id="node13" href="$d1/dfd/OverwrittenData_8hpp.html" title="Accessor for data which can be overwritten by the user for each certificate. " alt="" coords="1215,171,1373,197"/>
+<area shape="rect" id="node14" href="$dc/df8/TypesApi_8hpp.html" title="Types certificate managment. " alt="" coords="1318,245,1425,272"/>
+<area shape="rect" id="node35" href="$d5/d34/Types_8hpp.html" title="Types certificate managment. " alt="" coords="439,245,525,272"/>
+</map>

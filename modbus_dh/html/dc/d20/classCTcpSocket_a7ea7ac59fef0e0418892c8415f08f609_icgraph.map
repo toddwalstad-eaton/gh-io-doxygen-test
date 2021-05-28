@@ -1,0 +1,11 @@
+<map id="CTcpSocket::close" name="CTcpSocket::close">
+<area shape="rect" id="node2" href="$dc/d20/classCTcpSocket.html#a0fdb99b02c88a5618f8979c41b34fb08" title="Destructor. " alt="" coords="192,5,381,32"/>
+<area shape="rect" id="node3" href="$dc/d20/classCTcpSocket.html#ab25f689ad9e4dc016dd644cfb4c2bcea" title="Closes current connection and starts the reconnect timer. " alt="" coords="218,199,355,225"/>
+<area shape="rect" id="node7" href="$dc/d20/classCTcpSocket.html#a6a3846e059bfdb16a5b186892a8d6b23" title="Handler for when the reconnect timer times out. " alt="" coords="1064,219,1259,245"/>
+<area shape="rect" id="node6" href="$dc/d20/classCTcpSocket.html#aaf184fb0e609403f03d41b98c17d5f51" title="Start socket reconnection attempt. " alt="" coords="843,117,1011,144"/>
+<area shape="rect" id="node10" href="$dc/d20/classCTcpSocket.html#ad86f1101af33b56bdf65d6d7e543b043" title="Close the socket and timer. " alt="" coords="211,387,362,413"/>
+<area shape="rect" id="node8" href="$dc/d20/classCTcpSocket.html#a49fd3be68a61c6a94aaef80e3ebd20af" title="Update the socket subnet data. " alt="" coords="852,270,1001,311"/>
+<area shape="rect" id="node4" href="$dc/d20/classCTcpSocket.html#a0223c463d287d33776da4abbd684f838" title="Starts socket connection attempt. " alt="" coords="635,168,789,195"/>
+<area shape="rect" id="node9" href="$dc/d20/classCTcpSocket.html#aafc5304fcaaf7af4f515a8816719af51" title="Error handler if the TCP connection attempt fails. " alt="" coords="429,107,587,149"/>
+<area shape="rect" id="node5" href="$dc/d20/classCTcpSocket.html#a1647013cad20cfa4bc66c264e2ab4f6e" title="Constructor. " alt="" coords="837,168,1016,195"/>
+</map>

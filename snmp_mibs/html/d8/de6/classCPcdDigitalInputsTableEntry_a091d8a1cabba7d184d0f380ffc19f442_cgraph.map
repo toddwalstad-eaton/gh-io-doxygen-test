@@ -1,0 +1,6 @@
+<map id="CPcdDigitalInputsTableEntry::check_add_table_entry" name="CPcdDigitalInputsTableEntry::check_add_table_entry">
+<area shape="rect" id="node2" href="$d3/d1d/classCMmedsNodeTableEntry.html#ad320e3239123dbfa62a595e4af5e414d" title="A static function to compose a row key value from its Primary and Secondary indices. " alt="" coords="295,5,475,46"/>
+<area shape="rect" id="node3" href="$d1/d9d/classCMmedsNode.html#a0f597769aed3c7be068ce2607eabc127" title="Static function to lookup the given table (by its name) in the MIB Mapping EDS data, and also return its base OID. " alt="" coords="303,70,467,111"/>
+<area shape="rect" id="node4" href="$d1/d9d/classCMmedsNode.html#ab99081aedd8e94c4adc38b15d35f092f" title="Factory function to create a CMmedsNode given the Device and MIB Mapping EDS data for one MIB scalar ..." alt="" coords="259,136,511,163"/>
+<area shape="rect" id="node5" href="$d1/d9d/classCMmedsNode.html#ac5fb8573182826ea684201f46f4347c7" title="Simple Constructor for a (potential) node. " alt="" coords="560,136,771,163"/>
+</map>

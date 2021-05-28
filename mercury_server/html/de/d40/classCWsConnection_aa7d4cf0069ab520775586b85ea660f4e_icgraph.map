@@ -1,0 +1,8 @@
+<map id="CWsConnection::on_pong" name="CWsConnection::on_pong">
+<area shape="rect" id="node2" href="$de/d40/classCWsConnection.html#ae0ba717c748c77a87dea543260d2d416" title="Constructor. " alt="" coords="240,45,475,72"/>
+<area shape="rect" id="node3" href="$de/d40/classCWsConnection.html#a61234baa38a021ee7e970e76471e9b6e" title="Factory function. " alt="" coords="523,45,696,72"/>
+<area shape="rect" id="node4" href="$dd/d8f/classCWebsocketListener.html#afb582315e0568c55c0d36dc24b0cf20c" title="Handler for connection open &#45; create CWsConnection to manage it. " alt="" coords="744,5,899,46"/>
+<area shape="rect" id="node6" href="$dd/d8f/classCWebsocketListener.html#a803fe75fbea105204f1888e353e7c33c" title="CWebsocketListener\l::on_ssl_open" alt="" coords="744,70,899,111"/>
+<area shape="rect" id="node5" href="$dd/d8f/classCWebsocketListener.html#a4c3b28da5c0e3e38d845f48b60786fb4" title="Start listening on non&#45;SSL port given. " alt="" coords="947,5,1101,46"/>
+<area shape="rect" id="node7" href="$dd/d8f/classCWebsocketListener.html#a9925d7c6b7ab8563f76a8c0bef305069" title="Start listening on SSL port given, using given context. " alt="" coords="947,70,1101,111"/>
+</map>

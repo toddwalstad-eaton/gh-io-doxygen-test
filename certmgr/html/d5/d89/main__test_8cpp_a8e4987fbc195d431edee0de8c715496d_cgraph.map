@@ -1,0 +1,12 @@
+<map id="BOOST_AUTO_TEST_CASE" name="BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#af0d6b3282ce91cff4d7d5844e1e077ee" title="This is the API to get the singleton object of the class. " alt="" coords="550,288,805,329"/>
+<area shape="rect" id="node3" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#ad05704069d5c219b90067701aad47dc2" title="Returns Certificate manager directory where all certificates to be stored. " alt="" coords="246,59,501,100"/>
+<area shape="rect" id="node4" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#a5f37c1884d32c99482122d1dcdde095c" title="Returns the notification group name. " alt="" coords="246,124,501,165"/>
+<area shape="rect" id="node5" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#ac290558de6b3bb97cf8eded8befd9297" title="Returns Service configuration path where all service conf files are present. " alt="" coords="246,189,501,231"/>
+<area shape="rect" id="node6" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#a5e389ca7988d6927e52a43fdd64a5d0b" title="Returns Min. " alt="" coords="246,255,501,296"/>
+<area shape="rect" id="node7" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#a5495e7bd5d88bac8e72c7906769b6dea" title="This function returns the Name Pipes Directory path where all IPC files for certmanagd are stored..." alt="" coords="246,320,501,361"/>
+<area shape="rect" id="node8" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#a5827ff5ab373d1d1aef5c8b4d9c90400" title="This function returns the Daemon User name for certmanagd service. " alt="" coords="246,385,501,427"/>
+<area shape="rect" id="node9" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#ae6450d5785efe33fa87ea609f3321ca6" title="Returns the scripts directory path where various certmanagd required scripts are stored. " alt="" coords="246,451,501,492"/>
+<area shape="rect" id="node10" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#a5a56eed543edba2c8292a0f700c05dce" title="This returns the Lock file for the certmanagd daemon. " alt="" coords="246,516,501,557"/>
+<area shape="rect" id="node11" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#af90e6581db76c4482d83271a94fff8cd" title="This returns the PID file path for certmanagd daemon. " alt="" coords="246,581,501,623"/>
+</map>

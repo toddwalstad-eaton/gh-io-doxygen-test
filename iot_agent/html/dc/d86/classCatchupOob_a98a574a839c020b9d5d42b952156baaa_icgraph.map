@@ -1,0 +1,7 @@
+<map id="CatchupOob::write_catchup_oob" name="CatchupOob::write_catchup_oob">
+<area shape="rect" id="node2" href="$dc/d86/classCatchupOob.html#a65c9861763e00db2f5892c38286901d1" title="Updates the last_trend_published_time member of the IotCatchup OOB with the latest value..." alt="" coords="286,5,487,46"/>
+<area shape="rect" id="node3" href="$dc/d86/classCatchupOob.html#a1c1b14ae2a725a735d3814cb52956a31" title="Adds a new span for trend catch&#45;up to the IotCatchup OOB, given the starting and ending interval time..." alt="" coords="299,70,474,111"/>
+<area shape="rect" id="node4" href="$dc/d86/classCatchupOob.html#a8c7063dbafbde8e7331c6adc305bdaf4" title="Remove the indicated interval from the trend_catchup_spans, presumably because it has been published ..." alt="" coords="297,135,476,177"/>
+<area shape="rect" id="node5" href="$dc/d86/classCatchupOob.html#a1dd29293c6aa01be82a29fde252d5571" title="Look through the trend_catchup_spans, and see if any entries are older than the allowed catchup inter..." alt="" coords="300,201,473,242"/>
+<area shape="rect" id="node6" href="$dc/d86/classCatchupOob.html#af9f3c16e5dc19d1418cc225d5c0f17bb" title="Gets the timestamp of the next trend interval which should be published for trend catch&#45;up..." alt="" coords="536,201,715,242"/>
+</map>

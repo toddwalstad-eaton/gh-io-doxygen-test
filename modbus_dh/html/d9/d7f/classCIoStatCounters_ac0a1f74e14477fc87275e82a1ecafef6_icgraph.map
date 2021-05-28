@@ -1,0 +1,5 @@
+<map id="CIoStatCounters::reset_counters" name="CIoStatCounters::reset_counters">
+<area shape="rect" id="node2" href="$d1/ddc/classCDeviceIoStats.html#adf7588c3a2aab8f60d61319fba39362b" title="Update the Device&#39;s I/O state based on I/O completion result. " alt="" coords="222,5,397,46"/>
+<area shape="rect" id="node3" href="$d1/ddc/classCDeviceIoStats.html#a541802bcaa24226ad4c9d996393f71b2" title="Resetter for the cumulative error counters. " alt="" coords="228,70,391,111"/>
+<area shape="rect" id="node4" href="$d1/ddc/classCDeviceIoStats.html#aae936d861b0aa2a393e5e4712852f12c" title="Resetter for the total cumulative error counters. " alt="" coords="228,135,391,177"/>
+</map>

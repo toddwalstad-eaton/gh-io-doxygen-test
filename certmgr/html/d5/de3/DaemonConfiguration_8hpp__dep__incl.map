@@ -1,0 +1,25 @@
+<map id="certmgr/common/inc/DaemonConfiguration.hpp" name="certmgr/common/inc/DaemonConfiguration.hpp">
+<area shape="rect" id="node2" href="$d8/d3a/Service_8hpp.html" title="Representation of a service for certificate managment. " alt="" coords="428,459,583,501"/>
+<area shape="rect" id="node3" href="$d3/d3b/certmanagd_8cpp.html" title="certmgr/certmanagd\l/src/certmanagd.cpp" alt="" coords="29,550,184,591"/>
+<area shape="rect" id="node5" href="$d4/d3d/NetworkConfiguration_8cpp.html" title="certmgr/certmanagd\l/src/NetworkConfiguration.cpp" alt="" coords="1743,97,1961,138"/>
+<area shape="rect" id="node6" href="$df/d56/ServiceConfiguration_8hpp.html" title="Representation of the configuration for a service for certificate managment. " alt="" coords="939,97,1128,138"/>
+<area shape="rect" id="node24" href="$df/de2/DaemonConfiguration_8cpp.html" title="certmgr/common/src\l/DaemonConfiguration.cpp" alt="" coords="1985,97,2180,138"/>
+<area shape="rect" id="node19" href="$d3/d54/CertmanagerApi_8cpp.html" title="certmgr/libcertmgr\l/src/CertmanagerApi.cpp" alt="" coords="606,278,788,319"/>
+<area shape="rect" id="node20" href="$d5/d89/main__test_8cpp.html" title="certmgr/test/main_test.cpp" alt="" coords="1606,285,1804,312"/>
+<area shape="rect" id="node4" href="$d2/dc4/Service_8cpp.html" title="certmgr/certmanagd\l/src/Service.cpp" alt="" coords="428,550,583,591"/>
+<area shape="rect" id="node7" href="$d2/d6b/ExternalCertificatesStorage_8hpp.html" title="Representation of storage for external certificates. " alt="" coords="1327,278,1581,319"/>
+<area shape="rect" id="node8" href="$df/d43/CertificateAuthority_8hpp.html" title="CA representation for certificate managment daemon. " alt="" coords="144,369,347,410"/>
+<area shape="rect" id="node13" href="$db/dcd/NetworkInfo_8hpp.html" title="Representation of the configuration of the network configuration for a certificate. " alt="" coords="368,187,525,229"/>
+<area shape="rect" id="node14" href="$de/d3d/Server_8hpp.html" title="Server representation for certificate managment. " alt="" coords="427,278,581,319"/>
+<area shape="rect" id="node10" href="$da/d48/TrustedCertificate_8hpp.html" title="CA representation for certificate managment daemon. " alt="" coords="1859,369,2049,410"/>
+<area shape="rect" id="node17" href="$dd/d34/ExternalCertificatesAccessor_8hpp.html" title="Extrenal Certificate files accessor which help to get the path of an external certificate and his rel..." alt="" coords="1045,187,1283,229"/>
+<area shape="rect" id="node21" href="$d2/d61/InternalCertificatesAccessor_8hpp.html" title="Internl Certificate files accessor which help to get the path of an internal certificate and his rela..." alt="" coords="785,187,1020,229"/>
+<area shape="rect" id="node23" href="$d4/d3c/ServiceConfiguration_8cpp.html" title="certmgr/common/src\l/ServiceConfiguration.cpp" alt="" coords="1307,187,1495,229"/>
+<area shape="rect" id="node12" href="$de/d4d/ExternalCertificateStorage_8cpp.html" title="certmgr/certmanagd\l/src/ExternalCertificateStorage.cpp" alt="" coords="1331,369,1577,410"/>
+<area shape="rect" id="node9" href="$d8/d1d/CertificateAuthority_8cpp.html" title="certmgr/certmanagd\l/src/CertificateAuthority.cpp" alt="" coords="145,459,345,501"/>
+<area shape="rect" id="node11" href="$d2/d1a/TrustedCertificate_8cpp.html" title="certmgr/certmanagd\l/src/TrustedCertificate.cpp" alt="" coords="1859,459,2049,501"/>
+<area shape="rect" id="node16" href="$dc/dcb/NetworkInfo_8cpp.html" title="certmgr/certmanagd\l/src/NetworkInfo.cpp" alt="" coords="195,278,351,319"/>
+<area shape="rect" id="node15" href="$db/dd9/Server_8cpp.html" title="certmgr/certmanagd\l/src/Server.cpp" alt="" coords="371,369,525,410"/>
+<area shape="rect" id="node18" href="$dd/d6f/ExternalCertificateAccessor_8cpp.html" title="certmgr/common/src\l/ExternalCertificateAccessor.cpp" alt="" coords="1073,278,1303,319"/>
+<area shape="rect" id="node22" href="$df/d38/InternalCertificatesAccessor_8cpp.html" title="certmgr/common/src\l/InternalCertificatesAccessor.cpp" alt="" coords="813,278,1048,319"/>
+</map>

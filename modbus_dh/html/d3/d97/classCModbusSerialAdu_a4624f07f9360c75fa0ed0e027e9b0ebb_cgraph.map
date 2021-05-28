@@ -1,0 +1,6 @@
+<map id="CModbusSerialAdu::parse_unknown_size" name="CModbusSerialAdu::parse_unknown_size">
+<area shape="rect" id="node2" href="$d8/da9/modbus__serial__adu_8cpp.html#a3866bf45cfc18c1f38b92d7d00628faf" title="decode_ADU_size" alt="" coords="279,5,417,32"/>
+<area shape="rect" id="node3" href="$d8/d59/classCModbusSerialCrc.html#a83624e241d2fd5a28b4943ca4b79a963" title="Calculate a CRC for a Modbus serial message. " alt="" coords="245,56,451,83"/>
+<area shape="rect" id="node5" href="$d2/dcc/classCModbusPdu.html#a8a0c106c0f1cf2834ccdbfce94ca5e37" title="Try to parse the given Modbus request or response PDU, when we don&#39;t know how to handle the Modbus Fu..." alt="" coords="241,107,455,149"/>
+<area shape="rect" id="node4" href="$d8/d59/classCModbusSerialCrc.html#a00f6cd1baa59aa23bf243c51b81b23ed" title="Function to compute a CRC value, one character at a time. " alt="" coords="504,56,709,83"/>
+</map>

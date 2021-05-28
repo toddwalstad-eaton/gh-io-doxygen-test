@@ -1,0 +1,6 @@
+<map id="CAuthManager::canUpdateUser" name="CAuthManager::canUpdateUser">
+<area shape="rect" id="node2" href="$classCAuthManager.html#afc45cf6615e81315229a29e4715daab9" title="Set a user&#39;s information, creating it if necessary. " alt="" coords="281,31,482,57"/>
+<area shape="rect" id="node5" href="$classCAuthManager.html#a5287651404fc92dfdd61a9e2f56b2bf2" title="Delete a user. " alt="" coords="282,81,481,108"/>
+<area shape="rect" id="node3" href="$classCAuthManager.html#aa17ee9691f3b4d97f8367eca32e53e6d" title="Delete a role. " alt="" coords="533,5,729,32"/>
+<area shape="rect" id="node4" href="$classCAuthManager.html#a4f8d2b7f588abd875d78c6aad537833a" title="Update or create a role. " alt="" coords="531,56,731,83"/>
+</map>

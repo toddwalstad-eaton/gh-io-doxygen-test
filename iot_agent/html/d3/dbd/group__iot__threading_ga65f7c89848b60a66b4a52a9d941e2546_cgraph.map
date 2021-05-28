@@ -1,0 +1,10 @@
+<map id="CNetDiag::launch_net_diagnostics" name="CNetDiag::launch_net_diagnostics">
+<area shape="rect" id="node2" href="$da/d95/classCNetDiag.html#a3e5a05033292d428ee7f99a80c5a48ca" title="Protected Member Functions Using Protected instead of Private to permit unit test access..." alt="" coords="217,99,365,141"/>
+<area shape="rect" id="node3" href="$da/d95/classCNetDiag.html#ac1fbe9c7a71248208d53e73135ae81ed" title="Test DNS lookup, and store the resolved IP addresses for the target, proxy, and www.eaton.com. " alt="" coords="421,5,568,32"/>
+<area shape="rect" id="node4" href="$da/d95/classCNetDiag.html#a4563e04e6657c0202af3e57551cad688" title="Test proxy, and connecting to www.eaton.com/robots.txt via the proxy. " alt="" coords="414,157,575,184"/>
+<area shape="rect" id="node7" href="$da/d95/classCNetDiag.html#acf6a1f28821ef0e34cf1fe915a5d8be7" title="Test Internet connectivity (directly to www.eaton.com, ports 80 and 443). " alt="" coords="420,56,569,83"/>
+<area shape="rect" id="node8" href="$da/d95/classCNetDiag.html#aa2c7ba59accaf7315ed572d0b321065b" title="Test connectivity to the configured host endpoint. " alt="" coords="419,107,571,133"/>
+<area shape="rect" id="node9" href="$da/d95/classCNetDiag.html#ac5b5be54c4c74f6cea5505c72b050f44" title="Test the configured host endpoint responds. " alt="" coords="419,208,571,235"/>
+<area shape="rect" id="node5" href="$da/d95/classCNetDiag.html#aa5d4dafd0835af7be4a783717075bd54" title="Try a TCP connection to the specified numeric address and port. " alt="" coords="631,99,769,125"/>
+<area shape="rect" id="node6" href="$da/d95/classCNetDiag.html#a64f87342fba0950929e4006bbca858ca" title="Try to get the given URL and file, and see if the expected response is returned. " alt="" coords="625,150,775,191"/>
+</map>

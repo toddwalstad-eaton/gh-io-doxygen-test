@@ -1,0 +1,39 @@
+<map id="parameter_info.hpp" name="parameter_info.hpp">
+<area shape="rect" id="node2" href="$d5/d91/device__command_8hpp.html" title="device_command.hpp" alt="" coords="492,80,657,107"/>
+<area shape="rect" id="node38" href="$d9/dba/parameter__info_8cpp.html" title="parameter_info.cpp" alt="" coords="681,80,831,107"/>
+<area shape="rect" id="node3" href="$d0/d3f/execute__device__command_8hpp.html" title="execute_device_command.hpp" alt="" coords="5,163,229,189"/>
+<area shape="rect" id="node15" href="$d2/dd7/get__device__command__result_8hpp.html" title="get_device_command\l_result.hpp" alt="" coords="253,155,419,197"/>
+<area shape="rect" id="node16" href="$d3/ddd/get__device__commands_8hpp.html" title="get_device_commands.hpp" alt="" coords="205,253,405,280"/>
+<area shape="rect" id="node17" href="$d1/ddd/set__device__command__result_8hpp.html" title="set_device_command\l_result.hpp" alt="" coords="430,246,593,287"/>
+<area shape="rect" id="node18" href="$dc/ddb/set__device__commands_8hpp.html" title="set_device_commands.hpp" alt="" coords="545,163,743,189"/>
+<area shape="rect" id="node19" href="$d8/df9/subscriber__notify_8hpp.html" title="subscriber_notify.hpp" alt="" coords="560,336,720,363"/>
+<area shape="rect" id="node20" href="$d5/d08/device_8hpp.html" title="device.hpp" alt="" coords="1420,253,1513,280"/>
+<area shape="rect" id="node37" href="$d5/d5b/device__command_8cpp.html" title="device_command.cpp" alt="" coords="870,163,1033,189"/>
+<area shape="rect" id="node4" href="$d9/d5e/cds__api__objects_8hpp.html" title="Include all definitions of CDS API object types. " alt="" coords="446,411,599,437"/>
+<area shape="rect" id="node6" href="$da/ddd/cds__types_8hpp.html" title="Define a set of typedefs for the CDS protobuf messages that provide terser labeling of these commonly..." alt="" coords="1059,253,1173,280"/>
+<area shape="rect" id="node5" href="$de/d18/packer_8cpp.html" title="packer.cpp" alt="" coords="477,485,568,512"/>
+<area shape="rect" id="node7" href="$df/d9c/cds__handler_8hpp.html" title="cds_handler.hpp" alt="" coords="1199,411,1325,437"/>
+<area shape="rect" id="node13" href="$d7/dc6/cds__sync__io_8hpp.html" title="cds_sync_io.hpp" alt="" coords="1276,336,1404,363"/>
+<area shape="rect" id="node8" href="$d2/d46/test__utils_8hpp.html" title="test_utils.hpp" alt="" coords="990,485,1100,512"/>
+<area shape="rect" id="node9" href="$db/d1a/cds__connection_8cpp.html" title="cds_connection.cpp" alt="" coords="1125,485,1275,512"/>
+<area shape="rect" id="node10" href="$dc/d45/cds__connection__callback_8cpp.html" title="cds_connection_callback.cpp" alt="" coords="1299,485,1509,512"/>
+<area shape="rect" id="node11" href="$db/db1/cds__handler_8cpp.html" title="cds_handler.cpp" alt="" coords="753,485,879,512"/>
+<area shape="rect" id="node12" href="$d3/daa/io__manager_8cpp.html" title="io_manager.cpp" alt="" coords="1533,485,1659,512"/>
+<area shape="rect" id="node14" href="$db/d78/cds__sync__io_8cpp.html" title="cds_sync_io.cpp" alt="" coords="879,411,1005,437"/>
+<area shape="rect" id="node21" href="$d8/da3/cds__device_8hpp.html" title="cds_device.hpp" alt="" coords="1529,336,1652,363"/>
+<area shape="rect" id="node23" href="$d4/db0/create__device_8hpp.html" title="create_device.hpp" alt="" coords="744,336,885,363"/>
+<area shape="rect" id="node25" href="$dc/dc8/get__device_8hpp.html" title="get_device.hpp" alt="" coords="910,336,1031,363"/>
+<area shape="rect" id="node26" href="$d9/d8b/update__device_8hpp.html" title="update_device.hpp" alt="" coords="1055,336,1200,363"/>
+<area shape="rect" id="node27" href="$d6/dca/adapter_8hpp.html" title="adapter.hpp" alt="" coords="1808,336,1907,363"/>
+<area shape="rect" id="node33" href="$d9/d61/device__string_8hpp.html" title="device_string.hpp" alt="" coords="2219,336,2356,363"/>
+<area shape="rect" id="node24" href="$d6/d86/perf____requests_8cpp.html" title="perf__requests.cpp" alt="" coords="1030,411,1175,437"/>
+<area shape="rect" id="node34" href="$d3/dd4/device_8cpp.html" title="device.cpp" alt="" coords="2350,411,2441,437"/>
+<area shape="rect" id="node36" href="$d1/d8f/perf____device_8cpp.html" title="perf__device.cpp" alt="" coords="2381,336,2512,363"/>
+<area shape="rect" id="node31" href="$d2/d2f/perf____adapter_8cpp.html" title="perf__adapter.cpp" alt="" coords="2187,411,2325,437"/>
+<area shape="rect" id="node22" href="$de/d91/cds__device_8cpp.html" title="cds_device.cpp" alt="" coords="1350,411,1471,437"/>
+<area shape="rect" id="node28" href="$db/dde/trend__accumulator_8cpp.html" title="trend_accumulator.cpp" alt="" coords="1496,411,1667,437"/>
+<area shape="rect" id="node29" href="$d9/d98/value__accumulator_8cpp.html" title="value_accumulator.cpp" alt="" coords="1691,411,1863,437"/>
+<area shape="rect" id="node30" href="$d7/d3d/adapter_8cpp.html" title="adapter.cpp" alt="" coords="1888,411,1987,437"/>
+<area shape="rect" id="node32" href="$d0/d1f/minutes__trigger_8cpp.html" title="minutes_trigger.cpp" alt="" coords="2011,411,2161,437"/>
+<area shape="rect" id="node35" href="$d4/d35/device__string_8cpp.html" title="device_string.cpp" alt="" coords="2467,411,2603,437"/>
+</map>

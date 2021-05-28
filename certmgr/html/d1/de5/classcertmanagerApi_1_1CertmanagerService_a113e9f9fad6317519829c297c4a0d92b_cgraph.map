@@ -1,0 +1,5 @@
+<map id="certmanagerApi::CertmanagerService::notifyTime" name="certmanagerApi::CertmanagerService::notifyTime">
+<area shape="rect" id="node2" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#af5e524c70f9e96db535d6920dc848ec7" title="Send notification for network or time changed. " alt="" coords="272,5,491,46"/>
+<area shape="rect" id="node3" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#a5495e7bd5d88bac8e72c7906769b6dea" title="This function returns the Name Pipes Directory path where all IPC files for certmanagd are stored..." alt="" coords="539,5,794,46"/>
+<area shape="rect" id="node4" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#af0d6b3282ce91cff4d7d5844e1e077ee" title="This is the API to get the singleton object of the class. " alt="" coords="843,5,1098,46"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="releaseIotMessage" name="releaseIotMessage">
+<area shape="rect" id="node2" href="$d6/d10/iot__device__common_8c.html#a1a01656d15dc77a04e64c9c07c88d3a3" title="Creates an IoT Hub message, either by allocating memory for it (PX Red) or choosing the next availabl..." alt="" coords="255,5,375,32"/>
+<area shape="rect" id="node6" href="$d6/d10/iot__device__common_8c.html#a5fdec127fb171c12b0dd032f12914fb0" title="Creates an IoT Hub message by allocating memory for it, and copying in the serialized message content..." alt="" coords="229,123,400,149"/>
+<area shape="rect" id="node8" href="$d6/d10/iot__device__common_8c.html#a22b51caecdf56b82c3674ece92a40e88" title="Callback routine to process confirmation (or failure) of an outbound message (sent Device&#45;to&#45;Cloud)..." alt="" coords="197,57,432,98"/>
+<area shape="rect" id="node3" href="$d5/da4/group__message__handling__apis.html#ga3dfe3ae25533f7be0e6ccd18dbd2326a" title="Sends data to IoT Hub (i.e. " alt="" coords="533,63,611,89"/>
+<area shape="rect" id="node4" href="$d5/da4/group__message__handling__apis.html#gaf6c31012b13805b13765d8b4fe82f526" title="Sends a command to IoT Hub (i.e. " alt="" coords="500,8,644,35"/>
+<area shape="rect" id="node5" href="$d5/da4/group__message__handling__apis.html#gaa4f2b5d3bb5def4020d6b3e3f19003ec" title="Sends a device command status update to IoT Hub. " alt="" coords="713,8,957,35"/>
+<area shape="rect" id="node7" href="$d5/da4/group__message__handling__apis.html#ga6c02a1a3859f49453ecf83a12a503cdb" title="Sends a custom message to the IoT Hub (i.e., one created by the product). " alt="" coords="480,119,664,145"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CSyntheticChannels::set_channel_values" name="CSyntheticChannels::set_channel_values">
+<area shape="rect" id="node2" href="$d4/d5b/classCSyntheticChannels.html#adcf8a8d8793d1789bc335fbfbf75b03f" title="Initialize the channels by setting them into the CDS (if they don&#39;t already exist) or reading out the..." alt="" coords="229,5,381,46"/>
+<area shape="rect" id="node4" href="$d4/d5b/classCSyntheticChannels.html#a041dff6af66cce44ea54e213baa62066" title="Called once per sample interval to update all the channel data. " alt="" coords="214,70,397,111"/>
+<area shape="rect" id="node3" href="$d5/d01/classCBbbAdcDhCore.html#a4033ba59c52adc587271a10885f4a5e2" title="Do any setup necessary before the main loop is started. " alt="" coords="453,12,627,39"/>
+<area shape="rect" id="node5" href="$d5/d01/classCBbbAdcDhCore.html#ae9d6a10609b3fa913c7321b67f01c5b5" title="Run the program&#39;s main loop. " alt="" coords="446,77,634,104"/>
+</map>

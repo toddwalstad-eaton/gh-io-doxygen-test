@@ -1,0 +1,11 @@
+<map id="CModbusSerialAdu::parse" name="CModbusSerialAdu::parse">
+<area shape="rect" id="node2" href="$d3/d97/classCModbusSerialAdu.html#a4624f07f9360c75fa0ed0e027e9b0ebb" title="Parse the received bytes when we don&#39;t know the expected size of the response. " alt="" coords="240,57,427,98"/>
+<area shape="rect" id="node4" href="$d8/d59/classCModbusSerialCrc.html#a83624e241d2fd5a28b4943ca4b79a963" title="Calculate a CRC for a Modbus serial message. " alt="" coords="479,123,686,149"/>
+<area shape="rect" id="node7" href="$d8/d59/classCModbusSerialCrc.html#ab935baa35586a5271d1dbd0254cc15e8" title="Try to parse the given buffer. " alt="" coords="242,173,425,200"/>
+<area shape="rect" id="node9" href="$d2/dcc/classCModbusPdu.html#accb0589c8ee388ccad47557dfc4c311e" title="Try to parse the given buffer. " alt="" coords="259,224,408,251"/>
+<area shape="rect" id="node10" href="$d2/dcc/classCModbusPdu.html#aee7c0662bc399a696f647b8d53e36e10" title="CModbusPdu::length" alt="" coords="256,275,411,301"/>
+<area shape="rect" id="node3" href="$d8/da9/modbus__serial__adu_8cpp.html#a3866bf45cfc18c1f38b92d7d00628faf" title="decode_ADU_size" alt="" coords="513,5,652,32"/>
+<area shape="rect" id="node6" href="$d2/dcc/classCModbusPdu.html#a8a0c106c0f1cf2834ccdbfce94ca5e37" title="Try to parse the given Modbus request or response PDU, when we don&#39;t know how to handle the Modbus Fu..." alt="" coords="475,57,690,98"/>
+<area shape="rect" id="node5" href="$d8/d59/classCModbusSerialCrc.html#a00f6cd1baa59aa23bf243c51b81b23ed" title="Function to compute a CRC value, one character at a time. " alt="" coords="739,123,944,149"/>
+<area shape="rect" id="node8" href="$db/daf/classCModbusUtil.html#a981c5d88e362d1a02d9d72194db997d3" title="Read a 16&#45;bit LSB unsigned integer value from an input buffer. " alt="" coords="483,173,682,200"/>
+</map>

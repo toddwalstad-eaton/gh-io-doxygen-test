@@ -1,0 +1,5 @@
+<map id="px::asio::CTcpListener::ssl_accept" name="px::asio::CTcpListener::ssl_accept">
+<area shape="rect" id="node2" href="$d1/d8e/classpx_1_1asio_1_1CTcpSslConnection.html#a18d9ff29e8f055a7f840418a4bfb34e4" title="Factory function to create a new CTcpSslConnection object. " alt="" coords="216,5,419,46"/>
+<area shape="rect" id="node3" href="$d4/d0f/classpx_1_1asio_1_1CTcpListener.html#ae2b455ee2a76b1dae236b493bd9c70a3" title="Callback function for Boost.Asio upon accepting a new ssl connection. " alt="" coords="236,70,399,111"/>
+<area shape="rect" id="node4" href="$d6/d32/classpx_1_1asio_1_1CIoManager.html#a46653fc723a57edb4ab58cd80f5d6ee8" title="Add an I/O actor to be tracked and managed. " alt="" coords="467,77,658,104"/>
+</map>

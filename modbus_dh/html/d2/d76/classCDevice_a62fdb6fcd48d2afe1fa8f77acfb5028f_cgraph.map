@@ -1,0 +1,28 @@
+<map id="CDevice::initialize_channel" name="CDevice::initialize_channel">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#ac1a46c54704c845a0c069a7097c57e11" title="Getter to lookup a Channel by its canonical name and get its instance. " alt="" coords="212,5,399,32"/>
+<area shape="rect" id="node3" href="$df/d2c/classCParam.html#a80ed5610f4c057d10ee83a6348182576" title="Getter for this parameter&#39;s ID. " alt="" coords="259,56,351,83"/>
+<area shape="rect" id="node4" href="$d2/d76/classCDevice.html#a7bac9342b21926e4b5b3bde2ac64157c" title="Gets the ID of this Device, for the IDataBlockObserver interface. " alt="" coords="242,107,369,133"/>
+<area shape="rect" id="node5" href="$d4/dab/classCChannel.html#a952e922506ddc4df5f3826af7bd972ed" title="Copy EDS param override settings to channel settings object. " alt="" coords="210,157,401,184"/>
+<area shape="rect" id="node6" href="$d6/d13/classCChannelService.html#a8387648386890119e5dcdef32650c2a0" title="Update Channel Settings Stores updated channel settings on the CDS. " alt="" coords="213,209,398,250"/>
+<area shape="rect" id="node7" href="$d2/d76/classCDevice.html#a0057f31cbcd44999aa2ce06fc308016f" title="Getter for the display name of this device. " alt="" coords="195,275,416,301"/>
+<area shape="rect" id="node8" href="$d2/d76/classCDevice.html#a0e5b0994e943728e63a41cbd76fc2933" title="Getter for the formatted address of this device. " alt="" coords="217,326,394,367"/>
+<area shape="rect" id="node9" href="$d4/dab/classCChannel.html#a3149c9e47836222d82b3f3d4675922c0" title="RE&#45;Initialize this Channel, which is already in the CDS, from its EDS information. " alt="" coords="225,494,386,535"/>
+<area shape="rect" id="node23" href="$d8/dc8/classCIdAllocator.html#a0400d8deb5703217316fe605cd1a1657" title="Allocate a new internal unique ID. " alt="" coords="927,443,1057,469"/>
+<area shape="rect" id="node24" href="$d2/d76/classCDevice.html#a00db0b9b8856f2c7bdec8317f0e901d2" title="Create a placeholder px::CValue given the type from the EDS. " alt="" coords="201,559,409,601"/>
+<area shape="rect" id="node16" href="$d2/d76/classCDevice.html#ab231a1465890affb24529dfe50f6a441" title="Get the parent Port and Device ID tag string (eg, &quot;(p2:d64)&quot; ) for this Device. " alt="" coords="1360,417,1544,444"/>
+<area shape="rect" id="node25" href="$d2/d76/classCDevice.html#a6344b484b5fe2916bcd18df712b923d1" title="Getter for device ID. " alt="" coords="257,625,353,652"/>
+<area shape="rect" id="node26" href="$df/d2c/classCParam.html#adf6571e6042a3733839749389e0b3a80" title="Getter for this Parameter&#39;s state. " alt="" coords="235,676,376,703"/>
+<area shape="rect" id="node27" href="$d5/df0/structeds__parse__err.html#ae7895a7c942bf2450a2670c642407dca" title="Implement the virtual function to provide the error&#39;s text. " alt="" coords="229,727,382,753"/>
+<area shape="rect" id="node10" href="$df/d2c/classCParam.html#a70eedd125648b936b6036167ffad5fd9" title="Initialize the equation or direct xBlock transform for this parameter. " alt="" coords="464,621,600,662"/>
+<area shape="rect" id="node11" href="$df/d2c/classCParam.html#aa6c992a9a63536070ca1f1a225b1d183" title="Determine from equation identifiers if we have a simple xBlock expression. " alt="" coords="659,779,851,805"/>
+<area shape="rect" id="node12" href="$df/d2c/classCParam.html#a88e3a472c48440c1213e7c40ec52184d" title="CParam::initialize\l_simple_xblock" alt="" coords="687,586,823,627"/>
+<area shape="rect" id="node18" href="$d2/d76/classCDevice.html#a5e083835cb8c682687a4c693f76650ee" title="Tells us if this is a subdevice, and can return its instance number. " alt="" coords="1368,623,1536,649"/>
+<area shape="rect" id="node21" href="$df/d2c/classCParam.html#aba6f5e118117f292247f40914b0f1ada" title="Determine from equation identifiers if we have an indexed xBlock expression, and substitute for it..." alt="" coords="679,713,830,754"/>
+<area shape="rect" id="node22" href="$d2/d76/classCDevice.html#a8bfd7e73284c3aad1c51fc3a393e59d8" title="Register conditional variable that we need to evaluate conditional (dependency) equations. " alt="" coords="648,503,861,545"/>
+<area shape="rect" id="node13" href="$df/d2c/classCParam.html#acc84df2e41c78a746f93c219d7653854" title="Parse the data block information from the expression. " alt="" coords="916,494,1068,535"/>
+<area shape="rect" id="node19" href="$df/d2c/classCParam.html#a92cd36f8d97a3a13fc0bc16d2e3faca6" title="Setter for the CDS data type of this Parameter. " alt="" coords="909,560,1075,587"/>
+<area shape="rect" id="node20" href="$df/d2c/classCParam.html#a1bf337c3a79d12ad63c5f3f242553e72" title="Add one Source CNode to this Parameter&#39;s map of Sources. " alt="" coords="915,611,1069,637"/>
+<area shape="rect" id="node14" href="$df/d2c/classCParam.html#af2afa9599bc58b2b650e78270469f037" title="Parse the numeric value or range inside the brackets. " alt="" coords="1126,494,1309,535"/>
+<area shape="rect" id="node15" href="$d2/d76/classCDevice.html#a1d10d2d6c59281c8d482206838643681" title="Do a reverse lookup of an xBlock, given its name. " alt="" coords="1123,443,1312,469"/>
+<area shape="rect" id="node17" href="$d2/d76/classCDevice.html#abea6f7065a039b545669d96f00247929" title="Do a reverse lookup of an xBlock, given its name. " alt="" coords="1139,577,1295,618"/>
+</map>

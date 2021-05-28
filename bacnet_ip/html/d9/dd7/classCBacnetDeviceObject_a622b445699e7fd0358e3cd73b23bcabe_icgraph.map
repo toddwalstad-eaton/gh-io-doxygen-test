@@ -1,0 +1,13 @@
+<map id="CBacnetDeviceObject::LookupBacObject" name="CBacnetDeviceObject::LookupBacObject">
+<area shape="rect" id="node2" href="$d9/dd7/classCBacnetDeviceObject.html#a165ee01c98006baf5359792239bcc905" title="Looks for the instance of a (supported) Object Type and Instance. " alt="" coords="243,5,405,46"/>
+<area shape="rect" id="node3" href="$da/d44/group__bac__obj__interface.html#ga5face75a3cab23a3387d9a2faf11d713" title="Determine if we have an object of this type and instance number. " alt="" coords="237,71,411,97"/>
+<area shape="rect" id="node4" href="$da/d44/group__bac__obj__interface.html#gaadb324a10206a1636760e8ebb02acacb" title="Determine if we have an object with the given object_name. " alt="" coords="223,121,425,148"/>
+<area shape="rect" id="node5" href="$da/d44/group__bac__obj__interface.html#gad05ce74412f922ef288487c9db91b643" title="Looks up the requested Object and Property, and encodes its Value in an APDU. " alt="" coords="240,172,408,199"/>
+<area shape="rect" id="node7" href="$da/d44/group__bac__obj__interface.html#ga2fb009d583358b1ef48ef4622ffa723f" title="For a given object type, returns the special property list. " alt="" coords="217,223,431,249"/>
+<area shape="rect" id="node8" href="$da/d44/group__bac__obj__interface.html#gaa07e7bea99141696fdc529255f38cf61" title="Attempts to write a new value to one property for this object type of a given instance. " alt="" coords="239,273,409,300"/>
+<area shape="rect" id="node9" href="$da/d44/group__bac__obj__interface.html#ga3be53b8b938ebcb68c6be8d393cf964d" title="Copy a child object&#39;s object_name value, given its ID. " alt="" coords="223,324,425,351"/>
+<area shape="rect" id="node10" href="$da/d44/group__bac__obj__interface.html#gaa50f50012701060a8832ff64ecc72ec3" title="Looks up the requested Object in the &quot;current&quot; device, and fills the Property Value list with the pre..." alt="" coords="227,375,421,401"/>
+<area shape="rect" id="node11" href="$da/d44/group__bac__obj__interface.html#gaf1eaed940e57e8d7645da89887f22a3a" title="Looks up the requested Object type to see if the COV functionality is supported for this type..." alt="" coords="217,425,431,452"/>
+<area shape="rect" id="node12" href="$da/d44/group__bac__obj__interface.html#ga5b3db9c05393e4a626550d32fe9c906c" title="Checks the COV flag (for update needed) in the requested Object of the &quot;current&quot; device. " alt="" coords="273,476,375,503"/>
+<area shape="rect" id="node6" href="$da/d44/group__bac__obj__interface.html#ga847a8623766bd9cf2faf3dcfb80e8428" title="Looks up the requested &quot;local&quot; Device and Property, and encodes its Value in an APDU. " alt="" coords="480,165,648,206"/>
+</map>

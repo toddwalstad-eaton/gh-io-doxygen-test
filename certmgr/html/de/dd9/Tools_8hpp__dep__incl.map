@@ -1,0 +1,32 @@
+<map id="certmgr/common/inc/Tools.hpp" name="certmgr/common/inc/Tools.hpp">
+<area shape="rect" id="node2" href="$d9/d42/certcmd_8cpp.html" title="certcmd/src/certcmd.cpp" alt="" coords="5,111,187,137"/>
+<area shape="rect" id="node3" href="$d5/dd6/CertmanagerDaemonException_8hpp.html" title="Exceptions for daemon. " alt="" coords="1019,103,1300,145"/>
+<area shape="rect" id="node10" href="$d3/db5/BinaryServiceCallbacks_8cpp.html" title="certmgr/certmanagd\l/src/BinaryServiceCallbacks.cpp" alt="" coords="263,103,492,145"/>
+<area shape="rect" id="node11" href="$d2/d0c/CertificateInfoStorage_8cpp.html" title="certmgr/certmanagd\l/src/CertificateInfoStorage.cpp" alt="" coords="516,103,735,145"/>
+<area shape="rect" id="node5" href="$d3/d3b/certmanagd_8cpp.html" title="certmgr/certmanagd\l/src/certmanagd.cpp" alt="" coords="968,291,1123,333"/>
+<area shape="rect" id="node12" href="$d1/d3c/CnfConfiguration_8cpp.html" title="certmgr/certmanagd\l/src/CnfConfiguration.cpp" alt="" coords="810,103,995,145"/>
+<area shape="rect" id="node7" href="$d5/d6a/CnfFileConfiguration_8cpp.html" title="certmgr/certmanagd\l/src/CnfFileConfiguration.cpp" alt="" coords="734,201,940,242"/>
+<area shape="rect" id="node13" href="$d9/dd8/CnfHookConfiguration_8cpp.html" title="certmgr/certmanagd\l/src/CnfHookConfiguration.cpp" alt="" coords="1325,103,1544,145"/>
+<area shape="rect" id="node14" href="$d1/d29/Common_8cpp.html" title="certmgr/certmanagd\l/src/Common.cpp" alt="" coords="1568,103,1723,145"/>
+<area shape="rect" id="node8" href="$de/d4d/ExternalCertificateStorage_8cpp.html" title="certmgr/certmanagd\l/src/ExternalCertificateStorage.cpp" alt="" coords="1474,201,1720,242"/>
+<area shape="rect" id="node15" href="$df/d3b/LibraryWrapperServiceCallbacks_8cpp.html" title="certmgr/certmanagd\l/src/LibraryWrapperService\lCallbacks.cpp" alt="" coords="1798,96,1993,152"/>
+<area shape="rect" id="node16" href="$d4/d88/Log_8cpp.html" title="certmgr/certmanagd\l/src/Log.cpp" alt="" coords="2019,103,2173,145"/>
+<area shape="rect" id="node17" href="$d4/d3d/NetworkConfiguration_8cpp.html" title="certmgr/certmanagd\l/src/NetworkConfiguration.cpp" alt="" coords="2197,103,2416,145"/>
+<area shape="rect" id="node18" href="$dc/dcb/NetworkInfo_8cpp.html" title="certmgr/certmanagd\l/src/NetworkInfo.cpp" alt="" coords="2441,103,2596,145"/>
+<area shape="rect" id="node19" href="$d2/d21/Openssl_8cpp.html" title="certmgr/certmanagd\l/src/Openssl.cpp" alt="" coords="2621,103,2776,145"/>
+<area shape="rect" id="node9" href="$db/dd9/Server_8cpp.html" title="certmgr/certmanagd\l/src/Server.cpp" alt="" coords="2289,201,2444,242"/>
+<area shape="rect" id="node6" href="$d2/dc4/Service_8cpp.html" title="certmgr/certmanagd\l/src/Service.cpp" alt="" coords="1197,291,1352,333"/>
+<area shape="rect" id="node20" href="$d6/def/certificate_8cpp.html" title="certmgr/common/src\l/certificate.cpp" alt="" coords="2901,103,3059,145"/>
+<area shape="rect" id="node21" href="$d0/d4d/CertificateIdCnMap_8cpp.html" title="certmgr/common/src\l/CertificateIdCnMap.cpp" alt="" coords="3083,103,3259,145"/>
+<area shape="rect" id="node22" href="$d9/dcb/CertificateIdList_8cpp.html" title="certmgr/common/src\l/CertificateIdList.cpp" alt="" coords="3283,103,3440,145"/>
+<area shape="rect" id="node23" href="$d4/d36/CertificateInfo_8cpp.html" title="certmgr/common/src\l/CertificateInfo.cpp" alt="" coords="3464,103,3621,145"/>
+<area shape="rect" id="node24" href="$d5/d6b/Commands_8cpp.html" title="certmgr/common/src\l/Commands.cpp" alt="" coords="3645,103,3803,145"/>
+<area shape="rect" id="node25" href="$df/de2/DaemonConfiguration_8cpp.html" title="certmgr/common/src\l/DaemonConfiguration.cpp" alt="" coords="3827,103,4021,145"/>
+<area shape="rect" id="node26" href="$df/d38/InternalCertificatesAccessor_8cpp.html" title="certmgr/common/src\l/InternalCertificatesAccessor.cpp" alt="" coords="4045,103,4280,145"/>
+<area shape="rect" id="node27" href="$d4/d3c/ServiceConfiguration_8cpp.html" title="certmgr/common/src\l/ServiceConfiguration.cpp" alt="" coords="4305,103,4492,145"/>
+<area shape="rect" id="node28" href="$dc/d48/Tools_8cpp.html" title="certmgr/common/src\l/Tools.cpp" alt="" coords="4517,103,4675,145"/>
+<area shape="rect" id="node29" href="$d3/d54/CertmanagerApi_8cpp.html" title="certmgr/libcertmgr\l/src/CertmanagerApi.cpp" alt="" coords="4699,103,4881,145"/>
+<area shape="rect" id="node30" href="$d2/dd7/OverwrittenData_8cpp.html" title="certmgr/libcertmgr\l/src/OverwrittenData.cpp" alt="" coords="4907,103,5091,145"/>
+<area shape="rect" id="node31" href="$d5/d89/main__test_8cpp.html" title="certmgr/test/main_test.cpp" alt="" coords="5115,111,5313,137"/>
+<area shape="rect" id="node4" href="$d8/d3a/Service_8hpp.html" title="Representation of a service for certificate managment. " alt="" coords="1083,201,1237,242"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="px::cds::CServer::listen" name="px::cds::CServer::listen">
+<area shape="rect" id="node2" href="$d7/d2b/classpx_1_1cds_1_1CSignalPipe.html#a10a7ac470fc31363514f20e1ae650dc1" title="Return a file descriptor which is suitable for polling (via select(), epoll(), or similar) for read&#45;r..." alt="" coords="237,5,411,32"/>
+<area shape="rect" id="node3" href="$d3/d8f/classpx_1_1cds_1_1CServer.html#a7eb02a3cda7a73401a97bf77f3eca844" title="Terminate existing connections. " alt="" coords="225,56,423,83"/>
+</map>

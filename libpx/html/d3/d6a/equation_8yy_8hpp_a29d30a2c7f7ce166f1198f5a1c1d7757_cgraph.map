@@ -1,0 +1,11 @@
+<map id="yy_get_next_buffer" name="yy_get_next_buffer">
+<area shape="rect" id="node2" href="$d3/d6a/equation_8yy_8hpp.html#a9a5935a8d5bf7bc68cd31addef195e46" title="yyrealloc" alt="" coords="564,5,647,32"/>
+<area shape="rect" id="node3" href="$d3/d6a/equation_8yy_8hpp.html#a90dd3a9d98d1038bfbacab594def68aa" title="Immediately switch to a different input stream. " alt="" coords="201,93,282,120"/>
+<area shape="rect" id="node4" href="$d3/d6a/equation_8yy_8hpp.html#ac09acfd337d92d0d2a9fc779a6e695a7" title="Allocate and initialize an input buffer state. " alt="" coords="351,93,481,120"/>
+<area shape="rect" id="node5" href="$d3/d6a/equation_8yy_8hpp.html#a7f87095933e6703c8bd0c6e42bf1d98b" title="yy_init_buffer" alt="" coords="550,144,661,171"/>
+<area shape="rect" id="node8" href="$d3/d6a/equation_8yy_8hpp.html#a0fc6cdf359250a64c05a3a6e52fc5875" title="yy_load_buffer_state" alt="" coords="881,169,1039,196"/>
+<area shape="rect" id="node10" href="$d3/d6a/equation_8yy_8hpp.html#ae98dc5fbf9c2926a4bce6d42ac6bd331" title="yyensure_buffer_stack" alt="" coords="331,43,501,69"/>
+<area shape="rect" id="node9" href="$d3/d6a/equation_8yy_8hpp.html#ac4cfd138acaf1638bbed26360e3a36ba" title="yyalloc" alt="" coords="571,81,640,108"/>
+<area shape="rect" id="node6" href="$d3/d6a/equation_8yy_8hpp.html#ab4155ffea05dab2dafae68fd88a0517f" title="isatty" alt="" coords="741,93,800,120"/>
+<area shape="rect" id="node7" href="$d3/d6a/equation_8yy_8hpp.html#a120dc1da21a01a6803c3238d4b0c87f6" title="Discard all buffered characters. " alt="" coords="710,144,831,171"/>
+</map>

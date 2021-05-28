@@ -1,0 +1,7 @@
+<map id="CParam::update_translation" name="CParam::update_translation">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#a5b95ae29dd0e5aa33b5cf7d165f8f151" title="Re&#45;evaluate the Internal Parameters or Channels to fill out the dependencies. " alt="" coords="256,38,411,79"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#a1d5a52000fc574354fb3548eb4dcae96" title="Call this function to initialize the Channels and Internal Parameters for this Device. " alt="" coords="485,7,625,49"/>
+<area shape="rect" id="node5" href="$d2/d76/classCDevice.html#a2b6500949396a4d972e94118dd4687e7" title="Cleanup any remaining junk, once profiling is complete. " alt="" coords="459,75,650,101"/>
+<area shape="rect" id="node4" href="$d2/d76/classCDevice.html#accb14c1121791e295ac675fc99b36807" title="Initialize the Data Blocks, Channels, and Internal Parameters for this Device. " alt="" coords="714,5,854,46"/>
+<area shape="rect" id="node6" href="$d2/d76/classCDevice.html#a00f0cf46dca1ac48b5f397b435ef867a" title="Called from the Data Block to handle its done state and manage received data. " alt="" coords="699,70,869,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="px::asio::CIoTimer::reset" name="px::asio::CIoTimer::reset">
+<area shape="rect" id="node2" href="$d6/d5e/classpx_1_1asio_1_1CIoTimer.html#a09e3a1d4460da0bf35458c45b873d156" title="Perform an asynchronous wait on this timer. " alt="" coords="195,5,335,46"/>
+<area shape="rect" id="node3" href="$d6/d5e/classpx_1_1asio_1_1CIoTimer.html#a215175b22f0f9a241a85a9259f6dd717" title="Callback invoked when the timer expires; will call the timeout() function of the CTimedObject that wa..." alt="" coords="385,5,525,46"/>
+<area shape="rect" id="node4" href="$db/d01/classpx_1_1asio_1_1CTimedObject.html#a959504cf2298d2513f9f3f04070f5260" title="Handle a timeout. " alt="" coords="573,5,747,46"/>
+</map>

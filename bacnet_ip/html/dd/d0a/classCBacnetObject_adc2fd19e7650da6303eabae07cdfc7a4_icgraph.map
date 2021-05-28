@@ -1,0 +1,7 @@
+<map id="CBacnetObject::getObject_Instance" name="CBacnetObject::getObject_Instance">
+<area shape="rect" id="node2" href="$d9/dd7/classCBacnetDeviceObject.html#a7c7c649ec797236729a5347817f07055" title="Reads one property for this object type of a given instance. " alt="" coords="257,5,431,46"/>
+<area shape="rect" id="node3" href="$da/d44/group__bac__obj__interface.html#ga4c8fe6ec6412b93c87a96717d631d803" title="Return the Object Instance number for our (single) Device Object. " alt="" coords="255,70,433,111"/>
+<area shape="rect" id="node6" href="$da/d44/group__bac__obj__interface.html#gaadb324a10206a1636760e8ebb02acacb" title="Determine if we have an object with the given object_name. " alt="" coords="243,136,445,163"/>
+<area shape="rect" id="node4" href="$d3/d9d/group__bip__routing__interface.html#ga0943ce1497b79465603718616369a454" title="Handler for Who&#45;Is requests in the virtual routing setup, with a single unicast I&#45;Am response returne..." alt="" coords="493,70,648,111"/>
+<area shape="rect" id="node5" href="$d0/d58/classCBacnetIpHandler.html#a64101e782a5defbbb73b68e0758400db" title="Initialize the service configuration for the bacnet&#45;stack functions. " alt="" coords="696,70,864,111"/>
+</map>

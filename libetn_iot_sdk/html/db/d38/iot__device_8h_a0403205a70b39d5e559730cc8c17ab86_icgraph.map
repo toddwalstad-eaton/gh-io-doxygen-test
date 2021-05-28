@@ -1,0 +1,20 @@
+<map id="getConnection" name="getConnection">
+<area shape="rect" id="node2" href="$d6/dce/group__connection__status__apis.html#ga8c45f91af9b8f5c2cff6cb86a63bb2a9" title="Closes a connection with IoT Hub. " alt="" coords="259,5,339,32"/>
+<area shape="rect" id="node3" href="$d5/da4/group__message__handling__apis.html#ga3dfe3ae25533f7be0e6ccd18dbd2326a" title="Sends data to IoT Hub (i.e. " alt="" coords="260,56,337,83"/>
+<area shape="rect" id="node4" href="$d5/da4/group__message__handling__apis.html#ga6c02a1a3859f49453ecf83a12a503cdb" title="Sends a custom message to the IoT Hub (i.e., one created by the product). " alt="" coords="207,107,391,133"/>
+<area shape="rect" id="node5" href="$d5/da4/group__message__handling__apis.html#gaf6c31012b13805b13765d8b4fe82f526" title="Sends a command to IoT Hub (i.e. " alt="" coords="227,157,371,184"/>
+<area shape="rect" id="node6" href="$d5/da4/group__message__handling__apis.html#gaa4f2b5d3bb5def4020d6b3e3f19003ec" title="Sends a device command status update to IoT Hub. " alt="" coords="475,183,719,209"/>
+<area shape="rect" id="node7" href="$d6/dce/group__connection__status__apis.html#ga1db1921b8cca62f215c0e89907870e05" title="Gets the status of the connection. " alt="" coords="245,259,353,285"/>
+<area shape="rect" id="node8" href="$df/da6/group__iot__sdk__callbacks.html#gafe01798cf82234fd37efa15c7388403c" title="Registers a CloudToDevice device command callback function for processing Cloud&#45;To&#45;Device device comm..." alt="" coords="181,310,416,351"/>
+<area shape="rect" id="node9" href="$df/da6/group__iot__sdk__callbacks.html#gaac90ce56c5ebb0e6e91c098aedf29b59" title="Registers a TIMER callback function to be invoked at set intervals. " alt="" coords="203,376,394,403"/>
+<area shape="rect" id="node10" href="$df/da6/group__iot__sdk__callbacks.html#gad8a97cdcf737abf8388f6a8196fc1cb2" title="Registers a connection status callback function to be invoked when the status of the connection to Io..." alt="" coords="193,427,404,469"/>
+<area shape="rect" id="node11" href="$df/da6/group__iot__sdk__callbacks.html#ga1a78ca885103a5e828dc9b6be8f7690d" title="Registers an optional callback function to be invoked when a sent Message (D2C) is done..." alt="" coords="177,493,420,520"/>
+<area shape="rect" id="node12" href="$df/da6/group__iot__sdk__callbacks.html#gaf8c5ce5394e86c6dc1620744aa342a8d" title="UnRegisters the CloudToDevice device command callback. " alt="" coords="171,545,426,586"/>
+<area shape="rect" id="node13" href="$df/da6/group__iot__sdk__callbacks.html#ga1e918b4c0f3739352e92b0c0941f1878" title="UnRegisters the TIMER callback. " alt="" coords="194,611,403,637"/>
+<area shape="rect" id="node14" href="$df/da6/group__iot__sdk__callbacks.html#ga1276bca9642e6fbe6d41d8a3db8e5ca4" title="UnRegisters the Connection Status callback. " alt="" coords="205,662,393,703"/>
+<area shape="rect" id="node15" href="$df/da6/group__iot__sdk__callbacks.html#gaedd1fb747c6c86e91e02f6785415c134" title="UnRegisters the Message Done callback. " alt="" coords="195,727,402,769"/>
+<area shape="rect" id="node16" href="$d3/d53/iot__device_8c.html#a32333da86f7e26cdc9e7ba24cebbe634" title="Uploads to Azure Storage the content pointed to by source having the size size. " alt="" coords="232,793,365,820"/>
+<area shape="rect" id="node17" href="$d3/d53/iot__device_8c.html#ae878b0b853492def9df0ca52e6d6fb21" title="Uploads to Azure Storage the content pointed to by source having the size size. " alt="" coords="209,844,388,871"/>
+<area shape="rect" id="node18" href="$d6/d10/iot__device__common_8c.html#a94b9d688a52c248522f79668e35a442a" title="Tell the messageThread to close itself and exit. " alt="" coords="219,895,378,921"/>
+<area shape="rect" id="node19" href="$d6/d10/iot__device__common_8c.html#a1aba71d0710b25a276ead6b3f829033d" title="Getter for the messageThreadId, given the deviceHandle. " alt="" coords="195,945,402,972"/>
+</map>

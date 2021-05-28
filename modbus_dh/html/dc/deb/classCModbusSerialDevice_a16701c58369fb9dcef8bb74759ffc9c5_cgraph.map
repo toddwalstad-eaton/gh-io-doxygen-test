@@ -1,0 +1,7 @@
+<map id="CModbusSerialDevice::CModbusSerialDevice" name="CModbusSerialDevice::CModbusSerialDevice">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#a3af117a7b68ab8c5df131ea2a9a925c2" title="Setter for the gateway name. " alt="" coords="233,5,399,46"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#ab231a1465890affb24529dfe50f6a441" title="Get the parent Port and Device ID tag string (eg, &quot;(p2:d64)&quot; ) for this Device. " alt="" coords="224,71,408,97"/>
+<area shape="rect" id="node4" href="$d2/d76/classCDevice.html#ae8ee8335613d268b330e869d597f7440" title="Setter for the formatted address of this device. " alt="" coords="228,122,404,163"/>
+<area shape="rect" id="node5" href="$dc/d4a/classCUtil.html#aff025a27e9d1e7204e72c564e7a60adb" title="CUtil::get_formatted\l_address" alt="" coords="239,187,393,229"/>
+<area shape="rect" id="node6" href="$d2/d76/classCDevice.html#a5e083835cb8c682687a4c693f76650ee" title="Tells us if this is a subdevice, and can return its instance number. " alt="" coords="232,253,400,280"/>
+</map>

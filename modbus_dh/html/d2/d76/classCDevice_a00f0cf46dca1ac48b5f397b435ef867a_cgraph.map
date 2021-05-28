@@ -1,0 +1,51 @@
+<map id="CDevice::handle_block_completion" name="CDevice::handle_block_completion">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#aa4f94d583dbe5bbefb99e3e2693a5399" title="Update the Channels and Internal Parameters with data from a Data Block. " alt="" coords="227,243,413,269"/>
+<area shape="rect" id="node5" href="$d4/d3d/log_8hpp.html#abf2f61305d4094a3db0627f445825d5b" title="Test if the desired debug level should produce output for the selected debug subsystem. " alt="" coords="1028,1667,1161,1693"/>
+<area shape="rect" id="node6" href="$d6/d13/classCChannelService.html#af1919adfb792771c6cbfa8df7f6f2a20" title="Print Channel values to Debug output. " alt="" coords="755,1951,933,1993"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#acc926c91d2db0fabebf1a039c06c4b38" title="Checks to see if a given block or channel ID is wanted by subdevices. " alt="" coords="499,6,650,47"/>
+<area shape="rect" id="node7" href="$d2/d76/classCDevice.html#a184036fc7dad41da587f9fd8790a2699" title="CDevice::unprofiled\l_blocks_remain" alt="" coords="500,71,649,113"/>
+<area shape="rect" id="node9" href="$d2/d76/classCDevice.html#ae78abe03b7b2d86dbbacaa01a65cc4ea" title="Note that specified block has now been profiled. " alt="" coords="240,130,400,171"/>
+<area shape="rect" id="node10" href="$d2/d76/classCDevice.html#a2b6500949396a4d972e94118dd4687e7" title="Cleanup any remaining junk, once profiling is complete. " alt="" coords="225,876,415,903"/>
+<area shape="rect" id="node50" href="$d2/d76/classCDevice.html#a83e8db574ab9bd22a18b5c0af1670ddc" title="Called from handle_block_completion() when data block communication errors occur. ..." alt="" coords="238,2069,402,2110"/>
+<area shape="rect" id="node4" href="$d2/d76/classCDevice.html#ab231a1465890affb24529dfe50f6a441" title="Get the parent Port and Device ID tag string (eg, &quot;(p2:d64)&quot; ) for this Device. " alt="" coords="1003,407,1187,433"/>
+<area shape="rect" id="node8" href="$d2/d76/classCDevice.html#abac1fe55b006dfb7cf69e1b52cfa0f0e" title="Getter for one DataBlock, from its ID. " alt="" coords="759,79,929,105"/>
+<area shape="rect" id="node11" href="$d2/d76/classCDevice.html#a5e083835cb8c682687a4c693f76650ee" title="Tells us if this is a subdevice, and can return its instance number. " alt="" coords="760,929,928,956"/>
+<area shape="rect" id="node12" href="$d2/d76/classCDevice.html#a8945e6a92ebb9f82704982ac4bb9e199" title="Update the Device attribute parameter dependencies (if any) with data from the Data Blocks..." alt="" coords="755,290,933,331"/>
+<area shape="rect" id="node13" href="$d2/d76/classCDevice.html#a5b905a3a7472f9ef0c46f4d2d0eb2c12" title="Update the Device Command dependecies (if any) with data from the Data Blocks. " alt="" coords="479,705,670,746"/>
+<area shape="rect" id="node14" href="$d2/d76/classCDevice.html#acebd0bd12d6b03380287f103c7a91017" title="Remove unsupported blocks and related channels (in memory). " alt="" coords="483,770,666,811"/>
+<area shape="rect" id="node15" href="$d2/d76/classCDevice.html#ac62e382adcb8d88b6c2befa1cacb3406" title="Clears _initial_block_list;. " alt="" coords="495,1333,655,1374"/>
+<area shape="rect" id="node16" href="$d2/d76/classCDevice.html#a689cb308a54622693d97c6a04a8ebe80" title="Convert remaining temporary duplicate channels to permanent channels. " alt="" coords="474,1398,675,1439"/>
+<area shape="rect" id="node17" href="$d2/d76/classCDevice.html#a51ae2c47fc75c488f28b6af7fb9b1406" title="Commit verified channels with temporary ID&#39;s to data store. " alt="" coords="493,1595,656,1637"/>
+<area shape="rect" id="node23" href="$d2/d76/classCDevice.html#ac943e8b038d303c685c02484ab61c2f0" title="Commit channel overrides to data store. " alt="" coords="481,1858,668,1899"/>
+<area shape="rect" id="node25" href="$d2/d76/classCDevice.html#a5b95ae29dd0e5aa33b5cf7d165f8f151" title="Re&#45;evaluate the Internal Parameters or Channels to fill out the dependencies. " alt="" coords="497,901,652,942"/>
+<area shape="rect" id="node31" href="$d2/d76/classCDevice.html#ad6891e3a284f5477f60aacb4ec112905" title="Update the Device attribute parameters with data from the Data Blocks. " alt="" coords="485,1061,664,1102"/>
+<area shape="rect" id="node37" href="$d2/d76/classCDevice.html#a09a759293a18a047fb1294b3daf6d506" title="Add Device Commands to the CDS. " alt="" coords="495,1202,654,1243"/>
+<area shape="rect" id="node40" href="$d2/d76/classCDevice.html#a3871193c7fcd5fa1dfa8e7218b78cd42" title="Set Channel values in the CDS for the first time in the profiling process. " alt="" coords="501,1725,649,1766"/>
+<area shape="rect" id="node41" href="$d2/d76/classCDevice.html#a9a264f06ca393141f27924219d678dea" title="Omnibus function that: a) Deletes any device CDS channels that are not in the _channel_list for this ..." alt="" coords="477,1665,673,1692"/>
+<area shape="rect" id="node42" href="$d2/d76/classCDevice.html#a93b87356e1d27ccb893a10c1b40a0b23" title="Inquire if any of the channels have an Alarm Trigger present. " alt="" coords="499,391,650,433"/>
+<area shape="rect" id="node43" href="$d2/d76/classCDevice.html#a1e162065c5342fd80d062ac316249c27" title="Initialize Channel alarm triggers in the CDS. " alt="" coords="505,835,645,877"/>
+<area shape="rect" id="node44" href="$d2/d76/classCDevice.html#ad8abdb89a55fb719f17423fc6248448d" title="In the unlikely event that the log level is high enough, print channel and type information to the lo..." alt="" coords="485,1267,664,1309"/>
+<area shape="rect" id="node45" href="$d2/d76/classCDevice.html#a0057f31cbcd44999aa2ce06fc308016f" title="Getter for the display name of this device. " alt="" coords="464,457,685,484"/>
+<area shape="rect" id="node46" href="$d2/d76/classCDevice.html#a0e5b0994e943728e63a41cbd76fc2933" title="Getter for the formatted address of this device. " alt="" coords="486,509,663,550"/>
+<area shape="rect" id="node47" href="$d4/d89/classCDeviceService.html#afd31c85f32b1729dc4345f06c9a2a241" title="Set or clear the not_communicating state flag for the addressed Device (or Port). ..." alt="" coords="477,574,672,615"/>
+<area shape="rect" id="node48" href="$d2/d76/classCDevice.html#abbe464fb9902e815654ce1512d47cad6" title="Set the RealTime Device State flag. " alt="" coords="497,639,652,681"/>
+<area shape="rect" id="node49" href="$d2/d76/classCDevice.html#a54774cc50897d7fae5455297e251e288" title="Reset the statistics for this device. " alt="" coords="497,1791,653,1817"/>
+<area shape="rect" id="node18" href="$d6/d13/classCChannelService.html#abd581f8e38a64ed7aa4ed1cd4b889163" title="Member Functions. " alt="" coords="753,1651,935,1693"/>
+<area shape="rect" id="node19" href="$d2/d76/classCDevice.html#a7bac9342b21926e4b5b3bde2ac64157c" title="Gets the ID of this Device, for the IDataBlockObserver interface. " alt="" coords="781,1717,907,1744"/>
+<area shape="rect" id="node20" href="$d6/d13/classCChannelService.html#a1f5e2d3ad9e428f1ff596573b07f2028" title="Get all Channel Settings for a device from the CDS. " alt="" coords="763,1769,925,1810"/>
+<area shape="rect" id="node21" href="$d2/d76/classCDevice.html#a2ec0da32e776861d627aad55b950cca8" title="Remove the specified channel or device from the dependency graph. " alt="" coords="739,1549,949,1576"/>
+<area shape="rect" id="node22" href="$d2/d76/classCDevice.html#aa9b86161de0a5b3a2ee38b5baef661b8" title="Update channels to permanent ID&#39;s. " alt="" coords="759,1600,929,1627"/>
+<area shape="rect" id="node24" href="$d6/d13/classCChannelService.html#a8387648386890119e5dcdef32650c2a0" title="Update Channel Settings Stores updated channel settings on the CDS. " alt="" coords="751,1886,937,1927"/>
+<area shape="rect" id="node26" href="$df/d2c/classCParam.html#adf6571e6042a3733839749389e0b3a80" title="Getter for this Parameter&#39;s state. " alt="" coords="773,777,915,804"/>
+<area shape="rect" id="node27" href="$df/d2c/classCParam.html#a63053de958301306b4062c7573d9e0de" title="Lookup the sources for the equation for this parameter, and add them to this parameter&#39;s list of sour..." alt="" coords="767,559,921,601"/>
+<area shape="rect" id="node28" href="$df/d2c/classCParam.html#a80ee21bff61d32eb300d3a8de13199a4" title="Get the CNode sources for this Channel or Internal Parameter. " alt="" coords="765,828,923,855"/>
+<area shape="rect" id="node29" href="$df/d2c/classCParam.html#acd1d8618040cfb77e318cee901bce2d9" title="Update the equation for this parameter, registering its sources with the equation handler..." alt="" coords="743,625,945,652"/>
+<area shape="rect" id="node30" href="$d2/d76/classCDevice.html#a6344b484b5fe2916bcd18df712b923d1" title="Getter for device ID. " alt="" coords="796,676,892,703"/>
+<area shape="rect" id="node32" href="$d2/d76/classCDevice.html#a497ca4959da5daf04964c0c52eb15ba4" title="Getter to lookup a Device attribute parameter by its canonical name and get its instance. " alt="" coords="1005,1061,1184,1102"/>
+<area shape="rect" id="node33" href="$d8/d41/classCDeviceUtil.html#ad656eab729fb2298c662a9ddcc0a8f00" title="CDeviceUtil::check\l_meter_name" alt="" coords="771,1199,917,1241"/>
+<area shape="rect" id="node34" href="$d6/d52/classCParsedDeviceEds.html#ada63afd997925e86cc9de1dc406328d8" title="Checks to see if the PX Device instance should be updated with parent device information. " alt="" coords="750,1031,938,1073"/>
+<area shape="rect" id="node35" href="$d2/d76/classCDevice.html#af553f063aa533f3e38b701031cc408f0" title="Setter for the formatted name of this device. " alt="" coords="734,1265,954,1292"/>
+<area shape="rect" id="node36" href="$dc/d4a/classCUtil.html#ab23b89e75ee52ed0e45e7a188ce3386f" title="CUtil::get_formatted_name" alt="" coords="745,1148,943,1175"/>
+<area shape="rect" id="node38" href="$d2/d76/classCDevice.html#a6d11490791db78b5203472c94493a1f8" title="Builds and saves the metadata for cWriteSingleChannel in this device&#39;s command list, if it has writable channels. " alt="" coords="751,1367,937,1409"/>
+<area shape="rect" id="node39" href="$d2/d76/classCDevice.html#add6fb92a336684e60c1fd98a7887a8d7" title="Add any additional commands required for waveform handling. " alt="" coords="753,1433,935,1474"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CAuthManager::migrate_htdigest_to_bcrypt" name="CAuthManager::migrate_htdigest_to_bcrypt">
+<area shape="rect" id="node2" href="$classCAuthManager.html#ad2f9a31177a8eb0154ec2c998c0e4944" title="Check a user&#39;s plain text password. " alt="" coords="229,5,432,46"/>
+<area shape="rect" id="node3" href="$classCAuthManager.html#a402fd33cfc7bc2ae62474c95b079fbf9" title="Authenticate a user, given plain&#45;text password. " alt="" coords="480,5,688,46"/>
+</map>

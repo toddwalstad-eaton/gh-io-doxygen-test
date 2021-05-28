@@ -1,0 +1,13 @@
+<map id="px::CDevice" name="px::CDevice">
+<area shape="rect" id="node2" href="$d8/d8c/classpx_1_1CDeviceRole.html" title="Device role. " alt="" coords="37,701,165,955"/>
+<area shape="rect" id="node4" href="$dd/d57/classpx_1_1CBitset.html" title="{px::CBitset\&lt; px::device\l_control \&gt;\n||+ CBitset()\l+ get()\l+ set()\l+ reset()\l+ mask_set()\l+ mask_clear()\l+ mask()\l+ empty()\l+ operator==()\l+ operator!=()\land 11 more...\l+ size()\l+ nbytes()\l}" alt="" coords="238,694,412,962"/>
+<area shape="rect" id="node9" href="$dd/d57/classpx_1_1CBitset.html" title="Stores a bit&#45;field of flags defined by an enumerated type. " alt="" coords="577,340,708,593"/>
+<area shape="rect" id="node22" href="$dd/d57/classpx_1_1CBitset.html" title="{px::CBitset\&lt; px::realtime\l_state \&gt;\n||+ CBitset()\l+ get()\l+ set()\l+ reset()\l+ mask_set()\l+ mask_clear()\l+ mask()\l+ empty()\l+ operator==()\l+ operator!=()\land 11 more...\l+ size()\l+ nbytes()\l}" alt="" coords="797,694,984,962"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="388,5,511,83"/>
+<area shape="rect" id="node14" href="$d9/d7d/classpx_1_1CWallTime.html" title="Wall&#45;clock time. " alt="" coords="1568,701,1685,955"/>
+<area shape="rect" id="node15" href="$d6/d4e/classpx_1_1CTimestamp.html" title="Wrapper around a &quot;timespec&quot; structure that provides additional useful functionality. " alt="" coords="1517,318,1736,615"/>
+<area shape="rect" id="node16" href="$da/d9d/classtimespec.html" title="{timespec\n||}" alt="" coords="1631,155,1713,232"/>
+<area shape="rect" id="node19" title="STL class. " alt="" coords="1223,421,1375,513"/>
+<area shape="rect" id="node26" title="STL class. " alt="" coords="1834,428,1963,505"/>
+<area shape="rect" id="node28" title="STL class. " alt="" coords="2025,428,2135,505"/>
+</map>

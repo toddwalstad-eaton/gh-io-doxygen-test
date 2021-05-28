@@ -1,0 +1,4 @@
+<map id="CParamMapping" name="CParamMapping">
+<area shape="rect" id="node2" href="$classCParamDiscreteMapping.html" title="A mapping between a CDS parameter and a Modbus discrete/coil. " alt="" coords="5,330,221,451"/>
+<area shape="rect" id="node3" href="$classCParamRegisterMapping.html" title="A mapping between a CDS parameter and one or more Modbus registers. " alt="" coords="247,323,463,459"/>
+</map>

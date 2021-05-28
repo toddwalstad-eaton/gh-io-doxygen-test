@@ -1,0 +1,34 @@
+<map id="perf__value.cpp" name="perf__value.cpp">
+<area shape="rect" id="node4" href="$d7/d1e/exception_8hpp.html" title="px/exception.hpp" alt="" coords="35,261,169,288"/>
+<area shape="rect" id="node9" href="$da/d69/byte__counter_8hpp.html" title="px/serialization/byte\l_counter.hpp" alt="" coords="1456,81,1611,122"/>
+<area shape="rect" id="node11" href="$db/d1c/serializer_8hpp.html" title="px/serialization/serializer.hpp" alt="" coords="2424,88,2637,115"/>
+<area shape="rect" id="node13" href="$dc/dea/deserializer_8hpp.html" title="px/serialization/deserializer.hpp" alt="" coords="1685,88,1915,115"/>
+<area shape="rect" id="node14" href="$d0/d91/raw__archive_8hpp.html" title="px/serialization/archive\l/raw_archive.hpp" alt="" coords="301,171,475,213"/>
+<area shape="rect" id="node17" href="$dc/dd4/all_8hpp.html" title="px/serialization/type\l/all.hpp" alt="" coords="1939,81,2093,122"/>
+<area shape="rect" id="node44" href="$d2/dca/type_2value_8hpp.html" title="px/type/value.hpp" alt="" coords="847,179,985,205"/>
+<area shape="rect" id="node7" href="$d4/d76/type_2string_8hpp.html" title="type/string.hpp" alt="" coords="337,336,457,363"/>
+<area shape="rect" id="node16" href="$dd/d3a/common_8hpp.html" title="px/common.hpp" alt="" coords="534,336,660,363"/>
+<area shape="rect" id="node18" href="$de/d7d/serialization_2type_2common_8hpp.html" title="common.hpp" alt="" coords="1860,336,1967,363"/>
+<area shape="rect" id="node21" href="$d4/db5/array_8hpp.html" title="array.hpp" alt="" coords="1823,179,1905,205"/>
+<area shape="rect" id="node23" href="$d7/df6/deque_8hpp.html" title="deque.hpp" alt="" coords="1929,179,2020,205"/>
+<area shape="rect" id="node25" href="$d5/d66/flyweight_8hpp.html" title="flyweight.hpp" alt="" coords="2095,179,2205,205"/>
+<area shape="rect" id="node27" href="$dc/d1d/list_8hpp.html" title="list.hpp" alt="" coords="2038,261,2108,288"/>
+<area shape="rect" id="node28" href="$df/d7c/map_8hpp.html" title="map.hpp" alt="" coords="2891,179,2969,205"/>
+<area shape="rect" id="node30" href="$db/dd5/optional_8hpp.html" title="optional.hpp" alt="" coords="2627,261,2729,288"/>
+<area shape="rect" id="node29" href="$d3/d9f/pair_8hpp.html" title="pair.hpp" alt="" coords="2907,261,2981,288"/>
+<area shape="rect" id="node31" href="$da/de4/px__string_8hpp.html" title="px_string.hpp" alt="" coords="1431,261,1541,288"/>
+<area shape="rect" id="node32" href="$da/dfe/set_8hpp.html" title="set.hpp" alt="" coords="2619,179,2689,205"/>
+<area shape="rect" id="node33" href="$d6/da4/serialization_2type_2string_8hpp.html" title="string.hpp" alt="" coords="1051,179,1137,205"/>
+<area shape="rect" id="node35" href="$d0/dc5/shared__ptr_8hpp.html" title="shared_ptr.hpp" alt="" coords="2425,179,2543,205"/>
+<area shape="rect" id="node36" href="$df/d78/tribool_8hpp.html" title="tribool.hpp" alt="" coords="1489,179,1580,205"/>
+<area shape="rect" id="node37" href="$d1/d17/unique__ptr_8hpp.html" title="unique_ptr.hpp" alt="" coords="2230,179,2348,205"/>
+<area shape="rect" id="node38" href="$d3/dbb/unordered__map_8hpp.html" title="unordered_map.hpp" alt="" coords="2715,179,2867,205"/>
+<area shape="rect" id="node39" href="$db/daf/unordered__set_8hpp.html" title="unordered_set.hpp" alt="" coords="1605,179,1747,205"/>
+<area shape="rect" id="node40" href="$d9/d7a/variant_8hpp.html" title="variant.hpp" alt="" coords="1203,179,1299,205"/>
+<area shape="rect" id="node42" href="$da/d16/vector_8hpp.html" title="vector.hpp" alt="" coords="1323,179,1413,205"/>
+<area shape="rect" id="node19" href="$df/d89/endian_8hpp.html" title="px/util/endian.hpp" alt="" coords="1365,411,1504,437"/>
+<area shape="rect" id="node45" href="$d1/db0/timestamp_8hpp.html" title="timestamp.hpp" alt="" coords="387,261,508,288"/>
+<area shape="rect" id="node46" href="$db/d73/invalid_8hpp.html" title="invalid.hpp" alt="" coords="829,261,923,288"/>
+<area shape="rect" id="node47" href="$d6/d12/datatype_8hpp.html" title="px/enum/datatype.hpp" alt="" coords="635,261,804,288"/>
+<area shape="rect" id="node48" href="$d6/d78/best__type_8hpp.html" title="value/best_type.hpp" alt="" coords="708,411,863,437"/>
+</map>

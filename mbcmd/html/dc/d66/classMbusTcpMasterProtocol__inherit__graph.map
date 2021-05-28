@@ -1,0 +1,3 @@
+<map id="MbusTcpMasterProtocol" name="MbusTcpMasterProtocol">
+<area shape="rect" id="node2" href="$da/d8f/classMbusSecMasterProtocol.html" title="{MbusSecMasterProtocol\n|&#45; ssl\l&#45; bufferArr\l&#45; transactionId\l&#45; refreshFlag\l&#45; client_cert\l&#45; client_key\l|+ MbusSecMasterProtocol()\l+ openProtocol()\l+ setTLSOptions()\l&#45; transceiveMessage()\l}" alt="" coords="5,131,205,325"/>
+</map>

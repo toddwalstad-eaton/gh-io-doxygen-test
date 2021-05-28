@@ -1,0 +1,5 @@
+<map id="CIotDeviceClient::close" name="CIotDeviceClient::close">
+<area shape="rect" id="node2" href="$dd/d68/classCIotDeviceClient.html#a0c9200d4e190ae553db7246c36f939d3" title="Default Xtor. " alt="" coords="251,5,394,46"/>
+<area shape="rect" id="node3" href="$dd/d68/classCIotDeviceClient.html#ac088663bab4b0ddec2c4c60bbc605166" title="Attempt to open the Azure IoT Hub connection. " alt="" coords="227,71,418,97"/>
+<area shape="rect" id="node4" href="$dd/d68/classCIotDeviceClient.html#ac3e59938659409ee0adee10292047aca" title="Called by the core&#39;s update timer to manage next state / action. " alt="" coords="467,89,650,130"/>
+</map>

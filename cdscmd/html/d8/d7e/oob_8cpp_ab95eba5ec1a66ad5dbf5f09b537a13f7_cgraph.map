@@ -1,0 +1,7 @@
+<map id="do_setoob" name="do_setoob">
+<area shape="rect" id="node2" href="$da/d6b/cdscmd_8hpp.html#af8d4d24335b9565f7e16c25d788e5b78" title="error_msg" alt="" coords="177,5,265,32"/>
+<area shape="rect" id="node3" href="$dd/d81/oob_8hpp.html#a06d07b008d094e57524ed05b23c7bc3b" title="get_persistence" alt="" coords="159,56,284,83"/>
+<area shape="rect" id="node4" href="$da/d6b/cdscmd_8hpp.html#a771821ce85db8ce9db273d48de7741d4" title="read_json_protobufs" alt="" coords="144,107,299,133"/>
+<area shape="rect" id="node5" href="$dd/d81/oob_8hpp.html#a91867999ef66850c474c83cd6910d33a" title="get_persistence_str" alt="" coords="147,157,296,184"/>
+<area shape="rect" id="node6" href="$d3/de7/other_8hpp.html#a914f36ec8021e8e00438cd091777d8f3" title="Set the username and address of the source in the message, if we were given them. ..." alt="" coords="175,208,267,235"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="px::asio::CCdsHandler::is_communicating_device" name="px::asio::CCdsHandler::is_communicating_device">
+<area shape="rect" id="node2" href="$d2/dcb/classpx_1_1asio_1_1CCdsHandler.html#a7b760a8420b8a6ef12d60c3f9c00eaff" title="Getter for a CCdsDevice instance in our map, looked up by its Device ID. " alt="" coords="253,5,419,46"/>
+<area shape="rect" id="node3" href="$d2/dcb/classpx_1_1asio_1_1CCdsHandler.html#a37228ed2d170ccea24335355b09402b0" title="Getter for a mutable CCdsDevice instance in our map, looked up by its Device ID. " alt="" coords="467,5,632,46"/>
+</map>

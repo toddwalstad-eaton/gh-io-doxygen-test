@@ -1,0 +1,3 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$dc/d4b/classpx_1_1cds_1_1CSubscribeSingle.html" title="Represents a single subscription (or un&#45;subscripton): the (enumerated) type of subscription, the object it applies to, and which subscriber ID is asking (a CDS client can get more than one subscriber ID if it desires, for multiplexing). " alt="" coords="6,5,194,32"/>
+</map>

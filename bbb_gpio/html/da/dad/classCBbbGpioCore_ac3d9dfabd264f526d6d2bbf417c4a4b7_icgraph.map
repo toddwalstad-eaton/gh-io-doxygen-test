@@ -1,0 +1,4 @@
+<map id="CBbbGpioCore::set_gpio" name="CBbbGpioCore::set_gpio">
+<area shape="rect" id="node2" href="$d8/d4b/classCBbbTricolorLED.html#ad0c06440b8a1fcf7d8d1139df9691ba6" title="The callback function invoked when this Channel&#39;s Value is written to. " alt="" coords="233,5,415,46"/>
+<area shape="rect" id="node3" href="$d8/d4b/classCBbbTricolorLED.html#a7d573f01132bc8acb5d9ce19f0d3afda" title="Subscribe to changes in this Channel&#39;s Values. " alt="" coords="465,5,663,46"/>
+</map>

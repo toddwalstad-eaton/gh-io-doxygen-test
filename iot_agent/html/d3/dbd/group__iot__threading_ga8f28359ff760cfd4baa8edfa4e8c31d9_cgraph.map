@@ -1,0 +1,4 @@
+<map id="TrendManager::launch_catchup_thread" name="TrendManager::launch_catchup_thread">
+<area shape="rect" id="node2" href="$db/db5/classTrendManager.html#a736299ff7bcdcd1d6f4baa36610c0c27" title="This is the task that does the trend catchup. " alt="" coords="219,12,426,39"/>
+<area shape="rect" id="node3" href="$db/db5/classTrendManager.html#a74f9c2322b80a2bc6906b94c1a580b29" title="Build the IOT_DATA_TREND_ITEM messages for all devices, using the latest, or requested time..." alt="" coords="475,5,645,46"/>
+</map>

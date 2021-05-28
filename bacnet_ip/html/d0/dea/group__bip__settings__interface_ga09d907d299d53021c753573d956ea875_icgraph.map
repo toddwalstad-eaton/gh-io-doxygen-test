@@ -1,0 +1,4 @@
+<map id="bip_get_local_address_ioctl" name="bip_get_local_address_ioctl">
+<area shape="rect" id="node2" href="$d0/dea/group__bip__settings__interface.html#gafd656e23747f3577cf40a5a360d9f13a" title="Gets the local IP address and local broadcast address from the system, and saves it into the BACnet/I..." alt="" coords="222,12,357,39"/>
+<area shape="rect" id="node3" href="$d6/ded/classCBacnetIpSettings.html#abfd0311546441a9a3eb4d25ec328d0c3" title="Initialize the data in this application by reading the OOB data. " alt="" coords="405,5,555,46"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CModbusConfig::create_device_peds" name="CModbusConfig::create_device_peds">
+<area shape="rect" id="node2" href="$classCModbusUtil.html#a0e88aa5cef4d314c3101bdb11e13a379" title="Check if a given file exists or not. " alt="" coords="229,5,400,46"/>
+<area shape="rect" id="node3" href="$classCEfficient.html#a385322b9f1c3ab2ac5b713b62970f393" title="Create PEDs file from device attributes, channels, and commands. " alt="" coords="241,70,389,111"/>
+<area shape="rect" id="node6" href="$classCModbusUtil.html#a810fa100a70e436cbe20cbdc3305933d" title="Delete the specified file. " alt="" coords="225,136,405,163"/>
+<area shape="rect" id="node4" href="$classCModbusUtil.html#a6af1e1d43d44e906f140f6711ae5c582" title="Get register count for a data&#45;type. " alt="" coords="454,37,645,78"/>
+<area shape="rect" id="node5" href="$classCModbusCdsHandle.html#a07c1b743de512abf3d0ac5abca2bc0d3" title="Retrieve list of supported commands for a particular device. " alt="" coords="460,102,639,143"/>
+</map>

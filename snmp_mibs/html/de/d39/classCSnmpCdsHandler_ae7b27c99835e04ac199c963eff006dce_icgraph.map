@@ -1,0 +1,6 @@
+<map id="CSnmpCdsHandler::find_matching_channels" name="CSnmpCdsHandler::find_matching_channels">
+<area shape="rect" id="node2" href="$d7/d06/classCPcdSensorTableEntry.html#a6869ec8324c04a9cecb7b896342f94ca" title="Factory function which checks to see if we need to add any pcdSensorTable entries for the given Devic..." alt="" coords="230,5,410,46"/>
+<area shape="rect" id="node3" href="$d2/db3/classCPcdMib.html#a14f6a8640ec4cec70c1cd77e0652757a" title="For each supported table, see if we need to add one or more entries based on the MCL Channels support..." alt="" coords="459,5,613,46"/>
+<area shape="rect" id="node4" href="$d2/db3/classCPcdMib.html#a90b1515042358f0d8b3d869f13be4746" title="Called by the CdsHandler ChannelSettings callback to allow MIB&#45;specific processing of the ChannelSett..." alt="" coords="661,5,856,46"/>
+<area shape="rect" id="node5" href="$d2/db3/classCPcdMib.html#a6ad2514517ca4811dc54f78604dc89f2" title="Constructor, given the CDS Handler. " alt="" coords="905,12,1045,39"/>
+</map>

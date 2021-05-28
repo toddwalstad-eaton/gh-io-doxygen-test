@@ -1,0 +1,4 @@
+<map id="CWaveformService::remove_waveforms_from_cds" name="CWaveformService::remove_waveforms_from_cds">
+<area shape="rect" id="node2" href="$d2/d7f/classCWaveformService.html#aadc41ea5e07191358f81528feb599fe0" title="Delete waveform with specified name, from filesystem and CDS record. " alt="" coords="259,5,453,46"/>
+<area shape="rect" id="node3" href="$d7/d46/classCModbusDevice.html#a53f23722e476f1bd17a33a2ddcadf862" title="Call this function to create and execute the named command for this Device. " alt="" coords="501,5,688,46"/>
+</map>

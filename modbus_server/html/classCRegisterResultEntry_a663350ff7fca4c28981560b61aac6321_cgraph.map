@@ -1,0 +1,4 @@
+<map id="CRegisterResultEntry::translate" name="CRegisterResultEntry::translate">
+<area shape="rect" id="node2" href="$classCParamMapping.html#ad6a29bbd517b1a630abb4b2ea1b3bab9" title="Getter for parameter path. " alt="" coords="213,5,427,32"/>
+<area shape="rect" id="node3" href="$classCParamRegisterMapping.html#aff9f8bb33fe25e8c12d442d1bfacc17a" title="Translate a CDS value into a Modbus register range. " alt="" coords="230,57,410,98"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="certmanager::Server::setValidSeconds" name="certmanager::Server::setValidSeconds">
+<area shape="rect" id="node2" href="$d8/d66/classcertmanager_1_1ServiceConfiguration.html#accb3e93b152315bf2fe7ce552ecf2ce7" title="certmanager::ServiceConfiguration\l::getSelfSignedValidityDurationOffset" alt="" coords="208,5,472,46"/>
+<area shape="rect" id="node3" href="$d8/d66/classcertmanager_1_1ServiceConfiguration.html#a4fcbed33a99edf9e7b5d93e9da84bef2" title="certmanager::ServiceConfiguration\l::getSelfSignedValidityDuration" alt="" coords="216,70,464,111"/>
+<area shape="rect" id="node4" href="$d8/d66/classcertmanager_1_1ServiceConfiguration.html#a9e36989491daef222283b9e461aa8f00" title="certmanager::ServiceConfiguration\l::getCASignedValidityDurationOffset" alt="" coords="211,135,469,177"/>
+<area shape="rect" id="node5" href="$d8/d66/classcertmanager_1_1ServiceConfiguration.html#aaea108c5463b303db99157fcf16a8cf7" title="certmanager::ServiceConfiguration\l::getCASignedValidityDuration" alt="" coords="216,201,464,242"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CIotDeviceClient::callback_channel_settings" name="CIotDeviceClient::callback_channel_settings">
+<area shape="rect" id="node2" href="$dd/d68/classCIotDeviceClient.html#ae1aa3bf442ed4c67007411ef0477c002" title="Checks if this device is of a supported type for IoT Agent Devices. " alt="" coords="253,5,433,46"/>
+<area shape="rect" id="node3" href="$d2/d55/classCIotDataDevice.html#a9babe8eda9b75a18957c3cb9bf0dbd95" title="Factory function to create a new CIotDataDevice instance and return it in a shared_ptr. " alt="" coords="256,70,429,111"/>
+<area shape="rect" id="node5" href="$dd/d68/classCIotDeviceClient.html#a8c0885ca901a8588ca31c0bd1809e3a6" title="Request a new client_state action. " alt="" coords="249,135,437,177"/>
+<area shape="rect" id="node4" href="$d2/d55/classCIotDataDevice.html#a8f4c590cbda3c9182d18fe5fa59b77b7" title="Constructor for an IoT Device instance (though not assigned to a specific device yet). " alt="" coords="485,70,675,111"/>
+</map>

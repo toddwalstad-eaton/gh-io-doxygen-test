@@ -1,0 +1,5 @@
+<map id="px::asio::CTcpListener::handle_ssl_accept" name="px::asio::CTcpListener::handle_ssl_accept">
+<area shape="rect" id="node2" href="$d6/d32/classpx_1_1asio_1_1CIoManager.html#a46653fc723a57edb4ab58cd80f5d6ee8" title="Add an I/O actor to be tracked and managed. " alt="" coords="217,5,407,32"/>
+<area shape="rect" id="node3" href="$d4/d0f/classpx_1_1asio_1_1CTcpListener.html#ac663d211af323bac8d18336a57b40369" title="Asynchronously accept a new ssl connection. " alt="" coords="231,57,393,98"/>
+<area shape="rect" id="node4" href="$d1/d8e/classpx_1_1asio_1_1CTcpSslConnection.html#a18d9ff29e8f055a7f840418a4bfb34e4" title="Factory function to create a new CTcpSslConnection object. " alt="" coords="456,57,659,98"/>
+</map>

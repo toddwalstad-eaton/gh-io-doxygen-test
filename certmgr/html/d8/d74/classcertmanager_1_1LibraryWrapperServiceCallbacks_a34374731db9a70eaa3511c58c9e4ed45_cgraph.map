@@ -1,0 +1,4 @@
+<map id="certmanager::LibraryWrapperServiceCallbacks::LibraryWrapperServiceCallbacks" name="certmanager::LibraryWrapperServiceCallbacks::LibraryWrapperServiceCallbacks">
+<area shape="rect" id="node2" href="$dc/dba/classcertmanager_1_1Tools.html#ad0dcb87f909dd94559f03213b50feeb4" title="This API tells if a file exists in the system. " alt="" coords="309,5,456,46"/>
+<area shape="rect" id="node3" href="$dc/d10/classcertmanager_1_1Log.html#a56c9c1e70c82c11852e0c32d9967a5a1" title="Write a log inside syslog daemon if the syslog is open. " alt="" coords="294,71,471,97"/>
+</map>

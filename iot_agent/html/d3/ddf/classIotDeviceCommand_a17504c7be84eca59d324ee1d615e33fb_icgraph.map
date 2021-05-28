@@ -1,0 +1,8 @@
+<map id="IotDeviceCommand::unpack_cmd_params" name="IotDeviceCommand::unpack_cmd_params">
+<area shape="rect" id="node2" href="$d2/d55/classCIotDataDevice.html#acccc33e01c0f9d96183e9f7bc9c54e6f" title="Handle a C2D Device Command for the GetChannelValues method. " alt="" coords="262,5,493,46"/>
+<area shape="rect" id="node3" href="$d2/d55/classCIotDataDevice.html#ac03a035f18b36de2b3ccb0571ea73bb5" title="Handle a C2D Device Command for the SetChannelValues method. " alt="" coords="263,70,492,111"/>
+<area shape="rect" id="node4" href="$d3/ddf/classIotDeviceCommand.html#a2c97fa49284587e1350d6d6c0bf25254" title="Method to handle the QueryImages request for the indicated Device. " alt="" coords="276,135,479,177"/>
+<area shape="rect" id="node6" href="$d3/ddf/classIotDeviceCommand.html#a4d05f8f3df173bca5a15caf43979a192" title="Method to handle the FirmwareUpdate request for the indicated Device. " alt="" coords="276,201,479,242"/>
+<area shape="rect" id="node7" href="$d3/ddf/classIotDeviceCommand.html#a7eb717298bf9f0b44341d020da79a795" title="Handles one chunk of the ImageTransfer command. " alt="" coords="276,266,479,307"/>
+<area shape="rect" id="node5" href="$d3/ddf/classIotDeviceCommand.html#a988b62c05b69189815f1d27689b6103b" title="Callback function to receive Cloud&#45;to&#45;Device device commands. " alt="" coords="542,201,767,242"/>
+</map>

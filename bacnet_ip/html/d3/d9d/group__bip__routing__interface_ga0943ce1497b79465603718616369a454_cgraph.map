@@ -1,0 +1,5 @@
+<map id="handler_etn_who_is_unicast_for_routing" name="handler_etn_who_is_unicast_for_routing">
+<area shape="rect" id="node2" href="$da/d44/group__bac__obj__interface.html#ga4c8fe6ec6412b93c87a96717d631d803" title="Return the Object Instance number for our (single) Device Object. " alt="" coords="208,38,387,79"/>
+<area shape="rect" id="node3" href="$d3/d9d/group__bip__routing__interface.html#gaca13e00f88c28db7220d0b523397a87f" title="Get a pointer to the current Device object (look up from the current global setting for instance numb..." alt="" coords="456,5,603,46"/>
+<area shape="rect" id="node4" href="$dd/d0a/classCBacnetObject.html#adc2fd19e7650da6303eabae07cdfc7a4" title="Getter for this object&#39;s Object_Instance (the ID part of ObjectID). " alt="" coords="435,70,624,111"/>
+</map>

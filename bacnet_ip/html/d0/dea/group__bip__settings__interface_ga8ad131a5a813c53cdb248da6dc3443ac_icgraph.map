@@ -1,0 +1,5 @@
+<map id="get_local_ifr_ioctl" name="get_local_ifr_ioctl">
+<area shape="rect" id="node2" href="$d0/dea/group__bip__settings__interface.html#ga09d907d299d53021c753573d956ea875" title="Issue a specific request foor an interface via an ioctl() call. " alt="" coords="193,5,359,46"/>
+<area shape="rect" id="node3" href="$d0/dea/group__bip__settings__interface.html#gafd656e23747f3577cf40a5a360d9f13a" title="Gets the local IP address and local broadcast address from the system, and saves it into the BACnet/I..." alt="" coords="409,12,543,39"/>
+<area shape="rect" id="node4" href="$d6/ded/classCBacnetIpSettings.html#abfd0311546441a9a3eb4d25ec328d0c3" title="Initialize the data in this application by reading the OOB data. " alt="" coords="592,5,741,46"/>
+</map>

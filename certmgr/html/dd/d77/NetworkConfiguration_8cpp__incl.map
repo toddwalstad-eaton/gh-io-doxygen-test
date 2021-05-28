@@ -1,0 +1,6 @@
+<map id="certmgr/certmanagd/src/NetworkConfiguration.cpp" name="certmgr/certmanagd/src/NetworkConfiguration.cpp">
+<area shape="rect" id="node2" href="$d9/d8e/NetworkConfiguration_8hpp.html" title="Representation of the configuration of the network for certificate managment. " alt="" coords="5,104,197,131"/>
+<area shape="rect" id="node7" href="$df/d1b/Tools_8hpp.html" title="tools for certificate managment " alt="" coords="488,104,571,131"/>
+<area shape="rect" id="node13" href="$d0/d82/Log_8hpp.html" title="function to log the activity inside using syslog with the facility code daemon " alt="" coords="595,104,668,131"/>
+<area shape="rect" id="node15" href="$d3/d52/DaemonConfiguration_8hpp.html" title="Representation of the configuration for the Daemon certificate management (singleton) ..." alt="" coords="272,104,464,131"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CWaveformService::check_waveform_state" name="CWaveformService::check_waveform_state">
+<area shape="rect" id="node2" href="$d3/dd8/classCWaveformState.html#ad345f55a5c79c4201be2c9c64cab9856" title="Check if the waveform state file is OK. " alt="" coords="245,23,424,65"/>
+<area shape="rect" id="node3" href="$d3/dd8/classCWaveformState.html#abc5cbc85e4ddd94de1dfc6a8c7fbc2dc" title="CWaveformState::read_file" alt="" coords="473,31,669,57"/>
+<area shape="rect" id="node4" href="$d3/dd8/classCWaveformState.html#aaca01b8c95fc8b6b92da1c41c873a8d7" title="CWaveformState::from_json" alt="" coords="719,5,924,32"/>
+<area shape="rect" id="node5" href="$d3/dd8/classCWaveformState.html#ab4e26f2fccabb6ae1f16b077d80c7ba5" title="CWaveformState::delete_file" alt="" coords="717,56,925,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="IotDeviceCommand::handle_query_images" name="IotDeviceCommand::handle_query_images">
+<area shape="rect" id="node2" href="$d3/ddf/classIotDeviceCommand.html#a17504c7be84eca59d324ee1d615e33fb" title="Utility function to unpack the command params and put them into our _cmd_params map. " alt="" coords="257,5,463,46"/>
+<area shape="rect" id="node3" href="$d3/ddf/classIotDeviceCommand.html#ad82a3fb33c2c66dde4230ee9b5ec4c1e" title="Set the message in commandResponse after checking the memory allocated. " alt="" coords="271,70,449,111"/>
+</map>

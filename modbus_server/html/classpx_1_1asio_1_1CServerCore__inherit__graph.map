@@ -1,0 +1,4 @@
+<map id="CServerCore" name="CServerCore">
+<area shape="rect" id="node2" href="$classCModbusServer.html" title="Server core class. " alt="" coords="5,131,163,355"/>
+<area shape="rect" id="node3" href="$classMockCore.html" title="Mock the Modbus Server Core interface. " alt="" coords="5,403,163,525"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CDeviceService::get_devices" name="CDeviceService::get_devices">
+<area shape="rect" id="node2" href="$d6/d71/classCModbusTcpPort.html#a9dd6e9eb42463f8da3cc59fd250d9280" title="(Virtual) Factory method to create the port &quot;Connection&quot; Actor (eg, CSerialConnection). " alt="" coords="209,5,386,46"/>
+<area shape="rect" id="node3" href="$df/d6f/classCSerialPort.html#ab1ee4bdac0dc016bf4da24822f61c30e" title="Initialize this port&#39;s devices and their configuration, and add these to the port&#39;s device list..." alt="" coords="218,70,377,111"/>
+</map>

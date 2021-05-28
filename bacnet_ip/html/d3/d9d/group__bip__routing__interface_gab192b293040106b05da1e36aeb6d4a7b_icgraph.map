@@ -1,0 +1,7 @@
+<map id="set_current_device_idx" name="set_current_device_idx">
+<area shape="rect" id="node2" href="$d9/dd7/classCBacnetDeviceObject.html#a8fe2aa76c324462ea6ebc0b223957914" title="Broadcasts an I&#45;Am for this object. " alt="" coords="264,5,427,46"/>
+<area shape="rect" id="node4" href="$da/d44/group__bac__obj__interface.html#gaa50f50012701060a8832ff64ecc72ec3" title="Looks up the requested Object in the &quot;current&quot; device, and fills the Property Value list with the pre..." alt="" coords="248,71,443,97"/>
+<area shape="rect" id="node5" href="$d9/dc2/classCBacnetRouting.html#a26b0ad15c2703aa28f6626acdcca7bcf" title="Constructor, which initializes our access to CDS and class data. " alt="" coords="227,121,463,148"/>
+<area shape="rect" id="node6" href="$d3/d9d/group__bip__routing__interface.html#gad96261731b8474533d85924282ad8bef" title="Find the next Gateway or Routed Device at the given dest&#45;&gt;adr[] MAC address, starting the search at t..." alt="" coords="255,172,435,199"/>
+<area shape="rect" id="node3" href="$d0/d58/classCBacnetIpHandler.html#ab3acaa7dd3625f151d768ac06a71f147" title="Broadcast BACnet/IP I&#45;Ams for all devices and I&#45;Am&#45;Router&#45;to&#45;Network. " alt="" coords="512,5,691,46"/>
+</map>

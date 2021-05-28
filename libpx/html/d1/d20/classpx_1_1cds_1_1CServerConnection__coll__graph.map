@@ -1,0 +1,7 @@
+<map id="px::cds::CServerConnection" name="px::cds::CServerConnection">
+<area shape="rect" id="node5" href="$dd/d57/classpx_1_1CBitset.html" title="{px::CBitset\&lt; px::permissions \&gt;\n||+ CBitset()\l+ get()\l+ set()\l+ reset()\l+ mask_set()\l+ mask_clear()\l+ mask()\l+ empty()\l+ operator==()\l+ operator!=()\land 11 more...\l+ size()\l+ nbytes()\l}" alt="" coords="380,635,607,888"/>
+<area shape="rect" id="node10" href="$dd/d57/classpx_1_1CBitset.html" title="Stores a bit&#45;field of flags defined by an enumerated type. " alt="" coords="472,317,603,571"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="589,5,712,83"/>
+<area shape="rect" id="node13" title="STL class. " alt="" coords="741,405,923,483"/>
+<area shape="rect" id="node19" title="STL class. " alt="" coords="1358,405,1487,483"/>
+</map>

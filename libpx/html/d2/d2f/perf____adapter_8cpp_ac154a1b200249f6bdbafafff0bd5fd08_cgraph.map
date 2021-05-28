@@ -1,0 +1,51 @@
+<map id="BOOST_AUTO_TEST_CASE" name="BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$dd/d42/namespacepx_1_1db.html#a430af8388568fb169667e1ecb54c04ca" title="Set up a CBatch update to the channel database. " alt="" coords="486,341,685,367"/>
+<area shape="rect" id="node23" href="$dd/d42/namespacepx_1_1db.html#ac89825bd65a3662d17b2ba0fcc2912f1" title="Set up a CBatch update to the device database. " alt="" coords="490,653,681,679"/>
+<area shape="rect" id="node27" href="$dd/d42/namespacepx_1_1db.html#a708cb3f5e4608bfa09bf05dc3a8055e3" title="Allocate device IDs. " alt="" coords="247,1050,436,1077"/>
+<area shape="rect" id="node33" href="$dd/d42/namespacepx_1_1db.html#aef84a690e2c78d11698ce19d0027c6cd" title="Double&#45;check the ID database against the channel and device DBs, update the last&#45;issued ID to be high..." alt="" coords="758,1117,901,1143"/>
+<area shape="rect" id="node36" href="$d2/d2f/perf____adapter_8cpp.html#a67e15968dbf4ffdd7b32f0bb52742a64" title="get_dname" alt="" coords="294,1101,389,1127"/>
+<area shape="rect" id="node24" href="$d6/d5b/classpx_1_1CDevice.html#ab836878b0d7f55ad3d16b937994f3df0" title="Getter for device ID. " alt="" coords="769,762,889,789"/>
+<area shape="rect" id="node29" href="$db/d6e/classpx_1_1db_1_1CKeyValueStore.html#a925ab8f28998f4779270d15caa9a0b9a" title="Get an iterator into the database. " alt="" coords="973,1847,1147,1888"/>
+<area shape="rect" id="node37" href="$dd/d42/namespacepx_1_1db.html#ad75dbada9c2906c339d881bcd5b64727" title="px::db::MigrateChannelDB" alt="" coords="246,1455,437,1482"/>
+<area shape="rect" id="node46" href="$dd/d42/namespacepx_1_1db.html#ab4055838ad2810a85a19859c78ed63cb" title="px::db::MigrateDeviceDB" alt="" coords="250,1953,433,1979"/>
+<area shape="rect" id="node50" href="$dd/d42/namespacepx_1_1db.html#a7837adf73ea497822688d1a4a4d6664c" title="px::db::MigrateIDDB" alt="" coords="265,1303,417,1330"/>
+<area shape="rect" id="node32" href="$db/d6e/classpx_1_1db_1_1CKeyValueStore.html#a5c32e184d847c23204af9388122e1218" title="Write a batch of updates to the database. " alt="" coords="973,1764,1147,1805"/>
+<area shape="rect" id="node3" href="$d0/df1/classpx_1_1CChannel.html#a1e10e9dd969a77b9cf1cb05d59214572" title="Retreive unique channel ID. " alt="" coords="765,341,893,367"/>
+<area shape="rect" id="node4" href="$d0/df1/classpx_1_1CChannel.html#aee5adde61cbc85711a9d17ba03f195e5" title="Create protobuf object. " alt="" coords="765,55,894,82"/>
+<area shape="rect" id="node5" href="$dd/d42/namespacepx_1_1db.html#a8b00be9118b4d9267e6fbad61bafdcbd" title="Get an MCL entry, in the form of a channel protobuf. " alt="" coords="747,1218,912,1245"/>
+<area shape="rect" id="node15" href="$d4/d8a/classpx_1_1CProtoOPS.html#a5f54e3a759a29bbe35041818f233d11e" title="List all fields set in &quot;ref&quot; but not in &quot;pb&quot;. " alt="" coords="737,107,921,148"/>
+<area shape="rect" id="node16" href="$d4/d8a/classpx_1_1CProtoOPS.html#a36ef6667d04120f6e8805c225e0670f6" title="Remove any fields from &quot;pb&quot; containing the same values as &quot;ref&quot;. " alt="" coords="741,173,918,199"/>
+<area shape="rect" id="node17" href="$d0/df1/classpx_1_1CChannel.html#a576ad97e2be4c0f72bfe8c63f1bee7ad" title="px::CChannel::get_own\l_state" alt="" coords="744,224,915,265"/>
+<area shape="rect" id="node18" href="$dd/d57/classpx_1_1CBitset.html#a08db492abafd7512bfb4fe26bc459356" title="Initialize a protobuf message object from this bitset. " alt="" coords="772,493,887,519"/>
+<area shape="rect" id="node19" href="$db/dd9/classpx_1_1CValue.html#a2bf2af6e6d3bcc5bd7afe4ad7e9c3022" title="Internal conversion to alternate type. " alt="" coords="773,290,885,317"/>
+<area shape="rect" id="node20" href="$d6/d4e/classpx_1_1CTimestamp.html#a53e085363ec11eef704d9a99f1d82c69" title="Initialize a protobuf Timestamp object from this value. " alt="" coords="754,442,905,469"/>
+<area shape="rect" id="node21" href="$dd/d42/namespacepx_1_1db.html#afc70b7f9d0faa92257df2f1e52f4346d" title="Convert 64&#45;bit unsigned integer to 8 bytes big&#45;endian. " alt="" coords="981,789,1139,815"/>
+<area shape="rect" id="node22" href="$dc/d98/classpx_1_1db_1_1CBatch.html#a240b1211fde470356f1d8e029004d4ec" title="Add an entry (key/value row) to the database. " alt="" coords="986,839,1134,866"/>
+<area shape="rect" id="node6" href="$d3/dc9/classpx_1_1db_1_1CBlobHolder.html#a083dd8b7393e2473999db53d87c8cb6e" title="Append data to the blob. " alt="" coords="985,1227,1135,1268"/>
+<area shape="rect" id="node7" href="$d9/ddb/classpx_1_1db_1_1CIterator.html#a7f699fe8e81ed5de7f275f4ec8a47c6e" title="Find the first entry &gt;= the given key in the table/database. " alt="" coords="977,1058,1143,1085"/>
+<area shape="rect" id="node9" href="$d1/d2c/structpx_1_1generic__err.html#ab55d991a1469e98c5d79a27d1b93b4d6" title="px::generic_err::what" alt="" coords="981,1293,1139,1319"/>
+<area shape="rect" id="node10" href="$d9/ddb/classpx_1_1db_1_1CIterator.html#a345f2f820dc5c7d529b4e1da1021090d" title="Is the iterator valid? " alt="" coords="993,1409,1127,1451"/>
+<area shape="rect" id="node11" href="$d9/ddb/classpx_1_1db_1_1CIterator.html#a876a0a69bc43a66be463bdd35d1df3fe" title="Get length of key value for the current iterator position. " alt="" coords="993,891,1127,932"/>
+<area shape="rect" id="node12" href="$d9/ddb/classpx_1_1db_1_1CIterator.html#a1ed7d8479482c9a813182167b5f5670b" title="Get pointer to key value for the current iterator position. " alt="" coords="993,1344,1127,1385"/>
+<area shape="rect" id="node13" href="$d9/ddb/classpx_1_1db_1_1CIterator.html#a2de322e636199a970a91da1d30354bce" title="Get pointer to value value for the current iterator position. " alt="" coords="993,1475,1127,1516"/>
+<area shape="rect" id="node14" href="$d9/ddb/classpx_1_1db_1_1CIterator.html#adcedcd7a91186b6a68fbdf5eec94a2f7" title="Get length of value value for the current iterator position. " alt="" coords="993,1540,1127,1581"/>
+<area shape="rect" id="node8" href="$d3/dc9/classpx_1_1db_1_1CBlobHolder.html#a317052482c1e83504ebabba6e03f86c2" title="Get a LevelDB slice referring to this blob. " alt="" coords="1195,1686,1375,1713"/>
+<area shape="rect" id="node25" href="$d6/d5b/classpx_1_1CDevice.html#a3fe65f60bec8278eeaf05b6d5daea3b2" title="Initialize a protobuf Device object from this Device. " alt="" coords="769,711,890,738"/>
+<area shape="rect" id="node26" href="$d6/d5b/classpx_1_1CDevice.html#a04de4b78f3899cfbd18686e8f4e87e9d" title="px::CDevice::get_own\l_state" alt="" coords="748,645,911,687"/>
+<area shape="rect" id="node28" href="$dd/d42/namespacepx_1_1db.html#ab72151bb0e3c48f309add250b71856b8" title="px::db::allocate_ids" alt="" coords="755,1066,903,1093"/>
+<area shape="rect" id="node30" href="$dd/d42/namespacepx_1_1db.html#a8f88884d3c2c1e8742d84127c643887a" title="px::db::buf_to_u64be" alt="" coords="981,1007,1139,1034"/>
+<area shape="rect" id="node31" href="$dd/d42/namespacepx_1_1db.html#acf853b7ce97adf0d46f786119548dc14" title="px::db::buf_to_u32be" alt="" coords="1206,957,1365,983"/>
+<area shape="rect" id="node34" href="$d9/ddb/classpx_1_1db_1_1CIterator.html#a875237bff574451cc0bbe5738bdf56ee" title="Find the last entry in the table/database. " alt="" coords="981,1175,1139,1202"/>
+<area shape="rect" id="node35" href="$d3/dc9/classpx_1_1db_1_1CBlobHolder.html#aa379d49e427c655520eb8d33053c09e2" title="Clear/reset the blob&#39;s current value. " alt="" coords="985,1109,1135,1151"/>
+<area shape="rect" id="node38" href="$dd/d42/namespacepx_1_1db.html#a721672afeb1ee18749143e1c1443f62a" title="Get/set schema version for a database. " alt="" coords="489,1405,682,1431"/>
+<area shape="rect" id="node41" href="$d9/ddb/classpx_1_1db_1_1CIterator.html#a434fd27eeed52b354e0ee1147cffed2d" title="Find the first entry in the table/database. " alt="" coords="518,1760,653,1801"/>
+<area shape="rect" id="node42" href="$dd/d57/classpx_1_1CBitset.html#a26e16c0d4766404badb5fb2c3a2c585d" title="Assign this object&#39;s bitset based on a protobuf message object. " alt="" coords="519,1303,651,1330"/>
+<area shape="rect" id="node43" href="$d0/df1/classpx_1_1CChannel.html#a0c80714e0adbd0fe0589a44116e42d76" title="Set the channel&#39;s own_state. " alt="" coords="497,1202,673,1229"/>
+<area shape="rect" id="node39" href="$dd/d42/namespacepx_1_1db.html#aba58c266158ad63cf3a6669098ec05ee" title="px::db::SetSchemaVersion" alt="" coords="734,1522,925,1549"/>
+<area shape="rect" id="node44" href="$db/d6e/classpx_1_1db_1_1CKeyValueStore.html#acdc3edf507cabe46b2f300dd16fbab8c" title="Compact the database from begin_key to end_key. " alt="" coords="499,2029,672,2071"/>
+<area shape="rect" id="node40" href="$dd/d42/namespacepx_1_1db.html#aae7d454e296e7215f76964c7a9229217" title="Convert 32&#45;bit unsigned integer to 4 bytes big&#45;endian. " alt="" coords="981,1606,1139,1633"/>
+<area shape="rect" id="node45" href="$d3/dc9/classpx_1_1db_1_1CBlobHolder.html#ae23f62eb28dc9d343999870666145e9f" title="Get the current size of the blob. " alt="" coords="754,2029,905,2071"/>
+<area shape="rect" id="node47" href="$d6/d5b/classpx_1_1CDevice.html#a806bd549a06559074ccae14be9afd925" title="Set the device&#39;s own_state. " alt="" coords="501,2197,669,2223"/>
+<area shape="rect" id="node48" href="$d6/d5b/classpx_1_1CDevice.html#af415b4387c92c27e7c05585954a754a7" title="px::CDevice::set_inherited\l_state" alt="" coords="489,2248,682,2289"/>
+<area shape="rect" id="node49" href="$d9/d7d/classpx_1_1CWallTime.html#a4452bc7e8e4fbb8c976f5763269593e7" title="Factory function to create a new CWallTime instance set to &quot;now&quot;. " alt="" coords="510,2314,661,2341"/>
+</map>

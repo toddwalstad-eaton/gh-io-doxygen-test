@@ -1,0 +1,31 @@
+<map id="value_accumulator.hpp" name="value_accumulator.hpp">
+<area shape="rect" id="node2" href="$d4/d05/trend__accumulator_8hpp.html" title="trend_accumulator.hpp" alt="" coords="1643,80,1813,107"/>
+<area shape="rect" id="node26" href="$d9/d98/value__accumulator_8cpp.html" title="value_accumulator.cpp" alt="" coords="2083,320,2255,347"/>
+<area shape="rect" id="node3" href="$db/d20/channel_8hpp.html" title="channel.hpp" alt="" coords="997,155,1099,181"/>
+<area shape="rect" id="node25" href="$db/dde/trend__accumulator_8cpp.html" title="trend_accumulator.cpp" alt="" coords="1428,320,1599,347"/>
+<area shape="rect" id="node4" href="$dc/d43/create__channel_8hpp.html" title="create_channel.hpp" alt="" coords="159,237,308,264"/>
+<area shape="rect" id="node10" href="$d0/d3f/execute__device__command_8hpp.html" title="execute_device_command.hpp" alt="" coords="1467,237,1691,264"/>
+<area shape="rect" id="node18" href="$df/d4b/get__channel_8hpp.html" title="get_channel.hpp" alt="" coords="5,237,133,264"/>
+<area shape="rect" id="node19" href="$d2/dd7/get__device__command__result_8hpp.html" title="get_device_command\l_result.hpp" alt="" coords="1277,230,1443,271"/>
+<area shape="rect" id="node20" href="$d3/ddd/get__device__commands_8hpp.html" title="get_device_commands.hpp" alt="" coords="332,237,532,264"/>
+<area shape="rect" id="node21" href="$d1/ddd/set__device__command__result_8hpp.html" title="set_device_command\l_result.hpp" alt="" coords="557,230,720,271"/>
+<area shape="rect" id="node22" href="$dc/ddb/set__device__commands_8hpp.html" title="set_device_commands.hpp" alt="" coords="745,237,943,264"/>
+<area shape="rect" id="node23" href="$d8/df9/subscriber__notify_8hpp.html" title="subscriber_notify.hpp" alt="" coords="968,237,1128,264"/>
+<area shape="rect" id="node24" href="$d6/dca/adapter_8hpp.html" title="adapter.hpp" alt="" coords="1765,237,1864,264"/>
+<area shape="rect" id="node30" href="$dd/d5f/channel_8cpp.html" title="channel.cpp" alt="" coords="1153,237,1252,264"/>
+<area shape="rect" id="node5" href="$d9/d5e/cds__api__objects_8hpp.html" title="Include all definitions of CDS API object types. " alt="" coords="665,320,817,347"/>
+<area shape="rect" id="node7" href="$db/db1/cds__handler_8cpp.html" title="cds_handler.cpp" alt="" coords="494,544,620,571"/>
+<area shape="rect" id="node8" href="$db/d78/cds__sync__io_8cpp.html" title="cds_sync_io.cpp" alt="" coords="670,469,796,496"/>
+<area shape="rect" id="node9" href="$d6/d86/perf____requests_8cpp.html" title="perf__requests.cpp" alt="" coords="159,320,304,347"/>
+<area shape="rect" id="node6" href="$de/d18/packer_8cpp.html" title="packer.cpp" alt="" coords="695,395,787,421"/>
+<area shape="rect" id="node11" href="$da/ddd/cds__types_8hpp.html" title="Define a set of typedefs for the CDS protobuf messages that provide terser labeling of these commonly..." alt="" coords="1239,320,1353,347"/>
+<area shape="rect" id="node12" href="$df/d9c/cds__handler_8hpp.html" title="cds_handler.hpp" alt="" coords="983,469,1109,496"/>
+<area shape="rect" id="node17" href="$d7/dc6/cds__sync__io_8hpp.html" title="cds_sync_io.hpp" alt="" coords="983,395,1111,421"/>
+<area shape="rect" id="node13" href="$d2/d46/test__utils_8hpp.html" title="test_utils.hpp" alt="" coords="1099,544,1209,571"/>
+<area shape="rect" id="node14" href="$db/d1a/cds__connection_8cpp.html" title="cds_connection.cpp" alt="" coords="1235,544,1384,571"/>
+<area shape="rect" id="node15" href="$dc/d45/cds__connection__callback_8cpp.html" title="cds_connection_callback.cpp" alt="" coords="715,544,925,571"/>
+<area shape="rect" id="node16" href="$d3/daa/io__manager_8cpp.html" title="io_manager.cpp" alt="" coords="949,544,1075,571"/>
+<area shape="rect" id="node27" href="$d7/d3d/adapter_8cpp.html" title="adapter.cpp" alt="" coords="1623,320,1721,347"/>
+<area shape="rect" id="node28" href="$d2/d2f/perf____adapter_8cpp.html" title="perf__adapter.cpp" alt="" coords="1745,320,1884,347"/>
+<area shape="rect" id="node29" href="$d0/d1f/minutes__trigger_8cpp.html" title="minutes_trigger.cpp" alt="" coords="1909,320,2059,347"/>
+</map>

@@ -1,0 +1,39 @@
+<map id="alarm_trigger_type.hpp" name="alarm_trigger_type.hpp">
+<area shape="rect" id="node2" href="$dc/d45/alarm__trigger_8hpp.html" title="alarm_trigger.hpp" alt="" coords="1859,80,1996,107"/>
+<area shape="rect" id="node38" href="$d5/d9d/alarm__trigger__type_8cpp.html" title="alarm_trigger_type.cpp" alt="" coords="2021,80,2195,107"/>
+<area shape="rect" id="node3" href="$dd/d19/get__alarm__config_8hpp.html" title="get_alarm_config.hpp" alt="" coords="2008,155,2171,181"/>
+<area shape="rect" id="node7" href="$d5/dad/alarm__update_8hpp.html" title="alarm_update.hpp" alt="" coords="422,155,561,181"/>
+<area shape="rect" id="node26" href="$db/d20/channel_8hpp.html" title="channel.hpp" alt="" coords="1717,155,1819,181"/>
+<area shape="rect" id="node37" href="$d7/df4/alarm__trigger_8cpp.html" title="alarm_trigger.cpp" alt="" coords="2195,155,2331,181"/>
+<area shape="rect" id="node4" href="$d9/d5e/cds__api__objects_8hpp.html" title="Include all definitions of CDS API object types. " alt="" coords="1589,320,1741,347"/>
+<area shape="rect" id="node6" href="$de/dd1/set__alarm__config_8hpp.html" title="set_alarm_config.hpp" alt="" coords="2293,237,2453,264"/>
+<area shape="rect" id="node5" href="$de/d18/packer_8cpp.html" title="packer.cpp" alt="" coords="1619,395,1711,421"/>
+<area shape="rect" id="node8" href="$df/d9c/cds__handler_8hpp.html" title="cds_handler.hpp" alt="" coords="765,469,891,496"/>
+<area shape="rect" id="node14" href="$d7/dc6/cds__sync__io_8hpp.html" title="cds_sync_io.hpp" alt="" coords="764,395,892,421"/>
+<area shape="rect" id="node16" href="$df/d45/get__alarms_8hpp.html" title="get_alarms.hpp" alt="" coords="497,237,620,264"/>
+<area shape="rect" id="node17" href="$de/d6a/insert__alarm__updates_8hpp.html" title="insert_alarm_updates.hpp" alt="" coords="1266,237,1456,264"/>
+<area shape="rect" id="node18" href="$d8/df9/subscriber__notify_8hpp.html" title="subscriber_notify.hpp" alt="" coords="1081,237,1241,264"/>
+<area shape="rect" id="node19" href="$d6/dca/adapter_8hpp.html" title="adapter.hpp" alt="" coords="375,237,473,264"/>
+<area shape="rect" id="node25" href="$d2/df0/alarm__update_8cpp.html" title="alarm_update.cpp" alt="" coords="212,237,351,264"/>
+<area shape="rect" id="node9" href="$d2/d46/test__utils_8hpp.html" title="test_utils.hpp" alt="" coords="451,544,561,571"/>
+<area shape="rect" id="node10" href="$db/d1a/cds__connection_8cpp.html" title="cds_connection.cpp" alt="" coords="587,544,736,571"/>
+<area shape="rect" id="node11" href="$dc/d45/cds__connection__callback_8cpp.html" title="cds_connection_callback.cpp" alt="" coords="760,544,971,571"/>
+<area shape="rect" id="node12" href="$db/db1/cds__handler_8cpp.html" title="cds_handler.cpp" alt="" coords="1182,544,1308,571"/>
+<area shape="rect" id="node13" href="$d3/daa/io__manager_8cpp.html" title="io_manager.cpp" alt="" coords="995,544,1120,571"/>
+<area shape="rect" id="node15" href="$db/d78/cds__sync__io_8cpp.html" title="cds_sync_io.cpp" alt="" coords="1081,469,1207,496"/>
+<area shape="rect" id="node20" href="$db/dde/trend__accumulator_8cpp.html" title="trend_accumulator.cpp" alt="" coords="524,320,695,347"/>
+<area shape="rect" id="node21" href="$d9/d98/value__accumulator_8cpp.html" title="value_accumulator.cpp" alt="" coords="719,320,891,347"/>
+<area shape="rect" id="node22" href="$d7/d3d/adapter_8cpp.html" title="adapter.cpp" alt="" coords="63,320,161,347"/>
+<area shape="rect" id="node23" href="$d2/d2f/perf____adapter_8cpp.html" title="perf__adapter.cpp" alt="" coords="185,320,324,347"/>
+<area shape="rect" id="node24" href="$d0/d1f/minutes__trigger_8cpp.html" title="minutes_trigger.cpp" alt="" coords="349,320,499,347"/>
+<area shape="rect" id="node27" href="$dc/d43/create__channel_8hpp.html" title="create_channel.hpp" alt="" coords="2632,237,2781,264"/>
+<area shape="rect" id="node29" href="$d0/d3f/execute__device__command_8hpp.html" title="execute_device_command.hpp" alt="" coords="644,237,868,264"/>
+<area shape="rect" id="node31" href="$df/d4b/get__channel_8hpp.html" title="get_channel.hpp" alt="" coords="2478,237,2607,264"/>
+<area shape="rect" id="node32" href="$d2/dd7/get__device__command__result_8hpp.html" title="get_device_command\l_result.hpp" alt="" coords="892,230,1057,271"/>
+<area shape="rect" id="node33" href="$d3/ddd/get__device__commands_8hpp.html" title="get_device_commands.hpp" alt="" coords="1892,237,2092,264"/>
+<area shape="rect" id="node34" href="$d1/ddd/set__device__command__result_8hpp.html" title="set_device_command\l_result.hpp" alt="" coords="1481,230,1644,271"/>
+<area shape="rect" id="node35" href="$dc/ddb/set__device__commands_8hpp.html" title="set_device_commands.hpp" alt="" coords="1669,237,1867,264"/>
+<area shape="rect" id="node36" href="$dd/d5f/channel_8cpp.html" title="channel.cpp" alt="" coords="2117,237,2216,264"/>
+<area shape="rect" id="node28" href="$d6/d86/perf____requests_8cpp.html" title="perf__requests.cpp" alt="" coords="2470,320,2615,347"/>
+<area shape="rect" id="node30" href="$da/ddd/cds__types_8hpp.html" title="Define a set of typedefs for the CDS protobuf messages that provide terser labeling of these commonly..." alt="" coords="1017,320,1132,347"/>
+</map>

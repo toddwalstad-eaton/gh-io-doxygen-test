@@ -1,0 +1,15 @@
+<map id="CThreadCommand" name="CThreadCommand">
+<area shape="rect" id="node2" href="$classCThreadConsumeStageDBs.html" title="Move any stage DBs to bucket, whose indices (day numbers) are less than the provided cutoff..." alt="" coords="197,5,397,32"/>
+<area shape="rect" id="node3" href="$classCThreadDeleteAlarms.html" title="Delete specified alarms from persistent storage. " alt="" coords="215,56,380,83"/>
+<area shape="rect" id="node4" href="$classCThreadExportConfig.html" title="Process the entirety of the CExportConfig CDS API, including sending the response. " alt="" coords="218,107,377,133"/>
+<area shape="rect" id="node5" href="$classCThreadForgetThis.html" title="Delete specified devices, channels, OOB objects from persistent storage. " alt="" coords="225,157,369,184"/>
+<area shape="rect" id="node6" href="$classCThreadImportTrend.html" title="Import the trends to the stage and/or bucket db from a csv file. " alt="" coords="220,208,375,235"/>
+<area shape="rect" id="node7" href="$classCThreadLevelupRolloff.html" title="Perform trend bucket database levelup/rolloff. " alt="" coords="213,259,381,285"/>
+<area shape="rect" id="node8" href="$classCThreadPersistThis.html" title="Save some device, channel, and/or OOB&#45;data objects to persistent storage. " alt="" coords="224,309,371,336"/>
+<area shape="rect" id="node9" href="$classCThreadPostAlarmUpdates.html" title="Write these alarm updates into the persistent database, updating the index as necessary. " alt="" coords="199,360,396,387"/>
+<area shape="rect" id="node10" href="$classCThreadQueryAlarms.html" title="Query the persistent database for alarms per the parameters of the included CGetAlarms message..." alt="" coords="217,411,378,437"/>
+<area shape="rect" id="node11" href="$classCThreadQueryTrends.html" title="Query the persistent database for trends per the parameters of the included CQueryTrends message..." alt="" coords="219,461,376,488"/>
+<area shape="rect" id="node12" href="$classCThreadQuit.html" title="Thread quit command class forces the worker thread to stop. " alt="" coords="246,512,349,539"/>
+<area shape="rect" id="node13" href="$classCThreadSetVerbosity.html" title="Set the worker thread&#39;s logging verbosity level &#45; a command is required for this, since it has to be ..." alt="" coords="218,563,377,589"/>
+<area shape="rect" id="node14" href="$classCThreadUpdateTrendStage.html" title="Represents the thread command to update the trend stage. " alt="" coords="200,613,395,640"/>
+</map>

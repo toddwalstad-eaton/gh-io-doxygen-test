@@ -1,0 +1,4 @@
+<map id="CIoTransactor" name="CIoTransactor">
+<area shape="rect" id="node2" href="$de/d40/classCWsConnection.html" title="Class to handle one Websocket connection, SSL or non&#45;SSL. " alt="" coords="5,131,173,546"/>
+<area shape="rect" id="node3" href="$d1/d1e/classMockIoTransactor.html" title="Mock the IO Transactor interface. " alt="" coords="197,212,368,465"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CTcpProtocolHandler::~CTcpProtocolHandler" name="CTcpProtocolHandler::~CTcpProtocolHandler">
+<area shape="rect" id="node2" href="$db/dd8/classCTcpProtocolHandler.html#a40e77aab51a34219d6d7cd90c28203d8" title="inharited from CProtocolHandler. " alt="" coords="230,38,386,79"/>
+<area shape="rect" id="node3" href="$d6/dee/classCMercuryProtocolHandler.html#a9d098d4dfc32011b0d1b6363ed22165e" title="inharited from CProtocolHandler. " alt="" coords="435,38,621,79"/>
+<area shape="rect" id="node4" href="$d6/dee/classCMercuryProtocolHandler.html#af22def049de0abd4b0ee74d4446c06e6" title="Clean up all subscriptions, prepare for user logout, initiated from CDS, or from end users..." alt="" coords="669,5,856,46"/>
+<area shape="rect" id="node6" href="$d6/dee/classCMercuryProtocolHandler.html#a5fe579b10f6da8a77fd82e972a285a8f" title="Gets access to the connection session manager in the core. " alt="" coords="669,70,856,111"/>
+<area shape="rect" id="node5" href="$d6/dee/classCMercuryProtocolHandler.html#a9125075cb1ab62e3100b5f4f94fbeb72" title="Get a handle to the cds. " alt="" coords="904,5,1091,46"/>
+</map>

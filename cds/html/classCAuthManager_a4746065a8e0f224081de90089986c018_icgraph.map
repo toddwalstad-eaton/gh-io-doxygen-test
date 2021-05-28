@@ -1,0 +1,8 @@
+<map id="CAuthManager::htdigest_hash" name="CAuthManager::htdigest_hash">
+<area shape="rect" id="node2" href="$classCAuthManager.html#a85b5870678ebb08c84dcf9a1d3cbb6aa" title="Checks if the given string password matches given hash password. " alt="" coords="269,38,456,79"/>
+<area shape="rect" id="node3" href="$classCAuthManager.html#ae22812def60fa13bea7e10043180d06b" title="Looks for the given password in the password history of the user. " alt="" coords="531,5,680,46"/>
+<area shape="rect" id="node6" href="$classCAuthManager.html#ad2f9a31177a8eb0154ec2c998c0e4944" title="Check a user&#39;s plain text password. " alt="" coords="504,70,707,111"/>
+<area shape="rect" id="node4" href="$classCAuthManager.html#a51e0a14d469929e487393244ccd81f46" title="Checks for password policy fulfillment. " alt="" coords="765,5,952,46"/>
+<area shape="rect" id="node5" href="$classCAuthManager.html#ad0acbd206b9b1a3dc330070ba39bd31b" title="Set a user&#39;s plain&#45;text password. " alt="" coords="1011,12,1248,39"/>
+<area shape="rect" id="node7" href="$classCAuthManager.html#a402fd33cfc7bc2ae62474c95b079fbf9" title="Authenticate a user, given plain&#45;text password. " alt="" coords="755,70,963,111"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CBbbTricolorLED::subscribe_channel" name="CBbbTricolorLED::subscribe_channel">
+<area shape="rect" id="node2" href="$d8/d4b/classCBbbTricolorLED.html#ad0c06440b8a1fcf7d8d1139df9691ba6" title="The callback function invoked when this Channel&#39;s Value is written to. " alt="" coords="254,23,437,65"/>
+<area shape="rect" id="node3" href="$d8/d4b/classCBbbTricolorLED.html#abbafd217a50f2181b6dc64856a8de660" title="Get the text for a color from the numeric value. " alt="" coords="486,5,687,32"/>
+<area shape="rect" id="node4" href="$da/dad/classCBbbGpioCore.html#ac3d9dfabd264f526d6d2bbf417c4a4b7" title="Set the given GPIO output to active (high, 1) or inactive (low, 0) (Some implementations may take the..." alt="" coords="497,56,676,83"/>
+</map>

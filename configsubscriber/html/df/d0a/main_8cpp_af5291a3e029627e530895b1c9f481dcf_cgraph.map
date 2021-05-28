@@ -1,0 +1,5 @@
+<map id="svr_main" name="svr_main">
+<area shape="rect" id="node2" href="$d9/dee/classCConfigsubscriber.html#ae27eb8a7a274baee254cbf8019cad993" title="Execute the server core&#39;s main loop. " alt="" coords="136,5,283,46"/>
+<area shape="rect" id="node4" href="$d9/dee/classCConfigsubscriber.html#acc312e428925ad56729df5041389c7a7" title="Gracefully shut down the server. " alt="" coords="136,70,283,111"/>
+<area shape="rect" id="node3" href="$d4/dac/configsubscriber_8cpp.html#a41bd666ae4d9f66163a6223227ecd218" title="asio_sighandler_extra\l_handler" alt="" coords="331,38,496,79"/>
+</map>

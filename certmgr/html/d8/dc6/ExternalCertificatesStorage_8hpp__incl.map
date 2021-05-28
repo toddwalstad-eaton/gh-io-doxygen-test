@@ -1,0 +1,10 @@
+<map id="certmgr/certmanagd/inc/ExternalCertificatesStorage.hpp" name="certmgr/certmanagd/inc/ExternalCertificatesStorage.hpp">
+<area shape="rect" id="node5" href="$d1/d57/Openssl_8hpp.html" title="Openssl.hpp" alt="" coords="928,96,1030,123"/>
+<area shape="rect" id="node13" href="$df/d56/ServiceConfiguration_8hpp.html" title="Representation of the configuration for a service for certificate managment. " alt="" coords="279,171,464,197"/>
+<area shape="rect" id="node15" href="$dd/d34/ExternalCertificatesAccessor_8hpp.html" title="Extrenal Certificate files accessor which help to get the path of an external certificate and his rel..." alt="" coords="22,96,257,123"/>
+<area shape="rect" id="node17" href="$d2/ddd/CertificateIdList_8hpp.html" title="Containeur for certificates Id base on c++ std::set. " alt="" coords="489,171,641,197"/>
+<area shape="rect" id="node19" href="$d1/d9a/CertificateIdCnMap_8hpp.html" title="Containeur for certificates Id and certificate common name base on c++ std::map. " alt="" coords="498,96,672,123"/>
+<area shape="rect" id="node16" href="$d5/d34/Types_8hpp.html" title="Types certificate managment. " alt="" coords="164,245,250,272"/>
+<area shape="rect" id="node8" href="$d1/dab/certificate_8hpp.html" title="certificate.hpp" alt="" coords="1273,171,1388,197"/>
+<area shape="rect" id="node14" href="$d3/d52/DaemonConfiguration_8hpp.html" title="Representation of the configuration for the Daemon certificate management (singleton) ..." alt="" coords="276,245,468,272"/>
+</map>

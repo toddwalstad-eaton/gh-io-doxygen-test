@@ -1,0 +1,4 @@
+<map id="CDevice::is_wanted_by_subdevice" name="CDevice::is_wanted_by_subdevice">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#a00f0cf46dca1ac48b5f397b435ef867a" title="Called from the Data Block to handle its done state and manage received data. " alt="" coords="440,5,611,46"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#aa4f94d583dbe5bbefb99e3e2693a5399" title="Update the Channels and Internal Parameters with data from a Data Block. " alt="" coords="206,37,391,64"/>
+</map>

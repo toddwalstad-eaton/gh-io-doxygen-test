@@ -1,0 +1,10 @@
+<map id="CParam::initialize_translation" name="CParam::initialize_translation">
+<area shape="rect" id="node2" href="$d4/dab/classCChannel.html#a11e5afc5fa8cb59a139eafdc942299c9" title="Initialize this Channel, and its ChannelSettings, from its EDS information. " alt="" coords="209,5,357,46"/>
+<area shape="rect" id="node3" href="$d4/dab/classCChannel.html#a3149c9e47836222d82b3f3d4675922c0" title="RE&#45;Initialize this Channel, which is already in the CDS, from its EDS information. " alt="" coords="202,70,363,111"/>
+<area shape="rect" id="node8" href="$d9/d07/classCInternalParam.html#a41e8042ceef897236fbf50833c959cb9" title="Initialize this Internal Parameter from its EDS information. " alt="" coords="189,135,376,177"/>
+<area shape="rect" id="node9" href="$d1/ddc/classCCommand.html#a9768dea651078e9b57dd78ffe6083e16" title="Initialize this Command Parameter from its EDS information. " alt="" coords="201,201,364,242"/>
+<area shape="rect" id="node4" href="$d2/d76/classCDevice.html#a62fdb6fcd48d2afe1fa8f77acfb5028f" title="Initialize single channel from eds entry. " alt="" coords="425,70,565,111"/>
+<area shape="rect" id="node5" href="$d2/d76/classCDevice.html#a86e0d795f0cc71ab61e023d4213c36ab" title="Create and initialize the Channels called for by the EDS. " alt="" coords="614,70,754,111"/>
+<area shape="rect" id="node6" href="$d2/d76/classCDevice.html#a1d5a52000fc574354fb3548eb4dcae96" title="Call this function to initialize the Channels and Internal Parameters for this Device. " alt="" coords="803,70,943,111"/>
+<area shape="rect" id="node7" href="$d2/d76/classCDevice.html#accb14c1121791e295ac675fc99b36807" title="Initialize the Data Blocks, Channels, and Internal Parameters for this Device. " alt="" coords="993,70,1133,111"/>
+</map>

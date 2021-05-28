@@ -1,0 +1,5 @@
+<map id="px::db::AddDeleteChannelToBatch" name="px::db::AddDeleteChannelToBatch">
+<area shape="rect" id="node2" href="$d3/dc9/classpx_1_1db_1_1CBlobHolder.html#a083dd8b7393e2473999db53d87c8cb6e" title="Append data to the blob. " alt="" coords="258,5,409,46"/>
+<area shape="rect" id="node3" href="$dc/d98/classpx_1_1db_1_1CBatch.html#afd72087dcce948a0883a933125f378c8" title="Remove entries from the database (the key will be duplicated in the buffer) " alt="" coords="246,71,421,97"/>
+<area shape="rect" id="node4" href="$dd/d42/namespacepx_1_1db.html#afc70b7f9d0faa92257df2f1e52f4346d" title="Convert 64&#45;bit unsigned integer to 8 bytes big&#45;endian. " alt="" coords="254,121,413,148"/>
+</map>

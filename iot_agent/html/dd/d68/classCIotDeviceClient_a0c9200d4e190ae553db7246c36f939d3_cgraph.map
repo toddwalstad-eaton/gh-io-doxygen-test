@@ -1,0 +1,5 @@
+<map id="CIotDeviceClient::~CIotDeviceClient" name="CIotDeviceClient::~CIotDeviceClient">
+<area shape="rect" id="node2" href="$db/db5/classTrendManager.html#aea0fdfcf410dc5a8ccd2fa2cd994e6fa" title="Utility that lets the calling application request the running trend catchup thread to stop..." alt="" coords="199,5,369,46"/>
+<area shape="rect" id="node3" href="$d4/dd8/classBlobUploadManager.html#a9764e96da86d3edf8a1292a42ef88462" title="Utility that lets the calling application request the running blob upload thread to stop..." alt="" coords="203,70,365,111"/>
+<area shape="rect" id="node4" href="$dd/d68/classCIotDeviceClient.html#a6ee7d2a5df5d6a89abee96ff9ab2229d" title="Implementation of the CIoActor method to gracefully close this connection. " alt="" coords="197,136,371,163"/>
+</map>

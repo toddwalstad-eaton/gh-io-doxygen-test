@@ -1,0 +1,4 @@
+<map id="toolkit::ipc::CIPCConnector::init" name="toolkit::ipc::CIPCConnector::init">
+<area shape="rect" id="node2" href="$d6/df1/classtoolkit_1_1ipc_1_1CIPCConnector.html#ac3607c2b871fc7cbd301c1e1b2f5ddf6" title="Allocate a shared memory segment. " alt="" coords="248,5,443,46"/>
+<area shape="rect" id="node3" href="$d6/df1/classtoolkit_1_1ipc_1_1CIPCConnector.html#a06fdc7f354b5fd80b571424bed2534c4" title="Allocate a new eventfd() file descriptor. " alt="" coords="248,70,443,111"/>
+</map>

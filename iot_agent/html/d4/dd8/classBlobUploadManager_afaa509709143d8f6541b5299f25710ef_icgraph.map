@@ -1,0 +1,4 @@
+<map id="BlobUploadManager::get_results" name="BlobUploadManager::get_results">
+<area shape="rect" id="node2" href="$d4/dd8/classBlobUploadManager.html#a725e245abeb217c46613575590c2e18a" title="Execute the blob upload operation by launching a thread for all the pending blob uploads. " alt="" coords="217,5,378,46"/>
+<area shape="rect" id="node3" href="$dd/d68/classCIotDeviceClient.html#ac3e59938659409ee0adee10292047aca" title="Called by the core&#39;s update timer to manage next state / action. " alt="" coords="427,5,610,46"/>
+</map>

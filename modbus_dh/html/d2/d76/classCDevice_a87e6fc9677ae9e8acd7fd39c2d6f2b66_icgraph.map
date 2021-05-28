@@ -1,0 +1,4 @@
+<map id="CDevice::create_subdevice" name="CDevice::create_subdevice">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#afa3c7e83f7b69dcb894ae6f6dc8b417a" title="Process the list of subdevice instances and turn them into &quot;fleshed out&quot; CDevice instances in our arr..." alt="" coords="459,5,688,32"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#aadf71cf602bdc357c2a5eb5252428249" title="Create and add the subdevice instances to the CDS under this parent device. " alt="" coords="254,27,410,69"/>
+</map>

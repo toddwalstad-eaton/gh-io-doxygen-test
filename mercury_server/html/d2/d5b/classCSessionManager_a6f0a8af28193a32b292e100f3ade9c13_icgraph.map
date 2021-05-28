@@ -1,0 +1,5 @@
+<map id="CSessionManager::close_session" name="CSessionManager::close_session">
+<area shape="rect" id="node2" href="$d2/d5b/classCSessionManager.html#aa35a67433f332a5e2f16d2c1593df4f6" title="Create a new session instance, and add it to our map of sessions. " alt="" coords="245,5,414,46"/>
+<area shape="rect" id="node3" href="$d2/d5b/classCSessionManager.html#aadbedbf4badaeabd9328ad904a515acd" title="Remove (close) one session, indicated by its Session ID. " alt="" coords="232,70,427,111"/>
+<area shape="rect" id="node4" href="$d2/d5b/classCSessionManager.html#a995955457c3d8962c76043d931c349a3" title="Remove all subscriptions of the protocol handler associated to the session, and close the session..." alt="" coords="240,135,419,177"/>
+</map>

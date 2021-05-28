@@ -1,0 +1,8 @@
+<map id="CRegisterResultEntry::field" name="CRegisterResultEntry::field">
+<area shape="rect" id="node2" href="$classCParamMapping.html#abaeca56c0136cdb8c0755e6a3ed957f6" title="Getter for device field indicator. " alt="" coords="213,5,432,46"/>
+<area shape="rect" id="node3" href="$classCParamMapping.html#a029c513c5e1b50192b8184e7592fc039" title="Getter for path. " alt="" coords="241,71,405,97"/>
+<area shape="rect" id="node4" href="$classCParamRegisterMapping.html#a378894e5de9f63a3d73a569a7dea0adb" title="Translate a range of Modbus registers into a CDS value. " alt="" coords="233,122,413,163"/>
+<area shape="rect" id="node5" href="$classCRegisterResultEntry.html#abceccd0e7e73ab074c549e751eb6dc27" title="Getter for the ID/priority of this mapping. " alt="" coords="234,188,411,215"/>
+<area shape="rect" id="node7" href="$classCParamMapping.html#a5f2837c89d8dec99fa2bd7da0484ae2d" title="Getter for device field indicator. " alt="" coords="225,239,421,281"/>
+<area shape="rect" id="node6" href="$classCParamMapping.html#a1f90c8c9e470ff72ad35f65d50642ded" title="Getter for ID/priority. " alt="" coords="480,188,627,215"/>
+</map>

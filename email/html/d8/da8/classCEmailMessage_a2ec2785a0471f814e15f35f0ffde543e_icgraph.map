@@ -1,0 +1,17 @@
+<map id="CEmailMessage::add_alarm_attachment" name="CEmailMessage::add_alarm_attachment">
+<area shape="rect" id="node2" href="$d8/da8/classCEmailMessage.html#aa6ce06f1e6b47307a0034ab5acf52f78" title="add_internal_attachments " alt="" coords="211,70,379,111"/>
+<area shape="rect" id="node3" href="$d8/da8/classCEmailMessage.html#ae56d4a4cf2cf589d9f18193f43e1c508" title="add_attachments " alt="" coords="427,70,584,111"/>
+<area shape="rect" id="node4" href="$d8/da8/classCEmailMessage.html#aa22942f407cff503dfac2897520d7a98" title="build_message_body " alt="" coords="632,70,797,111"/>
+<area shape="rect" id="node5" href="$de/d91/classCEmailClient.html#a4d00c57f6edf210b71489466cd656df6" title="build_message " alt="" coords="845,70,992,111"/>
+<area shape="rect" id="node6" href="$de/d91/classCEmailClient.html#adbec79aed6eac14beffa74df0f40f4d0" title="test_smtp_connection " alt="" coords="1043,5,1183,46"/>
+<area shape="rect" id="node11" href="$de/d91/classCEmailClient.html#abac757989f0ee907899c19d097aa9fd9" title="send&#45;test_email " alt="" coords="1041,70,1186,111"/>
+<area shape="rect" id="node12" href="$de/d91/classCEmailClient.html#a6d6bc3afdf94588e956fb9451c3398fd" title="send_email " alt="" coords="1041,135,1186,177"/>
+<area shape="rect" id="node7" href="$d3/d95/classCEmailServer.html#ad278fabab0fef49cbcd71a6469170b82" title="Invokes test method based on command line arguments. " alt="" coords="1235,38,1403,79"/>
+<area shape="rect" id="node8" href="$d3/d95/classCEmailServer.html#ad7f05d9102e6537940a221071d958caf" title="Execute the server core&#39;s main loop. " alt="" coords="1451,45,1621,72"/>
+<area shape="rect" id="node9" href="$df/d0a/main_8cpp.html#af5291a3e029627e530895b1c9f481dcf" title="&quot;Real&quot; main, used by the server code " alt="" coords="1711,45,1793,72"/>
+<area shape="rect" id="node10" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Program entry point. " alt="" coords="1942,45,1997,72"/>
+<area shape="rect" id="node13" href="$de/d80/classCEmailWorkProcessor.html#a4e44cb079fb9914f215d93776a0ab201" title="send_email " alt="" coords="1237,135,1401,177"/>
+<area shape="rect" id="node14" href="$de/d80/classCEmailWorkProcessor.html#ae906cf132d2ddbbb747dd3b17c414784" title="process_work_item " alt="" coords="1454,135,1618,177"/>
+<area shape="rect" id="node15" href="$de/d80/classCEmailWorkProcessor.html#a4e447ed720a0ab0043a4cfff8f920e89" title="execute " alt="" coords="1670,135,1834,177"/>
+<area shape="rect" id="node16" href="$de/d80/classCEmailWorkProcessor.html#ad516af41e5a780007a9f99252cfcff22" title="Constructor. " alt="" coords="1883,135,2055,177"/>
+</map>

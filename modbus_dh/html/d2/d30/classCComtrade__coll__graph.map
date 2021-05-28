@@ -1,0 +1,11 @@
+<map id="CComtrade" name="CComtrade">
+<area shape="rect" id="node2" href="$d7/da9/classCString.html" title="{CString\n||+ CString()\l+ CString()\l+ CString()\l+ operator=()\l+ operator+=()\l+ operator const char *()\l}" alt="" coords="5,807,189,958"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="54,431,140,508"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="28,6,167,98"/>
+<area shape="rect" id="node6" href="$de/de9/structSampleRate.html" title="{SampleRate\n|+ m_dblSampleRate\l+ m_nSamplesPerCycle\l+ m_nStartingPointIndex\l+ m_nEndpointIndex\l|}" alt="" coords="214,822,399,943"/>
+<area shape="rect" id="node7" href="$dd/d91/classAnalogSignal.html" title="{AnalogSignal\n|# m_pUnit\l# m_multiplier\l# m_offsetAdder\l# m_skew\l# m_nRangeMin\l# m_nRangeMax\l# m_primary\l# m_secondary\l# m_bUsePrimaryScaling\l|+ AnalogSignal()\l+ ~AnalogSignal()\l+ SetUnit()\l+ SetMultiplier()\l+ SetOffsetAdder()\l+ SetSkew()\l+ SetRange()\l+ SetPrimarySecondary()\l+ ToString()\l}" alt="" coords="423,727,611,1039"/>
+<area shape="rect" id="node8" href="$d4/dc9/classCSignal.html" title="{CSignal\n|# m_nIndex\l# m_nSize\l# m_pId\l# m_pPhase\l# m_pCcbm\l# m_isDigital\l|+ CSignal()\l+ ~CSignal()\l+ SetIndex()\l+ GetSize()\l+ SetSize()\l+ SetId()\l+ SetPhase()\l+ SetCcbm()\l+ IsDigital()\l+ GetPoints()\l+ ToString()\l}" alt="" coords="558,321,668,618"/>
+<area shape="rect" id="node10" href="$d1/dda/classDigitalSignal.html" title="{DigitalSignal\n|# m_nNormalState\l|+ DigitalSignal()\l+ SetNormalState()\l+ ToString()\l}" alt="" coords="635,829,785,936"/>
+<area shape="rect" id="node9" href="$dc/d4a/structFPoint.html" title="{FPoint\n|+ x\l+ y\l|}" alt="" coords="582,163,644,255"/>
+<area shape="rect" id="node11" href="$db/d91/classCDateTime.html" title="{CDateTime\n|# m_nYear\l# m_nMonth\l# m_nDay\l# m_nHour\l# m_nMinute\l# m_nSecond\l# m_nMilli\l# m_nMicro\l# m_nNano\l|+ CDateTime()\l+ CDateTime()\l+ operator=()\l+ operator==()\l+ operator!=()\l+ operator\&lt;()\l+ operator\&gt;()\l+ ReduceMicrosecond()\l+ IncreaseMicrosecond()\l+ ToString()\l+ ToUTCString()\l+ ToBCD()\l+ ConvertTimeToLongLong()\l+ ConvertLongLongToTime()\l# Normalize()\l}" alt="" coords="810,683,1016,1083"/>
+</map>

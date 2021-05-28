@@ -1,0 +1,6 @@
+<map id="serializeCommand" name="serializeCommand">
+<area shape="rect" id="node2" href="$d6/d10/iot__device__common_8c.html#a1a01656d15dc77a04e64c9c07c88d3a3" title="Creates an IoT Hub message, either by allocating memory for it (PX Red) or choosing the next availabl..." alt="" coords="197,31,317,57"/>
+<area shape="rect" id="node3" href="$d5/da4/group__message__handling__apis.html#ga3dfe3ae25533f7be0e6ccd18dbd2326a" title="Sends data to IoT Hub (i.e. " alt="" coords="399,5,476,32"/>
+<area shape="rect" id="node4" href="$d5/da4/group__message__handling__apis.html#gaf6c31012b13805b13765d8b4fe82f526" title="Sends a command to IoT Hub (i.e. " alt="" coords="365,56,509,83"/>
+<area shape="rect" id="node5" href="$d5/da4/group__message__handling__apis.html#gaa4f2b5d3bb5def4020d6b3e3f19003ec" title="Sends a device command status update to IoT Hub. " alt="" coords="558,56,802,83"/>
+</map>

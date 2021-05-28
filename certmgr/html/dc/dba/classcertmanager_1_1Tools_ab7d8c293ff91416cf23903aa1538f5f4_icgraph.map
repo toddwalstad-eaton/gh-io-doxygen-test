@@ -1,0 +1,33 @@
+<map id="certmanager::Tools::removeFile" name="certmanager::Tools::removeFile">
+<area shape="rect" id="node2" href="$d4/d1f/classcertmanager_1_1Service.html#a8d877f7c3b8671f740dd46af009fab47" title="Stop the command handler. " alt="" coords="235,227,397,269"/>
+<area shape="rect" id="node11" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#ace51b348a53dd6262debc533e808bc0c" title="Send command to the certmanager daemon. " alt="" coords="200,455,432,497"/>
+<area shape="rect" id="node32" href="$d5/d89/main__test_8cpp.html#a02b4e943cc0c67a7b097b8feb022ccf6" title="BOOST_AUTO_TEST_CASE" alt="" coords="221,521,411,548"/>
+<area shape="rect" id="node3" href="$d4/d1f/classcertmanager_1_1Service.html#aa75d2b3de3ac9f2082891cd337da190b" title="Unload the service configurations. " alt="" coords="518,95,679,137"/>
+<area shape="rect" id="node4" href="$d4/d1f/classcertmanager_1_1Service.html#af71722f64fbab98c9ebce093887ff811" title="Stop the service, reload the configuration and restart it. " alt="" coords="797,34,958,75"/>
+<area shape="rect" id="node10" href="$d4/d1f/classcertmanager_1_1Service.html#af12d1717d595b6c38815ed751eb44c50" title="shutdown the service configurations " alt="" coords="797,99,958,141"/>
+<area shape="rect" id="node5" href="$d4/d1f/classcertmanager_1_1Service.html#a8f41552015194ca2016c2ee27d113c01" title="Function to reload the service configurations, timer and command line analyser thread on reload reque..." alt="" coords="1079,5,1241,46"/>
+<area shape="rect" id="node6" href="$d4/d1f/classcertmanager_1_1Service.html#a98f9b25c64070b53799c6b233adece3e" title="Reload request to reload the services. " alt="" coords="1331,5,1493,46"/>
+<area shape="rect" id="node7" href="$d4/d1f/classcertmanager_1_1Service.html#a3cac7a29bfddff3e98a1708d503b4aef" title="/brief Execute command " alt="" coords="1542,5,1703,46"/>
+<area shape="rect" id="node8" href="$d4/d1f/classcertmanager_1_1Service.html#ad51a8e453344ad5d091525ea1e9b3bbc" title="Function to analyse and parse the command line input. " alt="" coords="1752,5,1931,46"/>
+<area shape="rect" id="node9" href="$d4/d1f/classcertmanager_1_1Service.html#ac0662c9f8cc6bf3bcd5eb0b0df5d4c71" title="Start the command handler. " alt="" coords="1979,34,2141,75"/>
+<area shape="rect" id="node12" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a4c4b6501d5363955821920f5956af4eb" title="Create a certificate signing request. " alt="" coords="489,161,708,202"/>
+<area shape="rect" id="node14" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a8e0df1ce95c8a763dd48f3b13c0b77af" title="Revoke certificate and create a selfsigned certificate to replace the old one. " alt="" coords="483,226,715,267"/>
+<area shape="rect" id="node15" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#acfff3a0bef75dd8b2b03af77c4cae3f0" title="revoke certificate authority on the service " alt="" coords="489,291,708,333"/>
+<area shape="rect" id="node16" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a81b858323b6721bd5d764ce7313f5fd6" title="revoke trusted clients on the service " alt="" coords="489,357,708,398"/>
+<area shape="rect" id="node17" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a175dc25490b647ef8568341476553513" title="Add the certificate to the given target from the data. " alt="" coords="489,422,708,463"/>
+<area shape="rect" id="node26" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a6d7d998fe66614f3012b6a81ee6dd803" title="Create a certificate signing request. " alt="" coords="489,487,708,529"/>
+<area shape="rect" id="node27" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#abd35f58ed408821b461d83d1ec320dde" title="Create a certificate signing request. " alt="" coords="489,553,708,594"/>
+<area shape="rect" id="node28" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#ae4427c8e0e25ae112856ba7c98fd8cb5" title="Get server CSR info in the form of CCSRData object. " alt="" coords="489,618,708,659"/>
+<area shape="rect" id="node29" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a4bee4dc2d9812d2c43d9f14d92fd26f1" title="Get Client certificate info in the form of CCertificateData object. " alt="" coords="481,683,717,725"/>
+<area shape="rect" id="node30" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a6187f2fd4dc7369bc862304b8d055b2a" title="Get CA certificate info in the form of CCertificateData object. " alt="" coords="489,749,708,790"/>
+<area shape="rect" id="node31" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a9f6dfe7a5d2236587008276573ccc176" title="Get server certificate info in the form of CCertificateData object. " alt="" coords="489,814,708,855"/>
+<area shape="rect" id="node13" href="$d5/d89/main__test_8cpp.html#a14044623ce65e1a5c9089de6a1a4e869" title="BOOST_AUTO_TEST_CASE" alt="" coords="782,168,973,195"/>
+<area shape="rect" id="node18" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#ad975c900725ddd32baa065c3b21c17dd" title="Apply a certificate from PKI. " alt="" coords="766,323,989,365"/>
+<area shape="rect" id="node19" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#ab1ec85981c233200c94eb8fe1b0f6e19" title="Add a certificate authority on the service if the CA is not present. " alt="" coords="768,389,987,430"/>
+<area shape="rect" id="node21" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a49fe042fc0c398f0bda00c140e89cdb7" title="Add a Trusted client on the service if the trusted client is not present. " alt="" coords="768,454,987,495"/>
+<area shape="rect" id="node22" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a2062da42282cc8ece2b1e859fa329578" title="Add the certificate to the given target from the file. " alt="" coords="768,519,987,561"/>
+<area shape="rect" id="node20" href="$d5/d89/main__test_8cpp.html#aa1142b591322885ef01eac4c3529c890" title="BOOST_AUTO_TEST_CASE" alt="" coords="1065,396,1255,423"/>
+<area shape="rect" id="node23" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#adaa69a6a117f7021ccf093a538d07548" title="Apply a certificate from PKI. " alt="" coords="1037,454,1283,495"/>
+<area shape="rect" id="node24" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a656b4ecd28b168ab21978e67951f8901" title="Add a certificate authority on the service if the CA is not present. " alt="" coords="1051,519,1269,561"/>
+<area shape="rect" id="node25" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a29419177d078e3a3a0bd5bf55c3e928e" title="Add a trusted client on the service if the Trusted Client is not present. " alt="" coords="1051,585,1269,626"/>
+</map>

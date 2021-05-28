@@ -1,0 +1,12 @@
+<map id="px::asio::CIoManager" name="px::asio::CIoManager">
+<area shape="rect" id="node2" href="$d2/dcb/classpx_1_1asio_1_1CCdsHandler.html" title="ABC for CDS Handler, provides a common synchronous/asynchronous interface to the CDS API..." alt="" coords="1864,1053,2077,1424"/>
+<area shape="rect" id="node3" href="$d2/df5/classpx_1_1asio_1_1CCdsSyncIO.html" title="Provides a set of common CDS utility functions. " alt="" coords="2938,671,3131,910"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="2379,405,2513,483"/>
+<area shape="rect" id="node11" href="$dd/d57/classpx_1_1CBitset.html" title="{px::CBitset\&lt; px::permissions \&gt;\n||+ CBitset()\l+ get()\l+ set()\l+ reset()\l+ mask_set()\l+ mask_clear()\l+ mask()\l+ empty()\l+ operator==()\l+ operator!=()\land 11 more...\l+ size()\l+ nbytes()\l}" alt="" coords="1393,664,1620,917"/>
+<area shape="rect" id="node16" href="$dd/d57/classpx_1_1CBitset.html" title="Stores a bit&#45;field of flags defined by an enumerated type. " alt="" coords="1659,317,1789,571"/>
+<area shape="rect" id="node14" title="STL class. " alt="" coords="1289,5,1412,83"/>
+<area shape="rect" id="node24" title="STL class. " alt="" coords="2763,405,2891,483"/>
+<area shape="rect" id="node32" title="STL class. " alt="" coords="3695,752,3852,829"/>
+<area shape="rect" id="node33" href="$dc/d82/classpx_1_1asio_1_1CServerCore.html" title="Server core class. " alt="" coords="3883,1171,4045,1307"/>
+<area shape="rect" id="node36" title="STL class. " alt="" coords="4277,752,4459,829"/>
+</map>

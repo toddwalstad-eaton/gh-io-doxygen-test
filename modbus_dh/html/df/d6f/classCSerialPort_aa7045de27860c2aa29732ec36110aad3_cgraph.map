@@ -1,0 +1,5 @@
+<map id="CSerialPort::close_pass_through_port" name="CSerialPort::close_pass_through_port">
+<area shape="rect" id="node2" href="$d4/d89/classCDeviceService.html#a9bf758b97e6ab58452201ed991e7b0ac" title="Set or clear the pass_through state flag for the specificed port device. " alt="" coords="208,5,360,46"/>
+<area shape="rect" id="node3" href="$dc/d4a/classCUtil.html#a3fc24ae5c12897079c425c8f4af5fcbf" title="CUtil::get_no_device\l_string" alt="" coords="206,70,362,111"/>
+<area shape="rect" id="node4" href="$d6/dd4/classCPort.html#a67fdf9324b9596b8c462cfa66159a7db" title="Getter for the name of this port. " alt="" coords="203,136,365,163"/>
+</map>

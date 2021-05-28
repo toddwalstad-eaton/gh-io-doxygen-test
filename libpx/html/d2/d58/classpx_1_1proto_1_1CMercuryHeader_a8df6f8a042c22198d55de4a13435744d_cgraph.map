@@ -1,0 +1,5 @@
+<map id="px::proto::CMercuryHeader::parse" name="px::proto::CMercuryHeader::parse">
+<area shape="rect" id="node2" href="$d2/d58/classpx_1_1proto_1_1CMercuryHeader.html#a78c9616e9e8591e37c9adf7de3f6f216" title="As parse(), but expects a header only, rather than a full Mercury message including header..." alt="" coords="251,23,447,65"/>
+<area shape="rect" id="node3" href="$d9/d1f/classpx_1_1asio_1_1CUtil.html#ac71a974acd7c47c7858cf920e343fd02" title="Read a 8&#45;bit MSB unsigned integer value from an input buffer. " alt="" coords="500,5,673,32"/>
+<area shape="rect" id="node4" href="$d9/d1f/classpx_1_1asio_1_1CUtil.html#aa54046ede8ba3b8e81afc98037e04cda" title="Read a 32&#45;bit MSB unsigned integer value from an input buffer. " alt="" coords="496,56,677,83"/>
+</map>

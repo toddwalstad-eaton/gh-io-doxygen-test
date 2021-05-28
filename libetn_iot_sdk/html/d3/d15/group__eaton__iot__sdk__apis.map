@@ -1,0 +1,6 @@
+<map id="Eaton IoT SDK APIs" name="Eaton IoT SDK APIs">
+<area shape="rect" id="node1" href="$d6/dce/group__connection__status__apis.html" title="Connection and Status APIs" alt="" coords="200,5,400,32"/>
+<area shape="rect" id="node2" href="$d5/da4/group__message__handling__apis.html" title="Message handling APIs" alt="" coords="215,56,385,83"/>
+<area shape="rect" id="node3" href="$df/da6/group__iot__sdk__callbacks.html" title="Callbacks from the\l Eaton IoT SDK" alt="" coords="227,107,373,149"/>
+<area shape="rect" id="node5" href="$d4/d02/group__iot__sdk__logging.html" title="Debug logging for the\l Eaton IoT SDK" alt="" coords="219,173,381,214"/>
+</map>

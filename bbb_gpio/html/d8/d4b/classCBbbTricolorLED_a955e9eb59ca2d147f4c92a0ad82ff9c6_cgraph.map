@@ -1,0 +1,5 @@
+<map id="CBbbTricolorLED::initialize_channel" name="CBbbTricolorLED::initialize_channel">
+<area shape="rect" id="node2" href="$d8/d4b/classCBbbTricolorLED.html#ac0bdc316c4e24018664a77f73e8cbca6" title="Read the I/O pins and establish the &quot;color&quot; the LED is set to. " alt="" coords="245,23,403,65"/>
+<area shape="rect" id="node3" href="$da/dad/classCBbbGpioCore.html#aa7f108f2bdead633515a27e0d469637b" title="Read the given GPIO input and return the result of active (high, 1) or inactive (low, 0) (Some implementations may take the opposite view, but for the BBB LED pins, high is active) " alt="" coords="462,5,642,32"/>
+<area shape="rect" id="node4" href="$d8/d4b/classCBbbTricolorLED.html#abbafd217a50f2181b6dc64856a8de660" title="Get the text for a color from the numeric value. " alt="" coords="451,56,653,83"/>
+</map>

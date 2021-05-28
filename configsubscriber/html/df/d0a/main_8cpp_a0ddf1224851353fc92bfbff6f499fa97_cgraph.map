@@ -1,0 +1,6 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$df/d0a/main_8cpp.html#af5291a3e029627e530895b1c9f481dcf" title="&quot;Real&quot; main, used by the server code " alt="" coords="109,45,192,72"/>
+<area shape="rect" id="node3" href="$d9/dee/classCConfigsubscriber.html#ae27eb8a7a274baee254cbf8019cad993" title="Execute the server core&#39;s main loop. " alt="" coords="240,5,387,46"/>
+<area shape="rect" id="node5" href="$d9/dee/classCConfigsubscriber.html#acc312e428925ad56729df5041389c7a7" title="Gracefully shut down the server. " alt="" coords="240,70,387,111"/>
+<area shape="rect" id="node4" href="$d4/dac/configsubscriber_8cpp.html#a41bd666ae4d9f66163a6223227ecd218" title="asio_sighandler_extra\l_handler" alt="" coords="435,38,600,79"/>
+</map>

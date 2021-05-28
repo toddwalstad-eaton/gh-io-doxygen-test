@@ -1,0 +1,8 @@
+<map id="CMclChannelConfig::CMclChannelConfig" name="CMclChannelConfig::CMclChannelConfig">
+<area shape="rect" id="node2" href="$df/d86/classCMclChannelConfig.html#ace683f3e61333766e0039088c6291ce1" title="Get MCL channel configuration file in JSON format. " alt="" coords="208,5,363,46"/>
+<area shape="rect" id="node3" href="$df/d86/classCMclChannelConfig.html#ad5dc47c6cc88eb659a00267287d5e0bd" title="Determine if the specified file exists or not. " alt="" coords="208,70,363,111"/>
+<area shape="rect" id="node4" href="$df/d86/classCMclChannelConfig.html#af51e3785dcf713cb78a13058468a209d" title="Process entries JSON array format. " alt="" coords="208,135,363,177"/>
+<area shape="rect" id="node5" href="$df/d86/classCMclChannelConfig.html#a17d7cbac5d8b82af6c201be6a260ba6f" title="Helper method to read a string value from json object. " alt="" coords="411,70,565,111"/>
+<area shape="rect" id="node6" href="$df/d86/classCMclChannelConfig.html#a738e6078ef36d8a1e217cc4029f57e52" title="Helper method to parse object type out. " alt="" coords="411,135,565,177"/>
+<area shape="rect" id="node7" href="$df/d86/classCMclChannelConfig.html#ab28e5df655fb138bb2920d59de8374ee" title="Helper method to read a int value from json object. " alt="" coords="411,201,565,242"/>
+</map>

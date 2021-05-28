@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCThreadBaseQueue.html" title="This class collects a list of pending commands/responses to be performed by the worker thread..." alt="" coords="6,31,157,57"/>
+<area shape="rect" id="node2" href="$classCThreadCommandQueue.html" title="This class collects a prioritized list of pending operations to be performed by the worker thread..." alt="" coords="206,5,391,32"/>
+<area shape="rect" id="node3" href="$classCThreadResponseQueue.html" title="This class collects a prioritized list of pending operations to be performed by the worker thread..." alt="" coords="209,56,389,83"/>
+</map>

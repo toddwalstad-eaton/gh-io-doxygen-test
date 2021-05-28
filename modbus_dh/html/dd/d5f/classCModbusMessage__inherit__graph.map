@@ -1,0 +1,4 @@
+<map id="CModbusMessage" name="CModbusMessage">
+<area shape="rect" id="node2" href="$da/d20/classCSimpleMessage.html" title="Simple Message class. " alt="" coords="5,483,229,869"/>
+<area shape="rect" id="node3" href="$dc/ddf/classCIoMessage.html" title="I/O Message base class. " alt="" coords="5,5,229,435"/>
+</map>

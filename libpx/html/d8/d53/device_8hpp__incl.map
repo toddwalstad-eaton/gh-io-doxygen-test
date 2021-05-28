@@ -1,0 +1,24 @@
+<map id="device.hpp" name="device.hpp">
+<area shape="rect" id="node6" href="$dd/d3a/common_8hpp.html" title="px/common.hpp" alt="" coords="1639,517,1765,544"/>
+<area shape="rect" id="node7" href="$df/d2b/shared__string_8hpp.html" title="px/type/shared_string.hpp" alt="" coords="2302,360,2492,387"/>
+<area shape="rect" id="node11" href="$db/db3/id_8hpp.html" title="px/type/id.hpp" alt="" coords="325,179,440,205"/>
+<area shape="rect" id="node14" href="$d8/d27/device__role_8hpp.html" title="px/enum/device_role.hpp" alt="" coords="332,360,519,387"/>
+<area shape="rect" id="node16" href="$d6/d86/bitset_8hpp.html" title="px/type/bitset.hpp" alt="" coords="2422,179,2561,205"/>
+<area shape="rect" id="node27" href="$de/dda/wall__time_8hpp.html" title="px/type/wall_time.hpp" alt="" coords="3158,179,3324,205"/>
+<area shape="rect" id="node33" href="$d8/dc4/realtime__state_8hpp.html" title="px/data/realtime_state.hpp" alt="" coords="43,179,241,205"/>
+<area shape="rect" id="node34" href="$d5/d62/device__flags_8hpp.html" title="px/data/device_flags.hpp" alt="" coords="192,88,376,115"/>
+<area shape="rect" id="node35" href="$d5/d91/device__command_8hpp.html" title="px/data/device_command.hpp" alt="" coords="948,88,1167,115"/>
+<area shape="rect" id="node9" href="$d4/d76/type_2string_8hpp.html" title="string.hpp" alt="" coords="2193,517,2279,544"/>
+<area shape="rect" id="node15" href="$dd/df3/device__role__enums_8hpp.html" title="device_role_enums.hpp" alt="" coords="337,443,513,469"/>
+<area shape="rect" id="node20" href="$d7/d1e/exception_8hpp.html" title="px/exception.hpp" alt="" coords="3273,269,3407,296"/>
+<area shape="rect" id="node28" href="$d1/db0/timestamp_8hpp.html" title="timestamp.hpp" alt="" coords="1970,443,2091,469"/>
+<area shape="rect" id="node37" href="$d2/dca/type_2value_8hpp.html" title="px/type/value.hpp" alt="" coords="1421,360,1560,387"/>
+<area shape="rect" id="node43" href="$d9/de6/parameter__info_8hpp.html" title="px/data/parameter_info.hpp" alt="" coords="1333,179,1536,205"/>
+<area shape="rect" id="node46" href="$d7/d63/device__command__status__enums_8hpp.html" title="px/enum/device_command\l_status_enums.hpp" alt="" coords="645,353,843,394"/>
+<area shape="rect" id="node47" href="$d4/dc3/device__command__substatus__enums_8hpp.html" title="px/enum/device_command\l_substatus_enums.hpp" alt="" coords="566,171,764,213"/>
+<area shape="rect" id="node48" href="$d6/d33/permission__enums_8hpp.html" title="px/enum/permission\l_enums.hpp" alt="" coords="840,171,995,213"/>
+<area shape="rect" id="node40" href="$db/d73/invalid_8hpp.html" title="invalid.hpp" alt="" coords="1370,443,1464,469"/>
+<area shape="rect" id="node41" href="$d6/d12/datatype_8hpp.html" title="px/enum/datatype.hpp" alt="" coords="1623,443,1792,469"/>
+<area shape="rect" id="node42" href="$d6/d78/best__type_8hpp.html" title="value/best_type.hpp" alt="" coords="1031,443,1185,469"/>
+<area shape="rect" id="node44" href="$de/d21/multistate__map_8hpp.html" title="px/data/multistate\l_map.hpp" alt="" coords="1473,262,1615,303"/>
+</map>

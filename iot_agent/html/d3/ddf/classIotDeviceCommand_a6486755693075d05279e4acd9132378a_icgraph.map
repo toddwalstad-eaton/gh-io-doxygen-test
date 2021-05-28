@@ -1,0 +1,4 @@
+<map id="IotDeviceCommand::handle_img_up_status" name="IotDeviceCommand::handle_img_up_status">
+<area shape="rect" id="node2" href="$d3/ddf/classIotDeviceCommand.html#a7eb717298bf9f0b44341d020da79a795" title="Handles one chunk of the ImageTransfer command. " alt="" coords="256,5,459,46"/>
+<area shape="rect" id="node3" href="$d3/ddf/classIotDeviceCommand.html#a988b62c05b69189815f1d27689b6103b" title="Callback function to receive Cloud&#45;to&#45;Device device commands. " alt="" coords="507,5,733,46"/>
+</map>

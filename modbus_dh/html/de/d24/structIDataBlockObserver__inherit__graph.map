@@ -1,0 +1,6 @@
+<map id="IDataBlockObserver" name="IDataBlockObserver">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html" title="Abstract &quot;Device&quot; class. " alt="" coords="144,323,347,1119"/>
+<area shape="rect" id="node3" href="$d7/d46/classCModbusDevice.html" title="This class implements a Device container for Modbus/RTU communicating devices. " alt="" coords="124,1169,367,1495"/>
+<area shape="rect" id="node4" href="$dc/deb/classCModbusSerialDevice.html" title="This class implements a Device container for Modbus/RTU communicating devices. " alt="" coords="5,1545,245,1813"/>
+<area shape="rect" id="node5" href="$d2/d1e/classCModbusTCPDevice.html" title="This class implements a Device container for Modbus/TCP communicating devices. " alt="" coords="270,1559,460,1798"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="px::asio::CCdsHandler::check_permission" name="px::asio::CCdsHandler::check_permission">
+<area shape="rect" id="node2" href="$d2/dcb/classpx_1_1asio_1_1CCdsHandler.html#a23956be018c9fba64a7ff3d3d9952208" title="Do a CDS Client Login (no username or password) to get a session token and permissions. " alt="" coords="219,21,384,62"/>
+<area shape="rect" id="node8" href="$dd/d57/classpx_1_1CBitset.html#abce11bc695cf4b1dd4bf9cb31e62d919" title="px::CBitset::empty" alt="" coords="230,87,373,113"/>
+<area shape="rect" id="node4" href="$dd/d57/classpx_1_1CBitset.html#a990ea0e6f3eb03b789d1cd58c74b38f2" title="Get the value of a flag. " alt="" coords="669,120,792,147"/>
+<area shape="rect" id="node9" href="$d1/d2c/structpx_1_1generic__err.html#ab55d991a1469e98c5d79a27d1b93b4d6" title="px::generic_err::what" alt="" coords="222,188,381,215"/>
+<area shape="rect" id="node3" href="$da/dda/namespacepx_1_1permission.html#a7449a16cbcc654759961b6640de7ce33" title="Short string for display, like &quot;ls &#45;l&quot; file permissions Format: per_user, data r/w/admin, config r/w/file, control basic/oper/setpoints, event&#45;ack, security read/admin, install, internal_app/troubleshoot. " alt="" coords="433,71,599,113"/>
+<area shape="rect" id="node5" href="$d2/dcb/classpx_1_1asio_1_1CCdsHandler.html#ad7e1632da24ad4edf0b0bac9d3b2de55" title="Submit a request for CDS processing, waiting for the response and returning it. " alt="" coords="433,6,599,47"/>
+<area shape="rect" id="node6" href="$db/db8/classpx_1_1cds_1_1CClient.html#acb54300760c627bee88063465442bd74" title="Static function that checks whether &quot;this&quot; thread is the CDS Client background thread. " alt="" coords="648,35,813,77"/>
+<area shape="rect" id="node7" href="$db/db8/classpx_1_1cds_1_1CClient.html#ad3a241ca4570471536d3436ee23b3d65" title="Static Factory function: constructs if necessary, returns existing instance of CClient otherwise..." alt="" coords="861,13,1013,40"/>
+</map>

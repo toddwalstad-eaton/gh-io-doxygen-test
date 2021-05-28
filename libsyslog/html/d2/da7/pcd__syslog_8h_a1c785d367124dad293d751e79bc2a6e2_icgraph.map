@@ -1,0 +1,5 @@
+<map id="pcd_trace" name="pcd_trace">
+<area shape="rect" id="node2" href="$da/d12/sig_8c.html#a11ff251e505cbdd01a6e6e8f1fc416f5" title="sig_handler" alt="" coords="142,5,239,32"/>
+<area shape="rect" id="node4" href="$db/db9/syslog_8cpp.html#a3267d6c363671e5516d3436c20205afd" title="__assert_fail() is overridden when you link with libsyslog. " alt="" coords="139,56,243,83"/>
+<area shape="rect" id="node3" href="$da/d12/sig_8c.html#a813a1f315d3f3190e339e02574418059" title="Register standard signal handlers. " alt="" coords="291,5,456,32"/>
+</map>

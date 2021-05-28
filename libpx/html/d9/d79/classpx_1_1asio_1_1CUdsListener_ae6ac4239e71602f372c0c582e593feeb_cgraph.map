@@ -1,0 +1,8 @@
+<map id="px::asio::CUdsListener::CUdsListener" name="px::asio::CUdsListener::CUdsListener">
+<area shape="rect" id="node2" href="$d9/d79/classpx_1_1asio_1_1CUdsListener.html#a4334848b36999a7b23b3b95e09d21258" title="Asynchronously accept a new connection. " alt="" coords="222,70,389,111"/>
+<area shape="rect" id="node5" href="$dd/d60/classpx_1_1asio_1_1CIoActor.html#aad90c314c7d733326fe1f0d88e0bede2" title="Get the I/O service associated with the owner of this actor. " alt="" coords="915,69,1051,110"/>
+<area shape="rect" id="node3" href="$df/db1/classpx_1_1asio_1_1CUdsConnection.html#a9e9bf951a28b17405229429f70d31835" title="Factory function to create a new CUdsConnection object. " alt="" coords="438,5,626,46"/>
+<area shape="rect" id="node6" href="$d9/d79/classpx_1_1asio_1_1CUdsListener.html#a29303122130e68bf8782125689a3b5f2" title="Callback function for Boost.Asio upon accepting a new connection. " alt="" coords="449,70,615,111"/>
+<area shape="rect" id="node4" href="$df/db1/classpx_1_1asio_1_1CUdsConnection.html#aa223e22a3bcee761a7c9e74f3b0048c5" title="Constructor. " alt="" coords="677,9,865,50"/>
+<area shape="rect" id="node7" href="$d6/d32/classpx_1_1asio_1_1CIoManager.html#a46653fc723a57edb4ab58cd80f5d6ee8" title="Add an I/O actor to be tracked and managed. " alt="" coords="675,77,866,104"/>
+</map>

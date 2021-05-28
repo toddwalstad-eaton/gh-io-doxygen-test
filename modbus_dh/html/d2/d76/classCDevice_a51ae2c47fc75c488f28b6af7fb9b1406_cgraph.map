@@ -1,0 +1,8 @@
+<map id="CDevice::persist_new_channels" name="CDevice::persist_new_channels">
+<area shape="rect" id="node2" href="$d6/d13/classCChannelService.html#abd581f8e38a64ed7aa4ed1cd4b889163" title="Member Functions. " alt="" coords="231,5,412,46"/>
+<area shape="rect" id="node4" href="$d2/d76/classCDevice.html#a7bac9342b21926e4b5b3bde2ac64157c" title="Gets the ID of this Device, for the IDataBlockObserver interface. " alt="" coords="258,71,385,97"/>
+<area shape="rect" id="node5" href="$d6/d13/classCChannelService.html#a1f5e2d3ad9e428f1ff596573b07f2028" title="Get all Channel Settings for a device from the CDS. " alt="" coords="241,122,402,163"/>
+<area shape="rect" id="node6" href="$d2/d76/classCDevice.html#a2ec0da32e776861d627aad55b950cca8" title="Remove the specified channel or device from the dependency graph. " alt="" coords="217,188,426,215"/>
+<area shape="rect" id="node7" href="$d2/d76/classCDevice.html#aa9b86161de0a5b3a2ee38b5baef661b8" title="Update channels to permanent ID&#39;s. " alt="" coords="236,239,407,265"/>
+<area shape="rect" id="node3" href="$d6/d13/classCChannelService.html#a2f6053f45b832c36a0e29815e19e670b" title="Merge Channel Settings Set any blank channel settings to those provided by defaults. " alt="" coords="475,5,658,46"/>
+</map>

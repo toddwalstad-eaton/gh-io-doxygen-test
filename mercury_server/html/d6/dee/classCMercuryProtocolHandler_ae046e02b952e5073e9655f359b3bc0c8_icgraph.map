@@ -1,0 +1,5 @@
+<map id="CMercuryProtocolHandler::execute" name="CMercuryProtocolHandler::execute">
+<area shape="rect" id="node2" href="$d6/dee/classCMercuryProtocolHandler.html#a8323c8380d627e3cf4aa37b03f4bb6de" title="Parse a Mercury request. " alt="" coords="240,38,427,79"/>
+<area shape="rect" id="node3" href="$db/dd8/classCTcpProtocolHandler.html#aecde16d7599c58ff0cae112c32ca8876" title="CTcpProtocolHandler\l::parse" alt="" coords="475,5,631,46"/>
+<area shape="rect" id="node4" href="$d7/d46/classCWsProtocolHandler.html#a35c205d69762001b460bd7ff9ba316b8" title="Parse the most&#45;recently&#45;received message. " alt="" coords="476,70,631,111"/>
+</map>

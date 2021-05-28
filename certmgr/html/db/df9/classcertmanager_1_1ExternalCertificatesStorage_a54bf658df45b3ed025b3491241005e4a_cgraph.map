@@ -1,0 +1,5 @@
+<map id="certmanager::ExternalCertificatesStorage::getCertInfo" name="certmanager::ExternalCertificatesStorage::getCertInfo">
+<area shape="rect" id="node2" href="$d8/d1f/namespacecertmanager.html#aca297d58da5921d4db20983d70fb0f72" title="This function returns string serialized CCertificateData of certificate at given path. " alt="" coords="296,23,488,65"/>
+<area shape="rect" id="node3" href="$d8/d1f/namespacecertmanager.html#a0f4db32e3ca8f439790f7a507de91016" title="This function writes input certificate&#39;s data into CCertificateData object. " alt="" coords="536,5,757,32"/>
+<area shape="rect" id="node4" href="$d0/d7f/classcertmgr_1_1CCertificateData.html#a5b8d2eb3c851c665bfc65932bc40172a" title="API to convert the class data to a std::string. " alt="" coords="542,56,751,83"/>
+</map>

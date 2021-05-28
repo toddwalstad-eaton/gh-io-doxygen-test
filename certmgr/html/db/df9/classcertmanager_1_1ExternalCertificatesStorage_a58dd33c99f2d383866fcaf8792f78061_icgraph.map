@@ -1,0 +1,5 @@
+<map id="certmanager::ExternalCertificatesStorage::writeDetails" name="certmanager::ExternalCertificatesStorage::writeDetails">
+<area shape="rect" id="node2" href="$db/df9/classcertmanager_1_1ExternalCertificatesStorage.html#a62fc36883d6a5dcd7523cf33d23b9c2d" title="Create the directories for certificates and set permissions and modes. " alt="" coords="297,5,538,46"/>
+<area shape="rect" id="node4" href="$db/df9/classcertmanager_1_1ExternalCertificatesStorage.html#a44f9f704a67000dbb16683af4bc81adf" title="Function to add the external certificate to system. " alt="" coords="297,70,538,111"/>
+<area shape="rect" id="node3" href="$db/df9/classcertmanager_1_1ExternalCertificatesStorage.html#afc58c8e4d158ac166c45ed13fd160f4a" title="certmanager::ExternalCertificates\lStorage::ExternalCertificatesStorage" alt="" coords="587,5,845,46"/>
+</map>

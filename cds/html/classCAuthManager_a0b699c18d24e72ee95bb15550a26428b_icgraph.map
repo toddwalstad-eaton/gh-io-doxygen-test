@@ -1,0 +1,4 @@
+<map id="CAuthManager::update_password_history" name="CAuthManager::update_password_history">
+<area shape="rect" id="node2" href="$classCAuthManager.html#ad0acbd206b9b1a3dc330070ba39bd31b" title="Set a user&#39;s plain&#45;text password. " alt="" coords="241,5,479,32"/>
+<area shape="rect" id="node3" href="$classCAuthManager.html#aaab7a61094a0e9c8c3debfacbe4669ff" title="Set a user&#39;s regular password hash. " alt="" coords="225,56,495,83"/>
+</map>

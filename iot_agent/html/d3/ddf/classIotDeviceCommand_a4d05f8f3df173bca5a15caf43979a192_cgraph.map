@@ -1,0 +1,6 @@
+<map id="IotDeviceCommand::handle_fw_up_version_check" name="IotDeviceCommand::handle_fw_up_version_check">
+<area shape="rect" id="node2" href="$d3/ddf/classIotDeviceCommand.html#a17504c7be84eca59d324ee1d615e33fb" title="Utility function to unpack the command params and put them into our _cmd_params map. " alt="" coords="257,5,463,46"/>
+<area shape="rect" id="node3" href="$d3/ddf/classIotDeviceCommand.html#ad82a3fb33c2c66dde4230ee9b5ec4c1e" title="Set the message in commandResponse after checking the memory allocated. " alt="" coords="271,70,449,111"/>
+<area shape="rect" id="node4" href="$d3/ddf/classIotDeviceCommand.html#ae8c7cfeb3d43a8e68265da1193fb1e45" title="Gets the current command&#39;s UUID text. " alt="" coords="270,135,450,177"/>
+<area shape="rect" id="node5" href="$d3/ddf/classIotDeviceCommand.html#a7de4e99b99527f750888dc26c82244e5" title="Getter function to get the named parameter from the current _cmd_params or else (use_retained = true)..." alt="" coords="270,201,450,242"/>
+</map>

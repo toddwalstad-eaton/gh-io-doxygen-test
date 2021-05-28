@@ -1,0 +1,6 @@
+<map id="serializeTransferImageJson" name="serializeTransferImageJson">
+<area shape="rect" id="node2" href="$db/d38/iot__device_8h.html#a783d5ab7847e154c74374bcc19dc6710" title="allocateSerializedBuffer" alt="" coords="258,5,435,32"/>
+<area shape="rect" id="node3" href="$db/d38/iot__device_8h.html#acf57b71f1285d7bdda5e7ee7e106a5ba" title="checkSerializedBufferSize" alt="" coords="251,56,442,83"/>
+<area shape="rect" id="node4" href="$db/d38/iot__device_8h.html#a5173731f1b948708dbf37f99bee9bbea" title="addStringField" alt="" coords="289,107,404,133"/>
+<area shape="rect" id="node5" href="$db/d38/iot__device_8h.html#a07d8b97dd7461e57a15470f6e5930d23" title="addIntNumericField" alt="" coords="273,157,421,184"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="px::asio::CTcpConnection::~CTcpConnection" name="px::asio::CTcpConnection::~CTcpConnection">
+<area shape="rect" id="node2" href="$d6/d4d/classpx_1_1asio_1_1CTcpConnection.html#a66048005c84c930b7b6f3c7a169f1691" title="Gracefully close this actor. " alt="" coords="237,5,421,46"/>
+<area shape="rect" id="node3" href="$d6/d4d/classpx_1_1asio_1_1CTcpConnection.html#a5b5e51b5cfb6623d931853bac7c166c5" title="Get text describing the source of a message (eg, dotted IP address). " alt="" coords="469,5,653,46"/>
+</map>

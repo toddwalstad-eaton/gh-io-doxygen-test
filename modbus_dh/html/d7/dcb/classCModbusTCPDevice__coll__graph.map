@@ -1,0 +1,14 @@
+<map id="CModbusTCPDevice" name="CModbusTCPDevice">
+<area shape="rect" id="node2" href="$d7/d46/classCModbusDevice.html" title="This class implements a Device container for Modbus/RTU communicating devices. " alt="" coords="2693,1637,2936,1949"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html" title="Abstract &quot;Device&quot; class. " alt="" coords="1625,744,1831,1496"/>
+<area shape="rect" id="node4" href="$d8/d81/structIDataBlockObserver.html" title="Data Block Observer Defines an interface for objects that can be notified on block completion (eg..." alt="" coords="1607,334,1849,602"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="907,163,1059,255"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="221,171,349,248"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="1672,171,1781,248"/>
+<area shape="rect" id="node14" title="STL class. " alt="" coords="3162,429,3248,507"/>
+<area shape="rect" id="node29" href="$de/d87/structtcp__addr__s.html" title="Define the data struct used for cached Modbus TCP communications. " alt="" coords="3103,1521,3195,1613"/>
+<area shape="rect" id="node16" title="STL class. " alt="" coords="3267,6,3405,98"/>
+<area shape="rect" id="node19" title="STL class. " alt="" coords="2445,171,2603,248"/>
+<area shape="rect" id="node24" title="STL class. " alt="" coords="2637,171,2765,248"/>
+<area shape="rect" id="node27" title="STL class. " alt="" coords="3056,163,3243,255"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="CDataStore::get_oob" name="CDataStore::get_oob">
+<area shape="rect" id="node2" href="$classCAuthManager.html#a402fd33cfc7bc2ae62474c95b079fbf9" title="Authenticate a user, given plain&#45;text password. " alt="" coords="211,5,419,46"/>
+<area shape="rect" id="node3" href="$classCCommandClearOOBData.html#a68e55fa453fc040e3256439460fe5099" title="Execute the command in &#39;req&#39;, adding to oplist anything that isn&#39;t done in this function. " alt="" coords="219,70,411,111"/>
+<area shape="rect" id="node4" href="$classCCommandGetFieldValue.html#a40920a6640ee16ddb817b9670f298213" title="Execute the command in &#39;req&#39;, adding to oplist anything that isn&#39;t done in this function. " alt="" coords="221,135,408,177"/>
+<area shape="rect" id="node5" href="$classCCommandGetOOBData.html#a4442daaee32ecc8a97da7c85aaf31adc" title="Execute the command in &#39;req&#39;, adding to oplist anything that isn&#39;t done in this function. " alt="" coords="224,201,405,242"/>
+<area shape="rect" id="node6" href="$classCCommandSetFieldValue.html#a02d1489b049719cf7061298b98bc6cf2" title="Execute the command in &#39;req&#39;, adding to oplist anything that isn&#39;t done in this function. " alt="" coords="222,266,407,307"/>
+<area shape="rect" id="node7" href="$classCCommandSetOOBData.html#a87a306ef533ce6382ecead7a5f4b2ace" title="Execute the command in &#39;req&#39;, adding to oplist anything that isn&#39;t done in this function. " alt="" coords="225,331,404,373"/>
+<area shape="rect" id="node8" href="$classCCommandSubscribe.html#a0c3ebde0cd4789833c222d783a07475f" title="Execute the command in &#39;req&#39;, adding to oplist anything that isn&#39;t done in this function. " alt="" coords="230,397,399,438"/>
+<area shape="rect" id="node9" href="$classCTrendStore.html#a2c94e65314866abaca128481843649bb" title="Gets the database settings from the oob or default. " alt="" coords="217,462,413,503"/>
+<area shape="rect" id="node10" href="$classCTrendStore.html#a96d9c92e871bdf011ddde3f905dad5a6" title="Get the currently&#45;active levelup and rolloff policy (calculated from today based on OOB&#45;stored thresh..." alt="" coords="467,462,651,503"/>
+<area shape="rect" id="node11" href="$classCTrendStore.html#ad2047a9303a805c0334733c49008f229" title="Trend bucket database periodic maintenance: level&#45;up, roll&#45;off, and clean&#45;up. " alt="" coords="699,469,906,496"/>
+</map>

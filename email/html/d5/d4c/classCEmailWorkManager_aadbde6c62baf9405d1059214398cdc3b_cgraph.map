@@ -1,0 +1,9 @@
+<map id="CEmailWorkManager::populate_data_attachment_fields" name="CEmailWorkManager::populate_data_attachment_fields">
+<area shape="rect" id="node2" href="$d5/d4c/classCEmailWorkManager.html#aaa48dc5eb79e53fa3a7d36f879746174" title="extract_data_attachment_information " alt="" coords="251,117,437,173"/>
+<area shape="rect" id="node3" href="$d1/daa/classCEmailChannel.html#a5b221ba16cae28eba1957c4eba86d18a" title="CEmailChannel::id" alt="" coords="508,5,649,32"/>
+<area shape="rect" id="node4" href="$d1/daa/classCEmailChannel.html#a79f89246bdd7246eb138d7e59315135f" title="CEmailChannel::name" alt="" coords="495,56,662,83"/>
+<area shape="rect" id="node5" href="$d1/daa/classCEmailChannel.html#ae280ce0120448e294e00e7708ba728b7" title="CEmailChannel::value" alt="" coords="496,107,661,133"/>
+<area shape="rect" id="node6" href="$d1/daa/classCEmailChannel.html#a5123506d46a25a50e093ec5295afed11" title="CEmailChannel::units" alt="" coords="498,157,659,184"/>
+<area shape="rect" id="node7" href="$d5/d4c/classCEmailWorkManager.html#af566d7cc7df6063ce435b34365e2598c" title="extract_data_attachment_information " alt="" coords="485,208,672,264"/>
+<area shape="rect" id="node8" href="$d1/daa/classCEmailChannel.html#a4e0216f19dd48137273104b41bc4cbbe" title="CEmailChannel::parent" alt="" coords="493,288,664,315"/>
+</map>

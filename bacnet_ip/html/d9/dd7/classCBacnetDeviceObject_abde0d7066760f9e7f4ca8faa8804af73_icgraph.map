@@ -1,0 +1,5 @@
+<map id="CBacnetDeviceObject::get_device_states" name="CBacnetDeviceObject::get_device_states">
+<area shape="rect" id="node2" href="$db/d33/classCBacnetPointObject.html#a942693ad435a6c76124903d05a262c7b" title="Determine if this Point (via its parent device states) have Good Quality. " alt="" coords="216,38,376,79"/>
+<area shape="rect" id="node3" href="$db/d33/classCBacnetPointObject.html#a156c857d5c63731f29ff39598fa7ebb6" title="Reads one property for this object type of a given instance. " alt="" coords="424,5,597,46"/>
+<area shape="rect" id="node4" href="$db/d33/classCBacnetPointObject.html#ab50ed93c31c6d3759774aa360a5ffc6f" title="Get the present value for a COV notification for this object, and fill out the two entries in the giv..." alt="" coords="429,70,593,111"/>
+</map>

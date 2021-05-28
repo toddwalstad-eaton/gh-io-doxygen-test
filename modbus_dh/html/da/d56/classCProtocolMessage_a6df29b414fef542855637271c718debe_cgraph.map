@@ -1,0 +1,4 @@
+<map id="CProtocolMessage::on_read" name="CProtocolMessage::on_read">
+<area shape="rect" id="node2" href="$dc/ddf/classCIoMessage.html#a1e99535802ac0b6456381fffda773710" title="Return ID of the Device which this message is for. " alt="" coords="491,5,661,32"/>
+<area shape="rect" id="node3" href="$da/d56/classCProtocolMessage.html#ae5a1a65bdbb4c5d2a9bb092c6d28cbbb" title="Try to parse the received buffer, to see if we are done receiving. " alt="" coords="257,31,442,57"/>
+</map>

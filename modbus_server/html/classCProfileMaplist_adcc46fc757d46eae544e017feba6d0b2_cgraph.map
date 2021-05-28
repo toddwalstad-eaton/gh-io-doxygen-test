@@ -1,0 +1,27 @@
+<map id="CProfileMaplist::build_profile" name="CProfileMaplist::build_profile">
+<area shape="rect" id="node2" href="$classCModbusDeviceConfig.html#a22ef8e5ab90a95b24a4d04015bc8d6ca" title="Getter for device path. " alt="" coords="213,280,400,307"/>
+<area shape="rect" id="node3" href="$classCProfileMaplist.html#aedd86b2be6dd2c9b9033c0e0aa6bb346" title="CProfileMaplist::profile\l_single_device" alt="" coords="223,331,391,373"/>
+<area shape="rect" id="node17" href="$classCModbusDeviceConfig.html#a510014e6309693fb8bb5e92ec31d61b0" title="Get the EDS reported number of sub&#45;devices supported by this device. " alt="" coords="223,397,390,438"/>
+<area shape="rect" id="node18" href="$classCModbusDeviceConfig.html#a186999275079c3c8b3e9c486649fdbb7" title="Get the actual number of mapped sub&#45;devices supported by this device. " alt="" coords="223,462,390,503"/>
+<area shape="rect" id="node19" href="$classCModbusDeviceConfig.html#a67380035dfb91d06131a863bbcce93f5" title="Create map of sub&#45;device info to remove in CModbusConfig. " alt="" coords="223,527,390,569"/>
+<area shape="rect" id="node20" href="$classCProfileMaplist.html#a3489c6442367572e53535d2f7794d5dc" title="Print the profile. " alt="" coords="228,593,385,634"/>
+<area shape="rect" id="node26" href="$classCModbusDeviceConfig.html#a944982457f4c3dc8cf0d6cf08ed821ac" title="getter for the PEDs Map description " alt="" coords="223,658,390,699"/>
+<area shape="rect" id="node4" href="$classCAddressRange.html#a0471a6c0b427abfa4bfabb1d569c1b40" title="Generate an address range containing all possible addresses. " alt="" coords="490,5,638,46"/>
+<area shape="rect" id="node6" href="$classCModbusDeviceConfig.html#a1b0c28a643768afcdae0b72c14eaf97e" title="Get a discrete maplist for the requested device index and address range. " alt="" coords="481,70,647,111"/>
+<area shape="rect" id="node7" href="$classCModbusDeviceConfig.html#acd41b0c8320802019d119893a30fc876" title="Get a register maplist for the requested device index and address range. " alt="" coords="481,135,647,177"/>
+<area shape="rect" id="node8" href="$classCModbusCdsHandle.html#a07c1b743de512abf3d0ac5abca2bc0d3" title="Retrieve list of supported commands for a particular device. " alt="" coords="475,201,653,242"/>
+<area shape="rect" id="node9" href="$classCProfileMaplist.html#a6b6c7e4e42017e3902222d60e55a5a53" title="Build a discrete profile entry for a channel. " alt="" coords="474,266,654,307"/>
+<area shape="rect" id="node11" href="$classCProfileMaplist.html#a0315bc1f3fa8a8be2b9427e68bb715e8" title="Build a discrete profile entry for a command. " alt="" coords="467,331,661,373"/>
+<area shape="rect" id="node12" href="$classCProfileMaplist.html#a29b204019227361d2425fb195e89d3bd" title="Build a register profile entry for a device property. " alt="" coords="448,462,680,503"/>
+<area shape="rect" id="node15" href="$classCProfileMaplist.html#a21a2c4cd183dce8f420af95231e434e6" title="Build a register profile entry for a channel. " alt="" coords="475,397,653,438"/>
+<area shape="rect" id="node16" href="$classCProfileMaplist.html#a7e9cf78a9ca480cdf88b1dda8b94f34c" title="Build a register profile entry for a command. " alt="" coords="468,527,660,569"/>
+<area shape="rect" id="node5" href="$classCAddressRange.html#a569f4ad69299b8db263dd57b070148bb" title="Constructor. " alt="" coords="731,12,965,39"/>
+<area shape="rect" id="node10" href="$classCProfileMaplist.html#a2b0173b6067baf158f3afeb4b524e5a0" title="build multistate channel mapping string (i.e., possible values) " alt="" coords="769,305,927,346"/>
+<area shape="rect" id="node13" href="$classCParamMapping.html#aedd6757697cd92d01252481e5d1e358c" title="Getter for alternate name. " alt="" coords="729,411,967,437"/>
+<area shape="rect" id="node14" href="$classCParamMapping.html#a029c513c5e1b50192b8184e7592fc039" title="Getter for path. " alt="" coords="766,469,930,496"/>
+<area shape="rect" id="node21" href="$classCProfileMaplist.html#a71a510b3f036e87ad882b499b5be2613" title="Print device information. " alt="" coords="485,593,643,634"/>
+<area shape="rect" id="node24" href="$classCProfileMaplist.html#a1ded4327bde114aa64bb2bf280b423ce" title="Print profile entry header. " alt="" coords="485,658,643,699"/>
+<area shape="rect" id="node25" href="$classCProfileMaplist.html#a0c4d62011da1eb29d42bf8ad0b0db45a" title="Print an CVS entry for a channel mapping. " alt="" coords="485,723,643,765"/>
+<area shape="rect" id="node22" href="$classCProfileMaplist.html#a12c2a0ba86567cfee51577411746075c" title="Print device information section header/title. " alt="" coords="769,563,927,605"/>
+<area shape="rect" id="node23" href="$classCProfileMaplist.html#a07b0c73610af11727c7e54cc8bcd24b2" title="Print an empty line. " alt="" coords="1016,593,1173,634"/>
+</map>

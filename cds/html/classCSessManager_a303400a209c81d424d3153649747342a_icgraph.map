@@ -1,0 +1,4 @@
+<map id="CSessManager::remove_session" name="CSessManager::remove_session">
+<area shape="rect" id="node2" href="$classCSessManager.html#a2108026d25fa021b4bfa3ae8c94482b4" title="Logout a user by session token. " alt="" coords="230,12,399,39"/>
+<area shape="rect" id="node3" href="$classCSessManager.html#adcd6d53d565a6e3a0f55d0857549adb8" title="Terminate sessions with given handles. " alt="" coords="449,12,695,39"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="CMercuryUtil::remap_virtual_uri" name="CMercuryUtil::remap_virtual_uri">
+<area shape="rect" id="node2" href="$db/d16/classCMercuryUtil.html#a76d065c1f37ff1e9b75b8dd75a288b97" title="Authorize read access to a resource. " alt="" coords="217,135,396,177"/>
+<area shape="rect" id="node10" href="$db/d16/classCMercuryUtil.html#a5426810b3273fd0ea686399b1c142a3c" title="Authorize write access to a resource. " alt="" coords="217,318,396,359"/>
+<area shape="rect" id="node18" href="$df/d2d/util_8cpp.html#a44ed284c588f709a595b4168d259cc32" title="Suite for all enabled tests. " alt="" coords="211,384,402,411"/>
+<area shape="rect" id="node3" href="$de/dfb/classCMercuryGetBlobInfoRequest.html#a92c0c57ae2a133949d8ace472da754d3" title="Retrieve blob info and fill it into response (parameter). " alt="" coords="458,5,670,46"/>
+<area shape="rect" id="node5" href="$d1/d70/classCMercuryGetBlobListRequest.html#aa592e7a668d304a3b5b6d0e8699811ca" title="Retrieve blob list for the given virtual URI (folder path) and fill it into response. " alt="" coords="459,70,669,111"/>
+<area shape="rect" id="node7" href="$dc/dd5/classCMercuryGetBlobRequest.html#a4a2cb8348e6381b3b44c161b9a1fb522" title="Retrieve blob and fill it into response (parameter). " alt="" coords="471,135,657,177"/>
+<area shape="rect" id="node9" href="$df/d2d/util_8cpp.html#ad9f08084368b0dd8dfce8695ad2e68ea" title="Test normalize_authorize_uri_read() method. " alt="" coords="469,201,659,228"/>
+<area shape="rect" id="node4" href="$de/dfb/classCMercuryGetBlobInfoRequest.html#a453fac2beaf11a51685ce329670c4a0d" title="Handle a Mercury request (dispatch to the CDS) A pure virtual function, to be implemented in each mes..." alt="" coords="733,5,945,46"/>
+<area shape="rect" id="node6" href="$d1/d70/classCMercuryGetBlobListRequest.html#a601bcdc2a4ae3530ed3ee42bde7278ab" title="Handle a Mercury request (dispatch to the CDS) A pure virtual function, to be implemented in each mes..." alt="" coords="733,70,944,111"/>
+<area shape="rect" id="node8" href="$dc/dd5/classCMercuryGetBlobRequest.html#ae83ac68542d3eece2625ad9a1fbd5837" title="Handle a Mercury request (dispatch to the CDS) A pure virtual function, to be implemented in each mes..." alt="" coords="745,135,932,177"/>
+<area shape="rect" id="node11" href="$d5/dc0/classCMercuryDelBlobRequest.html#ac0f8ef2744959d9fc7eeed2712c30229" title="Delete blob. " alt="" coords="471,253,657,294"/>
+<area shape="rect" id="node13" href="$d8/dd8/classCMercuryPutBlobReadyRequest.html#acd94e1f7afb82d03b6bc4545a00e60a1" title="Validate requested blob uri and size. " alt="" coords="451,318,677,359"/>
+<area shape="rect" id="node15" href="$d1/d91/classCMercuryPutBlobRequest.html#a1a92b19ade3212106e1387b17626c1c9" title="Fulfil the put blob request. " alt="" coords="471,383,657,425"/>
+<area shape="rect" id="node17" href="$df/d2d/util_8cpp.html#aaa02ae13b51c4fc66246cfe7b6d87c3c" title="BOOST_AUTO_TEST_CASE" alt="" coords="469,449,659,476"/>
+<area shape="rect" id="node12" href="$d5/dc0/classCMercuryDelBlobRequest.html#a87b63b338fac5eb490421baf444163c4" title="Handle a Mercury request (dispatch to the CDS) A pure virtual function, to be implemented in each mes..." alt="" coords="745,253,932,294"/>
+<area shape="rect" id="node14" href="$d8/dd8/classCMercuryPutBlobReadyRequest.html#aaad26600bd0a105044238510260aa7af" title="Handle a Mercury request (dispatch to the CDS) A pure virtual function, to be implemented in each mes..." alt="" coords="726,318,951,359"/>
+<area shape="rect" id="node16" href="$d1/d91/classCMercuryPutBlobRequest.html#aabd041f4b5cb1a9cb58c27a681d38a82" title="Handle a Mercury request (dispatch to the CDS) A pure virtual function, to be implemented in each mes..." alt="" coords="746,383,931,425"/>
+</map>

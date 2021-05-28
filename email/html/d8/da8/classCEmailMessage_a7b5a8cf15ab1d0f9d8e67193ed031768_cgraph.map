@@ -1,0 +1,6 @@
+<map id="CEmailMessage::build_message_subject" name="CEmailMessage::build_message_subject">
+<area shape="rect" id="node2" href="$d8/da8/classCEmailMessage.html#afd5259e726c08f2fb89f9b4b622ed9cf" title="format_text " alt="" coords="219,41,429,68"/>
+<area shape="rect" id="node5" href="$d8/da8/classCEmailMessage.html#a84935666bad0c652c6142a1654f7abe6" title="work_item " alt="" coords="712,100,915,127"/>
+<area shape="rect" id="node3" href="$d8/da8/classCEmailMessage.html#a27442616c181af6113abfe106cd44232" title="substitute_string " alt="" coords="714,5,913,46"/>
+<area shape="rect" id="node4" href="$d8/da8/classCEmailMessage.html#a274d6f46594219912aa5617f92ac7234" title="perform_variable_substitution " alt="" coords="478,63,663,105"/>
+</map>

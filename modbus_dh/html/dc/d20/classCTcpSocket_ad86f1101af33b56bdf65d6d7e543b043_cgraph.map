@@ -1,0 +1,5 @@
+<map id="CTcpSocket::disable" name="CTcpSocket::disable">
+<area shape="rect" id="node2" href="$dc/d20/classCTcpSocket.html#a1c987a97ba155a366f36bb5f707d3fe0" title="Cancels timer. " alt="" coords="206,5,394,32"/>
+<area shape="rect" id="node3" href="$dc/d20/classCTcpSocket.html#a7d322302877d65dfca0117e76487c7f2" title="Cancel current socket transaction. " alt="" coords="227,57,373,98"/>
+<area shape="rect" id="node4" href="$dc/d20/classCTcpSocket.html#a7ea7ac59fef0e0418892c8415f08f609" title="Close the socket. " alt="" coords="231,123,369,149"/>
+</map>

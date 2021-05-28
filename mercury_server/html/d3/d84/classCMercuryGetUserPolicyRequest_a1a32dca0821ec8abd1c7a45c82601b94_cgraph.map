@@ -1,0 +1,5 @@
+<map id="CMercuryGetUserPolicyRequest::post" name="CMercuryGetUserPolicyRequest::post">
+<area shape="rect" id="node2" href="$df/df6/classCMercuryMessageHandler.html#a17ed689c3244cf11e17c39827a61c70a" title="Post an error response, with the optional error message. " alt="" coords="521,5,738,32"/>
+<area shape="rect" id="node3" href="$df/df6/classCMercuryMessageHandler.html#a60e36e9ba52b6b0b4b7199b65e96a70f" title="Post an error response, based on the CDS response status, with the optional error message..." alt="" coords="281,27,471,69"/>
+<area shape="rect" id="node4" href="$df/df6/classCMercuryMessageHandler.html#ab1d4986083e1271b288e3da19be56359" title="interface to respond to interested parties " alt="" coords="281,93,471,134"/>
+</map>

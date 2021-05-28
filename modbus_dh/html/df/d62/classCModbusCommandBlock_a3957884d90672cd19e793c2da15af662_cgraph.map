@@ -1,0 +1,11 @@
+<map id="CModbusCommandBlock::create_message" name="CModbusCommandBlock::create_message">
+<area shape="rect" id="node2" href="$df/d21/classCModbusAddressRange.html#a0512b6354b23a42c1c821643dc6b13df" title="Getter for _modbus_func_code. " alt="" coords="246,5,429,46"/>
+<area shape="rect" id="node3" href="$df/d21/classCModbusAddressRange.html#a8c0f0915ce342b4d66cb4b19de3116e9" title="Getter for _modbus_sub_func_code. " alt="" coords="733,59,947,101"/>
+<area shape="rect" id="node4" href="$d8/d91/classCModbusFunctionGenerator.html#a56b452530d1c6a91f88b44cbc0e53ba0" title="CModbusFunctionGenerator\l::create" alt="" coords="237,122,437,163"/>
+<area shape="rect" id="node10" href="$d8/d81/structIDataBlockObserver.html#abea201b41788f18f391393c00991b579" title="Gets the ID of the observer (parent) Device. " alt="" coords="261,187,413,229"/>
+<area shape="rect" id="node5" href="$d8/d91/classCModbusFunctionGenerator.html#ace5d0ce6ea85de3c30450774a89ff903" title="CModbusFunctionGenerator\l::read" alt="" coords="485,122,685,163"/>
+<area shape="rect" id="node9" href="$d8/d91/classCModbusFunctionGenerator.html#ac3fd6044fc2c478283146b1a01bc956e" title="CModbusFunctionGenerator\l::write" alt="" coords="485,187,685,229"/>
+<area shape="rect" id="node6" href="$df/d21/classCModbusAddressRange.html#acb71993f7bfb6cc4e1e5a5d1943dedad" title="Getter for _start member. " alt="" coords="753,190,927,231"/>
+<area shape="rect" id="node7" href="$df/d21/classCModbusAddressRange.html#a5612e3ce06f4d96a48bcb1d814e9040c" title="Get the size of this range. " alt="" coords="753,125,927,166"/>
+<area shape="rect" id="node8" href="$df/d21/classCModbusAddressRange.html#a0584719118ca127a8d335397c7f94882" title="Validates this Modbus message data per Modbus Application Protocol Specification V1.1b. " alt="" coords="995,125,1170,166"/>
+</map>

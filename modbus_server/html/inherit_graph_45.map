@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classpx_1_1asio_1_1CTimedObject.html" title="CTimedObject" alt="" coords="5,81,120,108"/>
+<area shape="rect" id="node2" href="$classCModbusFunctionHandler.html" title="Modbus Function Handler. " alt="" coords="168,81,355,108"/>
+<area shape="rect" id="node3" href="$classCModbusReadDiscretes.html" title="Implementation of Modbus &quot;read discretes&quot; function code(s) " alt="" coords="403,5,578,32"/>
+<area shape="rect" id="node4" href="$classCModbusReadRegisters.html" title="Implementation of Modbus &quot;read registers&quot; function code(s) " alt="" coords="404,56,577,83"/>
+<area shape="rect" id="node5" href="$classCModbusWriteDiscretes.html" title="Implementation of Modbus &quot;write discretes&quot; function code(s) " alt="" coords="403,107,579,133"/>
+<area shape="rect" id="node6" href="$classCModbusWriteRegisters.html" title="Implementation of Modbus &quot;write registers&quot; function code(s) " alt="" coords="403,157,578,184"/>
+</map>

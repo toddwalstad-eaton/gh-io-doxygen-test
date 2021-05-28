@@ -1,0 +1,7 @@
+<map id="px::CUser" name="px::CUser">
+<area shape="rect" id="node2" href="$de/df4/classpx_1_1CUserPolicy.html" title="Represents global or per&#45;user password&#45;management policy, such as expiration and complexity requireme..." alt="" coords="582,846,828,1290"/>
+<area shape="rect" id="node9" href="$d9/d7d/classpx_1_1CWallTime.html" title="Wall&#45;clock time. " alt="" coords="1171,941,1288,1195"/>
+<area shape="rect" id="node10" href="$d6/d4e/classpx_1_1CTimestamp.html" title="Wrapper around a &quot;timespec&quot; structure that provides additional useful functionality. " alt="" coords="1261,147,1480,445"/>
+<area shape="rect" id="node11" href="$da/d9d/classtimespec.html" title="{timespec\n||}" alt="" coords="1284,5,1367,83"/>
+<area shape="rect" id="node16" title="STL class. " alt="" coords="1647,250,1799,342"/>
+</map>

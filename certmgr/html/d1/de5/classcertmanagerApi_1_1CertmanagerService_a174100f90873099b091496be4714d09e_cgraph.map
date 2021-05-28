@@ -1,0 +1,4 @@
+<map id="certmanagerApi::CertmanagerService::getServerCertificateDetails" name="certmanagerApi::CertmanagerService::getServerCertificateDetails">
+<area shape="rect" id="node2" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#ad08bb4ba974ffb63a262f6d89c630036" title="Get id of the currently active server certificate. " alt="" coords="309,5,571,46"/>
+<area shape="rect" id="node3" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#aca91cae4547e38214ac3782b6c0c82f9" title="Read the certificate details file. " alt="" coords="331,70,549,111"/>
+</map>

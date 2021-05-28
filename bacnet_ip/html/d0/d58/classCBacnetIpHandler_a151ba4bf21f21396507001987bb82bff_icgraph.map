@@ -1,0 +1,4 @@
+<map id="CBacnetIpHandler::bvlc_send_mpdu" name="CBacnetIpHandler::bvlc_send_mpdu">
+<area shape="rect" id="node2" href="$d7/d94/group__bip__interface.html#gacf4d82c08beac50cdfa09b5cbbf5bde1" title="Function to add BVLC support to PDU data and then send a packet out the BACnet/IP socket (Annex J)..." alt="" coords="230,12,349,39"/>
+<area shape="rect" id="node3" href="$d7/d94/group__bip__interface.html#gafd95a0bfb0c464bcffdcf6c6476a0859" title="Function to send a packet out the BACnet/IP socket (Annex J). " alt="" coords="398,12,509,39"/>
+</map>

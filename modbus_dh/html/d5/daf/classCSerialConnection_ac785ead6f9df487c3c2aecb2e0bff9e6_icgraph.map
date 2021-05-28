@@ -1,0 +1,5 @@
+<map id="CSerialConnection::set_char_size" name="CSerialConnection::set_char_size">
+<area shape="rect" id="node2" href="$d5/daf/classCSerialConnection.html#a57ea0b7601c7b7caedecef7db52c40c1" title="Constructor, which also initializes the serial port to its defaults. " alt="" coords="203,5,352,46"/>
+<area shape="rect" id="node3" href="$d5/daf/classCSerialConnection.html#a11f088eb71f80cc47563f19f24c67441" title="Factory function. " alt="" coords="400,5,549,46"/>
+<area shape="rect" id="node4" href="$df/d6f/classCSerialPort.html#a801fb24a18b6d99785d4b3edbecb04e9" title="(Virtual) Factory method to create the port &quot;Connection&quot; Actor (eg, CSerialConnection). " alt="" coords="598,5,741,46"/>
+</map>

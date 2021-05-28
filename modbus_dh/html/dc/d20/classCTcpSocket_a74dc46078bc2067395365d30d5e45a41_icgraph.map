@@ -1,0 +1,5 @@
+<map id="CTcpSocket::create" name="CTcpSocket::create">
+<area shape="rect" id="node2" href="$d2/d1e/classCModbusTCPDevice.html#a9d5146c6c2d81c02ff8192e99522410e" title="Default constructor. " alt="" coords="201,5,418,46"/>
+<area shape="rect" id="node4" href="$d2/d1e/classCModbusTCPDevice.html#ab3192f607b3c33f7ff204d70b07f4e89" title="Perform protocol specific handling when a Comm Loss event occurs. " alt="" coords="208,70,411,111"/>
+<area shape="rect" id="node3" href="$d2/d1e/classCModbusTCPDevice.html#adafbb9db082f607b9f1563fc4d5ce84d" title="Create and initialize a subdevice, given its EDS and device description, and our shared settings as p..." alt="" coords="467,5,666,46"/>
+</map>

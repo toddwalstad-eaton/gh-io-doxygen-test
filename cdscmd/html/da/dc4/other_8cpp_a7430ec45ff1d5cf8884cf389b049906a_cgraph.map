@@ -1,0 +1,11 @@
+<map id="create_channels_from_list" name="create_channels_from_list">
+<area shape="rect" id="node2" href="$da/dc4/other_8cpp.html#a43fe790602a61b397eefa9e7d57ecfc0" title="add_single_channel\l_requests" alt="" coords="267,80,418,121"/>
+<area shape="rect" id="node4" href="$d3/de7/other_8hpp.html#a914f36ec8021e8e00438cd091777d8f3" title="Set the username and address of the source in the message, if we were given them. ..." alt="" coords="735,28,827,55"/>
+<area shape="rect" id="node9" href="$da/dc4/other_8cpp.html#afa20e17c1a558170e9307173743aeb07" title="print_not_found_channels" alt="" coords="248,146,437,172"/>
+<area shape="rect" id="node10" href="$da/dc4/other_8cpp.html#a7285a0a29cfca6fac4bfd641b8f9a0af" title="update_channel_settings" alt="" coords="485,28,669,55"/>
+<area shape="rect" id="node3" href="$d5/d0c/channels_8hpp.html#abacd337cdd093fdc05799d0931973d49" title="do_getchannel_info" alt="" coords="503,79,652,106"/>
+<area shape="rect" id="node6" href="$df/dcf/devices_8hpp.html#a16215cb85d984cc54b235c69d221677b" title="do_getdevice" alt="" coords="523,130,632,156"/>
+<area shape="rect" id="node5" href="$da/d6b/cdscmd_8hpp.html#af8d4d24335b9565f7e16c25d788e5b78" title="error_msg" alt="" coords="737,79,825,106"/>
+<area shape="rect" id="node7" href="$d3/de7/other_8hpp.html#a83bbdcd0c16eb18dfb34128e691b2788" title="state_to_str" alt="" coords="732,130,831,156"/>
+<area shape="rect" id="node8" href="$da/d6b/cdscmd_8hpp.html#a10b604df946d07237a8ccfe40cd2b8fa" title="output_protobuf" alt="" coords="718,180,845,207"/>
+</map>

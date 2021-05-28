@@ -1,0 +1,3 @@
+<map id="CBacnetIntegerValue::get_object_property_array" name="CBacnetIntegerValue::get_object_property_array">
+<area shape="rect" id="node2" href="$dc/d60/classCBacnetIntegerValue.html#a9a6a84246120601c9ce224440bbcb591" title="Fetches the lists of properties (array of BACNET_PROPERTY_ID&#39;s) for this object type, grouped by Required, Optional, and Proprietary. " alt="" coords="257,5,415,46"/>
+</map>

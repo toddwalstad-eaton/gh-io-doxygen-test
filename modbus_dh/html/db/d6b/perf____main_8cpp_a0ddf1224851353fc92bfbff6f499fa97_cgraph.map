@@ -1,0 +1,3 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d8/dc8/classCIdAllocator.html#af5c83511968f7f494e8d5e411a33f76f" title="Initialize our transient ID area with the high value; subsequent calls to get() will decrement from h..." alt="" coords="109,5,240,32"/>
+</map>

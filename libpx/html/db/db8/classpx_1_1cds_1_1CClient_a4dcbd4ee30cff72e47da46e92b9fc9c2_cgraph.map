@@ -1,0 +1,10 @@
+<map id="px::cds::CClient::connect" name="px::cds::CClient::connect">
+<area shape="rect" id="node2" href="$db/db8/classpx_1_1cds_1_1CClient.html#a8e0d6758f507d55d70bc0bf160f93584" title="px::cds::CClient::bg\l_thread_func" alt="" coords="265,23,412,65"/>
+<area shape="rect" id="node5" href="$db/db8/classpx_1_1cds_1_1CClient.html#a5aa42d307a74fdd3117745f85a587e34" title="Disconnect from the CDS. " alt="" coords="489,136,690,163"/>
+<area shape="rect" id="node8" href="$db/db8/classpx_1_1cds_1_1CClient.html#aab9722874d525e2c0e4d26f0bc5a0fea" title="px::cds::CClient::get_shm" alt="" coords="245,140,432,167"/>
+<area shape="rect" id="node9" href="$db/db8/classpx_1_1cds_1_1CClient.html#afa947c62e0f68e8ef263ef6cc2953e24" title="Update the client&#39;s UID on the server by reading the process UID, GID, and PID, and sending via SCM_C..." alt="" coords="237,191,440,217"/>
+<area shape="rect" id="node3" href="$d5/dc3/classpx_1_1CUtil.html#adf7cffe1ca62e79d6af4386052e20c42" title="Set a thread&#39;s name, visible in &quot;ps&quot;. " alt="" coords="490,5,689,32"/>
+<area shape="rect" id="node4" href="$d5/dd5/namespacepx_1_1cds.html#a6d877d2364c718b3fdc8e7f013776da7" title="px::cds::req_unpack" alt="" coords="514,56,665,83"/>
+<area shape="rect" id="node6" href="$db/db8/classpx_1_1cds_1_1CClient.html#a04806b8577ecbb198bc2f7c8cf9939ff" title="Unregister a previously registered callback structure. " alt="" coords="739,95,936,137"/>
+<area shape="rect" id="node7" href="$db/db8/classpx_1_1cds_1_1CClient.html#a28b00111c32ca2391045e23966fb7210" title="Unregister the previously registered callback function for unsolicited messages from the CDS..." alt="" coords="739,161,936,202"/>
+</map>

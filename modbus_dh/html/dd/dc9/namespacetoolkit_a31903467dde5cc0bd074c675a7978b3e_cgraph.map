@@ -1,0 +1,5 @@
+<map id="toolkit::ExtTypeToValue" name="toolkit::ExtTypeToValue">
+<area shape="rect" id="node2" href="$dd/dc9/namespacetoolkit.html#a5209d56d57f1468826b81741efc1b525" title="Return the size of an External Data Type. " alt="" coords="246,5,394,32"/>
+<area shape="rect" id="node3" href="$dd/dc9/namespacetoolkit.html#aa5d8ccc56a73cb3cbf1fccabcf63e0b8" title="toolkit::float_from_bits" alt="" coords="235,56,405,83"/>
+<area shape="rect" id="node4" href="$dd/dc9/namespacetoolkit.html#a98f419b827ee64e13faa881b0040368e" title="toolkit::double_from_bits" alt="" coords="227,107,413,133"/>
+</map>

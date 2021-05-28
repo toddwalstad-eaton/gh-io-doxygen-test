@@ -1,0 +1,15 @@
+<map id="client.cpp" name="client.cpp">
+<area shape="rect" id="node16" href="$d4/d3d/log_8hpp.html" title="An internal libpx header that defines the syslogging functions. " alt="" coords="125,80,195,107"/>
+<area shape="rect" id="node19" href="$dd/d3a/common_8hpp.html" title="px/common.hpp" alt="" coords="1839,253,1965,280"/>
+<area shape="rect" id="node22" href="$d7/d1e/exception_8hpp.html" title="px/exception.hpp" alt="" coords="3733,253,3867,280"/>
+<area shape="rect" id="node27" href="$d2/dfe/client_8hpp.html" title="px/cds/client.hpp" alt="" coords="1647,80,1779,107"/>
+<area shape="rect" id="node37" href="$db/dac/packer_8hpp.html" title="px/cds/packer.hpp" alt="" coords="1433,80,1572,107"/>
+<area shape="rect" id="node39" href="$d4/d32/util_2util_8hpp.html" title="px/util/util.hpp" alt="" coords="2621,80,2736,107"/>
+<area shape="rect" id="node18" href="$d6/df8/lib__log_8hpp.html" title="px/util/lib_log.hpp" alt="" coords="489,163,628,189"/>
+<area shape="rect" id="node25" href="$d4/d76/type_2string_8hpp.html" title="type/string.hpp" alt="" coords="1685,336,1805,363"/>
+<area shape="rect" id="node33" href="$de/d7c/request__response_8hpp.html" title="px/cds/request_response.hpp" alt="" coords="892,163,1103,189"/>
+<area shape="rect" id="node35" href="$d8/da6/mono__time_8hpp.html" title="px/type/mono_time.hpp" alt="" coords="1035,253,1212,280"/>
+<area shape="rect" id="node42" href="$d5/da4/realtime__priority_8hpp.html" title="px/util/realtime_priority.hpp" alt="" coords="2479,163,2681,189"/>
+<area shape="rect" id="node44" href="$d6/d86/bitset_8hpp.html" title="px/type/bitset.hpp" alt="" coords="3205,163,3344,189"/>
+<area shape="rect" id="node50" href="$d6/d33/permission__enums_8hpp.html" title="px/enum/permission\l_enums.hpp" alt="" coords="2249,155,2404,197"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="trend_accumulator.cpp" name="trend_accumulator.cpp">
+<area shape="rect" id="node2" href="$dd/d3a/common_8hpp.html" title="px/common.hpp" alt="" coords="1785,619,1911,645"/>
+<area shape="rect" id="node3" href="$d7/d1e/exception_8hpp.html" title="px/exception.hpp" alt="" coords="289,80,423,107"/>
+<area shape="rect" id="node8" href="$d4/d05/trend__accumulator_8hpp.html" title="px/data/trend_accumulator.hpp" alt="" coords="1373,229,1597,256"/>
+<area shape="rect" id="node26" href="$d6/dca/adapter_8hpp.html" title="px/db/adapter.hpp" alt="" coords="1992,80,2131,107"/>
+<area shape="rect" id="node46" href="$d4/d3d/log_8hpp.html" title="An internal libpx header that defines the syslogging functions. " alt="" coords="3407,80,3477,107"/>
+<area shape="rect" id="node6" href="$d4/d76/type_2string_8hpp.html" title="type/string.hpp" alt="" coords="2916,619,3036,645"/>
+<area shape="rect" id="node13" href="$d2/dca/type_2value_8hpp.html" title="px/type/value.hpp" alt="" coords="2055,387,2193,413"/>
+<area shape="rect" id="node23" href="$de/dda/wall__time_8hpp.html" title="px/type/wall_time.hpp" alt="" coords="1459,469,1625,496"/>
+<area shape="rect" id="node24" href="$d5/da1/trend__stage__update_8hpp.html" title="px/data/trend_stage\l_update.hpp" alt="" coords="1371,379,1523,421"/>
+<area shape="rect" id="node25" href="$df/df5/value__accumulator_8hpp.html" title="px/data/value_accumulator.hpp" alt="" coords="1523,304,1749,331"/>
+<area shape="rect" id="node18" href="$d1/db0/timestamp_8hpp.html" title="timestamp.hpp" alt="" coords="1689,544,1809,571"/>
+<area shape="rect" id="node19" href="$db/d73/invalid_8hpp.html" title="invalid.hpp" alt="" coords="2209,469,2303,496"/>
+<area shape="rect" id="node20" href="$d6/d12/datatype_8hpp.html" title="px/enum/datatype.hpp" alt="" coords="1803,469,1972,496"/>
+<area shape="rect" id="node22" href="$d6/d78/best__type_8hpp.html" title="value/best_type.hpp" alt="" coords="1459,544,1613,571"/>
+<area shape="rect" id="node21" href="$d7/dc1/datatype__enums_8hpp.html" title="datatype_enums.hpp" alt="" coords="710,544,868,571"/>
+<area shape="rect" id="node30" href="$db/db3/id_8hpp.html" title="px/type/id.hpp" alt="" coords="605,387,720,413"/>
+<area shape="rect" id="node32" href="$d1/d41/batch_8hpp.html" title="px/db/batch.hpp" alt="" coords="2962,229,3088,256"/>
+<area shape="rect" id="node34" href="$d0/da4/blob__holder_8hpp.html" title="px/db/blob_holder.hpp" alt="" coords="2723,304,2888,331"/>
+<area shape="rect" id="node35" href="$d5/d08/device_8hpp.html" title="px/data/device.hpp" alt="" coords="696,304,843,331"/>
+<area shape="rect" id="node33" href="$d9/dde/iterator_8hpp.html" title="iterator.hpp" alt="" coords="2550,304,2647,331"/>
+<area shape="rect" id="node36" href="$db/d20/channel_8hpp.html" title="px/data/channel.hpp" alt="" coords="1661,155,1816,181"/>
+<area shape="rect" id="node37" href="$d5/dad/alarm__update_8hpp.html" title="px/data/alarm_update.hpp" alt="" coords="2027,304,2220,331"/>
+<area shape="rect" id="node38" href="$da/d38/delete__alarms_8hpp.html" title="px/cds/delete_alarms.hpp" alt="" coords="867,304,1056,331"/>
+<area shape="rect" id="node39" href="$d6/d4c/key__value__store_8hpp.html" title="px/db/key_value_store.hpp" alt="" coords="2571,229,2768,256"/>
+<area shape="rect" id="node41" href="$db/d4f/override__level_8hpp.html" title="px/enum/override_level.hpp" alt="" coords="430,544,633,571"/>
+<area shape="rect" id="node43" href="$db/dea/trend__trait_8hpp.html" title="px/data/trend_trait.hpp" alt="" coords="83,469,253,496"/>
+<area shape="rect" id="node44" href="$df/dbb/trend__bucket__update_8hpp.html" title="px/data/trend_bucket\l_update.hpp" alt="" coords="744,379,904,421"/>
+<area shape="rect" id="node45" href="$d7/d22/channel__trends_8hpp.html" title="px/data/channel_trends.hpp" alt="" coords="379,387,581,413"/>
+<area shape="rect" id="node48" href="$d6/df8/lib__log_8hpp.html" title="px/util/lib_log.hpp" alt="" coords="3267,155,3405,181"/>
+</map>

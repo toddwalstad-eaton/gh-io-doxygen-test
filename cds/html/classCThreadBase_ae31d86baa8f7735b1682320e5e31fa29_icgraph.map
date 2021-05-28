@@ -1,0 +1,4 @@
+<map id="CThreadBase::command_batch_complete" name="CThreadBase::command_batch_complete">
+<area shape="rect" id="node2" href="$classCThreadBase.html#afd02aea690c0790bbb4406fb2a0627ac" title="This is the function called by the main loop (in the worker thread) to wait for new commands in the i..." alt="" coords="235,5,403,46"/>
+<area shape="rect" id="node3" href="$classCThreadBase.html#af590fc4fd4e8a9879c7b1531d918bcb3" title="This class is a functor, as required by the Boost threads library to kick off thread execution..." alt="" coords="451,12,632,39"/>
+</map>

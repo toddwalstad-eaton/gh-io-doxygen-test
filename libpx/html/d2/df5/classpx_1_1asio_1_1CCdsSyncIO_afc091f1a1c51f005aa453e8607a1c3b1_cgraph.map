@@ -1,0 +1,6 @@
+<map id="px::asio::CCdsSyncIO::~CCdsSyncIO" name="px::asio::CCdsSyncIO::~CCdsSyncIO">
+<area shape="rect" id="node2" href="$db/db8/classpx_1_1cds_1_1CClient.html#a5aa42d307a74fdd3117745f85a587e34" title="Disconnect from the CDS. " alt="" coords="214,44,415,71"/>
+<area shape="rect" id="node5" href="$db/db8/classpx_1_1cds_1_1CClient.html#ad3a241ca4570471536d3436ee23b3d65" title="Static Factory function: constructs if necessary, returns existing instance of CClient otherwise..." alt="" coords="239,95,391,121"/>
+<area shape="rect" id="node3" href="$db/db8/classpx_1_1cds_1_1CClient.html#a04806b8577ecbb198bc2f7c8cf9939ff" title="Unregister a previously registered callback structure. " alt="" coords="464,5,661,46"/>
+<area shape="rect" id="node4" href="$db/db8/classpx_1_1cds_1_1CClient.html#a28b00111c32ca2391045e23966fb7210" title="Unregister the previously registered callback function for unsolicited messages from the CDS..." alt="" coords="464,70,661,111"/>
+</map>

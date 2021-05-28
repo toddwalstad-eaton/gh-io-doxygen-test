@@ -1,0 +1,6 @@
+<map id="CTranslator::Translate" name="CTranslator::Translate">
+<area shape="rect" id="node2" href="$de/d05/classCDataUtil.html#a7d9f80597896acc1f7237b2749bd4efe" title="CDataUtil::incom_to\l_host_word" alt="" coords="235,27,389,69"/>
+<area shape="rect" id="node5" href="$d6/dc1/classCTranslator.html#a91b1270eb2905188a66960dae7562660" title="CTranslator::DoTranslation" alt="" coords="216,93,408,120"/>
+<area shape="rect" id="node3" href="$de/d05/classCDataUtil.html#a1fd73aca9d5d4c71af178d618afcb0b5" title="Indicates if the platform is low&#45;endian. " alt="" coords="457,5,642,32"/>
+<area shape="rect" id="node4" href="$de/d05/classCDataUtil.html#a5f04b6730473f3690c725435a512f688" title="Swap byte order of 16&#45;bit value (switch endianess) " alt="" coords="464,57,635,98"/>
+</map>

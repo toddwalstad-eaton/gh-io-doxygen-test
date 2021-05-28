@@ -1,0 +1,4 @@
+<map id="CTcpProxyList::get_oob_data" name="CTcpProxyList::get_oob_data">
+<area shape="rect" id="node2" href="$d0/d8a/classCTcpProxyList.html#a31665f94105428f5f405a9719ecd7b7c" title="Getter for the Modbus TCP network pass&#45;through list. " alt="" coords="203,5,347,46"/>
+<area shape="rect" id="node3" href="$db/daf/classCModbusUtil.html#ae8a0fdaf34af28b14a703b29a2b0391b" title="Decode the IP address, port, and unit ID The passed in tcp_addr_t struct is filled in with IP address..." alt="" coords="195,70,354,111"/>
+</map>

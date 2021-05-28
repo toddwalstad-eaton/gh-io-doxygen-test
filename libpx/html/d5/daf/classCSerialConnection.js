@@ -1,0 +1,26 @@
+var classCSerialConnection =
+[
+    [ "CSerialConnection", "d5/daf/classCSerialConnection.html#a9b2680463cf5cdc254d7b54f7281f359", null ],
+    [ "~CSerialConnection", "d5/daf/classCSerialConnection.html#ab3fdcbbf8910cfc6649599d0ba6a4c2a", null ],
+    [ "create", "d5/daf/classCSerialConnection.html#a20922a2b4b2ae50d17ee990503a7e56f", null ],
+    [ "is_open", "d5/daf/classCSerialConnection.html#a789f8f0e9a5fbf4dde13ae6dfbd6326b", null ],
+    [ "get_baud_rate", "d5/daf/classCSerialConnection.html#a80a1a6b1e9b60053e6de0136ae3ca762", null ],
+    [ "set_baud_rate", "d5/daf/classCSerialConnection.html#afe05eb008a11e75da185a940725380fe", null ],
+    [ "get_flow_control", "d5/daf/classCSerialConnection.html#a6cd892ff3d15662f2c435a0908ee4577", null ],
+    [ "set_flow_control", "d5/daf/classCSerialConnection.html#a997b35ae800fbdd400edb437a1084f8f", null ],
+    [ "get_char_size", "d5/daf/classCSerialConnection.html#ad96f1b2072b2da8d94c1cebaa673868b", null ],
+    [ "set_char_size", "d5/daf/classCSerialConnection.html#ad0fc1da6702b9a658a398a275d92395d", null ],
+    [ "get_parity", "d5/daf/classCSerialConnection.html#a743d40a79483d35642b9133f6be5bebe", null ],
+    [ "set_parity", "d5/daf/classCSerialConnection.html#aa8d1ac83e6bd567af1d7ae8b2afcf879", null ],
+    [ "get_stop_bits", "d5/daf/classCSerialConnection.html#ad453beca279d8b76dcad6ecb930d957f", null ],
+    [ "set_stop_bits", "d5/daf/classCSerialConnection.html#a80b2de1489b0bde08d0e1f9f43b29268", null ],
+    [ "get_id", "d5/daf/classCSerialConnection.html#ac831c7619e09fe6961a1ef0b225025a0", null ],
+    [ "flush", "d5/daf/classCSerialConnection.html#acd7258d0fbcd253bb6535797d0a7157b", null ],
+    [ "cancel", "d5/daf/classCSerialConnection.html#a7f1a812f553cd6e62e3dede23ffdef9f", null ],
+    [ "close", "d5/daf/classCSerialConnection.html#a65c473d139e5d8d2bf201f296f2b049c", null ],
+    [ "read_more", "d5/daf/classCSerialConnection.html#a21eb323896a2b792ebefbf44fb3b35aa", null ],
+    [ "write", "d5/daf/classCSerialConnection.html#a47c4c0fa924d03a246bcab67711c33dc", null ],
+    [ "_port", "d5/daf/classCSerialConnection.html#a959dc7e05048912a20a7f843ff9f6a44", null ],
+    [ "_port_open", "d5/daf/classCSerialConnection.html#a62d4530417bff21abfc601368f15c590", null ],
+    [ "_id", "d5/daf/classCSerialConnection.html#ab1d1ed3cf34ee913c5eb5a50613611f9", null ]
+];

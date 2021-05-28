@@ -1,0 +1,10 @@
+<map id="px::cds::CServer::get_pending_requests" name="px::cds::CServer::get_pending_requests">
+<area shape="rect" id="node2" href="$d3/d8f/classpx_1_1cds_1_1CServer.html#a411c66618f5276c641ecab931b34afc1" title="Look for any new connections, establish them, set up the new client IDs and IPC objects. " alt="" coords="224,5,397,46"/>
+<area shape="rect" id="node6" href="$d7/d2b/classpx_1_1cds_1_1CSignalPipe.html#acd94e725edcf8d7b6c2cf4b55b2d430c" title="Clear notification of the incoming signal so that we can continue normal operation. " alt="" coords="234,70,387,111"/>
+<area shape="rect" id="node7" href="$d5/dd5/namespacepx_1_1cds.html#a6d877d2364c718b3fdc8e7f013776da7" title="px::cds::req_unpack" alt="" coords="235,136,386,163"/>
+<area shape="rect" id="node8" href="$d3/d8f/classpx_1_1cds_1_1CServer.html#a0566ff85c1ad0f76732e8b09e7ee67b3" title="Look for any new messages on the client connection socket. " alt="" coords="225,187,396,229"/>
+<area shape="rect" id="node9" href="$d3/d8f/classpx_1_1cds_1_1CServer.html#a7eb02a3cda7a73401a97bf77f3eca844" title="Terminate existing connections. " alt="" coords="211,253,410,280"/>
+<area shape="rect" id="node3" href="$d3/d8f/classpx_1_1cds_1_1CServer.html#acbba1a3b095402aed9c0cb5aed6d84b2" title="Simple getter to retrive client name given client id. " alt="" coords="473,12,652,39"/>
+<area shape="rect" id="node4" href="$d3/d8f/classpx_1_1cds_1_1CServer.html#aef65f1fe4050e9c401d329cd1d31b55e" title="Update the UID, in case the process has done a setuid() Returns the new UID (even if unchanged)..." alt="" coords="459,128,666,155"/>
+<area shape="rect" id="node5" href="$d5/dc3/classpx_1_1CUtil.html#a157761daad85221750f73edfd65f5715" title="Get a process&#39;s group IDs. " alt="" coords="715,128,914,155"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="certmanagerApi::OverwrittenData::getMap" name="certmanagerApi::OverwrittenData::getMap">
+<area shape="rect" id="node2" href="$de/d67/classcertmanagerApi_1_1OverwrittenData.html#a8b9c645b131bcc5184758d9255f5c45a" title="Update the OverwrittenData file. " alt="" coords="264,38,475,79"/>
+<area shape="rect" id="node3" href="$de/d67/classcertmanagerApi_1_1OverwrittenData.html#a486f1eeaaa32b342f4f73d03683c23c5" title="Checks whether the OverwrittenData file is up&#45;to&#45;date. " alt="" coords="523,5,733,46"/>
+<area shape="rect" id="node4" href="$dc/dba/classcertmanager_1_1Tools.html#a1cad4a80f71d1eef2c2cf5b613820348" title="certmanager::Tools\l::getMapKeyValue" alt="" coords="555,70,701,111"/>
+<area shape="rect" id="node5" href="$dc/dba/classcertmanager_1_1Tools.html#a7ef9275c3046c82c31e6d81c3765c959" title="This function returns a pair of key and value from the given configuration string. " alt="" coords="781,70,928,111"/>
+<area shape="rect" id="node6" href="$dc/dba/classcertmanager_1_1Tools.html#a857a77034025daf364500815003ea5f7" title="This function helps to cleanup (remove spaces/tabs from the begining of the string) a line of configu..." alt="" coords="977,70,1175,111"/>
+</map>

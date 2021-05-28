@@ -1,0 +1,13 @@
+<map id="get_current_device_object" name="get_current_device_object">
+<area shape="rect" id="node2" href="$da/d44/group__bac__obj__interface.html#ga4c8fe6ec6412b93c87a96717d631d803" title="Return the Object Instance number for our (single) Device Object. " alt="" coords="219,5,397,46"/>
+<area shape="rect" id="node5" href="$da/d44/group__bac__obj__interface.html#ga5face75a3cab23a3387d9a2faf11d713" title="Determine if we have an object of this type and instance number. " alt="" coords="221,71,395,97"/>
+<area shape="rect" id="node6" href="$da/d44/group__bac__obj__interface.html#gaadb324a10206a1636760e8ebb02acacb" title="Determine if we have an object with the given object_name. " alt="" coords="207,121,409,148"/>
+<area shape="rect" id="node7" href="$da/d44/group__bac__obj__interface.html#gae183a714ec03abaa9116750e8f56827d" title="Triggers a device reinitialization, to a given state. " alt="" coords="235,172,381,199"/>
+<area shape="rect" id="node8" href="$da/d44/group__bac__obj__interface.html#gad05ce74412f922ef288487c9db91b643" title="Looks up the requested Object and Property, and encodes its Value in an APDU. " alt="" coords="224,223,392,249"/>
+<area shape="rect" id="node10" href="$da/d44/group__bac__obj__interface.html#ga2fb009d583358b1ef48ef4622ffa723f" title="For a given object type, returns the special property list. " alt="" coords="201,273,415,300"/>
+<area shape="rect" id="node11" href="$da/d44/group__bac__obj__interface.html#gaa07e7bea99141696fdc529255f38cf61" title="Attempts to write a new value to one property for this object type of a given instance. " alt="" coords="223,324,393,351"/>
+<area shape="rect" id="node12" href="$da/d44/group__bac__obj__interface.html#ga3be53b8b938ebcb68c6be8d393cf964d" title="Copy a child object&#39;s object_name value, given its ID. " alt="" coords="207,375,409,401"/>
+<area shape="rect" id="node3" href="$d3/d9d/group__bip__routing__interface.html#ga0943ce1497b79465603718616369a454" title="Handler for Who&#45;Is requests in the virtual routing setup, with a single unicast I&#45;Am response returne..." alt="" coords="471,5,625,46"/>
+<area shape="rect" id="node4" href="$d0/d58/classCBacnetIpHandler.html#a64101e782a5defbbb73b68e0758400db" title="Initialize the service configuration for the bacnet&#45;stack functions. " alt="" coords="680,5,848,46"/>
+<area shape="rect" id="node9" href="$da/d44/group__bac__obj__interface.html#ga847a8623766bd9cf2faf3dcfb80e8428" title="Looks up the requested &quot;local&quot; Device and Property, and encodes its Value in an APDU. " alt="" coords="464,215,632,257"/>
+</map>

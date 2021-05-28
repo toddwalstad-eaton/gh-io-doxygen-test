@@ -1,0 +1,4 @@
+<map id="CWsAdu::serialize" name="CWsAdu::serialize">
+<area shape="rect" id="node2" href="$d8/d4b/classCMercuryAdu.html#aae3ac89673eb34e14aa07e3000b48689" title="Serialize the (optional) Header and binary Protobuf or JSON message into the buffer. " alt="" coords="192,5,363,32"/>
+<area shape="rect" id="node3" href="$d7/d8a/classCMercuryPdu.html#a591f3a30274afddb71a3249d70d38454" title="Copy all available bytes from internal data[] buffer into the given buf[]. " alt="" coords="411,5,581,32"/>
+</map>

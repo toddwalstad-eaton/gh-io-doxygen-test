@@ -1,0 +1,9 @@
+<map id="CDeleteTrendsTask" name="CDeleteTrendsTask">
+<area shape="rect" id="node2" href="$classITask.html" title="ITask" alt="" coords="1425,939,1479,965"/>
+<area shape="rect" id="node3" href="$classCDataStore.html" title="Top&#45;level class containing all internal data. " alt="" coords="1404,989,1500,1016"/>
+<area shape="rect" id="node4" href="$classCOpenAlarmsStore.html" title="For open alarms, we need to maintain a few parallel data structures, so to make sure they stay in syn..." alt="" coords="970,201,1115,228"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="6,32,189,59"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="30,363,165,389"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="21,850,173,891"/>
+<area shape="rect" id="node16" title="STL class. " alt="" coords="491,1411,648,1437"/>
+</map>

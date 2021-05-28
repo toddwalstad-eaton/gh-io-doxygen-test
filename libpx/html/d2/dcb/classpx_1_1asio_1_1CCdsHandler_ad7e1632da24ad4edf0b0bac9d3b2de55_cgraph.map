@@ -1,0 +1,4 @@
+<map id="px::asio::CCdsHandler::submit_wait" name="px::asio::CCdsHandler::submit_wait">
+<area shape="rect" id="node2" href="$db/db8/classpx_1_1cds_1_1CClient.html#acb54300760c627bee88063465442bd74" title="Static function that checks whether &quot;this&quot; thread is the CDS Client background thread. " alt="" coords="219,5,384,46"/>
+<area shape="rect" id="node3" href="$db/db8/classpx_1_1cds_1_1CClient.html#ad3a241ca4570471536d3436ee23b3d65" title="Static Factory function: constructs if necessary, returns existing instance of CClient otherwise..." alt="" coords="432,41,584,68"/>
+</map>

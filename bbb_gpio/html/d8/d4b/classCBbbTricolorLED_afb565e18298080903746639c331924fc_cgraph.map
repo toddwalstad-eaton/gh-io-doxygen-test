@@ -1,0 +1,4 @@
+<map id="CBbbTricolorLED::initialize_gpio_access" name="CBbbTricolorLED::initialize_gpio_access">
+<area shape="rect" id="node2" href="$da/dad/classCBbbGpioCore.html#ad52b4f31c1e662407470b9fdf193fe87" title="Initialize the I/O actions for the given GPIO by adding it to the export file and changing the owner ..." alt="" coords="251,5,419,46"/>
+<area shape="rect" id="node3" href="$da/dad/classCBbbGpioCore.html#ab51f90c047c53fd278b3e5c7c0e8b12d" title="Set the direction for the given GPIO pin for input or output. " alt="" coords="245,70,424,111"/>
+</map>

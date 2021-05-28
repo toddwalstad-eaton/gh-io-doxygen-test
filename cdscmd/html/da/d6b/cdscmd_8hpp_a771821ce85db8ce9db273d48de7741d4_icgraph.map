@@ -1,0 +1,10 @@
+<map id="read_json_protobufs" name="read_json_protobufs">
+<area shape="rect" id="node2" href="$d2/d02/alarms_8cpp.html#a8761a9bca6654621f260a9d1d99e63fa" title="do_get_alarms" alt="" coords="246,5,365,32"/>
+<area shape="rect" id="node4" href="$d2/d02/alarms_8cpp.html#afd94f90811a388173f83453f83e5ac6b" title="do_insert_alarm_updates" alt="" coords="212,56,399,83"/>
+<area shape="rect" id="node5" href="$d9/df2/channels_8cpp.html#ac685c3e0f5691e7aaf6639d88c586021" title="do_updatechannelsettings" alt="" coords="209,107,402,133"/>
+<area shape="rect" id="node6" href="$d9/d70/devices_8cpp.html#ad14970cdae674b1140a88f8538f22108" title="do_createdevice" alt="" coords="241,157,370,184"/>
+<area shape="rect" id="node7" href="$d9/d70/devices_8cpp.html#a6cac00496c65bb9f31fde5668515c842" title="do_updatedevice" alt="" coords="239,208,372,235"/>
+<area shape="rect" id="node8" href="$d8/d7e/oob_8cpp.html#ab95eba5ec1a66ad5dbf5f09b537a13f7" title="do_setoob" alt="" coords="261,259,350,285"/>
+<area shape="rect" id="node9" href="$da/dc4/other_8cpp.html#a5c140d3fb7b53a50b18d688758868564" title="do_read_cfg_file" alt="" coords="241,309,369,336"/>
+<area shape="rect" id="node3" href="$dc/d49/cdscmd_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="451,157,506,184"/>
+</map>

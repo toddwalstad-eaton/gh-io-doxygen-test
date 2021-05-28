@@ -1,0 +1,31 @@
+<map id="CModbusSerialDevice::create_waveform_transaction" name="CModbusSerialDevice::create_waveform_transaction">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#a0669729af0714988c47dc956c4110e29" title="Get the highest polling priority of this device. " alt="" coords="304,101,435,128"/>
+<area shape="rect" id="node4" href="$d2/d76/classCDevice.html#a184036fc7dad41da587f9fd8790a2699" title="CDevice::unprofiled\l_blocks_remain" alt="" coords="295,242,444,283"/>
+<area shape="rect" id="node6" href="$d2/d76/classCDevice.html#a9a03fb4a2a71897906ab7fc388fe19ef" title="Gets the ID of this device&#39;s waveform availability channel. " alt="" coords="280,486,459,527"/>
+<area shape="rect" id="node7" href="$d7/d46/classCModbusDevice.html#a302fad9aa3afb0faad6d32998ea03f37" title="Call this function to create a Block for the named command that may be issued to this Device..." alt="" coords="282,551,457,593"/>
+<area shape="rect" id="node29" href="$d2/d76/classCDevice.html#ab231a1465890affb24529dfe50f6a441" title="Get the parent Port and Device ID tag string (eg, &quot;(p2:d64)&quot; ) for this Device. " alt="" coords="277,617,461,644"/>
+<area shape="rect" id="node30" href="$dc/d4a/classCUtil.html#afdffbca731e234e54193c7aba4fbe341" title="CUtil::get_err_text" alt="" coords="299,668,440,695"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#a7514e7a9eaa24ca472ec968a87ea2465" title="Test a RealTime Device State flag and return the result. " alt="" coords="543,5,702,46"/>
+<area shape="rect" id="node5" href="$d2/d76/classCDevice.html#abac1fe55b006dfb7cf69e1b52cfa0f0e" title="Getter for one DataBlock, from its ID. " alt="" coords="537,71,708,97"/>
+<area shape="rect" id="node8" href="$d7/d46/classCModbusDevice.html#a7db565fa43befe10b83633bc382546b1" title="Is there a valid I/O connection to the device. " alt="" coords="513,121,732,148"/>
+<area shape="rect" id="node9" href="$df/d2c/classCParam.html#adf6571e6042a3733839749389e0b3a80" title="Getter for this Parameter&#39;s state. " alt="" coords="552,172,693,199"/>
+<area shape="rect" id="node10" href="$d7/d46/classCModbusDevice.html#aafa8f7ad8a11089a12b97edcc663bffe" title="Utility function to calculate the Rx timeout in milliseconds. " alt="" coords="526,223,719,265"/>
+<area shape="rect" id="node11" href="$d1/ddc/classCCommand.html#a556f48f293404a2ba8a2137f4fc28376" title="Getter for receive timeout. " alt="" coords="520,289,725,316"/>
+<area shape="rect" id="node12" href="$d7/d46/classCModbusDevice.html#af0579673b006eb09443d41a4b5d3dcf0" title="Utility function to calculate the interframe delay in microseconds. " alt="" coords="526,341,719,382"/>
+<area shape="rect" id="node13" href="$d1/ddc/classCCommand.html#ad59ec1a53959c7f8f177307af9d643e4" title="Getter for value. " alt="" coords="537,407,708,433"/>
+<area shape="rect" id="node14" href="$d1/ddc/classCCommand.html#aa3a212529ba66687a6aa91e7e2c37672" title="Getter for cmd_address. " alt="" coords="513,457,733,484"/>
+<area shape="rect" id="node15" href="$d1/ddc/classCCommand.html#a3e197039a5607bd751cf88ff4bdc3c62" title="Getter for command. " alt="" coords="523,508,722,535"/>
+<area shape="rect" id="node16" href="$d1/ddc/classCCommand.html#ae5d79b77301f8d12e5e7d784a5b2fc17" title="Getter for cmd_nObjects. " alt="" coords="509,559,736,585"/>
+<area shape="rect" id="node17" href="$d1/ddc/classCCommand.html#aa57db70752bcbc534bbb1c47a89c929b" title="Getter for the external data type. " alt="" coords="509,609,736,636"/>
+<area shape="rect" id="node18" href="$de/dd0/structeds__xBlock__entry__s.html#ab166083bacff433e0ac604cf5fefe4bb" title="eds_xBlock_entry_s\l::to_string" alt="" coords="547,661,698,702"/>
+<area shape="rect" id="node20" href="$d4/dab/classCChannel.html#ae22e7e7cf2004341b7425546af750fbb" title="Getter for cmd_address. " alt="" coords="519,727,726,753"/>
+<area shape="rect" id="node21" href="$d4/dab/classCChannel.html#a1f5b757e9ea147bd2a3376611ec6fe52" title="Getter for command. " alt="" coords="530,777,715,804"/>
+<area shape="rect" id="node22" href="$d4/dab/classCChannel.html#a5f26d4fae0ae3addfe9ad18a5d81d1a8" title="Getter for cmd_nObjects. " alt="" coords="517,828,729,855"/>
+<area shape="rect" id="node23" href="$d4/dab/classCChannel.html#a5cf38c3f9d58f4f91f30de2ef5721cc5" title="Getter for the channe; external data type. " alt="" coords="516,879,729,905"/>
+<area shape="rect" id="node24" href="$d2/d76/classCDevice.html#a6344b484b5fe2916bcd18df712b923d1" title="Getter for device ID. " alt="" coords="575,929,671,956"/>
+<area shape="rect" id="node25" href="$d1/ddc/classCCommand.html#a7c8b49b74d957ff6b6c623ee880a4f9d" title="Getter for Unique ID &#45; needed for dependency lookups. " alt="" coords="549,980,696,1007"/>
+<area shape="rect" id="node26" href="$d2/d76/classCDevice.html#a1e68fed38fe8ea9144410fbc5f815962" title="Assign ID to block. " alt="" coords="529,1031,716,1057"/>
+<area shape="rect" id="node28" href="$df/d21/classCModbusAddressRange.html#a0584719118ca127a8d335397c7f94882" title="Validates this Modbus message data per Modbus Application Protocol Specification V1.1b. " alt="" coords="535,1082,710,1123"/>
+<area shape="rect" id="node19" href="$dc/d49/structeds__DBT__entry__s.html#ac668113d8386b2a5e22b38ec819e1a80" title="eds_DBT_entry_s::to\l_string" alt="" coords="784,661,939,702"/>
+<area shape="rect" id="node27" href="$d8/dc8/classCIdAllocator.html#a0400d8deb5703217316fe605cd1a1657" title="Allocate a new internal unique ID. " alt="" coords="796,1031,927,1057"/>
+</map>

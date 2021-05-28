@@ -1,0 +1,15 @@
+<map id="px::asio::CWatchdogTimer" name="px::asio::CWatchdogTimer">
+<area shape="rect" id="node2" href="$dd/d60/classpx_1_1asio_1_1CIoActor.html" title="The I/O &quot;Actor&quot; base class. " alt="" coords="1333,1793,1485,1973"/>
+<area shape="rect" id="node4" href="$d6/d32/classpx_1_1asio_1_1CIoManager.html" title="The main I/O manager to host the Power Xpert Toolkit&#39;s ASIO framework. " alt="" coords="1310,1489,1508,1727"/>
+<area shape="rect" id="node5" href="$d2/dcb/classpx_1_1asio_1_1CCdsHandler.html" title="ABC for CDS Handler, provides a common synchronous/asynchronous interface to the CDS API..." alt="" coords="2065,1053,2279,1424"/>
+<area shape="rect" id="node6" href="$d2/df5/classpx_1_1asio_1_1CCdsSyncIO.html" title="Provides a set of common CDS utility functions. " alt="" coords="2265,671,2457,910"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="1318,405,1452,483"/>
+<area shape="rect" id="node14" href="$dd/d57/classpx_1_1CBitset.html" title="{px::CBitset\&lt; px::permissions \&gt;\n||+ CBitset()\l+ get()\l+ set()\l+ reset()\l+ mask_set()\l+ mask_clear()\l+ mask()\l+ empty()\l+ operator==()\l+ operator!=()\land 11 more...\l+ size()\l+ nbytes()\l}" alt="" coords="3985,664,4212,917"/>
+<area shape="rect" id="node19" href="$dd/d57/classpx_1_1CBitset.html" title="Stores a bit&#45;field of flags defined by an enumerated type. " alt="" coords="4052,317,4183,571"/>
+<area shape="rect" id="node17" title="STL class. " alt="" coords="3901,5,4024,83"/>
+<area shape="rect" id="node27" title="STL class. " alt="" coords="2088,405,2216,483"/>
+<area shape="rect" id="node35" title="STL class. " alt="" coords="4236,752,4393,829"/>
+<area shape="rect" id="node36" href="$dc/d82/classpx_1_1asio_1_1CServerCore.html" title="Server core class. " alt="" coords="5,1171,168,1307"/>
+<area shape="rect" id="node39" title="STL class. " alt="" coords="399,752,581,829"/>
+<area shape="rect" id="node40" href="$db/d01/classpx_1_1asio_1_1CTimedObject.html" title="The &quot;Timed object&quot; interface. " alt="" coords="4571,1844,4744,1921"/>
+</map>

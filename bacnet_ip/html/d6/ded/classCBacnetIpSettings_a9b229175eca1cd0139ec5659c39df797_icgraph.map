@@ -1,0 +1,4 @@
+<map id="CBacnetIpSettings::update_full_bacnet_oob" name="CBacnetIpSettings::update_full_bacnet_oob">
+<area shape="rect" id="node2" href="$d6/ded/classCBacnetIpSettings.html#a6aa16bf31223be564806c182d4d87511" title="Create the OOB data for a device and add it to the internal BACnetSettings, possibly updating the CDS..." alt="" coords="241,5,415,46"/>
+<area shape="rect" id="node3" href="$d6/ded/classCBacnetIpSettings.html#a48858503086a9f244d9a1e09b21f53f5" title="Delete the OOB data for a device and update the OOB BACnetSettings in the CDS. " alt="" coords="233,70,423,111"/>
+</map>

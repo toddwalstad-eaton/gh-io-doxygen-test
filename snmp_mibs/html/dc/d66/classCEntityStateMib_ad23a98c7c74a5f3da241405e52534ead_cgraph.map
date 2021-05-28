@@ -1,0 +1,4 @@
+<map id="CEntityStateMib::init_services" name="CEntityStateMib::init_services">
+<area shape="rect" id="node2" href="$dc/d66/classCEntityStateMib.html#a2d4aef1b2c182e1fb57f8098f07d4503" title="Called by CDS handler whenever an alarm update happens in the system. " alt="" coords="208,5,363,46"/>
+<area shape="rect" id="node3" href="$dc/d66/classCEntityStateMib.html#a39ea058beac996dff6124878b5cc8968" title="Updates alarm state of the device and alarm ID passed. " alt="" coords="411,5,589,46"/>
+</map>

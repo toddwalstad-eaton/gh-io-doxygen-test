@@ -1,0 +1,5 @@
+<map id="CCdsHandleImpl::~CCdsHandleImpl" name="CCdsHandleImpl::~CCdsHandleImpl">
+<area shape="rect" id="node2" href="$dc/d89/classCCdsHandleImpl.html#a3a6de1e95fe0fee09e310b50b19a318f" title="Inherited from ICdsHandle (see ICdsHandle) " alt="" coords="312,31,499,57"/>
+<area shape="rect" id="node3" href="$d5/d0c/structICdsHandle.html#a84f080a30d5971dedd79195f7377246e" title="ICdsHandle::is_connected" alt="" coords="552,5,741,32"/>
+<area shape="rect" id="node4" href="$d5/d0c/structICdsHandle.html#ab4e9c639d75965a636f84f116067ed2c" title="ICdsHandle::set_connected" alt="" coords="547,56,746,83"/>
+</map>

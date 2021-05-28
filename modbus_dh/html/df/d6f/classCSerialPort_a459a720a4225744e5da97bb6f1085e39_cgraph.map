@@ -1,0 +1,24 @@
+<map id="CSerialPort::add_device" name="CSerialPort::add_device">
+<area shape="rect" id="node2" href="$df/d6f/classCSerialPort.html#a0e5f0ce7a685eed0b39f4ed517029c6b" title="Determines if we can still add a new device to this port. " alt="" coords="235,5,383,46"/>
+<area shape="rect" id="node3" href="$df/d6f/classCSerialPort.html#ac9d870583f46368ee1ec66a85e2331cb" title="Getter for the maximum allowed devices on this serial port. " alt="" coords="230,70,389,111"/>
+<area shape="rect" id="node4" href="$dc/d4a/classCUtil.html#a3fc24ae5c12897079c425c8f4af5fcbf" title="CUtil::get_no_device\l_string" alt="" coords="1138,305,1294,346"/>
+<area shape="rect" id="node5" href="$df/d6f/classCSerialPort.html#a739141a716fd3fc876362181183ba680" title="Subscribe to Device Settings change events for the specified Device ID. " alt="" coords="231,187,388,229"/>
+<area shape="rect" id="node9" href="$d6/dd4/classCPort.html#a67fdf9324b9596b8c462cfa66159a7db" title="Getter for the name of this port. " alt="" coords="900,236,1063,263"/>
+<area shape="rect" id="node10" href="$df/d6f/classCSerialPort.html#a95f03cfe3b49f0902b3b81efa3d894d8" title="Subscribe to CDS Device Command events for the specified Device ID. " alt="" coords="231,355,388,397"/>
+<area shape="rect" id="node6" href="$df/d6f/classCSerialPort.html#a9e675b15ee18bd6d70ea31affea28a6f" title="The callback function that we provide to the CDS to handle Device Settings change events..." alt="" coords="442,187,587,229"/>
+<area shape="rect" id="node7" href="$dc/d4a/classCUtil.html#ab23b89e75ee52ed0e45e7a188ce3386f" title="CUtil::get_formatted_name" alt="" coords="641,187,839,213"/>
+<area shape="rect" id="node8" href="$df/d6f/classCSerialPort.html#a4adcb6cbd82ff72ca175b56f247d74d0" title="Find and remove the Device entry with the given id from our map. " alt="" coords="664,238,816,279"/>
+<area shape="rect" id="node11" href="$df/d6f/classCSerialPort.html#aa8efe6959691a39062faad201b39529d" title="The callback function that we provide to the CDS to handle Device Command events. ..." alt="" coords="437,355,592,397"/>
+<area shape="rect" id="node12" href="$d6/dd4/classCPort.html#ae2be0084b3f78d396e993655e8f669db" title="CPort::device_command\l_handler" alt="" coords="650,355,830,397"/>
+<area shape="rect" id="node13" href="$d6/dd4/classCPort.html#ab230774c3894ac6a2b385da578e21ce1" title="Getter for the Device ID of this Port. " alt="" coords="929,287,1034,313"/>
+<area shape="rect" id="node14" href="$d6/dd4/classCPort.html#a3c54c16bb9eadc27a07b715e8c89a929" title="Reset statistics counters for all devices. " alt="" coords="913,388,1050,415"/>
+<area shape="rect" id="node18" href="$d6/dd4/classCPort.html#aab0a068ac09cc3087a267740514457b8" title="Log device block statistics. " alt="" coords="898,472,1065,499"/>
+<area shape="rect" id="node21" href="$d6/d0f/classCCommandService.html#a2e938d3596268b4feceaa79e8ce15847" title="Send a command result to a device in the CDS Note: This overload performs a full CDS update of all CD..." alt="" coords="889,582,1074,623"/>
+<area shape="rect" id="node15" href="$d6/dd4/classCPort.html#a4558355c64c9956638ae556aef91732e" title="Log port and device statistics. " alt="" coords="1154,371,1278,397"/>
+<area shape="rect" id="node16" href="$d0/d7e/classCWriteStats.html#a1de9bf70855258fe2625c145ed6ae233" title="CWriteStats::write\l_io_stats_file" alt="" coords="1389,363,1528,405"/>
+<area shape="rect" id="node17" href="$d6/dd4/classCPort.html#a61ce1938bab023e7a4cdd00163af86d8" title="Getter for the display name of this port. " alt="" coords="1357,459,1560,485"/>
+<area shape="rect" id="node19" href="$d0/d7e/classCWriteStats.html#a051a7cdb7d9745def35e332af89b55a5" title="CWriteStats::write\l_block_stats_file" alt="" coords="1147,422,1285,463"/>
+<area shape="rect" id="node20" href="$d6/dd4/classCPort.html#a8cdefbfb53043bb0fa85a13ff608c2c7" title="Getter for the port speed (baud rate if serial port). " alt="" coords="1133,539,1299,565"/>
+<area shape="rect" id="node22" href="$dd/de8/command__service_8cpp.html#a5b005098f808914039f86f83f9d6f680" title="get_command_status" alt="" coords="1135,589,1297,616"/>
+<area shape="rect" id="node23" href="$dd/de8/command__service_8cpp.html#a36ade948c171481c38bad3ff3f7556dc" title="get_command_substatus" alt="" coords="1123,640,1309,667"/>
+</map>

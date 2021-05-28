@@ -1,0 +1,4 @@
+<map id="CDeviceCommandsStore::find" name="CDeviceCommandsStore::find">
+<area shape="rect" id="node2" href="$classCDeviceCommandsStore.html#a6bd6224266d51bbbeb5e99c4b77e1145" title="Query the command&#39;s status and metadata from our datastore. " alt="" coords="237,5,421,46"/>
+<area shape="rect" id="node3" href="$classCDeviceCommandsStore.html#a5576ae92773e2d2b4be8e5c64462cf76" title="Sets (usually: updates) the status of this command instance in the queue. " alt="" coords="237,70,421,111"/>
+</map>

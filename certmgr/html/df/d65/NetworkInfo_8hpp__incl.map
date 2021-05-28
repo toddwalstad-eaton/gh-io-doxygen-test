@@ -1,0 +1,5 @@
+<map id="certmgr/certmanagd/inc/NetworkInfo.hpp" name="certmgr/certmanagd/inc/NetworkInfo.hpp">
+<area shape="rect" id="node2" href="$df/d56/ServiceConfiguration_8hpp.html" title="Representation of the configuration for a service for certificate managment. " alt="" coords="46,96,231,123"/>
+<area shape="rect" id="node7" href="$d9/d8e/NetworkConfiguration_8hpp.html" title="Representation of the configuration of the network for certificate managment. " alt="" coords="307,96,499,123"/>
+<area shape="rect" id="node3" href="$d3/d52/DaemonConfiguration_8hpp.html" title="Representation of the configuration for the Daemon certificate management (singleton) ..." alt="" coords="36,171,228,197"/>
+</map>

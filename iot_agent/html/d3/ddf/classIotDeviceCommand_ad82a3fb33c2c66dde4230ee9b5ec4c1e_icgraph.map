@@ -1,0 +1,11 @@
+<map id="IotDeviceCommand::set_command_resp_msg" name="IotDeviceCommand::set_command_resp_msg">
+<area shape="rect" id="node2" href="$d2/d55/classCIotDataDevice.html#acccc33e01c0f9d96183e9f7bc9c54e6f" title="Handle a C2D Device Command for the GetChannelValues method. " alt="" coords="233,5,463,46"/>
+<area shape="rect" id="node3" href="$d2/d55/classCIotDataDevice.html#ac03a035f18b36de2b3ccb0571ea73bb5" title="Handle a C2D Device Command for the SetChannelValues method. " alt="" coords="233,70,463,111"/>
+<area shape="rect" id="node4" href="$d3/ddf/classIotDeviceCommand.html#a988b62c05b69189815f1d27689b6103b" title="Callback function to receive Cloud&#45;to&#45;Device device commands. " alt="" coords="763,253,989,294"/>
+<area shape="rect" id="node5" href="$d3/ddf/classIotDeviceCommand.html#a2c97fa49284587e1350d6d6c0bf25254" title="Method to handle the QueryImages request for the indicated Device. " alt="" coords="512,187,715,229"/>
+<area shape="rect" id="node6" href="$d3/ddf/classIotDeviceCommand.html#a4d05f8f3df173bca5a15caf43979a192" title="Method to handle the FirmwareUpdate request for the indicated Device. " alt="" coords="512,253,715,294"/>
+<area shape="rect" id="node7" href="$d3/ddf/classIotDeviceCommand.html#a7eb717298bf9f0b44341d020da79a795" title="Handles one chunk of the ImageTransfer command. " alt="" coords="512,318,715,359"/>
+<area shape="rect" id="node8" href="$d3/ddf/classIotDeviceCommand.html#a1915d760f715dfa12412dc266ac8849c" title="Handle a C2D built in Device Command for the executing commands supported by products. " alt="" coords="512,386,715,427"/>
+<area shape="rect" id="node9" href="$d3/ddf/classIotDeviceCommand.html#a6cd277db795a6a1ed8538d14c06024b2" title="Handle a C2D built in Device Command for the get and set field. " alt="" coords="247,390,449,431"/>
+<area shape="rect" id="node10" href="$d3/ddf/classIotDeviceCommand.html#a46ba218b7873d0cf662247b205054c81" title="Handle a C2D built in Device Command for commands which execute through shell_cmd. " alt="" coords="247,455,449,497"/>
+</map>

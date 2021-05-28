@@ -1,0 +1,5 @@
+<map id="COpenAlarmsStore::ProcessAlarmUpdate" name="COpenAlarmsStore::ProcessAlarmUpdate">
+<area shape="rect" id="node2" href="$classCOpAlarmUpdate.html#acddce68f889bcc546b8d6c819f0c2137" title="Execution method. " alt="" coords="256,5,451,32"/>
+<area shape="rect" id="node3" href="$classCOpenAlarmsStore.html#a80be2009bb7ddfb0ddb3cd7d2c6ffae4" title="Initialize before using. " alt="" coords="266,56,441,83"/>
+<area shape="rect" id="node4" href="$classCDataStore.html#af96b836a3d210927a3aed067f4f29d42" title="Load data from our persistent databases. " alt="" coords="499,56,631,83"/>
+</map>

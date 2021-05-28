@@ -1,0 +1,10 @@
+<map id="CModbusConfig::handle_new_device" name="CModbusConfig::handle_new_device">
+<area shape="rect" id="node2" href="$classCModbusConfig.html#ad2a0639ca3cf6c1fcd697d29752e55a7" title="Get the PEDs file associated with a device EDS file name. " alt="" coords="281,5,431,46"/>
+<area shape="rect" id="node3" href="$classCModbusConfig.html#ae37a0b6cf610cce5533a43c98eeda2df" title="Get the subdevice PEDs file associated with a device EDS file name. " alt="" coords="276,70,436,111"/>
+<area shape="rect" id="node4" href="$classCModbusConfig.html#a4bc8d3103b1e3823f21f5df61f81ff5b" title="Get a unique unit id for a new device. " alt="" coords="277,135,435,177"/>
+<area shape="rect" id="node5" href="$classCModbusConfig.html#a1c04ca993eddb1a7dca5c5156b8b410b" title="Helper function to get the global PEDs file associated with an EDS name. " alt="" coords="281,201,431,242"/>
+<area shape="rect" id="node6" href="$classCModbusCdsHandle.html#a3436a86ba0d8a2a028c5039bddce14e1" title="Utility function to set the UNITID_MAP/MODBUS_SERVER/&lt;id&gt; OOB object. " alt="" coords="251,267,461,293"/>
+<area shape="rect" id="node7" href="$classCModbusCdsHandle.html#ae6b1878d7d3a92d95ff66135a7766367" title="utility function to subscribe to a particular oob object. " alt="" coords="230,317,482,344"/>
+<area shape="rect" id="node8" href="$classCModbusConfig.html#a0eed7f16755c2dc94c5c18aec4656708" title="Threadsafe method to add or remove a device from the _tcp_map. " alt="" coords="279,369,433,410"/>
+<area shape="rect" id="node9" href="$classCModbusUtil.html#a810fa100a70e436cbe20cbdc3305933d" title="Delete the specified file. " alt="" coords="531,376,711,403"/>
+</map>

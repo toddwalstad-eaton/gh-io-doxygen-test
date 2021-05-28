@@ -1,0 +1,8 @@
+<map id="CChannelService::merge_channel_settings" name="CChannelService::merge_channel_settings">
+<area shape="rect" id="node2" href="$d6/d13/classCChannelService.html#abd581f8e38a64ed7aa4ed1cd4b889163" title="Member Functions. " alt="" coords="237,38,419,79"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#a51ae2c47fc75c488f28b6af7fb9b1406" title="Commit verified channels with temporary ID&#39;s to data store. " alt="" coords="696,5,859,46"/>
+<area shape="rect" id="node6" href="$d2/d76/classCDevice.html#a4d96653aa893e3644d7338a0f0c226f8" title="Adds the waveform alarm channel. " alt="" coords="467,67,648,109"/>
+<area shape="rect" id="node4" href="$d2/d76/classCDevice.html#a2b6500949396a4d972e94118dd4687e7" title="Cleanup any remaining junk, once profiling is complete. " alt="" coords="907,45,1098,72"/>
+<area shape="rect" id="node5" href="$d2/d76/classCDevice.html#a00f0cf46dca1ac48b5f397b435ef867a" title="Called from the Data Block to handle its done state and manage received data. " alt="" coords="1147,38,1317,79"/>
+<area shape="rect" id="node7" href="$d2/d76/classCDevice.html#a09a759293a18a047fb1294b3daf6d506" title="Add Device Commands to the CDS. " alt="" coords="698,70,857,111"/>
+</map>

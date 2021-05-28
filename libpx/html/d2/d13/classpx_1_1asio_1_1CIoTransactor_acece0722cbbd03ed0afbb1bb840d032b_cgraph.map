@@ -1,0 +1,4 @@
+<map id="px::asio::CIoTransactor::~CIoTransactor" name="px::asio::CIoTransactor::~CIoTransactor">
+<area shape="rect" id="node2" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html#a94894125c5879e3d833ba5d140edab09" title="Gracefully close this actor. " alt="" coords="225,5,394,46"/>
+<area shape="rect" id="node3" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html#a842383cf0c6a9e61fc03be7d09d51272" title="Clear the outbox queue. " alt="" coords="443,5,613,46"/>
+</map>

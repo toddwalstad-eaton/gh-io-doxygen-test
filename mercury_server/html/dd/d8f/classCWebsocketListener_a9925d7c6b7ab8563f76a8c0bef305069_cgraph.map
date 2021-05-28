@@ -1,0 +1,12 @@
+<map id="CWebsocketListener::ssl_listen" name="CWebsocketListener::ssl_listen">
+<area shape="rect" id="node2" href="$dd/d8f/classCWebsocketListener.html#a23d3113b35c10657d0c0fbee125d2d36" title="Return context pointer for SSL connections. " alt="" coords="208,5,363,46"/>
+<area shape="rect" id="node3" href="$dd/d8f/classCWebsocketListener.html#a803fe75fbea105204f1888e353e7c33c" title="CWebsocketListener\l::on_ssl_open" alt="" coords="208,70,363,111"/>
+<area shape="rect" id="node9" href="$dd/d8f/classCWebsocketListener.html#ab9e69fe7dccd2be1474c9d41ea475d0e" title="Handler for connection close. " alt="" coords="208,135,363,177"/>
+<area shape="rect" id="node10" href="$d4/db9/ws__listener_8cpp.html#aeddfee9614fb14197eae368b842f0d58" title="get_alevel" alt="" coords="240,201,331,228"/>
+<area shape="rect" id="node11" href="$d4/db9/ws__listener_8cpp.html#aa3b3d2cff5795bec60f34bff61d5427c" title="get_elevel" alt="" coords="240,252,331,279"/>
+<area shape="rect" id="node4" href="$de/d40/classCWsConnection.html#a61234baa38a021ee7e970e76471e9b6e" title="Factory function. " alt="" coords="411,77,584,104"/>
+<area shape="rect" id="node5" href="$de/d40/classCWsConnection.html#ae0ba717c748c77a87dea543260d2d416" title="Constructor. " alt="" coords="632,77,867,104"/>
+<area shape="rect" id="node6" href="$de/d40/classCWsConnection.html#ac0cff03f49a7d6161e0fbcecee470c9f" title="Handle a received message, for SSL and non&#45;SSL websockets. " alt="" coords="936,11,1109,53"/>
+<area shape="rect" id="node7" href="$de/d40/classCWsConnection.html#aa7d4cf0069ab520775586b85ea660f4e" title="Handle a pong. " alt="" coords="929,77,1116,104"/>
+<area shape="rect" id="node8" href="$de/d40/classCWsConnection.html#a999d26d7bd99f941251d8fa52b9e559b" title="CWsConnection::on_message" alt="" coords="915,128,1130,155"/>
+</map>

@@ -1,0 +1,28 @@
+var classCWsConnection =
+[
+    [ "CWsConnection", "de/d40/classCWsConnection.html#ae0ba717c748c77a87dea543260d2d416", null ],
+    [ "CWsConnection", "de/d40/classCWsConnection.html#ad378e2c77decb505c243bf0449da5a03", null ],
+    [ "~CWsConnection", "de/d40/classCWsConnection.html#a0fc375f755c8471736f443f2efdcc004", null ],
+    [ "create", "de/d40/classCWsConnection.html#a61234baa38a021ee7e970e76471e9b6e", null ],
+    [ "source", "de/d40/classCWsConnection.html#a973d3307e91a368df00243fd4309cc65", null ],
+    [ "read_more", "de/d40/classCWsConnection.html#a7f27b32f2d07484d7d064c0a9cc1a092", null ],
+    [ "close", "de/d40/classCWsConnection.html#a647cb1acd4ad95f099d7346a72d04209", null ],
+    [ "get_hdl", "de/d40/classCWsConnection.html#a5aa64b98cf1c2b0d35933cc2b5d0a992", null ],
+    [ "write_more", "de/d40/classCWsConnection.html#acccd0f361861a739c52d569003827d28", null ],
+    [ "timeout", "de/d40/classCWsConnection.html#a40deaa5cb2f22994af08eb209fefa415", null ],
+    [ "on_ssl_message", "de/d40/classCWsConnection.html#ac0cff03f49a7d6161e0fbcecee470c9f", null ],
+    [ "on_message", "de/d40/classCWsConnection.html#a999d26d7bd99f941251d8fa52b9e559b", null ],
+    [ "on_pong", "de/d40/classCWsConnection.html#aa7d4cf0069ab520775586b85ea660f4e", null ],
+    [ "_my_hdl", "de/d40/classCWsConnection.html#af8cfc6dcea032e1785320fee0fe13dea", null ],
+    [ "_my_plain_con", "de/d40/classCWsConnection.html#a60bd05e395a2141080ef361cbb256a89", null ],
+    [ "_my_ssl_con", "de/d40/classCWsConnection.html#a20deca586e27548c7b1620600c8f1d91", null ],
+    [ "_ssl", "de/d40/classCWsConnection.html#adf0e1a87323f5da5e44028f8f71fbdf8", null ],
+    [ "_peer", "de/d40/classCWsConnection.html#a19262fc3656ea2543653c5aa3bdfb425", null ],
+    [ "_pings_without_pong", "de/d40/classCWsConnection.html#a35761a358dc97f1d47f7f8fc7d90f151", null ],
+    [ "_ping_timer", "de/d40/classCWsConnection.html#ac1dca74b0e0f907bfae5d079860dc3a7", null ],
+    [ "_going_down", "de/d40/classCWsConnection.html#a8bed2186712efa5df5d9ac18101d611d", null ],
+    [ "_closing", "de/d40/classCWsConnection.html#ab03b36023a7d58adf3b1ddcd81e17797", null ],
+    [ "_close_mutex", "de/d40/classCWsConnection.html#a66ac6c8c291215648e50a62e856bc1f8", null ],
+    [ "_PING_TIMER_MS", "de/d40/classCWsConnection.html#af59ab8ee13ffa5e90b99da7f010e6902", null ],
+    [ "_PING_RETRIES_MAX", "de/d40/classCWsConnection.html#a10257f5c631a5b47a674df83a1ade9b8", null ]
+];

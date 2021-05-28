@@ -1,0 +1,5 @@
+<map id="scanOptions" name="scanOptions">
+<area shape="rect" id="node2" href="$d5/d1d/mbcmd_8cpp.html#a9c4b081f1e1ad60def15811c71a936f2" title="Prints version info on stdout. " alt="" coords="165,5,265,32"/>
+<area shape="rect" id="node3" href="$d5/d1d/mbcmd_8cpp.html#aead97c99e70c0da7036fbbe230ef68b6" title="Prints a usage message on stdout and exits. " alt="" coords="168,56,261,83"/>
+<area shape="rect" id="node4" href="$d5/d1d/mbcmd_8cpp.html#a8a91ecb9dd7035ffbe5bbf24772afc12" title="Prints bad option error message and exits program. " alt="" coords="157,107,272,133"/>
+</map>

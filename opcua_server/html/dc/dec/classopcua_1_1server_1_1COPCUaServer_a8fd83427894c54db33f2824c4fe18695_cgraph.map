@@ -1,0 +1,4 @@
+<map id="opcua::server::COPCUaServer::COPCUaServer" name="opcua::server::COPCUaServer::COPCUaServer">
+<area shape="rect" id="node2" href="$dc/dec/classopcua_1_1server_1_1COPCUaServer.html#aae22ee6e86d1af5cdb1fea2a6df8b165" title="OPC UA onRead callback. " alt="" coords="270,5,485,46"/>
+<area shape="rect" id="node3" href="$dc/dec/classopcua_1_1server_1_1COPCUaServer.html#ae4f725678126fee6648ae2a20b6b795d" title="OPC UA onWrite callback. " alt="" coords="270,70,485,111"/>
+</map>

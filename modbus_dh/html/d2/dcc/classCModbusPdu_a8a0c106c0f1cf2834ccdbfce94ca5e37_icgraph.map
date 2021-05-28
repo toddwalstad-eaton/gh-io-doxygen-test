@@ -1,0 +1,5 @@
+<map id="CModbusPdu::parse_unknown_function" name="CModbusPdu::parse_unknown_function">
+<area shape="rect" id="node2" href="$d3/d97/classCModbusSerialAdu.html#a4624f07f9360c75fa0ed0e027e9b0ebb" title="Parse the received bytes when we don&#39;t know the expected size of the response. " alt="" coords="269,5,456,46"/>
+<area shape="rect" id="node4" href="$da/dc2/classCModbusTcpSerialAdu.html#a9471b9b3be2827c2d9724acf1a939b4c" title="Try to parse the given buffer. " alt="" coords="281,70,445,111"/>
+<area shape="rect" id="node3" href="$d3/d97/classCModbusSerialAdu.html#a906f4bd2051352ddef87986206bac18d" title="Try to parse the given buffer. " alt="" coords="504,12,691,39"/>
+</map>

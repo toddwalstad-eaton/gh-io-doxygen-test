@@ -1,0 +1,4 @@
+<map id="CWaveformState::purge_waveform_state_for_device" name="CWaveformState::purge_waveform_state_for_device">
+<area shape="rect" id="node2" href="$d2/d7f/classCWaveformService.html#a0283952de64f3d56009f8b3ab481c5a6" title="Completely remove all waveform info for device (including waveform state tracking) This method is for..." alt="" coords="265,5,455,46"/>
+<area shape="rect" id="node3" href="$df/d6f/classCSerialPort.html#a6cffd32e3a1abd7a80d83735e1b7a24c" title="Call this function to purge wvaeforms for a device (if suppported). " alt="" coords="504,5,643,46"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="opcua::utils::debug::ua_guid_to_string" name="opcua::utils::debug::ua_guid_to_string">
+<area shape="rect" id="node2" href="$d6/d82/namespaceopcua_1_1utils_1_1debug.html#a37fa3deafc2d64d72ea74a10c5e4fef0" title="Convert UA Node Id into C++ string. " alt="" coords="201,401,346,442"/>
+<area shape="rect" id="node3" href="$de/df6/classopcua_1_1server_1_1COPCUaCDSMap.html#adaa9f6bad15c49eca1460854a4d236f8" title="Map CDS Device/Channel ID to OPC UA ID. " alt="" coords="397,41,624,82"/>
+<area shape="rect" id="node6" href="$de/df6/classopcua_1_1server_1_1COPCUaCDSMap.html#ae0535a849a18d2dace2d88f86e90aaaa" title="Get OPC UA Node ID mapped to the given CDS ID. " alt="" coords="397,106,624,147"/>
+<area shape="rect" id="node8" href="$de/df6/classopcua_1_1server_1_1COPCUaCDSMap.html#a7d1800b7136f2878b2df33facae2391a" title="Get CDS device/channel ID mapped to OPC UA Node ID. " alt="" coords="397,171,624,213"/>
+<area shape="rect" id="node9" href="$de/df6/classopcua_1_1server_1_1COPCUaCDSMap.html#a807c4b5283ea43b37abbedc550a92803" title="Convert the map to string. " alt="" coords="397,237,624,278"/>
+<area shape="rect" id="node11" href="$dc/dec/classopcua_1_1server_1_1COPCUaServer.html#a770a952457bd4854788ab8624d53b048" title="OPC UA onRead callback. " alt="" coords="403,302,618,343"/>
+<area shape="rect" id="node12" href="$dc/dec/classopcua_1_1server_1_1COPCUaServer.html#ad1adaa3eddbc8a2c389195a2a79d5e86" title="OPC UA onWrite callback. " alt="" coords="403,367,618,409"/>
+<area shape="rect" id="node13" href="$d0/de1/classopcua_1_1server_1_1COpen62541Wrapper.html#ac068f64f70316de14ea0e84ea5a9b0c8" title="Add OPC UA Object Node of given name to the node structure. " alt="" coords="410,433,611,474"/>
+<area shape="rect" id="node14" href="$d0/de1/classopcua_1_1server_1_1COpen62541Wrapper.html#a68769e80c5754541ad8de1e8317b5529" title="Define the OPC UA Object type. " alt="" coords="410,499,611,555"/>
+<area shape="rect" id="node15" href="$d0/de1/classopcua_1_1server_1_1COpen62541Wrapper.html#aaa999ecebf0d3f8f527ece23b8b694e1" title="Add OPC UA Variable node to the node structure. " alt="" coords="407,579,614,621"/>
+<area shape="rect" id="node16" href="$d1/dc8/namespaceopcua_1_1utils_1_1conv.html#a3aef0263f42a96bb5e55c016eef85c14" title="Convert CDS value data type to OPC UA value data type. " alt="" coords="415,645,606,686"/>
+<area shape="rect" id="node22" href="$dc/dcc/test____opcua__cds__map_8cpp.html#a9cca92fe7ed0107e92401bd214a135d0" title="BOOST_AUTO_TEST_CASE" alt="" coords="415,711,606,737"/>
+<area shape="rect" id="node23" href="$dc/dcc/test____opcua__cds__map_8cpp.html#a50c3b0b406932bb5a28a9fac0376dca5" title="BOOST_AUTO_TEST_SUITE_END" alt="" coords="395,761,626,788"/>
+<area shape="rect" id="node4" href="$de/ddb/structtest__map.html#a33f1231c73e29a217521ad608a1686d0" title="test_map::test_map" alt="" coords="707,5,859,32"/>
+<area shape="rect" id="node5" href="$dc/dcc/test____opcua__cds__map_8cpp.html#a7c890ea80042f1f996ce28323d423d46" title="BOOST_AUTO_TEST_CASE" alt="" coords="687,56,878,83"/>
+<area shape="rect" id="node7" href="$dc/dcc/test____opcua__cds__map_8cpp.html#a62331c30882cf51220f9fbe5c397cde3" title="BOOST_AUTO_TEST_CASE" alt="" coords="687,113,878,140"/>
+<area shape="rect" id="node10" href="$dc/dcc/test____opcua__cds__map_8cpp.html#af3370ef21753b1aea7b884d1791cb808" title="BOOST_AUTO_TEST_CASE" alt="" coords="687,244,878,271"/>
+<area shape="rect" id="node17" href="$dc/dec/classopcua_1_1server_1_1COPCUaServer.html#a7d254a4f0326eca566b22bbb5459714c" title="Create new OPC UA Variable node from CDS channel. " alt="" coords="675,615,890,657"/>
+<area shape="rect" id="node21" href="$da/dc0/test____opcua__utils_8cpp.html#ae185b80c5fe3d3ac7de7d18c78511d67" title="BOOST_AUTO_TEST_CASE" alt="" coords="687,681,878,708"/>
+<area shape="rect" id="node18" href="$dc/dec/classopcua_1_1server_1_1COPCUaServer.html#a981ff5731dd750bbbdac9be229e78fbf" title="Map the CDS device tree to OPC UA node structure. " alt="" coords="939,615,1154,657"/>
+<area shape="rect" id="node19" href="$df/d0a/main_8cpp.html#a72dfe501a5b0c6d1753dc3bc888d33b9" title="Server code body function. " alt="" coords="1203,623,1285,649"/>
+<area shape="rect" id="node20" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Program entry point. " alt="" coords="1334,623,1389,649"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="MonitoredChannel::find_or_create_channel" name="MonitoredChannel::find_or_create_channel">
+<area shape="rect" id="node2" href="$dd/d37/classMonitoredChannel.html#a7e8995ccbd4205ddae868bb9cde8ae1c" title="Initialize this channel from OOB data. " alt="" coords="227,5,431,46"/>
+<area shape="rect" id="node3" href="$dd/d37/classMonitoredChannel.html#a8645d80bb25b48028270cd1b7e07bb8e" title="Given the channel name and its monitoring parameters, translate these into monitoring directions..." alt="" coords="481,12,685,39"/>
+</map>

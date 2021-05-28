@@ -1,0 +1,6 @@
+<map id="do_setdevicestate" name="do_setdevicestate">
+<area shape="rect" id="node2" href="$da/d6b/cdscmd_8hpp.html#af8d4d24335b9565f7e16c25d788e5b78" title="error_msg" alt="" coords="200,5,288,32"/>
+<area shape="rect" id="node3" href="$d3/de7/other_8hpp.html#a61d9f406887b6aa2c0909222af5a7d63" title="str_to_state" alt="" coords="195,56,293,83"/>
+<area shape="rect" id="node4" href="$d3/de7/other_8hpp.html#a914f36ec8021e8e00438cd091777d8f3" title="Set the username and address of the source in the message, if we were given them. ..." alt="" coords="198,107,290,133"/>
+<area shape="rect" id="node5" href="$d3/de7/other_8hpp.html#a83bbdcd0c16eb18dfb34128e691b2788" title="state_to_str" alt="" coords="195,157,293,184"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="COpenAlarmsStore::SetShouldCheckAlarmsOnNextUpdate" name="COpenAlarmsStore::SetShouldCheckAlarmsOnNextUpdate">
+<area shape="rect" id="node2" href="$classCCommandSetAlarmConfig.html#ae78a8c94360b16ef5fccba02bd222811" title="Execute the command in &#39;req&#39;, adding to oplist anything that isn&#39;t done in this function. " alt="" coords="290,5,489,46"/>
+<area shape="rect" id="node3" href="$classCCommandSetChannelState.html#ab0fb2fb63dee6447854fc516a80a9bf9" title="Execute the command in &#39;req&#39;, adding to oplist anything that isn&#39;t done in this function. " alt="" coords="286,70,493,111"/>
+<area shape="rect" id="node4" href="$classCCommandUpdateChannelValue.html#a9114102c75f02b2c09a3c0349088cb54" title="Execute the command in &#39;req&#39;, adding to oplist anything that isn&#39;t done in this function. " alt="" coords="272,135,507,177"/>
+<area shape="rect" id="node5" href="$classCOpSetChannelState.html#ae49e59012ff9add9e388093720e3b92c" title="Execution method. " alt="" coords="311,201,468,242"/>
+</map>

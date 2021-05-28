@@ -1,0 +1,9 @@
+<map id="CTranslator::ProcessHeader" name="CTranslator::ProcessHeader">
+<area shape="rect" id="node2" href="$d7/d9b/classCComtrade.html#a1d072669028f828691c22699e0359cea" title="CComtrade::GetStationID" alt="" coords="263,5,449,32"/>
+<area shape="rect" id="node3" href="$d7/d9b/classCComtrade.html#a16c4296dc8ec06adea3bae4a8bacbf19" title="CComtrade::AddHeaderLine" alt="" coords="255,56,457,83"/>
+<area shape="rect" id="node4" href="$d7/d9b/classCComtrade.html#a9dda829a433de744781f30b0934a92e6" title="CComtrade::GetDeviceID" alt="" coords="263,107,449,133"/>
+<area shape="rect" id="node5" href="$de/d05/classCDataUtil.html#a7d9f80597896acc1f7237b2749bd4efe" title="CDataUtil::incom_to\l_host_word" alt="" coords="279,158,433,199"/>
+<area shape="rect" id="node8" href="$d6/dc1/classCTranslator.html#a69759bad697d766d3a95f389e9f24191" title="CTranslator::GetComVersion" alt="" coords="254,224,458,251"/>
+<area shape="rect" id="node6" href="$de/d05/classCDataUtil.html#a1fd73aca9d5d4c71af178d618afcb0b5" title="Indicates if the platform is low&#45;endian. " alt="" coords="507,136,693,163"/>
+<area shape="rect" id="node7" href="$de/d05/classCDataUtil.html#a5f04b6730473f3690c725435a512f688" title="Swap byte order of 16&#45;bit value (switch endianess) " alt="" coords="515,187,685,229"/>
+</map>

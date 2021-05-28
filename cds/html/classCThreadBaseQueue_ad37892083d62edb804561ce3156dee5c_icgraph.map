@@ -1,0 +1,8 @@
+<map id="CThreadBaseQueue::full_queue" name="CThreadBaseQueue::full_queue">
+<area shape="rect" id="node2" href="$classCThreadBaseQueue.html#adee2308478888ebb5bd6482e9e11497b" title="Dequeue all commands/responses from the queue. " alt="" coords="233,64,477,91"/>
+<area shape="rect" id="node5" href="$classCThreadBaseQueue.html#aaff1fad9a57494cf93bf57a58231b37d" title="Add command(s) to the queue. " alt="" coords="245,123,464,149"/>
+<area shape="rect" id="node3" href="$classCThreadBaseQueue.html#ae6590025241e6892ababc2d982d9a0bb" title="Dequeue all commands/responses from the queue. " alt="" coords="528,5,736,32"/>
+<area shape="rect" id="node4" href="$classCThreadResponseQueue.html#a342c8d88e75fc57f36f2546a1cd7ad26" title="Dequeue all commands/responses from the queue. " alt="" coords="542,57,722,98"/>
+<area shape="rect" id="node6" href="$classCThreadBaseQueue.html#a0fb4074f8b504fcc9fc3e0ba589959f0" title="Add a command to the queue. " alt="" coords="541,123,723,149"/>
+<area shape="rect" id="node7" href="$classCThreadResponseQueue.html#a9923da048fd879b5dae6c736df39c0c5" title="Add a command to the queue. " alt="" coords="526,173,738,200"/>
+</map>

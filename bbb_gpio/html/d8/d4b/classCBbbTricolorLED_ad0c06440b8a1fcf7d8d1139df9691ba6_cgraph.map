@@ -1,0 +1,4 @@
+<map id="CBbbTricolorLED::change_value_callback" name="CBbbTricolorLED::change_value_callback">
+<area shape="rect" id="node2" href="$d8/d4b/classCBbbTricolorLED.html#abbafd217a50f2181b6dc64856a8de660" title="Get the text for a color from the numeric value. " alt="" coords="238,5,439,32"/>
+<area shape="rect" id="node3" href="$da/dad/classCBbbGpioCore.html#ac3d9dfabd264f526d6d2bbf417c4a4b7" title="Set the given GPIO output to active (high, 1) or inactive (low, 0) (Some implementations may take the..." alt="" coords="249,56,428,83"/>
+</map>

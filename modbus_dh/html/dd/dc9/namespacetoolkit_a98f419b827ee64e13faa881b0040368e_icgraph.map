@@ -1,0 +1,7 @@
+<map id="toolkit::double_from_bits" name="toolkit::double_from_bits">
+<area shape="rect" id="node2" href="$dd/dc9/namespacetoolkit.html#a31903467dde5cc0bd074c675a7978b3e" title="Convert into existing px::CValue using its existing datatype. " alt="" coords="240,49,413,76"/>
+<area shape="rect" id="node3" href="$dd/dc9/namespacetoolkit.html#accc5fc1fd772f54eea360d9827972987" title="Conversion functions between px::CValue and external (e.g. " alt="" coords="461,49,664,76"/>
+<area shape="rect" id="node4" href="$de/d55/classCDataBlockTranslator.html#a443faf0313fa3866593483db64e4c746" title="Translate the buffer of received data, via the mappings array, into the expected variadic array of Va..." alt="" coords="737,5,900,46"/>
+<area shape="rect" id="node5" href="$d2/d08/classCModbusDeviceSetpoints.html#a4ebc156f522787ae8f04a8d15f4cf0ac" title="Handle the setpoints command completion. " alt="" coords="712,71,925,127"/>
+<area shape="rect" id="node6" href="$d7/d46/classCModbusDevice.html#aa257c186cc0c6d1acee490152630ce92" title="See device.hpp. " alt="" coords="973,78,1152,119"/>
+</map>

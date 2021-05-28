@@ -1,0 +1,5 @@
+<map id="CDevice::create_add_subdevices" name="CDevice::create_add_subdevices">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#ab231a1465890affb24529dfe50f6a441" title="Get the parent Port and Device ID tag string (eg, &quot;(p2:d64)&quot; ) for this Device. " alt="" coords="219,5,403,32"/>
+<area shape="rect" id="node3" href="$d2/d76/classCDevice.html#a6344b484b5fe2916bcd18df712b923d1" title="Getter for device ID. " alt="" coords="263,56,359,83"/>
+<area shape="rect" id="node4" href="$d2/d76/classCDevice.html#a87e6fc9677ae9e8acd7fd39c2d6f2b66" title="Create and initialize one of our subdevices, given its EDS and device description, and our shared settings as parent as well. " alt="" coords="211,107,410,133"/>
+</map>

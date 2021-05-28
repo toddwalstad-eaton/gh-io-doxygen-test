@@ -1,0 +1,9 @@
+<map id="CTcpProxy::CTcpProxy" name="CTcpProxy::CTcpProxy">
+<area shape="rect" id="node2" href="$d3/db0/classCTcpProxy.html#afae841e5fedc33c2eb8733fd47029c17" title="Asynchronously accept a new connection. " alt="" coords="216,23,355,49"/>
+<area shape="rect" id="node3" href="$d3/db0/classCTcpProxy.html#ab58908366b749fb3ae37f02a012ece58" title="Callback function for Boost.Asio upon accepting a new connection. " alt="" coords="403,23,594,49"/>
+<area shape="rect" id="node4" href="$d3/db0/classCTcpProxy.html#aa4edd79a769a44053aae9dc8433e658e" title="Callback function for Boost.Asio upon accepting a new connection. " alt="" coords="643,73,819,100"/>
+<area shape="rect" id="node5" href="$d3/db0/classCTcpProxy.html#ad431a8ab2e97173a3927fb8ddc6d8354" title="Utility function to close the local socket, and trap any exceptions. " alt="" coords="867,5,1035,46"/>
+<area shape="rect" id="node6" href="$d3/db0/classCTcpProxy.html#a7fa2bfda00f28fd1e29bfe069bdad589" title="Send a Modbus error response. " alt="" coords="868,70,1033,111"/>
+<area shape="rect" id="node7" href="$d2/d95/classCTcpSession.html#a6010c14b421a35a904de1e1aeb585c75" title="Factory function to create a new CTcpSession object. " alt="" coords="875,136,1026,163"/>
+<area shape="rect" id="node8" href="$d2/d95/classCTcpSession.html#a3ab8343ca8ec420bceaa8d3764ebec68" title="Constructor. " alt="" coords="1083,136,1274,163"/>
+</map>

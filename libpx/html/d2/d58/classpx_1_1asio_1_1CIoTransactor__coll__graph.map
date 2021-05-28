@@ -1,0 +1,16 @@
+<map id="px::asio::CIoTransactor" name="px::asio::CIoTransactor">
+<area shape="rect" id="node2" href="$dd/d60/classpx_1_1asio_1_1CIoActor.html" title="The I/O &quot;Actor&quot; base class. " alt="" coords="3907,1865,4060,2045"/>
+<area shape="rect" id="node4" href="$d6/d32/classpx_1_1asio_1_1CIoManager.html" title="The main I/O manager to host the Power Xpert Toolkit&#39;s ASIO framework. " alt="" coords="3522,1547,3720,1786"/>
+<area shape="rect" id="node5" href="$d2/dcb/classpx_1_1asio_1_1CCdsHandler.html" title="ABC for CDS Handler, provides a common synchronous/asynchronous interface to the CDS API..." alt="" coords="1736,1053,1949,1424"/>
+<area shape="rect" id="node6" href="$d2/df5/classpx_1_1asio_1_1CCdsSyncIO.html" title="Provides a set of common CDS utility functions. " alt="" coords="3299,671,3492,910"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="1274,405,1408,483"/>
+<area shape="rect" id="node14" href="$dd/d57/classpx_1_1CBitset.html" title="{px::CBitset\&lt; px::permissions \&gt;\n||+ CBitset()\l+ get()\l+ set()\l+ reset()\l+ mask_set()\l+ mask_clear()\l+ mask()\l+ empty()\l+ operator==()\l+ operator!=()\land 11 more...\l+ size()\l+ nbytes()\l}" alt="" coords="2213,664,2440,917"/>
+<area shape="rect" id="node19" href="$dd/d57/classpx_1_1CBitset.html" title="Stores a bit&#45;field of flags defined by an enumerated type. " alt="" coords="2261,317,2392,571"/>
+<area shape="rect" id="node17" title="STL class. " alt="" coords="2096,5,2219,83"/>
+<area shape="rect" id="node27" title="STL class. " alt="" coords="3125,405,3253,483"/>
+<area shape="rect" id="node35" title="STL class. " alt="" coords="3723,752,3880,829"/>
+<area shape="rect" id="node36" href="$dc/d82/classpx_1_1asio_1_1CServerCore.html" title="Server core class. " alt="" coords="3297,1171,3460,1307"/>
+<area shape="rect" id="node39" title="STL class. " alt="" coords="3937,752,4119,829"/>
+<area shape="rect" id="node42" title="STL class. " alt="" coords="4584,1628,4712,1705"/>
+<area shape="rect" id="node44" title="STL class. " alt="" coords="4779,1628,4908,1705"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="global_iot_message_done_callback" name="global_iot_message_done_callback">
+<area shape="rect" id="node2" href="$dd/d68/classCIotDeviceClient.html#ac088663bab4b0ddec2c4c60bbc605166" title="Attempt to open the Azure IoT Hub connection. " alt="" coords="206,12,397,39"/>
+<area shape="rect" id="node3" href="$dd/d68/classCIotDeviceClient.html#ac3e59938659409ee0adee10292047aca" title="Called by the core&#39;s update timer to manage next state / action. " alt="" coords="446,5,629,46"/>
+</map>

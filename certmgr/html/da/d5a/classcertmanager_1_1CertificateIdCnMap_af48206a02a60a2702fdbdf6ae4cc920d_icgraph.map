@@ -1,0 +1,6 @@
+<map id="certmanager::CertificateIdCnMap::toCertificateIdList" name="certmanager::CertificateIdCnMap::toCertificateIdList">
+<area shape="rect" id="node2" href="$db/df9/classcertmanager_1_1ExternalCertificatesStorage.html#a62fc36883d6a5dcd7523cf33d23b9c2d" title="Create the directories for certificates and set permissions and modes. " alt="" coords="257,5,498,46"/>
+<area shape="rect" id="node4" href="$db/df9/classcertmanager_1_1ExternalCertificatesStorage.html#a44f9f704a67000dbb16683af4bc81adf" title="Function to add the external certificate to system. " alt="" coords="257,70,498,111"/>
+<area shape="rect" id="node5" href="$db/df9/classcertmanager_1_1ExternalCertificatesStorage.html#a63ce1a04cc2546ac30620e5121dbd5d9" title="Function to revoke the given multiple certificate ids. " alt="" coords="257,135,498,177"/>
+<area shape="rect" id="node3" href="$db/df9/classcertmanager_1_1ExternalCertificatesStorage.html#afc58c8e4d158ac166c45ed13fd160f4a" title="certmanager::ExternalCertificates\lStorage::ExternalCertificatesStorage" alt="" coords="547,5,805,46"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="BOOST_AUTO_TEST_CASE" name="BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#adadc18ade584c1881f7d805d62f0ddb3" title="Get the list of the services available. " alt="" coords="255,168,473,210"/>
+<area shape="rect" id="node5" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#af0d6b3282ce91cff4d7d5844e1e077ee" title="This is the API to get the singleton object of the class. " alt="" coords="1131,114,1386,155"/>
+<area shape="rect" id="node4" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#ac290558de6b3bb97cf8eded8befd9297" title="Returns Service configuration path where all service conf files are present. " alt="" coords="827,114,1082,155"/>
+<area shape="rect" id="node6" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a06a857eec546f728fbaa7da0c58361c0" title="Return CSR file timestamp in epoch seconds if exist. " alt="" coords="246,234,482,275"/>
+<area shape="rect" id="node7" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a4c4b6501d5363955821920f5956af4eb" title="Create a certificate signing request. " alt="" coords="255,299,473,340"/>
+<area shape="rect" id="node16" href="$d2/dfd/classcertmanagerApi_1_1CertmanagerApiException.html#adcf571228e58bca6c3178385362c4c2f" title="Return the Exception Message. " alt="" coords="255,364,473,406"/>
+<area shape="rect" id="node17" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a3ab5f17eda33835404487c073fb3716e" title="Return true if the service contain Server part. " alt="" coords="255,430,473,471"/>
+<area shape="rect" id="node18" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a75bd809e4699a4593afc3bf1a9e76e27" title="Return true if the service contain Certificate Authority part. " alt="" coords="255,495,473,536"/>
+<area shape="rect" id="node19" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a3a70d0d5461d1adb8d829ba16ebf474c" title="Return the maximum number of CA that we can store. " alt="" coords="255,560,473,602"/>
+<area shape="rect" id="node20" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#ab2106e2aad13df3a331e514a7d1456b3" title="Return true if the service contain Client Certificate part. " alt="" coords="255,626,473,667"/>
+<area shape="rect" id="node21" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#ac76636b4fecfe46e9d99a1e46dfa8ae5" title="Return the maximum number of trusted Client that we can store. " alt="" coords="255,691,473,732"/>
+<area shape="rect" id="node22" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#addc4ff4195357f8a91063b7007119ff0" title="Return friendly name of service. " alt="" coords="255,756,473,798"/>
+<area shape="rect" id="node23" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a500a977be59e5feb2535cb9715eb1eb9" title="Return true if the private key is stored on TPM. " alt="" coords="255,822,473,863"/>
+<area shape="rect" id="node3" href="$d8/d66/classcertmanager_1_1ServiceConfiguration.html#a3a42cc532a95e3d2f2a17da2d499086c" title="Get a list of services present in the system. " alt="" coords="531,168,779,210"/>
+<area shape="rect" id="node8" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#ace51b348a53dd6262debc533e808bc0c" title="Send command to the certmanager daemon. " alt="" coords="539,310,771,351"/>
+<area shape="rect" id="node9" href="$dc/dba/classcertmanager_1_1Tools.html#a57f4befccd23a5f9866de54bfe6d99be" title="This function will return the current User Name. " alt="" coords="881,310,1028,351"/>
+<area shape="rect" id="node10" href="$dc/dba/classcertmanager_1_1Tools.html#a31485dc30c259d50064295f78d537f5b" title="This function will get the current process pid. " alt="" coords="881,375,1028,416"/>
+<area shape="rect" id="node11" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#a5495e7bd5d88bac8e72c7906769b6dea" title="This function returns the Name Pipes Directory path where all IPC files for certmanagd are stored..." alt="" coords="827,179,1082,220"/>
+<area shape="rect" id="node12" href="$dc/dba/classcertmanager_1_1Tools.html#aa546e71ec3d8444a15e301a5782aba30" title="This function changes the group for the path given. " alt="" coords="881,506,1028,547"/>
+<area shape="rect" id="node13" href="$df/d56/classcertmanager_1_1Commands.html#a4ec4a560364f9a0546d9bb512844d610" title="Function to convert received command to string. " alt="" coords="861,244,1048,286"/>
+<area shape="rect" id="node14" href="$dc/dba/classcertmanager_1_1Tools.html#ab7d8c293ff91416cf23903aa1538f5f4" title="This function removes the requested file and on error prints debug message. " alt="" coords="881,440,1028,482"/>
+<area shape="rect" id="node15" href="$dc/dba/classcertmanager_1_1Tools.html#ad0dcb87f909dd94559f03213b50feeb4" title="This API tells if a file exists in the system. " alt="" coords="1185,440,1332,482"/>
+</map>

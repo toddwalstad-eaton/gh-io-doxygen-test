@@ -1,0 +1,17 @@
+<map id="px::asio::CUdpSender" name="px::asio::CUdpSender">
+<area shape="rect" id="node2" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html" title="The abstract I/O &quot;Messenger&quot; class that will be implemented in the TCP and UDP connection classes..." alt="" coords="3324,2219,3511,2560"/>
+<area shape="rect" id="node3" href="$dd/d60/classpx_1_1asio_1_1CIoActor.html" title="The I/O &quot;Actor&quot; base class. " alt="" coords="2949,1974,3101,2154"/>
+<area shape="rect" id="node5" href="$d6/d32/classpx_1_1asio_1_1CIoManager.html" title="The main I/O manager to host the Power Xpert Toolkit&#39;s ASIO framework. " alt="" coords="2579,1579,2777,1818"/>
+<area shape="rect" id="node6" href="$d2/dcb/classpx_1_1asio_1_1CCdsHandler.html" title="ABC for CDS Handler, provides a common synchronous/asynchronous interface to the CDS API..." alt="" coords="2572,1053,2785,1424"/>
+<area shape="rect" id="node7" href="$d2/df5/classpx_1_1asio_1_1CCdsSyncIO.html" title="Provides a set of common CDS utility functions. " alt="" coords="2557,671,2749,910"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="2675,405,2809,483"/>
+<area shape="rect" id="node15" href="$dd/d57/classpx_1_1CBitset.html" title="{px::CBitset\&lt; px::permissions \&gt;\n||+ CBitset()\l+ get()\l+ set()\l+ reset()\l+ mask_set()\l+ mask_clear()\l+ mask()\l+ empty()\l+ operator==()\l+ operator!=()\land 11 more...\l+ size()\l+ nbytes()\l}" alt="" coords="669,664,896,917"/>
+<area shape="rect" id="node20" href="$dd/d57/classpx_1_1CBitset.html" title="Stores a bit&#45;field of flags defined by an enumerated type. " alt="" coords="775,317,905,571"/>
+<area shape="rect" id="node18" title="STL class. " alt="" coords="941,5,1064,83"/>
+<area shape="rect" id="node28" title="STL class. " alt="" coords="1084,405,1212,483"/>
+<area shape="rect" id="node36" title="STL class. " alt="" coords="144,752,301,829"/>
+<area shape="rect" id="node37" href="$dc/d82/classpx_1_1asio_1_1CServerCore.html" title="Server core class. " alt="" coords="2204,1171,2367,1307"/>
+<area shape="rect" id="node40" title="STL class. " alt="" coords="462,752,644,829"/>
+<area shape="rect" id="node43" title="STL class. " alt="" coords="2427,1660,2555,1737"/>
+<area shape="rect" id="node45" title="STL class. " alt="" coords="3353,1660,3481,1737"/>
+</map>

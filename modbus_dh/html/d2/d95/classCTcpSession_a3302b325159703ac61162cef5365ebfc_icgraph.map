@@ -1,0 +1,4 @@
+<map id="CTcpSession::close_sockets" name="CTcpSession::close_sockets">
+<area shape="rect" id="node2" href="$d2/d95/classCTcpSession.html#a555565b6dcf65f0aac8716175a269abe" title="Method to close the session without invoking a remove(). " alt="" coords="205,5,349,32"/>
+<area shape="rect" id="node3" href="$d2/d95/classCTcpSession.html#a02a654ad0a867d8bf1cd06650d03ac8f" title="This method is called when the session wants to remove itself from the I/O management interface..." alt="" coords="197,56,357,83"/>
+</map>

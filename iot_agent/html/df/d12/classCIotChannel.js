@@ -1,0 +1,27 @@
+var classCIotChannel =
+[
+    [ "CIotChannel", "df/d12/classCIotChannel.html#af6d161942797be6cc4b664e2f29b42e9", null ],
+    [ "~CIotChannel", "df/d12/classCIotChannel.html#accd7476f78bfc31d007379719f5b24fb", null ],
+    [ "CIotChannel", "df/d12/classCIotChannel.html#ae4e289246703c9689cb275eadc3954ed", null ],
+    [ "CIotChannel", "df/d12/classCIotChannel.html#ae8ac5a5d9e094fac249e422e3574299e", null ],
+    [ "initialize", "df/d12/classCIotChannel.html#a187c8ed386eb660530ffd3e34da56e95", null ],
+    [ "update_settings", "df/d12/classCIotChannel.html#ac93f6a69bf6788ecd5ae10e0defecd1b", null ],
+    [ "get_iot_channel_realtime_struct", "df/d12/classCIotChannel.html#a822e2187d4a54c5ec6bf52aa53b5cbf8", null ],
+    [ "get_iot_channel_item_for_realtime_value", "df/d12/classCIotChannel.html#ad703abe33f454bf8398bd57a310791c8", null ],
+    [ "get_iot_channel_trend_struct", "df/d12/classCIotChannel.html#a3fdf9066208ea8f0e9c541846ce09748", null ],
+    [ "id", "df/d12/classCIotChannel.html#a12e9601292690c023bf56d010338efd5", null ],
+    [ "get_channel_name", "df/d12/classCIotChannel.html#acd1dc2cc0afc8b8bda9f0fd26063eb1e", null ],
+    [ "_iot_core", "df/d12/classCIotChannel.html#a29eb1ab610e2bba73acbe8089b3ea781", null ],
+    [ "_ch_id", "df/d12/classCIotChannel.html#a6eb353f5e21cb4384302dde53e6fbf46", null ],
+    [ "ch_name", "df/d12/classCIotChannel.html#ac31058ac7b834587ea2f2eda8cb6a849", null ],
+    [ "_mcl_tag", "df/d12/classCIotChannel.html#a91f1141f639315e4eb2cc552e9f00b6a", null ],
+    [ "_mcl_channel_tag", "df/d12/classCIotChannel.html#af4267dcc3d2ab9f035750673dd5937ee", null ],
+    [ "_iot_ch_rt_struct", "df/d12/classCIotChannel.html#a906040afdb6c89cbe2677e514396c1f7", null ],
+    [ "_present_value", "df/d12/classCIotChannel.html#aeff1d19dc6d42a7f9a108a58dba743fd", null ],
+    [ "_is_trended", "df/d12/classCIotChannel.html#a1a0ad1953f8fcc4299d707db0e15d6a0", null ],
+    [ "_iot_ch_trend_struct", "df/d12/classCIotChannel.html#acf6dd38626df74b03b299b6b3b318694", null ],
+    [ "_trend_actValue", "df/d12/classCIotChannel.html#ac3212c662361187209008425dd43722e", null ],
+    [ "_trend_avgValue", "df/d12/classCIotChannel.html#a94ab31b01702aa21dd2f36be846f15e0", null ],
+    [ "_trend_minValue", "df/d12/classCIotChannel.html#adaf0353b111d0cb93093ae7d0801cc8b", null ],
+    [ "_trend_maxValue", "df/d12/classCIotChannel.html#a9945e92d2cfd05ef357044dd26344515", null ]
+];

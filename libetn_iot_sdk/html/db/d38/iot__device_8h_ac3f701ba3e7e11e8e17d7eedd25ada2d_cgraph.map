@@ -1,0 +1,5 @@
+<map id="serializeTrendJson" name="serializeTrendJson">
+<area shape="rect" id="node2" href="$db/d38/iot__device_8h.html#acf57b71f1285d7bdda5e7ee7e106a5ba" title="checkSerializedBufferSize" alt="" coords="193,5,383,32"/>
+<area shape="rect" id="node3" href="$db/d38/iot__device_8h.html#a5173731f1b948708dbf37f99bee9bbea" title="addStringField" alt="" coords="231,56,345,83"/>
+<area shape="rect" id="node4" href="$db/d38/iot__device_8h.html#adba3c4a4960f88b22eac95f7c05f54ad" title="addLongNumericField" alt="" coords="207,107,369,133"/>
+</map>

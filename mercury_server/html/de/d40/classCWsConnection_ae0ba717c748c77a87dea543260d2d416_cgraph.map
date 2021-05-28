@@ -1,0 +1,5 @@
+<map id="CWsConnection::CWsConnection" name="CWsConnection::CWsConnection">
+<area shape="rect" id="node2" href="$de/d40/classCWsConnection.html#ac0cff03f49a7d6161e0fbcecee470c9f" title="Handle a received message, for SSL and non&#45;SSL websockets. " alt="" coords="309,5,483,46"/>
+<area shape="rect" id="node3" href="$de/d40/classCWsConnection.html#aa7d4cf0069ab520775586b85ea660f4e" title="Handle a pong. " alt="" coords="303,71,489,97"/>
+<area shape="rect" id="node4" href="$de/d40/classCWsConnection.html#a999d26d7bd99f941251d8fa52b9e559b" title="CWsConnection::on_message" alt="" coords="289,121,503,148"/>
+</map>

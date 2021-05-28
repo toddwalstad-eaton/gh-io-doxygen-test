@@ -1,0 +1,14 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$dd/d0a/classCBacnetObject.html" title="Abstract Base Class for BACnet Objects. " alt="" coords="6,183,125,209"/>
+<area shape="rect" id="node2" href="$d9/dd7/classCBacnetDeviceObject.html" title="The class that provides Device data, mapped from the CDS data to BACnet. " alt="" coords="201,132,364,159"/>
+<area shape="rect" id="node3" href="$db/d33/classCBacnetPointObject.html" title="Abstract Base Class for several BACnet &quot;Point&quot; measures: These types have many common properties that..." alt="" coords="207,183,358,209"/>
+<area shape="rect" id="node12" href="$d3/d11/classCBacnetStructuredViewObject.html" title="The Structured View is a container object in BACnet, which organizes some of the parent device&#39;s chan..." alt="" coords="174,233,391,260"/>
+<area shape="rect" id="node4" href="$d2/d28/classCBacnetAnalogObject.html" title="This class implements the methods to handle either the OBJECT_ANALOG_INPUT or OBJECT_ANALOG_VALUE typ..." alt="" coords="463,5,625,32"/>
+<area shape="rect" id="node5" href="$da/d99/classCBacnetAnalogOutputObject.html" title="This class implements the methods to handle the OBJECT_ANALOG_OUTPUT type. " alt="" coords="441,56,647,83"/>
+<area shape="rect" id="node6" href="$dc/d4d/classCBacnetBinaryObject.html" title="This class implements the methods to handle either the OBJECT_BINARY_INPUT or OBJECT_BINARY_VALUE typ..." alt="" coords="464,107,624,133"/>
+<area shape="rect" id="node7" href="$d0/d2f/classCBacnetBinaryOutputObject.html" title="This class implements the methods to handle the OBJECT_BINARY_OUTPUT type. " alt="" coords="442,157,646,184"/>
+<area shape="rect" id="node8" href="$d2/d87/classCBacnetCharacterString.html" title="This class implements the methods to handle the OBJECT_CHARACTERSTRING_VALUE. " alt="" coords="455,208,633,235"/>
+<area shape="rect" id="node9" href="$d2/dc5/classCBacnetDateTimeValue.html" title="This class implements the methods to handle the OBJECT_DATETIME_VALUE. " alt="" coords="456,259,632,285"/>
+<area shape="rect" id="node10" href="$dc/d60/classCBacnetIntegerValue.html" title="This class implements the methods to handle the OBJECT_INTEGER_VALUE or OBJECT_POSITIVE_INTEGER_VALUE..." alt="" coords="465,309,623,336"/>
+<area shape="rect" id="node11" href="$d3/d5b/classCBacnetMultiStateValue.html" title="This class implements the methods to handle the OBJECT_MULTI_STATE_INPUT or OBJECT_MULTI_STATE_VALUE..." alt="" coords="455,360,633,387"/>
+</map>

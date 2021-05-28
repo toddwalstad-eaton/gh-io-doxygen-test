@@ -1,0 +1,4 @@
+<map id="BlobUploadManager::launch_blob_upload_thread" name="BlobUploadManager::launch_blob_upload_thread">
+<area shape="rect" id="node2" href="$d4/dd8/classBlobUploadManager.html#ab28da64518c66f2594e3c10ecd6fbceb" title="This is the task that does the blob upload. " alt="" coords="254,5,415,46"/>
+<area shape="rect" id="node3" href="$d4/dd8/classBlobUploadManager.html#ab4e78ce3c4e0fbcda95fd9956c9f0e9c" title="Function to read the contents of the file to be uploaded. " alt="" coords="465,5,626,46"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CBacnetIpSettings::remove_device_from_oob" name="CBacnetIpSettings::remove_device_from_oob">
+<area shape="rect" id="node2" href="$d6/ded/classCBacnetIpSettings.html#a9b229175eca1cd0139ec5659c39df797" title="Update the complete BACnetSettings and BACnetDatabase OOBs for all of our settings and all devices..." alt="" coords="246,5,423,46"/>
+<area shape="rect" id="node3" href="$df/d4c/classCOOB__BACnetDevice.html#a3ef688ba2a9863b5559663b4cd6dfcf6" title="Fetch this device&#39;s BACnet MAC address as a string. " alt="" coords="472,5,640,46"/>
+</map>

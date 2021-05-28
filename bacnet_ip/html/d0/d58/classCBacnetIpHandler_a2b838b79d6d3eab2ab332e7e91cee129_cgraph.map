@@ -1,0 +1,5 @@
+<map id="CBacnetIpHandler::bvlc_send_result" name="CBacnetIpHandler::bvlc_send_result">
+<area shape="rect" id="node2" href="$d0/d58/classCBacnetIpHandler.html#a656388fdc68188b1e657f10877a10f9e" title="Send a buffer as a unicast BACnet/IP packet to the given destination address. " alt="" coords="229,27,408,69"/>
+<area shape="rect" id="node3" href="$d7/d94/group__bip__interface.html#ga51d8943ac2b970c0e048a4023869f643" title="Returns the current BVLL Function Code we are processing. " alt="" coords="458,5,633,32"/>
+<area shape="rect" id="node4" href="$d0/d58/classCBacnetIpHandler.html#a88d9352fc35880e6f0f22eac0c64c3be" title="Send a buffer as a unicast BACnet/IP packet specifically to the given destination address..." alt="" coords="456,57,635,98"/>
+</map>

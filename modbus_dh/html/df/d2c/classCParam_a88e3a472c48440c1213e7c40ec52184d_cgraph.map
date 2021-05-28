@@ -1,0 +1,10 @@
+<map id="CParam::initialize_simple_xblock" name="CParam::initialize_simple_xblock">
+<area shape="rect" id="node2" href="$df/d2c/classCParam.html#acc84df2e41c78a746f93c219d7653854" title="Parse the data block information from the expression. " alt="" coords="196,63,348,105"/>
+<area shape="rect" id="node8" href="$df/d2c/classCParam.html#a92cd36f8d97a3a13fc0bc16d2e3faca6" title="Setter for the CDS data type of this Parameter. " alt="" coords="189,129,355,156"/>
+<area shape="rect" id="node9" href="$df/d2c/classCParam.html#a1bf337c3a79d12ad63c5f3f242553e72" title="Add one Source CNode to this Parameter&#39;s map of Sources. " alt="" coords="195,180,349,207"/>
+<area shape="rect" id="node3" href="$df/d2c/classCParam.html#af2afa9599bc58b2b650e78270469f037" title="Parse the numeric value or range inside the brackets. " alt="" coords="406,5,589,46"/>
+<area shape="rect" id="node4" href="$d2/d76/classCDevice.html#a1d10d2d6c59281c8d482206838643681" title="Do a reverse lookup of an xBlock, given its name. " alt="" coords="403,71,592,97"/>
+<area shape="rect" id="node6" href="$d2/d76/classCDevice.html#abea6f7065a039b545669d96f00247929" title="Do a reverse lookup of an xBlock, given its name. " alt="" coords="419,122,575,163"/>
+<area shape="rect" id="node5" href="$d2/d76/classCDevice.html#ab231a1465890affb24529dfe50f6a441" title="Get the parent Port and Device ID tag string (eg, &quot;(p2:d64)&quot; ) for this Device. " alt="" coords="640,71,824,97"/>
+<area shape="rect" id="node7" href="$d2/d76/classCDevice.html#a5e083835cb8c682687a4c693f76650ee" title="Tells us if this is a subdevice, and can return its instance number. " alt="" coords="648,129,816,156"/>
+</map>

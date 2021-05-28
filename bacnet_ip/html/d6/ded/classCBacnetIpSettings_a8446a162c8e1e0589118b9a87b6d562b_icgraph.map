@@ -1,0 +1,7 @@
+<map id="CBacnetIpSettings::get_oob_device_from_map" name="CBacnetIpSettings::get_oob_device_from_map">
+<area shape="rect" id="node2" href="$d6/ded/classCBacnetIpSettings.html#ac3b7bffd2e01c96df17fe38c632a2801" title="Parse the BACnetDatabase OOB data and initialize the members of this class. " alt="" coords="253,5,517,46"/>
+<area shape="rect" id="node4" href="$d6/ded/classCBacnetIpSettings.html#af3965ff28b4ab362b3cf6ede9e21aefb" title="Since someone changed a BACnet Device Object ID, we have to update our device instance and save it to..." alt="" coords="571,81,720,122"/>
+<area shape="rect" id="node5" href="$d6/ded/classCBacnetIpSettings.html#a82199f7d27371f45d6881f5463aad1f0" title="Since someone changed a BACnet Device Object Name, we have to update our device instance and save it ..." alt="" coords="566,169,725,210"/>
+<area shape="rect" id="node6" href="$d6/ded/classCBacnetIpSettings.html#aa8617159e05d5cf9b62a0f1957aef980" title="Update the BACnetDatabase OOB object for the indicated device, writing the update to the CDS..." alt="" coords="311,122,460,163"/>
+<area shape="rect" id="node3" href="$d6/ded/classCBacnetIpSettings.html#abfd0311546441a9a3eb4d25ec328d0c3" title="Initialize the data in this application by reading the OOB data. " alt="" coords="571,5,720,46"/>
+</map>

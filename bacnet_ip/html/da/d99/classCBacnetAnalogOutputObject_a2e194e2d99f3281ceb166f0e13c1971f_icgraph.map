@@ -1,0 +1,4 @@
+<map id="CBacnetAnalogOutputObject::get_object_extended_property_array" name="CBacnetAnalogOutputObject::get_object_extended_property_array">
+<area shape="rect" id="node2" href="$da/d99/classCBacnetAnalogOutputObject.html#a6c9ab5deb12e8c85a19b207ea0387059" title="Fetches the lists of properties (array of BACNET_PROPERTY_ID&#39;s) for this object type, grouped by Required, Optional, and Proprietary. " alt="" coords="323,5,530,46"/>
+<area shape="rect" id="node3" href="$da/d99/classCBacnetAnalogOutputObject.html#a74296f69bb4b4a7464f3113aa38c7d6b" title="Gets the list of Properties (the Required and the implemented Optional ones) available for this Analo..." alt="" coords="323,70,530,111"/>
+</map>

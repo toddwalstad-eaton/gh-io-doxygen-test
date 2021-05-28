@@ -1,0 +1,13 @@
+<map id="certmanagerApi::CertmanagerApiException::what" name="certmanagerApi::CertmanagerApiException::what">
+<area shape="rect" id="node2" href="$d9/d42/certcmd_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="The certcmd program entry point, main(). " alt="" coords="354,5,409,32"/>
+<area shape="rect" id="node3" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#ad975c900725ddd32baa065c3b21c17dd" title="Apply a certificate from PKI. " alt="" coords="539,42,762,83"/>
+<area shape="rect" id="node4" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a175dc25490b647ef8568341476553513" title="Add the certificate to the given target from the data. " alt="" coords="272,107,491,149"/>
+<area shape="rect" id="node12" href="$d5/d89/main__test_8cpp.html#a95281d8bda8adf5ca3de32d126119748" title="BOOST_AUTO_TEST_CASE" alt="" coords="286,173,477,200"/>
+<area shape="rect" id="node5" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#ab1ec85981c233200c94eb8fe1b0f6e19" title="Add a certificate authority on the service if the CA is not present. " alt="" coords="541,107,760,149"/>
+<area shape="rect" id="node7" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a49fe042fc0c398f0bda00c140e89cdb7" title="Add a Trusted client on the service if the trusted client is not present. " alt="" coords="541,173,760,214"/>
+<area shape="rect" id="node8" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a2062da42282cc8ece2b1e859fa329578" title="Add the certificate to the given target from the file. " alt="" coords="541,238,760,279"/>
+<area shape="rect" id="node6" href="$d5/d89/main__test_8cpp.html#aa1142b591322885ef01eac4c3529c890" title="BOOST_AUTO_TEST_CASE" alt="" coords="838,115,1029,141"/>
+<area shape="rect" id="node9" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#adaa69a6a117f7021ccf093a538d07548" title="Apply a certificate from PKI. " alt="" coords="811,173,1056,214"/>
+<area shape="rect" id="node10" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a656b4ecd28b168ab21978e67951f8901" title="Add a certificate authority on the service if the CA is not present. " alt="" coords="824,238,1043,279"/>
+<area shape="rect" id="node11" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a29419177d078e3a3a0bd5bf55c3e928e" title="Add a trusted client on the service if the Trusted Client is not present. " alt="" coords="824,303,1043,345"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="IotDeviceCommand::complete_firmware_update" name="IotDeviceCommand::complete_firmware_update">
+<area shape="rect" id="node2" href="$d3/ddf/classIotDeviceCommand.html#a7de4e99b99527f750888dc26c82244e5" title="Getter function to get the named parameter from the current _cmd_params or else (use_retained = true)..." alt="" coords="281,5,461,46"/>
+<area shape="rect" id="node3" href="$d3/ddf/classIotDeviceCommand.html#ae8c7cfeb3d43a8e68265da1193fb1e45" title="Gets the current command&#39;s UUID text. " alt="" coords="281,70,461,111"/>
+<area shape="rect" id="node4" href="$d3/ddf/classIotDeviceCommand.html#a2f0585078794cd2bb731b59c4f9db28c" title="Called when we have completed the command (unrecoverable failure or all devices done) to clear all of..." alt="" coords="275,135,466,177"/>
+</map>

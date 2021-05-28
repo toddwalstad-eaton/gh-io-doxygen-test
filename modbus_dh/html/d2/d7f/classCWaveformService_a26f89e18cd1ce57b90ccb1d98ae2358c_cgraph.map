@@ -1,0 +1,6 @@
+<map id="CWaveformService::read_waveform_state" name="CWaveformService::read_waveform_state">
+<area shape="rect" id="node2" href="$d3/dd8/classCWaveformState.html#a6c73dc584965a566498cf2b0c1002e7b" title="Read persistent waveform state information for device. " alt="" coords="238,23,407,65"/>
+<area shape="rect" id="node3" href="$d3/dd8/classCWaveformState.html#abc5cbc85e4ddd94de1dfc6a8c7fbc2dc" title="CWaveformState::read_file" alt="" coords="457,31,653,57"/>
+<area shape="rect" id="node4" href="$d3/dd8/classCWaveformState.html#aaca01b8c95fc8b6b92da1c41c873a8d7" title="CWaveformState::from_json" alt="" coords="703,5,908,32"/>
+<area shape="rect" id="node5" href="$d3/dd8/classCWaveformState.html#ab4e26f2fccabb6ae1f16b077d80c7ba5" title="CWaveformState::delete_file" alt="" coords="701,56,909,83"/>
+</map>

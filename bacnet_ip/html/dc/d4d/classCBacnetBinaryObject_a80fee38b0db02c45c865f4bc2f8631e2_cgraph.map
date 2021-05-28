@@ -1,0 +1,4 @@
+<map id="CBacnetBinaryObject::Object_RPM_List" name="CBacnetBinaryObject::Object_RPM_List">
+<area shape="rect" id="node2" href="$dd/d0a/classCBacnetObject.html#a90c79d373f043745e1fde133b7b7b01f" title="Getter for this object&#39;s Object_Type (the type part of ObjectID). " alt="" coords="213,5,440,32"/>
+<area shape="rect" id="node3" href="$dd/d0a/classCBacnetObject.html#a9e5ab80ac2405b8c25c670739ec510ac" title="Fetches the lists of properties (array of BACNET_PROPERTY_ID&#39;s) for this object type, grouped by Required, Optional, and Proprietary. " alt="" coords="243,57,411,98"/>
+</map>

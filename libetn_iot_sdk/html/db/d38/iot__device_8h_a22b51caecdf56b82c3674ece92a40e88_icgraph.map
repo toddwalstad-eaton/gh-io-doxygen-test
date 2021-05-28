@@ -1,0 +1,6 @@
+<map id="handleD2CMessageConfirmationCallback" name="handleD2CMessageConfirmationCallback">
+<area shape="rect" id="node2" href="$d5/da4/group__message__handling__apis.html#ga3dfe3ae25533f7be0e6ccd18dbd2326a" title="Sends data to IoT Hub (i.e. " alt="" coords="341,5,419,32"/>
+<area shape="rect" id="node3" href="$d5/da4/group__message__handling__apis.html#ga6c02a1a3859f49453ecf83a12a503cdb" title="Sends a custom message to the IoT Hub (i.e., one created by the product). " alt="" coords="288,56,472,83"/>
+<area shape="rect" id="node4" href="$d5/da4/group__message__handling__apis.html#gaf6c31012b13805b13765d8b4fe82f526" title="Sends a command to IoT Hub (i.e. " alt="" coords="308,107,452,133"/>
+<area shape="rect" id="node5" href="$d5/da4/group__message__handling__apis.html#gaa4f2b5d3bb5def4020d6b3e3f19003ec" title="Sends a device command status update to IoT Hub. " alt="" coords="521,107,765,133"/>
+</map>

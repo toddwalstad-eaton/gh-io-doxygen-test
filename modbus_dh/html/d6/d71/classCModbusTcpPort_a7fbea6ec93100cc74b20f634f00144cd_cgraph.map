@@ -1,0 +1,8 @@
+<map id="CModbusTcpPort::oob_net_passthru_callback" name="CModbusTcpPort::oob_net_passthru_callback">
+<area shape="rect" id="node2" href="$d6/dd4/classCPort.html#a67fdf9324b9596b8c462cfa66159a7db" title="Getter for the name of this port. " alt="" coords="229,19,392,45"/>
+<area shape="rect" id="node3" href="$d0/d8a/classCTcpProxyList.html#a541c437d12b0f6255eba3ed99767a07f" title="Getter for the Modbus TCP network oob data. " alt="" coords="240,70,381,111"/>
+<area shape="rect" id="node6" href="$d0/d8a/classCTcpProxyList.html#a2f12b0168e5ef9fae480b47d8e009829" title="Setter for the Modbus TCP network oob data. " alt="" coords="241,135,381,177"/>
+<area shape="rect" id="node4" href="$d0/d8a/classCTcpProxyList.html#a31665f94105428f5f405a9719ecd7b7c" title="Getter for the Modbus TCP network pass&#45;through list. " alt="" coords="448,5,592,46"/>
+<area shape="rect" id="node5" href="$db/daf/classCModbusUtil.html#ae8a0fdaf34af28b14a703b29a2b0391b" title="Decode the IP address, port, and unit ID The passed in tcp_addr_t struct is filled in with IP address..." alt="" coords="441,70,599,111"/>
+<area shape="rect" id="node7" href="$d0/d8a/classCTcpProxyList.html#afc21597d5463201b459fb5374394e67b" title="Setter for the Modbus TCP network pass&#45;through list. " alt="" coords="448,135,592,177"/>
+</map>

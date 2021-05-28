@@ -1,0 +1,15 @@
+<map id="px::asio::CCdsHandler::CCdsHandler" name="px::asio::CCdsHandler::CCdsHandler">
+<area shape="rect" id="node2" href="$d2/dcb/classpx_1_1asio_1_1CCdsHandler.html#ad31b9bf04739997bef426658f039d506" title="Open the connection to the CDS (if not already open). " alt="" coords="219,74,384,115"/>
+<area shape="rect" id="node3" href="$d7/d2b/classpx_1_1cds_1_1CSignalPipe.html#a10a7ac470fc31363514f20e1ae650dc1" title="Return a file descriptor which is suitable for polling (via select(), epoll(), or similar) for read&#45;r..." alt="" coords="437,5,611,32"/>
+<area shape="rect" id="node4" href="$db/db8/classpx_1_1cds_1_1CClient.html#ad3a241ca4570471536d3436ee23b3d65" title="Static Factory function: constructs if necessary, returns existing instance of CClient otherwise..." alt="" coords="448,56,600,83"/>
+<area shape="rect" id="node5" href="$db/db8/classpx_1_1cds_1_1CClient.html#a4dcbd4ee30cff72e47da46e92b9fc9c2" title="Establish a connection to the CDS. " alt="" coords="433,107,615,133"/>
+<area shape="rect" id="node14" href="$d7/d2b/classpx_1_1cds_1_1CSignalPipe.html#acd94e725edcf8d7b6c2cf4b55b2d430c" title="Clear notification of the incoming signal so that we can continue normal operation. " alt="" coords="447,158,601,199"/>
+<area shape="rect" id="node6" href="$db/db8/classpx_1_1cds_1_1CClient.html#aab9722874d525e2c0e4d26f0bc5a0fea" title="px::cds::CClient::get_shm" alt="" coords="672,31,859,57"/>
+<area shape="rect" id="node7" href="$db/db8/classpx_1_1cds_1_1CClient.html#a5aa42d307a74fdd3117745f85a587e34" title="Disconnect from the CDS. " alt="" coords="915,96,1117,123"/>
+<area shape="rect" id="node10" href="$db/db8/classpx_1_1cds_1_1CClient.html#afa947c62e0f68e8ef263ef6cc2953e24" title="Update the client&#39;s UID on the server by reading the process UID, GID, and PID, and sending via SCM_C..." alt="" coords="664,132,867,159"/>
+<area shape="rect" id="node11" href="$db/db8/classpx_1_1cds_1_1CClient.html#a8e0d6758f507d55d70bc0bf160f93584" title="px::cds::CClient::bg\l_thread_func" alt="" coords="692,183,839,225"/>
+<area shape="rect" id="node8" href="$db/db8/classpx_1_1cds_1_1CClient.html#a04806b8577ecbb198bc2f7c8cf9939ff" title="Unregister a previously registered callback structure. " alt="" coords="1165,55,1363,97"/>
+<area shape="rect" id="node9" href="$db/db8/classpx_1_1cds_1_1CClient.html#a28b00111c32ca2391045e23966fb7210" title="Unregister the previously registered callback function for unsolicited messages from the CDS..." alt="" coords="1165,121,1363,162"/>
+<area shape="rect" id="node12" href="$d5/dc3/classpx_1_1CUtil.html#adf7cffe1ca62e79d6af4386052e20c42" title="Set a thread&#39;s name, visible in &quot;ps&quot;. " alt="" coords="917,161,1115,188"/>
+<area shape="rect" id="node13" href="$d5/dd5/namespacepx_1_1cds.html#a6d877d2364c718b3fdc8e7f013776da7" title="px::cds::req_unpack" alt="" coords="941,212,1091,239"/>
+</map>

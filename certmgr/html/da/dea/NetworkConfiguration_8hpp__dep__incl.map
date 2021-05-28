@@ -1,0 +1,11 @@
+<map id="certmgr/certmanagd/inc/NetworkConfiguration.hpp" name="certmgr/certmanagd/inc/NetworkConfiguration.hpp">
+<area shape="rect" id="node2" href="$db/dcd/NetworkInfo_8hpp.html" title="Representation of the configuration of the network configuration for a certificate. " alt="" coords="566,97,724,138"/>
+<area shape="rect" id="node5" href="$d3/d3b/certmanagd_8cpp.html" title="certmgr/certmanagd\l/src/certmanagd.cpp" alt="" coords="196,369,350,410"/>
+<area shape="rect" id="node9" href="$de/d4d/ExternalCertificateStorage_8cpp.html" title="certmgr/certmanagd\l/src/ExternalCertificateStorage.cpp" alt="" coords="52,97,298,138"/>
+<area shape="rect" id="node10" href="$d4/d3d/NetworkConfiguration_8cpp.html" title="certmgr/certmanagd\l/src/NetworkConfiguration.cpp" alt="" coords="324,97,542,138"/>
+<area shape="rect" id="node7" href="$db/dd9/Server_8cpp.html" title="certmgr/certmanagd\l/src/Server.cpp" alt="" coords="389,278,544,319"/>
+<area shape="rect" id="node6" href="$d2/dc4/Service_8cpp.html" title="certmgr/certmanagd\l/src/Service.cpp" alt="" coords="625,369,780,410"/>
+<area shape="rect" id="node3" href="$de/d3d/Server_8hpp.html" title="Server representation for certificate managment. " alt="" coords="568,187,722,229"/>
+<area shape="rect" id="node8" href="$dc/dcb/NetworkInfo_8cpp.html" title="certmgr/certmanagd\l/src/NetworkInfo.cpp" alt="" coords="336,187,492,229"/>
+<area shape="rect" id="node4" href="$d8/d3a/Service_8hpp.html" title="Representation of a service for certificate managment. " alt="" coords="568,278,722,319"/>
+</map>

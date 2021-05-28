@@ -1,0 +1,4 @@
+<map id="CDeviceIoStats::get_max_errors" name="CDeviceIoStats::get_max_errors">
+<area shape="rect" id="node2" href="$d1/ddc/classCDeviceIoStats.html#a73565c0dac393674c9f03deb4e83ac9b" title="Method to process unrecoverable Modbus Exception Codes. " alt="" coords="206,12,423,39"/>
+<area shape="rect" id="node3" href="$d1/ddc/classCDeviceIoStats.html#adf7588c3a2aab8f60d61319fba39362b" title="Update the Device&#39;s I/O state based on I/O completion result. " alt="" coords="473,5,647,46"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CModbusTcpPort::subcribe_device_settings" name="CModbusTcpPort::subcribe_device_settings">
+<area shape="rect" id="node2" href="$d6/d71/classCModbusTcpPort.html#ad1d714147e00f70ddbbb4e134fdb1ad6" title="The callback function that we provide to the CDS to handle Device Settings change events..." alt="" coords="245,57,424,98"/>
+<area shape="rect" id="node3" href="$dc/d4a/classCUtil.html#ab23b89e75ee52ed0e45e7a188ce3386f" title="CUtil::get_formatted_name" alt="" coords="473,5,671,32"/>
+<area shape="rect" id="node4" href="$db/daf/classCModbusUtil.html#ae8a0fdaf34af28b14a703b29a2b0391b" title="Decode the IP address, port, and unit ID The passed in tcp_addr_t struct is filled in with IP address..." alt="" coords="493,57,651,98"/>
+<area shape="rect" id="node5" href="$d6/d71/classCModbusTcpPort.html#aedcf5df64379c69648efb2de339eeee4" title="Find and remove the Device entry with the given id from our map. " alt="" coords="479,122,665,163"/>
+</map>

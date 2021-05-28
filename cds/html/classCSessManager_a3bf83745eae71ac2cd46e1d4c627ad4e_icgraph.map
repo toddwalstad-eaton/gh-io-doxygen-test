@@ -1,0 +1,5 @@
+<map id="CSessManager::session_token_rand" name="CSessManager::session_token_rand">
+<area shape="rect" id="node2" href="$classCSessManager.html#a5850dda8e1a636da90ce4ad6181f2139" title="Login a user. " alt="" coords="261,5,421,32"/>
+<area shape="rect" id="node3" href="$classCSessManager.html#ab3c5ae70631386047ff4c970e54cc09c" title="Login as a subsession of an existing parent session. " alt="" coords="242,57,441,98"/>
+<area shape="rect" id="node4" href="$classCSessManager.html#a341fd3a3b7155a863500bf20e36f5241" title="Login with the credentials assigned to this process, identified via its CDS ClientID. " alt="" coords="230,123,453,149"/>
+</map>

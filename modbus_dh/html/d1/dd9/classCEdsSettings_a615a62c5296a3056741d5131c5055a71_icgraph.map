@@ -1,0 +1,4 @@
+<map id="CEdsSettings::calc_eds_file_checksum" name="CEdsSettings::calc_eds_file_checksum">
+<area shape="rect" id="node2" href="$d1/dd9/classCEdsSettings.html#aedd58ef983fef5fed921d2c9e6e27e3d" title="Given the EDS filename, get its parsed EDS data and load into our parsed EDS map. ..." alt="" coords="206,5,349,46"/>
+<area shape="rect" id="node3" href="$d1/dd9/classCEdsSettings.html#a9f1340bc199c3e5e0ff3e9161de54757" title="Given the CDS description of a Device, get its parsed EDS data. " alt="" coords="398,5,549,46"/>
+</map>

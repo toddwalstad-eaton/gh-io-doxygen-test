@@ -1,0 +1,6 @@
+<map id="getDataType" name="getDataType">
+<area shape="rect" id="node2" href="$d6/d10/iot__device__common_8c.html#a234e4f6f4306ed2dbd3484148faff785" title="Set Iot Hub message properties, such as message type and (optionally) parent device. " alt="" coords="157,31,323,57"/>
+<area shape="rect" id="node3" href="$d5/da4/group__message__handling__apis.html#ga3dfe3ae25533f7be0e6ccd18dbd2326a" title="Sends data to IoT Hub (i.e. " alt="" coords="404,5,481,32"/>
+<area shape="rect" id="node4" href="$d5/da4/group__message__handling__apis.html#gaf6c31012b13805b13765d8b4fe82f526" title="Sends a command to IoT Hub (i.e. " alt="" coords="371,56,515,83"/>
+<area shape="rect" id="node5" href="$d5/da4/group__message__handling__apis.html#gaa4f2b5d3bb5def4020d6b3e3f19003ec" title="Sends a device command status update to IoT Hub. " alt="" coords="563,56,807,83"/>
+</map>

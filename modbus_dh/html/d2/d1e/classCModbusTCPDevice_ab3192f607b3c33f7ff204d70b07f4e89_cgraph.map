@@ -1,0 +1,4 @@
+<map id="CModbusTCPDevice::handle_io_comm_loss" name="CModbusTCPDevice::handle_io_comm_loss">
+<area shape="rect" id="node2" href="$d2/d76/classCDevice.html#a5e083835cb8c682687a4c693f76650ee" title="Tells us if this is a subdevice, and can return its instance number. " alt="" coords="256,5,424,32"/>
+<area shape="rect" id="node3" href="$dc/d20/classCTcpSocket.html#a74dc46078bc2067395365d30d5e45a41" title="Factory function to create a new CTcpSocket object. " alt="" coords="267,56,413,83"/>
+</map>

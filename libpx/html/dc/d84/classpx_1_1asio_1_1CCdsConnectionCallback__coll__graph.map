@@ -1,0 +1,10 @@
+<map id="px::asio::CCdsConnectionCallback" name="px::asio::CCdsConnectionCallback">
+<area shape="rect" id="node2" href="$dc/de7/classpx_1_1cds_1_1CCallback.html" title="The abstract Callback prototype for CDS responses. " alt="" coords="655,1185,851,1292"/>
+<area shape="rect" id="node4" href="$d2/dcb/classpx_1_1asio_1_1CCdsHandler.html" title="ABC for CDS Handler, provides a common synchronous/asynchronous interface to the CDS API..." alt="" coords="1583,1053,1796,1424"/>
+<area shape="rect" id="node5" href="$d2/df5/classpx_1_1asio_1_1CCdsSyncIO.html" title="Provides a set of common CDS utility functions. " alt="" coords="105,671,297,910"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="742,405,876,483"/>
+<area shape="rect" id="node12" href="$dd/d57/classpx_1_1CBitset.html" title="{px::CBitset\&lt; px::permissions \&gt;\n||+ CBitset()\l+ get()\l+ set()\l+ reset()\l+ mask_set()\l+ mask_clear()\l+ mask()\l+ empty()\l+ operator==()\l+ operator!=()\land 11 more...\l+ size()\l+ nbytes()\l}" alt="" coords="1499,664,1725,917"/>
+<area shape="rect" id="node17" href="$dd/d57/classpx_1_1CBitset.html" title="Stores a bit&#45;field of flags defined by an enumerated type. " alt="" coords="1673,317,1804,571"/>
+<area shape="rect" id="node15" title="STL class. " alt="" coords="1791,5,1913,83"/>
+<area shape="rect" id="node25" title="STL class. " alt="" coords="2599,405,2727,483"/>
+</map>

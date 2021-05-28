@@ -1,0 +1,4 @@
+<map id="px::asio::CIoTransactor::write" name="px::asio::CIoTransactor::write">
+<area shape="rect" id="node2" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html#abbf1cdfd15003b367fb0d1581c326495" title="Write the first item from the outbox if not empty. " alt="" coords="225,5,394,46"/>
+<area shape="rect" id="node3" href="$d2/d13/classpx_1_1asio_1_1CIoTransactor.html#afb1a404a24b26faceaba7042ee636aab" title="Write the data from the outbox to the service. " alt="" coords="443,5,613,46"/>
+</map>

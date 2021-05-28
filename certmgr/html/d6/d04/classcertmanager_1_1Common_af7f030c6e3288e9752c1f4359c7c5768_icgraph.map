@@ -1,0 +1,30 @@
+<map id="certmanager::Common::removeFile" name="certmanager::Common::removeFile">
+<area shape="rect" id="node2" href="$d3/d3b/certmanagd_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1413,256,1467,283"/>
+<area shape="rect" id="node3" href="$d3/d3b/certmanagd_8cpp.html#a7194a69a055d7ac14032468ee25b5419" title="exitDaemon" alt="" coords="297,206,399,232"/>
+<area shape="rect" id="node14" href="$d3/d3b/certmanagd_8cpp.html#a941c60998e42d931cc79111f4d8a1afe" title="initDaemon" alt="" coords="299,408,397,435"/>
+<area shape="rect" id="node13" href="$d3/d3b/certmanagd_8cpp.html#a7861ee1569802186a619778efc85af13" title="shutdown" alt="" coords="596,358,681,384"/>
+<area shape="rect" id="node15" href="$db/df9/classcertmanager_1_1ExternalCertificatesStorage.html#ac6dd29f363b74b65a1c20426a67d9992" title="Remove all the certificate related files. " alt="" coords="227,510,469,552"/>
+<area shape="rect" id="node20" href="$d8/d20/classcertmanager_1_1Server.html#ad19f6055d11b0074c02552b943b5cf12" title="Function to delete the CSR and related files. " alt="" coords="271,734,425,776"/>
+<area shape="rect" id="node29" href="$d8/d20/classcertmanager_1_1Server.html#ad160abe6320129307b1c52f947caeb17" title="Function to delete the certificate and related files. " alt="" coords="271,633,425,674"/>
+<area shape="rect" id="node4" href="$d3/d3b/certmanagd_8cpp.html#aa583bb805cfcbbc339be80774525a98e" title="notificationHandler" alt="" coords="1141,104,1288,131"/>
+<area shape="rect" id="node5" href="$d3/d3b/certmanagd_8cpp.html#a7a6dded34638d6a41bf2a19ac9e2108e" title="notifiyNetworkChanged" alt="" coords="551,155,726,182"/>
+<area shape="rect" id="node8" href="$d3/d3b/certmanagd_8cpp.html#a02af63c567c046fe8903a5df636a2014" title="notifiyTimeChanged" alt="" coords="562,104,715,131"/>
+<area shape="rect" id="node10" href="$d3/d3b/certmanagd_8cpp.html#a869452f0c0952acd39230fcf0ef89c1e" title="daemonize" alt="" coords="1167,206,1262,232"/>
+<area shape="rect" id="node11" href="$d3/d3b/certmanagd_8cpp.html#a478d3292dd50c461f1edfe2bde5a5cc5" title="initCheck" alt="" coords="1173,256,1256,283"/>
+<area shape="rect" id="node12" href="$d3/d3b/certmanagd_8cpp.html#a4cffa3b1efa45bb6ee48b1f6be3fe9c1" title="checkLock" alt="" coords="1169,307,1260,334"/>
+<area shape="rect" id="node6" href="$d3/d3b/certmanagd_8cpp.html#ad401e9089d2fcad473dee887743918ec" title="networkNotificationHandler" alt="" coords="837,155,1038,182"/>
+<area shape="rect" id="node7" href="$d3/d3b/certmanagd_8cpp.html#a2121aa6537ccb8b643002847c6d7d9b4" title="MonitorTimeNetworkConfig" alt="" coords="1115,155,1315,182"/>
+<area shape="rect" id="node9" href="$d3/d3b/certmanagd_8cpp.html#ada5032690498d07173a592c03f19cdbf" title="timeNotificationHandler" alt="" coords="848,104,1027,131"/>
+<area shape="rect" id="node16" href="$db/df9/classcertmanager_1_1ExternalCertificatesStorage.html#a62fc36883d6a5dcd7523cf33d23b9c2d" title="Create the directories for certificates and set permissions and modes. " alt="" coords="518,576,759,617"/>
+<area shape="rect" id="node18" href="$db/df9/classcertmanager_1_1ExternalCertificatesStorage.html#a487e3f8d08dde49b0e4468c58eae673f" title="Function to revoke the given single certificate id. " alt="" coords="518,510,759,552"/>
+<area shape="rect" id="node17" href="$db/df9/classcertmanager_1_1ExternalCertificatesStorage.html#afc58c8e4d158ac166c45ed13fd160f4a" title="certmanager::ExternalCertificates\lStorage::ExternalCertificatesStorage" alt="" coords="808,576,1067,617"/>
+<area shape="rect" id="node19" href="$db/df9/classcertmanager_1_1ExternalCertificatesStorage.html#a63ce1a04cc2546ac30620e5121dbd5d9" title="Function to revoke the given multiple certificate ids. " alt="" coords="817,510,1058,552"/>
+<area shape="rect" id="node21" href="$d8/d20/classcertmanager_1_1Server.html#a922134db4aabce0b0b8ccf472b738106" title="Constructor. " alt="" coords="1565,762,1720,804"/>
+<area shape="rect" id="node22" href="$d8/d20/classcertmanager_1_1Server.html#a3dc05ec1af1b982df2dc922f195c4baf" title="Function to create CSR for the server. " alt="" coords="561,717,716,758"/>
+<area shape="rect" id="node23" href="$d8/d20/classcertmanager_1_1Server.html#a6fabd6d37c335267debda18e958de7de" title="Function to apply the server certificate present in the given path. " alt="" coords="860,772,1015,813"/>
+<area shape="rect" id="node24" href="$d8/d20/classcertmanager_1_1Server.html#ae5059d0b3a95ba970446f9032870775f" title="Function to check the validity of certificate w.r.t. " alt="" coords="1363,762,1517,804"/>
+<area shape="rect" id="node25" href="$d8/d20/classcertmanager_1_1Server.html#a2df06b0ebbc8a01a5b857e35b7d477b8" title="This function save a cerificate and all te related files. " alt="" coords="561,652,716,693"/>
+<area shape="rect" id="node26" href="$d8/d20/classcertmanager_1_1Server.html#afd8bc370fa915c961a60c907c86541ac" title="Function to create and apply Self&#45;Signed certificate. " alt="" coords="836,706,1039,748"/>
+<area shape="rect" id="node28" href="$d8/d20/classcertmanager_1_1Server.html#a2f85d3e8735942f74cbff4cefad166ba" title="Function to create and apply CA signed certificate. " alt="" coords="840,641,1035,682"/>
+<area shape="rect" id="node27" href="$d8/d20/classcertmanager_1_1Server.html#a4aa558b07a86ac7cba3dc3b431fa2f0f" title="Function to create the certificates for https &amp; pki1 services as server and client. " alt="" coords="1137,704,1292,745"/>
+</map>

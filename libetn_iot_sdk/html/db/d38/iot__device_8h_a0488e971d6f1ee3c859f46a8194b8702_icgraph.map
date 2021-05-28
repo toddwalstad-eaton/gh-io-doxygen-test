@@ -1,0 +1,9 @@
+<map id="serializeChannelRealtimeJson" name="serializeChannelRealtimeJson">
+<area shape="rect" id="node2" href="$d1/dd4/iot__serialization_8c.html#ac5b57ac3f1e6b80367180667dabb1454" title="serializeChannelRealtimesJson" alt="" coords="270,56,493,83"/>
+<area shape="rect" id="node3" href="$d1/dd4/iot__serialization_8c.html#a6f9d3843c2d1316092405fcc618e0bfe" title="serializeData" alt="" coords="542,56,650,83"/>
+<area shape="rect" id="node4" href="$d6/d10/iot__device__common_8c.html#a1a01656d15dc77a04e64c9c07c88d3a3" title="Creates an IoT Hub message, either by allocating memory for it (PX Red) or choosing the next availabl..." alt="" coords="711,31,831,57"/>
+<area shape="rect" id="node8" href="$d6/d10/iot__device__common_8c.html#ace928c8e194f6d0386a960a411c62b05" title="Test function to print the serialized Message buffer. " alt="" coords="699,81,842,108"/>
+<area shape="rect" id="node5" href="$d5/da4/group__message__handling__apis.html#ga3dfe3ae25533f7be0e6ccd18dbd2326a" title="Sends data to IoT Hub (i.e. " alt="" coords="924,5,1001,32"/>
+<area shape="rect" id="node6" href="$d5/da4/group__message__handling__apis.html#gaf6c31012b13805b13765d8b4fe82f526" title="Sends a command to IoT Hub (i.e. " alt="" coords="891,56,1035,83"/>
+<area shape="rect" id="node7" href="$d5/da4/group__message__handling__apis.html#gaa4f2b5d3bb5def4020d6b3e3f19003ec" title="Sends a device command status update to IoT Hub. " alt="" coords="1083,56,1327,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="certmanagerApi::CertmanagerService::getTrustedClientListByCN" name="certmanagerApi::CertmanagerService::getTrustedClientListByCN">
+<area shape="rect" id="node2" href="$d1/de5/classcertmanagerApi_1_1CertmanagerService.html#a51bd7e850323a95bd19815d3a547b82c" title="Get a list of certificate ids based on the CN provided. " alt="" coords="296,5,515,46"/>
+<area shape="rect" id="node3" href="$d1/d54/classcertmanager_1_1CertificateIdList.html#a9aeb8e15d4eb1c614c758f82b3cad1e0" title="Return a certificate id array from the list. " alt="" coords="563,5,743,46"/>
+</map>

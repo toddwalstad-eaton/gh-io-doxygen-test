@@ -1,0 +1,14 @@
+<map id="checkLock" name="checkLock">
+<area shape="rect" id="node2" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#a5827ff5ab373d1d1aef5c8b4d9c90400" title="This function returns the Daemon User name for certmanagd service. " alt="" coords="145,5,399,46"/>
+<area shape="rect" id="node4" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#a5a56eed543edba2c8292a0f700c05dce" title="This returns the Lock file for the certmanagd daemon. " alt="" coords="449,45,703,86"/>
+<area shape="rect" id="node5" href="$dc/dba/classcertmanager_1_1Tools.html#ad0dcb87f909dd94559f03213b50feeb4" title="This API tells if a file exists in the system. " alt="" coords="199,175,345,217"/>
+<area shape="rect" id="node6" href="$d3/d3b/certmanagd_8cpp.html#a7194a69a055d7ac14032468ee25b5419" title="exitDaemon" alt="" coords="221,241,323,268"/>
+<area shape="rect" id="node8" href="$dc/d10/classcertmanager_1_1Log.html#a56c9c1e70c82c11852e0c32d9967a5a1" title="Write a log inside syslog daemon if the syslog is open. " alt="" coords="791,292,969,319"/>
+<area shape="rect" id="node12" href="$dc/dba/classcertmanager_1_1Tools.html#ae4b47cba1b1801d87c2f7b7abe5fd9a7" title="This function will change the user name for a path. " alt="" coords="199,445,345,486"/>
+<area shape="rect" id="node13" href="$dc/dba/classcertmanager_1_1Tools.html#aa546e71ec3d8444a15e301a5782aba30" title="This function changes the group for the path given. " alt="" coords="199,510,345,551"/>
+<area shape="rect" id="node3" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#af0d6b3282ce91cff4d7d5844e1e077ee" title="This is the API to get the singleton object of the class. " alt="" coords="753,45,1007,86"/>
+<area shape="rect" id="node7" href="$d6/d04/classcertmanager_1_1Common.html#af7f030c6e3288e9752c1f4359c7c5768" title="This function helps to remove the given file. " alt="" coords="490,175,662,217"/>
+<area shape="rect" id="node9" href="$d8/d46/classcertmanager_1_1DaemonConfiguration.html#af90e6581db76c4482d83271a94fff8cd" title="This returns the PID file path for certmanagd daemon. " alt="" coords="449,110,703,151"/>
+<area shape="rect" id="node10" href="$dc/d10/classcertmanager_1_1Log.html#ac6e2f1376101ae05da9322dbb889a221" title="Close the syslog. " alt="" coords="487,292,665,319"/>
+<area shape="rect" id="node11" href="$d3/d3b/certmanagd_8cpp.html#a3f2e8c021c0138149fbc47530112aefd" title="unready" alt="" coords="539,343,613,369"/>
+</map>

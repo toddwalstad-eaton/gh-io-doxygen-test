@@ -1,0 +1,4 @@
+<map id="IotDeviceCommand::send_device_to_cloud_command" name="IotDeviceCommand::send_device_to_cloud_command">
+<area shape="rect" id="node2" href="$d3/ddf/classIotDeviceCommand.html#aaa17f8440caac04da991a0b9c26fa0d3" title="Fill out the D2C structure for a DeviceCommand message. " alt="" coords="262,5,469,46"/>
+<area shape="rect" id="node3" href="$d3/ddf/classIotDeviceCommand.html#ae8c7cfeb3d43a8e68265da1193fb1e45" title="Gets the current command&#39;s UUID text. " alt="" coords="518,5,698,46"/>
+</map>

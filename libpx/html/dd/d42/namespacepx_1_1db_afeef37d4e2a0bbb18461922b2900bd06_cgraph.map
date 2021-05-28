@@ -1,0 +1,9 @@
+<map id="px::db::AddTrendStageToBatch" name="px::db::AddTrendStageToBatch">
+<area shape="rect" id="node2" href="$dc/d98/classpx_1_1db_1_1CBatch.html#a240b1211fde470356f1d8e029004d4ec" title="Add an entry (key/value row) to the database. " alt="" coords="293,5,441,32"/>
+<area shape="rect" id="node3" href="$de/dcb/namespacepx.html#abcba15aa0fdb24e9d2da828a7ff22476" title="Writes an 8&#45;byte floating&#45;point to a big&#45;endian buffer with a start offset. " alt="" coords="273,56,461,83"/>
+<area shape="rect" id="node4" href="$de/dcb/namespacepx.html#a485e629a57d309a962c57a9db4f07677" title="Writes a 4&#45;byte floating&#45;point to a big&#45;endian buffer with a start offset. " alt="" coords="280,107,453,133"/>
+<area shape="rect" id="node5" href="$d3/dc9/classpx_1_1db_1_1CBlobHolder.html#a996915979b66811a0c3311cb61997306" title="Get a pointer to the data in this blob for write. " alt="" coords="291,158,442,199"/>
+<area shape="rect" id="node6" href="$d3/dc9/classpx_1_1db_1_1CBlobHolder.html#aa379d49e427c655520eb8d33053c09e2" title="Clear/reset the blob&#39;s current value. " alt="" coords="291,223,442,265"/>
+<area shape="rect" id="node7" href="$dd/d42/namespacepx_1_1db.html#add5000fae171b713d88b70cd73b1d4eb" title="px::db::u16be_to_buf" alt="" coords="287,289,446,316"/>
+<area shape="rect" id="node8" href="$dd/d42/namespacepx_1_1db.html#aae7d454e296e7215f76964c7a9229217" title="Convert 32&#45;bit unsigned integer to 4 bytes big&#45;endian. " alt="" coords="287,340,446,367"/>
+</map>

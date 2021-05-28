@@ -1,0 +1,7 @@
+<map id="CModbusDeviceSpecificHandler::handle_waveform_command_completion" name="CModbusDeviceSpecificHandler::handle_waveform_command_completion">
+<area shape="rect" id="node2" href="$da/de8/classCModbusDeviceSpecificHandler.html#a3e08c40910b1c65b7087aac69361109e" title="Called from this object to process the Modbus device waveform transaction data buffers. " alt="" coords="280,5,507,46"/>
+<area shape="rect" id="node3" href="$d5/df1/structgeneric__err.html#ae3bee2d13a4c011702e5a9ab4650bc95" title="Implement the virtual function to provide the error&#39;s text. " alt="" coords="326,71,461,97"/>
+<area shape="rect" id="node4" href="$d4/d8d/classCDeviceSpecificHandler.html#aa6bfe079b32a57fb68a8c70774a542fd" title="Called to halt acquisition of waveforms for this device. " alt="" coords="293,122,493,163"/>
+<area shape="rect" id="node5" href="$dc/d4a/classCUtil.html#afdffbca731e234e54193c7aba4fbe341" title="CUtil::get_err_text" alt="" coords="323,188,464,215"/>
+<area shape="rect" id="node6" href="$d4/d8d/classCDeviceSpecificHandler.html#a3a3e503e3b8b0c7192baa2fba02816a7" title="Called from to end waveform data acquisition. " alt="" coords="289,239,498,265"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CTimedObject" name="CTimedObject">
+<area shape="rect" id="node2" href="$classCModbusFunctionHandler.html" title="Modbus Function Handler. " alt="" coords="351,131,573,355"/>
+<area shape="rect" id="node3" href="$classCModbusReadDiscretes.html" title="Implementation of Modbus &quot;read discretes&quot; function code(s) " alt="" coords="5,411,216,605"/>
+<area shape="rect" id="node4" href="$classCModbusReadRegisters.html" title="Implementation of Modbus &quot;read registers&quot; function code(s) " alt="" coords="241,403,449,613"/>
+<area shape="rect" id="node5" href="$classCModbusWriteDiscretes.html" title="Implementation of Modbus &quot;write discretes&quot; function code(s) " alt="" coords="474,411,685,605"/>
+<area shape="rect" id="node6" href="$classCModbusWriteRegisters.html" title="Implementation of Modbus &quot;write registers&quot; function code(s) " alt="" coords="711,411,921,605"/>
+</map>

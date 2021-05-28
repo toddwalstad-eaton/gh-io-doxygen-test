@@ -1,0 +1,6 @@
+<map id="px::val_impl::as_datatype::operator()" name="px::val_impl::as_datatype::operator()">
+<area shape="rect" id="node2" href="$d6/d4e/classpx_1_1CTimestamp.html#aac7b9e4090c042b604004c6db73db68a" title="Generate a string representation of this timestamp, assuming UTC time. " alt="" coords="246,5,458,32"/>
+<area shape="rect" id="node4" href="$d6/d4e/classpx_1_1CTimestamp.html#a1393e60871f003b56a82de224bac3f92" title="Convert to a floating&#45;point value. " alt="" coords="277,57,427,98"/>
+<area shape="rect" id="node5" href="$d1/d7d/classpx_1_1CDataType.html#a7492c18587e1cbdff1e2bc95addeff23" title="Getter for the underlying datatype enumeration. " alt="" coords="280,123,424,149"/>
+<area shape="rect" id="node3" href="$d6/d4e/classpx_1_1CTimestamp.html#a846db0f645f5e953e6bdb98a562c47d3" title="px::CTimestamp::time_str" alt="" coords="507,5,698,32"/>
+</map>

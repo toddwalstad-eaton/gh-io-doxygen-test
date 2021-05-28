@@ -1,0 +1,4 @@
+<map id="CModbusDataBlock::CModbusDataBlock" name="CModbusDataBlock::CModbusDataBlock">
+<area shape="rect" id="node2" href="$d8/d81/structIDataBlockObserver.html#a8b093c3207499748d13d0e6c0b2dd341" title="Get the parent Port and Device ID tag string (eg, &quot;(p2:d64)&quot; ) for this Device. " alt="" coords="292,5,444,46"/>
+<area shape="rect" id="node3" href="$de/df8/classCModbusDataBlock.html#a451ff09782667a1bb2248a8e77acf960" title="Tweak Rx timeout and interframe delay. " alt="" coords="270,70,466,111"/>
+</map>

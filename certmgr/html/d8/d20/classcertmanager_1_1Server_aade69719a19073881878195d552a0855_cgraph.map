@@ -1,0 +1,7 @@
+<map id="certmanager::Server::isCertificateMatchingCA" name="certmanager::Server::isCertificateMatchingCA">
+<area shape="rect" id="node2" href="$d8/d20/classcertmanager_1_1Server.html#ab6e2f6814f9995353a87d76c38fc5252" title="Function to get the server certificate file timestamp of a service in epoch seconds if exist..." alt="" coords="247,37,481,78"/>
+<area shape="rect" id="node5" href="$d8/d66/classcertmanager_1_1ServiceConfiguration.html#aadbf77c40609266aadb61db41fa72aa4" title="Functions to get the service configuration parameters Service basic details. " alt="" coords="240,102,488,143"/>
+<area shape="rect" id="node6" href="$d8/d66/classcertmanager_1_1ServiceConfiguration.html#a742e5db6a997fd2908620d9dc66c6e7f" title="certmanager::ServiceConfiguration\l::getCAServiceId" alt="" coords="240,167,488,209"/>
+<area shape="rect" id="node3" href="$dc/d2a/classcertmanager_1_1InternalCertificatesAccessor.html#ac4e236a74549f01ee5066e23fc54d844" title="certmanager::InternalCertificates\lAccessor::certPath" alt="" coords="536,5,773,46"/>
+<area shape="rect" id="node4" href="$dc/d2a/classcertmanager_1_1InternalCertificatesAccessor.html#a983b273f5252274999b0b39832a17be2" title="certmanager::InternalCertificates\lAccessor::getActive" alt="" coords="536,70,773,111"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="certmanager::createX509SelfSignedCertificate" name="certmanager::createX509SelfSignedCertificate">
+<area shape="rect" id="node2" href="$dd/df9/classcertmanager_1_1X509__T.html#aa34265482508865e3cf7d852ed0c2414" title="certmanager::X509_T\l::isInvalid" alt="" coords="295,5,457,46"/>
+<area shape="rect" id="node3" href="$d8/d1f/namespacecertmanager.html#a537f966c47719f5a318993ad8bf8b269" title="This function sets a rndom serial number to the certificate. " alt="" coords="287,70,465,111"/>
+<area shape="rect" id="node4" href="$d0/d7f/classcertmgr_1_1CCertificateData.html#a74c12ae17143b70339d08c88f1bb66e7" title="API to read start validity date of the certificate. " alt="" coords="282,135,470,177"/>
+<area shape="rect" id="node5" href="$d0/d7f/classcertmgr_1_1CCertificateData.html#ae7ac4f6be654046235e64e37b120036c" title="API to read end validity date of the certificate. " alt="" coords="282,201,470,242"/>
+<area shape="rect" id="node6" href="$db/d2f/classcertmgr_1_1CDistinguishedName.html#a9f6f36837298b2dffd2e0ab3aa617666" title="This API returns the distinguished name as a single std::string. " alt="" coords="267,266,485,307"/>
+<area shape="rect" id="node8" href="$d8/d1f/namespacecertmanager.html#a727e21211dbe95be9d66c257e6b243d1" title="Add extension to the x509 certificate. " alt="" coords="277,332,475,359"/>
+<area shape="rect" id="node9" href="$d0/d6c/classcertmgr_1_1v3Ext.html#ab8728ee15e02995c3eb461e42b2df4ed" title="API to convert the data to a single std::string. " alt="" coords="307,383,445,409"/>
+<area shape="rect" id="node7" href="$db/d2f/classcertmgr_1_1CDistinguishedName.html#a622ee0fa2dab714c92fe12a9df298509" title="Mix all the individual fields of distinguished names to form a single std::string of distinguished na..." alt="" coords="534,273,773,300"/>
+</map>

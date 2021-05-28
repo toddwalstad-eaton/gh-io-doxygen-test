@@ -1,0 +1,4 @@
+<map id="CModbusTcpPort::update_device_sockets" name="CModbusTcpPort::update_device_sockets">
+<area shape="rect" id="node2" href="$d6/d71/classCModbusTcpPort.html#a9caa555262b1136133a3f2f19b0cae76" title="The callback function that we provide to the CDS to handle updates to the Network Interface&#39;s oob dat..." alt="" coords="235,5,395,46"/>
+<area shape="rect" id="node3" href="$d6/d71/classCModbusTcpPort.html#a9dd6e9eb42463f8da3cc59fd250d9280" title="(Virtual) Factory method to create the port &quot;Connection&quot; Actor (eg, CSerialConnection). " alt="" coords="443,5,621,46"/>
+</map>

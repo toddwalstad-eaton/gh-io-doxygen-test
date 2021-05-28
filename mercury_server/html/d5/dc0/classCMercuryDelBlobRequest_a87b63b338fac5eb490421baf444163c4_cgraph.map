@@ -1,0 +1,9 @@
+<map id="CMercuryDelBlobRequest::execute" name="CMercuryDelBlobRequest::execute">
+<area shape="rect" id="node2" href="$df/df6/classCMercuryMessageHandler.html#a17ed689c3244cf11e17c39827a61c70a" title="Post an error response, with the optional error message. " alt="" coords="481,5,698,32"/>
+<area shape="rect" id="node3" href="$d5/dc0/classCMercuryDelBlobRequest.html#ac0f8ef2744959d9fc7eeed2712c30229" title="Delete blob. " alt="" coords="243,57,429,98"/>
+<area shape="rect" id="node8" href="$df/df6/classCMercuryMessageHandler.html#ab1d4986083e1271b288e3da19be56359" title="interface to respond to interested parties " alt="" coords="241,122,431,163"/>
+<area shape="rect" id="node4" href="$db/d16/classCMercuryUtil.html#a5426810b3273fd0ea686399b1c142a3c" title="Authorize write access to a resource. " alt="" coords="500,57,679,98"/>
+<area shape="rect" id="node5" href="$dc/df2/mercury__util_8cpp.html#a6a0380bd3f34c61b640f0e73216259a2" title="is_valid_path" alt="" coords="958,64,1066,91"/>
+<area shape="rect" id="node6" href="$db/d16/classCMercuryUtil.html#ac6ded0d3a1ddbf49fa22eb64e55d2872" title="Given a virtual URI and its base folder configuration information, restate it as a (potential) real f..." alt="" coords="750,57,906,98"/>
+<area shape="rect" id="node7" href="$dc/df2/mercury__util_8cpp.html#a39adda5682039c3a35cc4bdfce20da8f" title="normalize_and_check" alt="" coords="747,123,909,149"/>
+</map>

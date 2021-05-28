@@ -1,0 +1,7 @@
+<map id="CGlobalEDS::CGlobalEDS" name="CGlobalEDS::CGlobalEDS">
+<area shape="rect" id="node2" href="$classCModbusUtil.html#a0e88aa5cef4d314c3101bdb11e13a379" title="Check if a given file exists or not. " alt="" coords="243,5,413,46"/>
+<area shape="rect" id="node3" href="$classCGlobalEDS.html#ac9c46172d3160514654db89cf19b3ed7" title="Helper method to read a string value from json object. " alt="" coords="238,70,418,111"/>
+<area shape="rect" id="node4" href="$classCModbusUtil.html#a1b3e5220081a83203126098dea272e43" title="Get the file name from a file full path. " alt="" coords="248,135,408,177"/>
+<area shape="rect" id="node5" href="$classCModbusUtil.html#aa99389369b43dd04c92285ef5f039581" title="Replace file extension, return the new file name. " alt="" coords="248,201,408,242"/>
+<area shape="rect" id="node6" href="$classCGlobalEDS.html#a102466f33ad9e629a463294a72b1790e" title="Process EDS channel list section. " alt="" coords="249,266,407,307"/>
+</map>

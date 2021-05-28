@@ -1,0 +1,9 @@
+<map id="rapidxml::xml_document::parse_node_contents" name="rapidxml::xml_document::parse_node_contents">
+<area shape="rect" id="node2" href="$d4/d48/classrapidxml_1_1xml__base.html#a9a09739310469995db078ebd0da3ed45" title="Gets name of the node. " alt="" coords="641,5,791,46"/>
+<area shape="rect" id="node4" href="$d4/d48/classrapidxml_1_1xml__base.html#a7e7f98b3d01e1eab8dc1ca69aad9af84" title="Gets size of node name, not including terminator character. " alt="" coords="641,131,791,173"/>
+<area shape="rect" id="node5" href="$de/d82/classrapidxml_1_1xml__node.html#a8696d098ecc9c4d2a646b43e91d58e31" title="Appends a new child node. " alt="" coords="240,99,392,141"/>
+<area shape="rect" id="node3" href="$d4/d48/classrapidxml_1_1xml__base.html#ad96ff6b1e41dab3ff60b9bc4df769a75" title="rapidxml::xml_base\l::nullstr" alt="" coords="841,5,991,46"/>
+<area shape="rect" id="node6" href="$d4/d48/classrapidxml_1_1xml__base.html#a7f31ae930f93852830234db1ae59c4c4" title="Gets node parent. " alt="" coords="441,165,591,206"/>
+<area shape="rect" id="node7" href="$de/d82/classrapidxml_1_1xml__node.html#a2c6a4315b98bcfa2e04fed3fa1b22c36" title="Gets type of node. " alt="" coords="440,99,592,141"/>
+<area shape="rect" id="node8" href="$de/d82/classrapidxml_1_1xml__node.html#a2dedeb4e04bb35e06a9a7bddf6ba652d" title="Gets first child node, optionally matching node name. " alt="" coords="440,34,592,75"/>
+</map>

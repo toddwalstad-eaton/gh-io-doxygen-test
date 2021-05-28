@@ -1,0 +1,5 @@
+<map id="CIoMessage::connection_id" name="CIoMessage::connection_id">
+<area shape="rect" id="node2" href="$d6/d76/classCTcpMessenger.html#a409d72c824fb0c24235aadca1cbf40af" title="Read more data from the network input channel. " alt="" coords="253,5,453,32"/>
+<area shape="rect" id="node3" href="$d6/d76/classCTcpMessenger.html#a936d49dde6b492a826c173e5229fe46d" title="Write data to the network output channel. " alt="" coords="272,56,435,83"/>
+<area shape="rect" id="node4" href="$d6/d76/classCTcpMessenger.html#a9072100dd250845ef5bae177ff2ece40" title="Cancels I/O on this network port based on current msg device_id. " alt="" coords="267,107,439,133"/>
+</map>

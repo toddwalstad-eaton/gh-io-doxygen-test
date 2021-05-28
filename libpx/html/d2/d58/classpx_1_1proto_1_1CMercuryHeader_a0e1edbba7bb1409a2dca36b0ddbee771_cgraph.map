@@ -1,0 +1,4 @@
+<map id="px::proto::CMercuryHeader::serialize" name="px::proto::CMercuryHeader::serialize">
+<area shape="rect" id="node2" href="$d9/d1f/classpx_1_1asio_1_1CUtil.html#aaac6c4bd7eff2fc179725bd1b9553a8c" title="Write a 32&#45;bit unsigned integer value to an output buffer, MSB first. " alt="" coords="251,5,437,32"/>
+<area shape="rect" id="node3" href="$d9/d1f/classpx_1_1asio_1_1CUtil.html#aec8adc97fa8148013c1d284fbaf91c5d" title="Write a 8&#45;bit MSB unsigned integer value to an output buffer. " alt="" coords="255,56,433,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="certmgr/certmanagd/inc/CertmanagerDaemonException.hpp" name="certmgr/certmanagd/inc/CertmanagerDaemonException.hpp">
+<area shape="rect" id="node3" href="$de/d52/ReturnCode_8hpp.html" title="Code for the API, certcmd and Daemon. " alt="" coords="132,96,257,123"/>
+<area shape="rect" id="node4" href="$d0/d82/Log_8hpp.html" title="function to log the activity inside using syslog with the facility code daemon " alt="" coords="34,96,107,123"/>
+<area shape="rect" id="node6" href="$df/d1b/Tools_8hpp.html" title="tools for certificate managment " alt="" coords="361,96,444,123"/>
+</map>

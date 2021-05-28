@@ -1,0 +1,7 @@
+<map id="CDS Handler" name="CDS Handler">
+<area shape="rect" id="node1" href="$d4/dd0/group__utilsExceptions.html" title="Exceptions" alt="" coords="380,157,473,184"/>
+<area shape="rect" id="node2" href="$d0/ddd/group__opcuaServer.html" title="OPC UA Server" alt="" coords="6,81,125,108"/>
+<area shape="rect" id="node3" href="$db/d43/group__opcuaServerCore.html" title="This module contains the PX&#45;Red Server core implementation. " alt="" coords="377,56,476,83"/>
+<area shape="rect" id="node4" href="$de/d34/group__opcuaServerWrapper.html" title="This module contains implementation of the open62541 OPC UA C stack. " alt="" coords="369,107,485,133"/>
+<area shape="rect" id="node6" href="$d7/de0/group__opcuaServerMap.html" title="This module contains implementation of the mapping between CDS and OPC UA. " alt="" coords="388,5,465,32"/>
+</map>

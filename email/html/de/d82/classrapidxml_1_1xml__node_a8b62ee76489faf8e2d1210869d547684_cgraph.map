@@ -1,0 +1,7 @@
+<map id="rapidxml::xml_node::prepend_attribute" name="rapidxml::xml_node::prepend_attribute">
+<area shape="rect" id="node2" href="$d4/d48/classrapidxml_1_1xml__base.html#a7f31ae930f93852830234db1ae59c4c4" title="Gets node parent. " alt="" coords="206,5,357,46"/>
+<area shape="rect" id="node3" href="$de/d82/classrapidxml_1_1xml__node.html#ae426802be58114ffc41bf30ac6b8c37d" title="Gets first attribute of node, optionally matching attribute name. " alt="" coords="205,70,357,111"/>
+<area shape="rect" id="node4" href="$d4/d48/classrapidxml_1_1xml__base.html#a9a09739310469995db078ebd0da3ed45" title="Gets name of the node. " alt="" coords="406,37,557,78"/>
+<area shape="rect" id="node6" href="$d4/d48/classrapidxml_1_1xml__base.html#a7e7f98b3d01e1eab8dc1ca69aad9af84" title="Gets size of node name, not including terminator character. " alt="" coords="406,102,557,143"/>
+<area shape="rect" id="node5" href="$d4/d48/classrapidxml_1_1xml__base.html#ad96ff6b1e41dab3ff60b9bc4df769a75" title="rapidxml::xml_base\l::nullstr" alt="" coords="606,37,757,78"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="MonitoredChannel::initialize" name="MonitoredChannel::initialize">
+<area shape="rect" id="node2" href="$dd/d37/classMonitoredChannel.html#a7e8995ccbd4205ddae868bb9cde8ae1c" title="Initialize this channel from OOB data. " alt="" coords="259,38,463,79"/>
+<area shape="rect" id="node3" href="$dd/d37/classMonitoredChannel.html#ab898f7730d05b3f498f67baaea86cf64" title="Lookup the channel, and, if not found, create it. " alt="" coords="523,5,695,46"/>
+<area shape="rect" id="node4" href="$dd/d37/classMonitoredChannel.html#a38d74c041057313970de6abb44606fb9" title="Update the CDS value for this channel. " alt="" coords="513,70,706,111"/>
+</map>

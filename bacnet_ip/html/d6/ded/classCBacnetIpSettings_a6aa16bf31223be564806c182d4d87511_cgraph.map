@@ -1,0 +1,7 @@
+<map id="CBacnetIpSettings::add_device_to_settings" name="CBacnetIpSettings::add_device_to_settings">
+<area shape="rect" id="node2" href="$d6/ded/classCBacnetIpSettings.html#a7c4017d10ea09f7e94ca277da2d200dd" title="Look for a virtual device corresponding to the CDS device in the device maps. " alt="" coords="235,5,402,61"/>
+<area shape="rect" id="node4" href="$d6/ded/classCBacnetIpSettings.html#ae917d515857bbb94c0dc2ec740a48a18" title="Gets the next instance number we should use, for a new virtual device instance. " alt="" coords="244,86,393,127"/>
+<area shape="rect" id="node3" href="$d6/ded/classCBacnetIpSettings.html#aef47946fafba0e92557488419a8958a5" title="return true if the device is not disabled nor non&#45;communicating " alt="" coords="457,75,642,117"/>
+<area shape="rect" id="node5" href="$d6/ded/classCBacnetIpSettings.html#a9b229175eca1cd0139ec5659c39df797" title="Update the complete BACnetSettings and BACnetDatabase OOBs for all of our settings and all devices..." alt="" coords="230,203,407,245"/>
+<area shape="rect" id="node6" href="$df/d4c/classCOOB__BACnetDevice.html#a3ef688ba2a9863b5559663b4cd6dfcf6" title="Fetch this device&#39;s BACnet MAC address as a string. " alt="" coords="465,203,633,245"/>
+</map>

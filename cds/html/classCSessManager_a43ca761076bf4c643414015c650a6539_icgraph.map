@@ -1,0 +1,7 @@
+<map id="CSessManager::CheckSession" name="CSessManager::CheckSession">
+<area shape="rect" id="node2" href="$classCSessManager.html#a0685c58858071840977cefbe6d7982a3" title="Return all the permissions allowed for the given token. " alt="" coords="270,37,469,78"/>
+<area shape="rect" id="node6" href="$classCSessManager.html#ab4a8674290e1fa40d9962b9e3abeccb5" title="Return the client_id. " alt="" coords="270,102,469,143"/>
+<area shape="rect" id="node3" href="$classCSessManager.html#a764ff11726af1df3bb99fef3cbac4923" title="Check that the given token is for a valid session, and that the permission given is allowed for that ..." alt="" coords="518,5,733,46"/>
+<area shape="rect" id="node4" href="$classCSessManager.html#a4f708e4c842c9a1cf98f4ad860290753" title="Return the permissions allowed for the given request. " alt="" coords="525,70,725,111"/>
+<area shape="rect" id="node5" href="$classCSessManager.html#a4966039723747c87472ef70566824c60" title="Check that the given permission is allowed for the given request. " alt="" coords="782,70,999,111"/>
+</map>

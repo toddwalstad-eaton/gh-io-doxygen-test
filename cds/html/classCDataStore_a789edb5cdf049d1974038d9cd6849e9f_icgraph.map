@@ -1,0 +1,4 @@
+<map id="CDataStore::get_oob_tags" name="CDataStore::get_oob_tags">
+<area shape="rect" id="node2" href="$classCCommandGetOOBTags.html#a768a4c301a5e824ab9e19590a4f5be38" title="Execute the command in &#39;req&#39;, adding to oplist anything that isn&#39;t done in this function. " alt="" coords="245,5,424,46"/>
+<area shape="rect" id="node3" href="$classCCommandSubscribe.html#a0c3ebde0cd4789833c222d783a07475f" title="Execute the command in &#39;req&#39;, adding to oplist anything that isn&#39;t done in this function. " alt="" coords="250,70,419,111"/>
+</map>

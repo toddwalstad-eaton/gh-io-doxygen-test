@@ -1,0 +1,8 @@
+<map id="px::CChannelSettings" name="px::CChannelSettings">
+<area shape="rect" id="node4" href="$d1/d7d/classpx_1_1CDataType.html" title="This class enumerates all of the data types available for varidic data within the Toolkit (and expose..." alt="" coords="187,650,311,889"/>
+<area shape="rect" id="node6" href="$d4/d4c/classpx_1_1CMultistateMap.html" title="Maps variadically&#45;typed keys into string label values. " alt="" coords="336,657,533,881"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="341,155,475,232"/>
+<area shape="rect" id="node10" href="$dd/d57/classpx_1_1CBitset.html" title="{px::CBitset\&lt; px::channel\l_flag \&gt;\n||+ CBitset()\l+ get()\l+ set()\l+ reset()\l+ mask_set()\l+ mask_clear()\l+ mask()\l+ empty()\l+ operator==()\l+ operator!=()\land 11 more...\l+ size()\l+ nbytes()\l}" alt="" coords="657,635,839,903"/>
+<area shape="rect" id="node15" href="$dd/d57/classpx_1_1CBitset.html" title="Stores a bit&#45;field of flags defined by an enumerated type. " alt="" coords="683,317,813,571"/>
+<area shape="rect" id="node14" title="STL class. " alt="" coords="532,5,655,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Mapping" name="Mapping">
+<area shape="rect" id="node1" href="$d4/dd0/group__utilsExceptions.html" title="Exceptions" alt="" coords="353,157,447,184"/>
+<area shape="rect" id="node2" href="$d0/ddd/group__opcuaServer.html" title="OPC UA Server" alt="" coords="6,81,125,108"/>
+<area shape="rect" id="node3" href="$db/d43/group__opcuaServerCore.html" title="This module contains the PX&#45;Red Server core implementation. " alt="" coords="351,56,449,83"/>
+<area shape="rect" id="node4" href="$de/d34/group__opcuaServerWrapper.html" title="This module contains implementation of the open62541 OPC UA C stack. " alt="" coords="342,107,458,133"/>
+<area shape="rect" id="node5" href="$d8/d5a/group__opcuaServerCDS.html" title="This module contains implementation of CDS connection handler. " alt="" coords="348,5,452,32"/>
+</map>

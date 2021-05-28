@@ -1,0 +1,4 @@
+<map id="px::permission::str_to_perms" name="px::permission::str_to_perms">
+<area shape="rect" id="node2" href="$dd/d57/classpx_1_1CBitset.html#ad0dc233a4abd8d91c033f2582b193768" title="Set the value of a flag. " alt="" coords="209,5,330,32"/>
+<area shape="rect" id="node3" href="$da/dda/namespacepx_1_1permission.html#a90e1f1c98bc19771c058b35aa523f1fb" title="Convert a string to a permission enum. String must not be empty. " alt="" coords="198,57,341,98"/>
+</map>

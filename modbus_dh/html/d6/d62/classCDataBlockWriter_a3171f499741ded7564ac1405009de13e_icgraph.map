@@ -1,0 +1,9 @@
+<map id="CDataBlockWriter::data" name="CDataBlockWriter::data">
+<area shape="rect" id="node2" href="$d4/d7c/classCModbusReadDiagnosticsResponse.html#a0f4e753954448fc011c6e7e0b9a66b2c" title="Handle the reception of a request/response with this function code. " alt="" coords="229,5,480,46"/>
+<area shape="rect" id="node3" href="$dc/d3b/classCModbusReadDiscretesResponse.html#ab8670e08e99ff1310045a63c3d676c28" title="Handle the reception of a request/response with this function code. " alt="" coords="237,70,473,111"/>
+<area shape="rect" id="node4" href="$d4/ddc/classCModbusReadRegistersResponse.html#a8bd502859ab0882af83f6c786700dfe3" title="Handle the reception of a request/response with this function code. " alt="" coords="237,135,472,177"/>
+<area shape="rect" id="node5" href="$d6/d2b/classCModbusWriteMultipleCoilsResponse.html#a1f13b5931d72e40a03fc9606cf8671e3" title="Handle the reception of a request/response with this function code. " alt="" coords="255,201,454,242"/>
+<area shape="rect" id="node6" href="$d6/d1a/classCModbusWriteMultipleRegistersResponse.html#a7705a41a675193fcb16a382aa42c8468" title="Handle the reception of a request/response with this function code. " alt="" coords="241,266,468,307"/>
+<area shape="rect" id="node7" href="$de/d81/classCModbusWriteSingleCoilResponse.html#a8874e8e5a07f0dd45f7f39fed411bad3" title="Handle the reception of a request/response with this function code. " alt="" coords="233,331,476,373"/>
+<area shape="rect" id="node8" href="$d7/dd8/classCModbusWriteSingleRegisterResponse.html#a5f63e133b69399bba0b3fab3efebad3b" title="Handle the reception of a request/response with this function code. " alt="" coords="251,397,459,438"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="CBacnetIpHandler::send_bip_buf" name="CBacnetIpHandler::send_bip_buf">
+<area shape="rect" id="node2" href="$d0/d58/classCBacnetIpHandler.html#a2b838b79d6d3eab2ab332e7e91cee129" title="Utility function to just encode and send a BVLC result code. " alt="" coords="233,5,407,46"/>
+<area shape="rect" id="node5" href="$d0/d58/classCBacnetIpHandler.html#a151ba4bf21f21396507001987bb82bff" title="The common send function for BVLC functions, using BACnet/IP. " alt="" coords="233,70,407,111"/>
+<area shape="rect" id="node3" href="$d0/d58/classCBacnetIpHandler.html#ac25e8ea63490cc6cafdfc99113c6df90" title="Note any BVLC_RESULT code, or NAK the BVLL message in the unsupported cases. " alt="" coords="457,5,631,46"/>
+<area shape="rect" id="node4" href="$d0/d58/classCBacnetIpHandler.html#a097e74048a899230e73678aeff18064c" title="Try to parse the buffer, when the CIoTransactor calls us. " alt="" coords="681,12,863,39"/>
+<area shape="rect" id="node6" href="$d7/d94/group__bip__interface.html#gacf4d82c08beac50cdfa09b5cbbf5bde1" title="Function to add BVLC support to PDU data and then send a packet out the BACnet/IP socket (Annex J)..." alt="" coords="485,77,603,104"/>
+<area shape="rect" id="node7" href="$d7/d94/group__bip__interface.html#gafd95a0bfb0c464bcffdcf6c6476a0859" title="Function to send a packet out the BACnet/IP socket (Annex J). " alt="" coords="717,77,827,104"/>
+</map>
